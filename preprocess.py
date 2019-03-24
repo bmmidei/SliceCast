@@ -1,18 +1,11 @@
 from __future__ import unicode_literals
-from spacyOps import customLabeler
+from spacyOps import customLabeler, createSpacyPipe
 from pathlib import Path
 import spacy
 import tensorflow as tf
-import time
-nlp = spacy.load('en')
-nlp.remove_pipe('ner')
-nlp.remove_pipe('tagger')
-nlp.remove_pipe('parser')
-#tokenizer = nlp.create_pipe('tokenizer')
-sentencizer = nlp.create_pipe('sentencizer')
-#nlp.add_pipe(tokenizer)
-nlp.add_pipe(sentencizer)
-nlp.add_pipe(customLabeler)
+import time, math
+import h5py
+import numpy as np
 
 class Pipeline(object):
 
@@ -22,60 +15,60 @@ class Pipeline(object):
         self.testPath = Path(dataPath).joinpath('train', 'test')
         self.devPath = Path(dataPath).joinpath('train', 'dev')
         self.expPath = Path(dataPath).joinpath('test')
-        for name, proc in nlp.pipeline:
+        self.hdf5Path = Path(dataPath).joinpath('hdf5')
+
+        self.nlp = createSpacyPipe()
+        for name, proc in self.nlp.pipeline:
             print(name, proc)
 
-    def processDirectory(self, dataPath):
-        files = self.getFilePaths(dataPath)
-        self.docs = [nlp(file.read_text(encoding='utf-8')) for file in files]
+    def processDirectory(self, dataPath, maxExamples=None):
+        self.getFilePaths(dataPath)
+        docs = []
+        print('There are {} documents in this directory'.format(self.numExamples))
+        print('Processing a subset of size {}...'.format(maxExamples))
+
+        if maxExamples:
+            self.numExamples = maxExamples
+
+        for file in self.files[:maxExamples]:
+            try:
+                doc = self.nlp(file.read_text(encoding='utf-8'))
+                docs.append(doc)
+            except Exception as e:
+                print(file)
+                print(e)
+        self.docs = docs
 
     def getFilePaths(self, dataPath):
-        return [x for x in dataPath.glob('**/*') if x.is_file()]
+        self.files = [x for x in dataPath.glob('**/*') if x.is_file()]
+        self.numExamples = len(self.files)
 
-    def genSingleRecord(self, fpath, doc, lemma=True):
+    @staticmethod
+    def genSingleExample(doc):
+        labels = np.array(doc.user_data['labels'])
+        sents = np.array(doc.user_data['sents'], dtype=object)
+        return sents, labels
 
-        # Helper functions for creating tfrecords
-        def _bytes_feature(value):
-            encoded = [x.encode('utf8') for x in value]
-            return tf.train.Feature(bytes_list=tf.train.BytesList(value=encoded))
-        def _int64_feature(value):
-            return tf.train.Feature(int64_list=tf.train.Int64List(value=value))
+    def genHDF5s(self, exPerFile=256, prntInterval=10):
+        # Create directory for processed audio files
+        if not self.hdf5Path.exists():
+            print('Adding the hdf5 data directory')
+            self.hdf5Path.mkdir()
 
-        if not fpath.exists():
-            try:
-                # Initialize tensorflow writer
-                #writer = tf.data.experimental.TFRecordWriter(str(fpath)) # tf 2.x version
-                writer = tf.io.TFRecordWriter(str(fpath)) # tf 1.x version
+        numFiles = math.floor(self.numExamples/exPerFile)
+        print('There are {} examples in the directory'.format(self.numExamples))
+        print('Creating {} hdf5 files...'.format(numFiles))
 
-                # Create features of example from spacy Document object
-                feature = {}
-                for i, sent in enumerate(doc.user_data['sents']):
-                    if lemma:
-                        feature['sent_'+str(i)] = _bytes_feature([x.lemma_ for x in sent])
-                    else:
-                        feature['sent_'+str(i)] = _bytes_feature([x.lower_ for x in sent])
-                feature['labels'] = _int64_feature(doc.user_data['labels'])
+        for i in range(numFiles):
+            fname = str(self.hdf5Path.joinpath(str(i)).with_suffix('.hdf5'))
+            with h5py.File(str(fname), 'w') as f:
+                for j in range(exPerFile):
+                    docIdx = i*exPerFile + j
+                    sents, labels = self.genSingleExample(self.docs[docIdx])
+                    group = f.create_group(str(j))
 
-                # Construct the Example proto object
-                example = tf.train.Example(features=tf.train.Features(feature=feature))
-                
-                # Serialize the example to a string
-                serialized = example.SerializeToString()
+                    group.create_dataset(name='sents', data=sents, dtype=h5py.special_dtype(vlen=str))
+                    group.create_dataset(name='labels', data=labels)
 
-                # write the serialized object to the disk
-                writer.write(serialized)
-                writer.close()
-
-            except Exception as e:
-                print('Error creating tf record for ' + str(fpath))
-                print(e)
-
-def main(dataPath):
-    pipe = Pipeline(dataPath=dataPath)
-
-    pipe.processDirectory(pipe.expPath)
-
-if __name__ == '__main__':
-    mainPath = '/Users/bmmidei/Projects/SliceCast/data'
-
-    main(dataPath=mainPath)
+            if i%prntInterval==0:
+                print('Generated {} files...'.format(i))
