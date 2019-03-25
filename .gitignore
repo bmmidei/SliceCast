@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Data directory
+# Large training data files
 data/
