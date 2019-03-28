@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 import re
+import objectpath
+import json
 from gensim.summarization import summarize, keywords
 
-def createSummaries(doc, labels):
+def getSummaries(doc, labels):
     summaries = np.empty(shape=labels.count(1), dtype=(str, []))
     segment = ''
     numSent = 0
@@ -20,28 +22,30 @@ def createSummaries(doc, labels):
     summaries[k] = (summarize(segment, ratio=1/numSent), keywords(segment, words = 3, lemmatize=True, split=True))
     return summaries
 
-def getTimeStamps(doc, docJSON, labels):
+def getTimeStamps(doc, pathJSON, labels):
     keywords = findKeywords(doc, labels)
-    timestamps = findTimeStamps(docJSON, keywords)
+    timestamps = findTimeStamps(pathJSON, keywords)
     return timeStamps
 
-def findTimeStamps(docJSON, keywords):
-    timestamps = np.empty(shape=len(keywords), dtype=str)
-    k=0
-    data = json.load(docJSON)
-    for i in data['response']['results']:
-        for j in i['alternatives']:
-            for idx, o in enumerate(j['words']):
-                if(o['word'] == keywords[k][0] and j['words'][idx+1]['word'] == keywords[k][1]):
-                    timestamps[k] = o['startTime']
-                    k = k+1
-    return timestamps
-
 def findKeywords(doc, labels):
-    keywords = np.empty(shape=labels.count(1), dtype=(str,str))
-    k = 0
+    keywords = []
     for i, sent in enumerate(doc):
         if labels[i]:
-            keywords[k] = (re.sub("[^\w]", " ",  sent).split()[0], re.sub("[^\w]", " ",  sent).split()[1])
-            k = k+1
+            keywords.append((re.sub("[^\w]", " ",  sent).split()[0], re.sub("[^\w]", " ",  sent).split()[1]))
     return keywords
+
+def findTimeStamps(pathJSON, keywords):
+    with open (pathJSON) as f:
+        data = json.load(f)
+    jsonnn_tree = objectpath.Tree(data['response'])
+    words = tuple(jsonnn_tree.execute('$..words'))
+    k = 0
+    timestamps = []
+
+    for idx, word in enumerate(words):
+        if word['word'] == keywords[k][0] and idx < len(result_tuple) - 1 and result_tuple[idx + 1]['word'] == keywords[k][1]:
+            timestamps.append(word['startTime'])
+            k = k + 1
+            if k == len(keywords):
+                break
+    return timestamps
