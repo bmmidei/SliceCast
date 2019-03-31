@@ -1,6 +1,7 @@
 import re
 import spacy
 
+MIN_SENT = 5
 
 def createSpacyPipe():
     # Load baseline Spacy pipeline
@@ -26,13 +27,31 @@ def customLabeler(doc):
     numSents = len(sents)
     labels = [0] * numSents
 
+    # Index of the start of the current segment
+    startIdx = 0
     for i, sent in enumerate(sents):
         # Search for the split line and label it -1
         if re.search('========,[0-9]+,.+\.', sent):
+            if i-startIdx <= MIN_SENT:
+                # Label all sentences in last segment for removal
+                for j in range(startIdx, i):
+                    labels[j] = -1
+
+            # label split as -1 and next sentence as 1 for the start of new seg
             labels[i] = -1
             labels[i+1] = 1
 
-    # Remove split lines and corresponding labels
+            # move the starting index of the segment to i
+            startIdx = i
+        
+        # Handle last segment in document
+        if i+1==numSents:
+            if i-startIdx <= MIN_SENT:
+                # Label all sentences in last segment for removal
+                for j in range(startIdx, i+1):
+                    labels[j] = -1
+
+    # Remove split lines/short segments and corresponding labels
     sents = [x for i,x in enumerate(sents) if labels[i]!=-1]
     labels = [x for x in labels if x!=-1]
 
