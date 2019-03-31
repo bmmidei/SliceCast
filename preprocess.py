@@ -18,25 +18,33 @@ class Pipeline(object):
         self.hdf5Path = Path(dataPath).joinpath('hdf5')
 
         self.nlp = createSpacyPipe()
+
+        print('\nUsing spacy pipeline components:')
         for name, proc in self.nlp.pipeline:
             print(name, proc)
 
     def processDirectory(self, dataPath, maxExamples=None):
         self.getFilePaths(dataPath)
-        docs = []
-        print('There are {} documents in this directory'.format(self.numExamples))
+        print('\nThere are {} documents in this directory'.format(self.numExamples))
         print('Processing a subset of size {}...'.format(maxExamples))
 
         if maxExamples:
-            self.numExamples = maxExamples
+            self.numExamples = min(maxExamples, self.numExamples)
 
-        for file in self.files[:maxExamples]:
+        docs = []
+        for file in self.files[:self.numExamples]:
             try:
                 doc = self.nlp(file.read_text(encoding='utf-8'))
-                docs.append(doc)
-            except Exception as e:
-                print(file)
-                print(e)
+                if len(doc.user_data['labels']) != 0:
+                    docs.append(doc)
+                else:
+                    print('Ignoring file due to short segments: ' + str(file))
+            except:
+                print('Ignoring file due to invalid type: ' + str(file))
+
+        # Update number of examples
+        # (We have dropped some because they have no significant segments)
+        self.numExamples = len(docs)
         self.docs = docs
 
     def getFilePaths(self, dataPath):
