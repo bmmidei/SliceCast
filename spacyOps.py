@@ -19,6 +19,7 @@ def createSpacyPipe():
     return nlp
 
 def customLabeler(doc):
+    # Custom slicecast pipeline component to add to spacy pipeline
     sents = [sent.text.strip() for sent in doc.sents] # Remove whitespace
     sents = [sent for sent in sents if sent] # Remove empty strings
 
@@ -38,5 +39,5 @@ def customLabeler(doc):
     data = {'sents':sents,
             'labels':labels}
     doc.user_data = data
-
+    
     return doc
