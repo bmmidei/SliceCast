@@ -22,14 +22,14 @@ args = parser.parse_args()
 s = time.time()
 try:
     pipe = Pipeline(dataPath=args.data_path,
-                    ex_per_batch=16,
+                    ex_per_batch=10000,
                     ex_per_file=args.exPerFile)
 except TypeError:
     print('You must enter a data path to process with the -dp flag')
     print('exiting...')
     raise
 
-pipe.processDirectory(pipe.expPath, max_examples=args.max_examples)
+pipe.processDirectory(pipe.devPath, max_examples=args.max_examples)
 e = time.time()
 if args.verbose:
     print('\nProcessing time: {} seconds'.format(e - s))

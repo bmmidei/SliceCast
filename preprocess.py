@@ -81,7 +81,7 @@ class Pipeline(object):
             self.hdf5Path.mkdir()
 
         num_files = math.floor(len(self.docs)/self.ex_per_file)
-        print('There are {} examples in batch {}'.format(len(self.docs), batchIdx+1))
+        print('There are {} examples in batch {}'.format(len(self.docs), batchIdx))
         print('Creating {} hdf5 files...'.format(num_files))
 
         for i in range(num_files):
@@ -95,5 +95,4 @@ class Pipeline(object):
                     group.create_dataset(name='sents', data=sents, dtype=h5py.special_dtype(vlen=str))
                     group.create_dataset(name='labels', data=labels)
 
-            if i%prnt_interval==0:
-                print('Generated {} files in batch {}...'.format(i+1, batchIdx))
+            print('Generated {} files in batch {}...'.format(i+1, batchIdx))
