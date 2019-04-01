@@ -1,50 +1,57 @@
-import numpy as np
-from pathlib import Path
 import h5py
 import tensorflow as tf
-from tensorflow.keras.utils import to_categorical
-'''
-class Generator:
-    def __init__(self, files):
-        self.files = files
 
-    def __iter__(self):
-        for file in self.files:
-            # Iterate through each hdf5 file
-            with h5py.File(file, 'r') as hf:
-                # Iterate through each document within the file
-                for _, grp in hf.items():
-                    # Extract items and return
-                    sents = grp['sents'].value
-                    labels = grp['labels'].value
+def docGen(fname):
+    """
+    Generator function for a single HDF5 file
+    Args:
+        fname: filename for a single HDF5 file
+    Yields:
+        sents, labels: A tuple of sentences and corresponding
+                       labels for a single example.
+    """
+    with h5py.File(fname, 'r') as hf:
+        # Get a list of all examples in the file 
+        groups = [item[1] for item in hf.items()]
 
-                    yield sents, labels
-'''
-def docGen(files, batch_size=4):
-    cnt = 0
-    batchx = []
-    batchy = []
-    for f in files:
-        # Iterate through each hdf5 file
-        with h5py.File(f, 'r') as hf:
-            # Iterate through each document within the file
-            for _, grp in hf.items():
-                # Extract items and return
-                sents = grp['sents'].value
-                labels = grp['labels'].value
-                #labels = to_categorical(labels)
-                sents = np.expand_dims(sents, axis=0)
-                labels = np.expand_dims(labels, axis=0)
-                batchx.append(sents.tolist)
-                batchy.append(labels.tolist)
-                cnt+=1
-                if cnt==batch_size:
-                    print('yield')
-                    print(len(batchx))
-                    print(len(batchy))
-                    #batchx = np.array(batchx, dtype='object')
-                    #batchy = np.array(batchy, dtype='object')
-                    yield batchx, batchy
-                    cnt=0
-                    batchx = []
-                    batchy = []
+        # Get lists of all sentences and all labels 
+        sents = [grp['sents'][()] for grp in groups]
+        labels = [grp['labels'][()] for grp in groups]
+    
+    # Iterate through all sentences and corresponding labels
+    # and yield one at a time
+    for sent, label in zip(sents, labels):
+        yield(sent.astype(str), label)
+
+class BatchGen(object):
+    def __init__(self, filenames, batch_size=1, shuffle=True, repeat=True):
+        # Create dataset from filenames
+        ds = tf.data.Dataset.from_tensor_slices(filenames)
+
+        # Use flat map to apply a transformation to each HDF5 file.
+        # Each file creates a dataset of examples. Then all examples are combined
+        # into a single dataset
+        ds = ds.flat_map(lambda filename: tf.data.Dataset.from_generator(
+                                            generator=docGen,
+                                            output_types=(tf.string, tf.int64),
+                                            output_shapes=([None,], [None,]),
+                                            args=([filename])))
+        # Apply dataset shuffling, batching, and repeating
+        ds = ds.batch(batch_size=batch_size)
+        if shuffle:
+            ds = ds.shuffle(buffer_size=16)
+        if repeat:
+            ds = ds.repeat()
+
+        self.ds = ds
+        self.itr = self.ds.make_one_shot_iterator()
+
+        ''' Potentiall include bucketing later on for batches larger than 1
+        ds = ds.apply(tf.data.experimental.bucket_by_sequence_length(
+                        element_length_func=element_length_fn,
+                        bucket_boundaries=[5, 10, 20, 40],
+                        bucket_batch_sizes=[4, 4, 4, 4, 4]))
+        '''
+
+    def next_batch(self):
+        return self.itr.get_next()
