@@ -20,12 +20,15 @@ class Pipeline(object):
         self.ex_per_batch = ex_per_batch
         self.ex_per_file = ex_per_file
         self.nlp = createSpacyPipe()
+
+        print('\nUsing spacy pipeline components:')
         for name, proc in self.nlp.pipeline:
             print(name, proc)
 
     def processDirectory(self, dataPath, max_examples=None):
         # Get the file paths for every txt file in the directory
         self.getFilePaths(dataPath)
+
         print('There are {} documents in this directory'.format(self.num_examples))
 
         if max_examples:
