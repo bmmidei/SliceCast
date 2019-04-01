@@ -21,18 +21,15 @@ args = parser.parse_args()
 
 s = time.time()
 try:
-    pipe = Pipeline(dataPath=args.data_path)
+    pipe = Pipeline(dataPath=args.data_path,
+                    ex_per_batch=16,
+                    ex_per_file=args.exPerFile)
 except TypeError:
     print('You must enter a data path to process with the -dp flag')
     print('exiting...')
-print(type(args.max_examples))
-pipe.processDirectory(pipe.expPath, maxExamples=args.max_examples)
+    raise
+
+pipe.processDirectory(pipe.expPath, max_examples=args.max_examples)
 e = time.time()
 if args.verbose:
     print('\nProcessing time: {} seconds'.format(e - s))
-
-s = time.time()
-pipe.genHDF5s(exPerFile=args.exPerFile, prntInterval=5)
-e = time.time()
-if args.verbose:
-    print('\nHDF5 generation time: {} seconds'.format(e - s))

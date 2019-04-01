@@ -105,3 +105,12 @@ venv.bak/
 
 # Large training data files
 data/
+
+# Visual Studio Code config
+.vscode/
+
+# Scratch work
+scratch.py
+
+# old code files
+old/
