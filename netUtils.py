@@ -22,7 +22,6 @@ def docGen(fname):
     # and yield one at a time
     for sent, label in zip(sents, labels):
         if len(label)==0:
-            print('encountered empty')
             pass
         else:
             yield(sent.astype(str), label)
