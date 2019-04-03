@@ -90,9 +90,10 @@ class Pipeline(object):
                 for j in range(self.ex_per_file):
                     docIdx = i*self.ex_per_file + j
                     sents, labels = self.genSingleExample(self.docs[docIdx])
-                    group = f.create_group(str(j))
+                    if len(labels)>0:
+                        group = f.create_group(str(j))
 
-                    group.create_dataset(name='sents', data=sents, dtype=h5py.special_dtype(vlen=str))
-                    group.create_dataset(name='labels', data=labels)
+                        group.create_dataset(name='sents', data=sents, dtype=h5py.special_dtype(vlen=str))
+                        group.create_dataset(name='labels', data=labels)
 
             print('Generated {} files in batch {}...'.format(i+1, batchIdx))
