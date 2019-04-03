@@ -21,7 +21,11 @@ def docGen(fname):
     # Iterate through all sentences and corresponding labels
     # and yield one at a time
     for sent, label in zip(sents, labels):
-        yield(sent.astype(str), label)
+        if len(label)==0:
+            print('encountered empty')
+            pass
+        else:
+            yield(sent.astype(str), label)
 
 class BatchGen(object):
     def __init__(self, filenames, batch_size=1, shuffle=True, repeat=True):
