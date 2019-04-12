@@ -1,6 +1,6 @@
 import h5py
 import tensorflow as tf
-
+from keras.utils import to_categorical
 def docGen(fname):
     """
     Generator function for a single HDF5 file
@@ -24,6 +24,7 @@ def docGen(fname):
         if len(label)==0:
             pass
         else:
+            #label = to_categorical(label, num_classes=2)
             yield(sent.astype(str), label)
 
 class BatchGen(object):
@@ -41,6 +42,7 @@ class BatchGen(object):
                                             args=([filename])))
         # Apply dataset shuffling, batching, and repeating
         ds = ds.batch(batch_size=batch_size)
+        ds = ds.prefetch(100)
         if shuffle:
             ds = ds.shuffle(buffer_size=16)
         if repeat:

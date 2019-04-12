@@ -4,6 +4,8 @@
 #######################################
 import os, re
 import tensorflow as tf
+print(tf.__version__)
+
 import tensorflow_hub as hub
 import numpy as np 
 from netUtils import BatchGen, docGen
