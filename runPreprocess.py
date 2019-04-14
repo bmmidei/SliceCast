@@ -30,7 +30,7 @@ except TypeError:
     print('exiting...')
     raise
 
-pipe.processDirectory(pipe.expPath, max_examples=args.max_examples)
+pipe.processDirectory(pipe.trainPath, max_examples=args.max_examples)
 e = time.time()
 if args.verbose:
     print('\nProcessing time: {} seconds'.format(e - s))

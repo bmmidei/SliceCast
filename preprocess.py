@@ -13,13 +13,9 @@ class Pipeline(object):
         self.wiki = wiki # We preprocess slightly differently based on wiki or podcast
         self.mainPath = Path(dataPath)
         if wiki:
-            self.trainPath = Path(dataPath).joinpath('train', 'train')
-            self.testPath = Path(dataPath).joinpath('train', 'test')
-            self.devPath = Path(dataPath).joinpath('train', 'dev')
-            self.expPath = Path(dataPath).joinpath('test')
-            self.hdf5Path = Path(dataPath).joinpath('hdf5')
-        else:
-            self.hdf5Path = Path(dataPath).joinpath('hdf5')
+            self.trainPath = Path(dataPath).joinpath('train')
+            self.testPath = Path(dataPath).joinpath('test')
+            self.devPath = Path(dataPath).joinpath('dev')
 
         self.ex_per_batch = ex_per_batch
         self.ex_per_file = ex_per_file
@@ -32,12 +28,14 @@ class Pipeline(object):
     def processDirectory(self, dataPath, max_examples=None):
         # Get the file paths for every txt file in the directory
         self.getFilePaths(dataPath)
+        self.hdf5Path = Path(dataPath).joinpath('hdf5')
 
         print('There are {} documents in this directory'.format(self.num_examples))
 
         if max_examples:
-            print('Processing a subset of size {}...'.format(max_examples))
-            self.num_examples = max_examples
+            self.num_examples = min(max_examples, self.num_examples)
+            print('Processing a subset of size {}...'.format(self.num_examples))
+
         # Determine number of batches to process
         self.num_batches = math.ceil(self.num_examples/self.ex_per_batch)
 
@@ -68,6 +66,7 @@ class Pipeline(object):
 
     def getFilePaths(self, dataPath):
         self.files = [x for x in dataPath.glob('**/*') if x.is_file()]
+        print(dataPath)
         self.num_examples = len(self.files)
 
     @staticmethod
@@ -78,6 +77,7 @@ class Pipeline(object):
 
     def _genHDF5s(self, batchIdx, startIdx, stopIdx, prnt_interval=10):
         # Create directory for processed audio files
+
         if not self.hdf5Path.exists():
             print('Adding the hdf5 data directory')
             self.hdf5Path.mkdir()
