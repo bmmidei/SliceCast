@@ -6,13 +6,24 @@ import os, re
 import tensorflow as tf
 print(tf.__version__)
 
+tf.logging.set_verbosity(tf.logging.ERROR)
+
 import tensorflow_hub as hub
 import numpy as np 
-from netUtils import batchGen
-from tensorflow.keras.layers import Layer, Dense, Input, Lambda, Dropout,\
+from netUtils import batchGen, getTestSet
+#from tensorflow.keras.layers import Layer, Dense, Input, Lambda, Dropout,\
+#    Bidirectional, LSTM, Activation, TimeDistributed, Concatenate
+#from tensorflow.keras import Model, Sequential
+#from tensorflow.keras.models import model_from_yaml
+#import tensorflow.keras.backend as K
+
+from keras.layers import Layer, Dense, Input, Lambda, Dropout,\
     Bidirectional, LSTM, Activation, TimeDistributed, Concatenate
-from tensorflow.keras import Model, Sequential
-import tensorflow.keras.backend as K
+from keras import Model, Sequential
+from keras.models import model_from_json
+import keras.backend as K
+from keras.callbacks import ModelCheckpoint
+
 import h5py
 import matplotlib.pyplot as plt
 
@@ -21,41 +32,44 @@ url = "https://tfhub.dev/google/universal-sentence-encoder-large/3"
 embed = hub.Module(url)
 
 class SliceNet():
-    def __init__(self, pretrain=False,  model_path=None):
+    def __init__(self, pretrain=False, weights_path=None):
         self.pretrain = pretrain # Not implemented
+        
         if self.pretrain:
-            self.model_path = model_path # Not implemented
+            self.weights_path = weights_path # Not implemented
+            
         self.model = self._defineModel()
     
     def map_docs(self, x):
         return embed(x, signature='default', as_dict=True)['default']
-
+    
     def UniversalEmbedding(self, x):
-        # Explicitly cast the input tensor to strings
-        x_str = tf.cast(x, tf.string)
-        
-        # Embed each sentence of the input tensor
-        embedTens = tf.map_fn(self.map_docs, x_str, dtype=tf.float32)
-        return embedTens
+            # Explicitly cast the input tensor to strings
+            x_str = tf.cast(x, tf.string)
 
+            # Embed each sentence of the input tensor
+            embedTens = tf.map_fn(self.map_docs, x_str, dtype=tf.float32)
+            return embedTens
+     
     def _defineModel(self):
         # Define network structure
-        encoderIn = Input(shape=[None,], dtype=tf.string, name='encoderIn')
+        encoderIn = Input(shape=[None,], dtype='string', name='encoderIn')
         encoderOut = Lambda(self.UniversalEmbedding, name='encoderOut')(encoderIn)
         lstm1 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_1')(encoderOut)
         lstm2 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_2')(lstm1)
+        
         output = Dropout(0.2)(lstm2)
-        output = TimeDistributed(Dense(128, activation='relu'))(output)
+        output = TimeDistributed(Dense(256, activation='relu'))(output)
         output = Dropout(0.2)(output)
-        preds = Dense(1, activation='sigmoid')(output)
-
+        output = TimeDistributed(Dense(64, activation='relu'))(output)
+        output = Dropout(0.2)(output)
+        preds = TimeDistributed(Dense(3, activation='softmax'))(output)
+        
         model = Model(inputs=encoderIn, outputs=preds)
-        model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+        model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['categorical_accuracy'])
+        #model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
         return model
 
-    #######################################
-    # Training
-    #######################################
     def train(self, train_files, val_files, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True):
         
         # Define batch generator
@@ -63,7 +77,8 @@ class SliceNet():
         valGen = batchGen(val_files, 4, maxlen)
         
         # I think these need to sum to 1
-        weights = [0.1, 0.9]
+        #weights = [0.3, 2.64, 0.06]
+        weights = None
         self.model.summary()
         
         print('Starting Training')
@@ -73,60 +88,61 @@ class SliceNet():
                       tf.initializers.tables_initializer()]
             sess.run(initOp)
             
+            
+            cb = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
+                                         save_weights_only=True, period=2)
+            
             history = self.model.fit_generator(trainGen,
                                           steps_per_epoch=steps_per_epoch,
                                           epochs=epochs,
                                           verbose=1,
-                                          class_weight=weights)
+                                          validation_data=valGen,
+                                          validation_steps=10,
+                                          class_weight=weights,
+                                          callbacks=[cb])
             
             #TODO add some sort of keras callback function
-            #TODO add validation data to feed in to fit generator
-                # validation_data = valGen
-                # validation_steps = number of batches to yield from valGen
             #consider updating loss function from accuracy to precision recall or MSE
             
             if save:
-                # Save model metadata
-                model_yaml = self.model.to_yaml()
-                with open('./models/model.yaml', 'w') as yaml_file:
-                    yaml_file.write(model_yaml)
-
                 # Serialize weights to HDF5
-                self.model.save_weights('./models/model.h5')
-                print("Saved model to disk")
+                self.model.save_weights('./models/weights_final.h5')
+                print("Saved weights to disk")
                 
         return history
 
-#%%
-#######################################
-# Inference 
-# Not yet implemented
-#######################################
-'''
-fname = '/Users/bmmidei/Projects/SliceCast/data/hdf5/batch0_4.hdf5'
-testGen = docGen(fname)
-testx, testy = next(testGen)
-#%%
-from tensorflow.keras.models import model_from_yaml
-
-with tf.Session() as sess:
-    K.set_session(sess)
- 
-    # Load YAML and create model
-    with open('./models/model.yaml', 'r') as yaml_file:
-        loaded_model_yaml = yaml_file.read()
-    loaded_model = model_from_yaml(loaded_model_yaml)
-
-    # Initialize and then load weights
-    initOp = [tf.global_variables_initializer(), tf.initializers.tables_initializer()]
-    sess.run(initOp)
-    loaded_model.load_weights("model.h5")
-    print("Loaded model from disk")
-
-    preds = loaded_model.predict(testx)
-
-#%%
-preds = np.squeeze(preds)
-for i, j in zip(testy, preds):
-    print(i, j)
-'''
+    def predict(self, test_file, num_samples, weights_path):
+        # Get test data and test labels
+        X_test, y_test = getTestSet(test_file, num_samples=num_samples)
+        
+        print('Starting Testing')
+        with tf.Session() as sess:
+            K.set_session(sess)
+            
+            initOp = [tf.global_variables_initializer(), tf.initializers.tables_initializer()]
+            sess.run(initOp)
+            
+            # load weights into new model
+            self.model.load_weights(weights_path)
+            print("Loaded weights from disk")
+            
+            preds = self.model.predict(X_test)
+            
+        return preds, y_test
+    
+    def singlePredict(self, X_test, weights_path):
+        
+        print('Starting Testing')
+        with tf.Session() as sess:
+            K.set_session(sess)
+            
+            initOp = [tf.global_variables_initializer(), tf.initializers.tables_initializer()]
+            sess.run(initOp)
+            
+            # load weights into new model
+            self.model.load_weights(weights_path)
+            print("Loaded weights from disk")
+            
+            preds = self.model.predict(X_test)
+        
+        return preds
