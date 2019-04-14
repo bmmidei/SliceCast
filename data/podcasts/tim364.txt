@@ -1,0 +1,723 @@
+========,9,title.
+Safi, welcome to the show.
+
+Thanks Tim. Glad to be here.
+
+And I’m going to read your bio here. This is one of the several, I would say, interviews that I’ve done where it’s not going to be a challenge, as I said to one of my employees earlier, to find things to talk about. It’s going to be a matter of trying to ask you all the things I would like to ask you, but I’ll give people some context first. So by way of bio, Safi Bahcall, you can find him on Twitter @SafiBahcall. He received his PhD in physics from Stanford and his undergrad degree from Harvard. After working as a consultant for McKinsey, Safi co-founded a biotechnology company specializing and developing new drugs for cancer. He led its IPO and served as its CEO for 13 years. In 2008 Safi was named Ernst and Young’s New England Biotechnology Entrepreneur of the Year.
+
+In 2011 he worked with President Obama’s Council of Science Advisors on the future of national research. Safi, you are most recently the author of Loonshots. That is the title, subtitle: How to Nurture the Crazy Ideas that Win Wars, Cure Diseases, and Transform Industries, which has some of the best cover blurbs I’ve ever seen on any book. We might talk about that. Daniel Kahneman does not give a lot of blurbs for books. Loonshots describes what an idea from physics tells us about the behavior of groups and how teams, companies, and nations can use that to innovate faster and better. It has been selected for The Washington Post‘s 10 Leadership Books to Watch for in 2019, Inc.‘s 10 Business Books You Need to Read in 2019, and Business Insider‘s 14 Books Everyone Will Be Reading in 2019. That would be good for you if that ends up being the case.
+
+And we go back a ways. So I’ve been really excited to catch up, because our lives have changed quite a lot since we last were spending a lot of time together. And I thought we could just start at the very beginning. So could you describe for people how we first met, and a little bit of the context?
+
+All right. Sure. So we were at — this is maybe 10 years or so ago. And we were at the Sundance in — where is Sundance?
+
+Sundance is in Utah.
+
+At Sundance in Utah. And there was a conference organized every year by Peter Thiel and Auren Hoffman. And Auren’s a good friend of mine for many years. And I was sitting at a lunch table, and I had just taken up as a hobby triathlon, long distance triathlon. And I had just learned for the first time real swimming, not just splashing around in a pool, but how can you — because splashing around in a pool, you can swim a couple laps, and you get tired. But that’s not going to help you if you want to swim 1.2 miles in the ocean. So I had found this course called Total Immersion, and I was just having such a blast, because it takes you from a two out of 10 to a five to a seven really, really quickly. So you can like knock out 1.2 miles, no problem.
+
+So I was sitting at lunch, and somehow there was this guy, quiet but happy guy next to me. And he had also just taken up Total Immersion Swimming. And then we just totally connected on how amazing it was and how it can transform your swimming and how it’s a metaphor for life. And I started using that as a metaphor for learning, breaking down everything you know about life, about like a swim stroke and all the bad habits that you learn, and replacing them, and how interesting it is that just small little tweaks can take you so rapidly from a two out of 10 to a six out of 10 or a seven or an eight, and what kind of a joy that is, and how that can apply in so many areas of life.
+
+And this other guy sitting next to me was like, “Yes, yes, absolutely. And I just did Total Immersion, too. And I feel exactly the same way.” And then since then we’ve been friends.
+========,9,title.
+And Total Immersion in a way is such a perfect introduction and metaphor for a lot of what you do in life and what impresses me about you. And, as you mentioned, a great example of learning something in an atypical way, right? Because it’s not just looking at the small things that have a disproportionate output or testing them, but also it is fundamentally about testing assumptions, right? And, for those people who don’t know, we won’t spend the entire interview on Total Immersion, but it’s a great lead in, because speaking as someone who’s born and raised on Long Island, surrounded by water, had a few near drowning experiences when I was very young, I did not learn how to swim, meaning I could not do to and fro in a decent size pool until my thirties. And had a really acute fear of water. And after about a week of Total Immersion by myself with a book, keep in mind, not even video at that point, was doing 20, 30 laps at a time and finding it relaxing, which is just bonkers to think about.
+
+And I’d failed up to that point even though another friend, Chris Sacca had — actually no, it wasn’t Chris Sacca at that point. Before that, another friend, Chris Ashenden, had assigned me a new year’s resolution. We realized we’re more likely to actually fulfill our new year’s resolutions if we assign each other resolutions with rewards and punishments. And mine was to do a one kilometer open water swim, and his was to drink nothing stronger than green tea for a year, because he liked double espressos.
+
+But I had failed up to that point in part, because every lesson started the same way, which was here’s a kickboard and go do 10 laps in the pool. And after a lap and a half, I’m like, “I can’t even feel my legs, I’m so tired.” And the lesson was as good as done. And then you take Total Immersion. And one of the first things Terry Laughlin encourages you to think about is minimizing the legs and minimizing drag. And it’s just a rethinking of the entire approach to swimming. So you, more than almost anyone I’ve met —
+
+I feel like 10 years ago, we’re having the same conversation again from 10 years ago. And the really cool thing about it, the way it applies to so many areas of life that I found is, it starts by a counterintuitive take on something that everybody does or believes is true, and that is, well, if you’re swimming forward, you want to see where you’re going so you raise your head. And so that’s exactly what’s wrong with swimming, with most casual swimming, because then you’re kicking your feet to maintain horizontal balance. And by kicking your feet, you’re using — 80 or 90 percent of your energy is just going to correct bad position. That’s why you’re tired.
+
+And so in so many areas of life, when you learn this kind of bad habit, that’s this very natural that every human does; once you become self aware of that, it’s really not hard to just put your head down. Yeah, and don’t kick. That’s it. That’s basically the magic. Put your head down and don’t kick. And that’s it. And then so many different areas of life, it turns out there are these bad habits, these things that you think you should be doing or you’re programmed to do or everybody tells you to do, and they create drag in going through life.
+
+And then some day somebody, maybe it’s Tim Ferriss, says, “You know, here’s this really counterintuitive, weird trick, don’t do that. Do this.” And all of a sudden the drag goes away and you can swim a mile.
+========,9,title.
+And I actually think it reminds me, you mentioned, we were talking a little bit about Danny Kahneman and how he transformed economics. It’s very similar, right? Because what he said for economists for 200 years had said, “Oh, there’s one way to think about incentives and how they influence behavior. Everybody calculates net present expected value of my financial return doing X and doing y, and if X is greater than y, I do x.
+
+The rational actors.
+
+Right. And Kahneman just said, “You know, I’m a psychologist and that’s like bullshit. That’s just not what happens. It’s not what people do. People operate on these little rules of thumb, and sometimes X may rationally be greater than y, but they do Y anyway, for these reasons.” And it was, it’s not rocket — it was a very simple adjustment. Like hold your head flat and don’t kick.
+
+Yeah.
+
+It was basically saying, “Hey, humans are humans. They’re not calculators.” That’s it.
+
+Yeah.
+
+And that transformed economics. So there you should just start the same Total Immersion Swimming trick, which changes swimming, is what Kahneman did for economics. He changed economics with this one idea. Hey, actually humans are humans. They operate on some heuristics, not NPV calculations.
+
+And he comes from like, “That’s not possible. They operate on NPV.”
+
+“I don’t think so. I kind of know humans, and they don’t do that.” Which in retrospect sounds sort of obvious, but it was a big, big change.
+
+Yeah. And you know more — well, you’ve forgotten more probably in the last week than I’ll ever know about physics, but as a layman who’s interested in science, but by no means a real scientist, it makes me think of Richard Feynman. And I’m going to butcher this, I’m sure, but something along the lines of, “It doesn’t matter how pretty your theory is. If it doesn’t fit with the experiment, it’s wrong.”
+
+That’s right.
+
+And there’s a lot of disregarding perhaps the obvious in favor of these legacy theories that just do not fit the reality of that is that is right in front of you. Funny, well maybe not funny, but little known fact, I was actually a subject in some of Kahneman’s studies when I was an undergrad for my $4 an hour or whatever, hitting a space bar with various psychological studies in Green Hall.
+
+That’s right. He was at Princeton and you were at Princeton. And actually that’s the connection. I think he was a neighbor of my mom and dad who — because I grew up in Princeton.
+
+Oh, that’s right. I didn’t — well, we’ll talk about growing up in towns like Princeton another time. I didn’t grow up in Princeton, but I grew up in the end of Long Island, which has some similar dynamics. Let’s zoom out a bit, and we’re going to do this quite a bit in this conversation I think, because I want to talk about Safi, the individual, and your personal practices and you’re thinking, because I think there’s a lot — I don’t think, there is a lot to explore there. You are one of the most systematic people I know.
+========,9,title.
+But I also want to give people the context on your career and some of what you’ve done and your past, because I think it’s helpful. And we were just talking about Terry Laughlin, who passed away not all too long ago. And he was hospitalized shortly after — just before and then shortly after my interview with him, which was the last long form interview he ever did. And he had cancer and then a stroke that was a complication and a number of things following, and then he passed away, which was very sad. What is your history with cancer, in the sense that, why did you get involved with anything related to cancer?
+
+I started in academic science and theoretical physics. And after a few years, and this may be a personality flaw, but I — and it’s taken me many years to appreciate this, but I really get excited. All right, I’ll explain this in physics geek language, and then I’ll try to tran — there’s a saying — the way I think about it is I couple to the derivative, and I’ll break that down.
+
+So the derivative is a slope. So, zero derivative means no slope, and big derivative means a very high slope. And in physics, when you say you couple to something, an electronics traveling along the line and have some coupling constant to the photon, and that’s how it interacts with light. And that’s always the case. And so when I say “I couple to derivative,” it means that I derive energy from the slope, from the slope of learning.
+
+so when I started in theoretical physics, I was learning an enormous amount. And then after I was in one area of theoretical physics called particle physics — it’s a science of the very small  — what happens inside a proton or neutron or quarks. And after a few years I felt like I had gotten very deep in that tunnel and I wasn’t learning as much. And I mean there were, you know, not going to exaggerate. There’s was a ton still out there to learn, but it wasn’t like drinking from a fire hose, like starting off feeling like an imposter, or starting off being barely able to swim one lap and then going to swimming a kilometer, no problem. And particle physics has gotten a little stuck in the last 20 or 30 years in some sense, which we can talk about some other time.
+
+So I switched to a totally different area after about five years. And then I got into the business world. I realize I’m far from your cancer question.
+
+That’s okay.
+
+But I switched out of academic science, because after about five years in each of these areas I felt like I learned and I wanted to learn something new. So I went into the business world, went into McKinsey. Didn’t know anything about — I didn’t even own a suit. Actually I remember — all right, can I take a digression for weird little story?
+
+I love digressions for weird stories, so yes. I’ll remember — if need be, and I don’t think  —
+
+I’m getting kind of far from your cancer question now, but it’s sort of a funny story. So it’s how I got ended up in cancer when I started off in this weird physics place. So I had only, I basically hadn’t set foot off a university until I was 30, because my parents are academic scientists. We just went to Princeton. And so I spent a lot of time around there. And then a college, grad school, post doc. And then I was getting a little like, “Is this what I want to do for the rest of my life, just write papers and grants and referee and the same conferences?” So I started exploring. and I had some friend that had been to this company called McKinsey, which I’d never heard of. And they said it was sort of interesting problem solving. It’s like, “All right, I’ll do that.” I sent an application, interview comes, and my friend told me, “You need to wear a suit.” And I’m like, “Wow, I haven’t had a suit since my bar mitzvah, 18 years ago or whatever.”
+
+So, I asked like, “Where do you buy a suit?” And so I got the name of a place and I went in. And it was just this incredible place with these super expensive clothes. And it was the most amazing thing I’d ever seen. It was called the Men’s Wearhouse. And so I bought a suit, and I felt like a million. I paid like $120 or something. And I was like, “This is like 10 X more than I’ve ever paid for any clothing item.” And I felt like a million bucks.
+
+And I fly to New York for this interview with this firm. And I remember coming into the city and getting off and walking up Park Avenue. And I’m wearing like this old beat up ski jacket, because it would go skiing. And I didn’t realize that people also have some fancy jacket. Everybody around me is wearing this blue — now I know.
+
+Like the overcoat.
+
+Exactly. So I got this like I feel like a million bucks, because I had this $120 Men’s Wearhouse suit. And I probably spent $18 on the Men’s Wearhouse tie, and I’m feeling really extravagant. And then I’m walking down the street and I had this beat up old ski jacket with still the ski tags hanging off of it.
+
+On top of your Men’s Wearhouse suit.
+
+My Men’s Wearhouse suit. And I’m like, “Why am I the only one wearing this on this whole street?” And I’m like, “Huh, that’s weird.” And so then I get to my interview, and I hide the jacket in the coat closet before I get in there. But anyway, did that. And that was drinking from a fire hose because I’d like never set foot off university, and all of a sudden I’m wearing a suit. And I hadn’t worn a suit in, well since my bar mitzvah.
+
+And then they throw you — I mean they educate, they take time to educate you a little bit online, and that was super fun. All these professors fly in to just educate you. And I’m like, “This is the best thing ever. They’re paying me.” And all these professors had been flying into this four-week course on this resort with 30 people from all over the world who are really interesting people my age. And people are flying in just to teach us all day long. I’m like, “This is awesome.” And I’m learning all this new stuff. And I was drinking from a fire hose, and it was going from — well in this case was a zero out of town. I had never even balanced the checkbook. If I had $6 to buy a burrito in San Francisco, I was happy. That’s awesome.
+
+But after a couple of years you’re like, “Oh, okay,” now I got like what people do for a living and how it works and the business stuff. And then I was like, “How do I combine —” I don’t think I just want to be a guy who sort of whispers to people, “Here’s what you might want to do if you want to build your business.” I wanted to do something. But I wanted to do something back in the science world. And also something that was more about either let’s make more money, which is what big companies are trying to do and what you’re as a consultant, you’re trying to help them.
+
+And in academia it’s about the search for truth. So I wanted to do something different that would feel like, I may be a little corny or cliche, but you’re helping people who are suffering. And there’s something, you could be very selfish about it, there’s something just very satisfying. Even if you just think at the local level, like there’s a kid in a hospital bed, and the family is going to lose that kid. And if something you can do can help save that kid and so that family and that kid have decades of life together, even if that’s just one kid, that feels so much more satisfying than having X or Y or Z in the bank or even publishing another original research paper so that’s on your res — If you can see a family experiencing life together for decades and they might not have, that’s incredibly satisfying.
+
+And so I stumbled into cancer, to get back to your question, because that was a really hot researcher. This was 18, 19 years ago. That was a really exciting area, and there was really very little progress made in that area. And I had spent about six months or a year talking to scientists at different universities who might have some promising ideas and didn’t want to work with venture capitalists, and thought that physics was this exotic, weird bird. And so I was — they were just like, “Who is this guy who’s coming to talk to us about biology and chemistry and medicine and oncology? Who needs a physicist?” So there was a mutual interest there.
+
+And eventually started a company and just got more and more into it and interested in seeing these individual lives and how little progress had been made and how many good ideas were floating around. And if I could make a difference, bridging some of those ideas into the real world, into the commercial world, into the business world, into the industry where they could become drugs that could save lives. Even if you just save one kid, help one family, that would feel incredibly satisfying, more satisfying than writing a paper or making money. So that’s kind of how I got into cancer and oncology.
+========,9,title.
+Thank you for that. I had never heard the Men’s Wearhouse story either. This is I think something I wanted to establish early on, because it gives an indication of where you were pointed, right? And then when we get into the habit and the routines and the frameworks and so on, that you use personally or within organizations, it shows some of the how, but I wanted to at least get some of the why first.
+
+Let’s take a bit of a 90 degree turn. And this is going to seem strange, but I thought this would be a good illustration of not just Safi the scientific innovator, but you the person, because they go together. So I’m going to going to read what I think is a quote. This is in doing research for having this conversation, which is always a little strange when I’m doing research on my close friends. It feels like I’m doing something illicit. In any case, I’m going to read something, and then he can give us context for what this is and why you have this habit or had it. “I would get so excited when I stumbled across a perfect passage and its beautiful music: I would record it in Evernote, whip out my phone at dinner, and read that passage to whoever my poor dinner companion happened to be, pounding the table to the rhythm, pointing out the beauty and the choices — see how he did X here and not Y — that’s why it works! Silence. No one cared. But I enjoyed it.” So what is this about?
+
+Oh man. I don’t know how you found this stuff. But so I had to do with another — so I was with this company that I started for 13 or so years and then through a weird series of coincidences and stumbles and different things, ended up in writing. And so first I wrote a long form essay, and then it was 15,000 words. I edited a lot and people seem to like it. And then some much more experienced author friends and journalist friends with like “Nobody publishes 15,000 word essays anymore. That’s a book. Also you have a lot of ideas in here and that needs to be fleshed out. It’s too—”
+
+So that turned into a book. And as I started with writing, I broke it down a little like swimming. What are the — you think you know. People tell you a bunch of stuff. And the more you get into it, the more you realize a lot of stuff that people tell you is really not very helpful or often wrong.
+
+And could you give any examples?
+
+Oh, just like “Don’t use passive voice.” There are actually some great reasons you do want to use passive voice. But I get this picture of like this old schoolmarm hitting you with a ruler. “Don’t use passive voice! Never use passive voice! Always use active voice!” And then you read some of these phenomenally beautiful passages, and you look in them, and they’re using passive voice left and right. And you’re like “Really? Because some of these guys have won the Nobel Prize for example, or Pulitzer Prize, and they’re using — so why?” And —
+
+Just for people who are — could you give an example of active and passive voice for people who may not be familiar with the terms?
+
+Active voice is: “Johnny flew the helicopter to go videotape the fire.” And then — so funny, I don’t do these things. “A helicopter was brought in to go view the fire from high above and film it for video.” And so “A helicopter was brought in” is kind of passive. “Johnny flew the helicopter.” Now in this case for example, why would you want to use the passive voice? Well, if you’re telling a story, you’re telling the story of the fire; do you really need to know that Johnny flew that helicopter to put out that fire? I think this is an example on something, it seems like that specific helicopter. It’s actually kind of distracting, because Johnny is kind of irrelevant to the story. So what you’re doing is you’re inserting something in the reader’s mind that’s an irrelevant distraction that you’ll never come back to. That just is a glitch in the storytelling.
+
+So that’s one example of why you want to use pass — there are many examples of why you want to use — but anyways, as part of — I found that I — people that said, “Oh, you’re a pretty good writer.” I think that’s meaning for like a physicist. So that’s a really low bar, or even a CEO of a public company, that’s a really low bar. “You’re pretty good for a public company executive.” I’m like, “Thanks. I’m the 1.5 rather than one.”
+
+But I just started to find it fun to try to break down writing like you break down swimming or break down other things. And then how do you train to get better? And so I read a lot. And eventually I came up with a training. And I would write. I dropped my daughter off at school in the morning and come back, lock myself from this little eight by eight cave, shut down everything and just do one of the three modes of writing, whether you’re reading, you’re writing, or editing. And 5:00, 6:00, pick my daughter up from school, from daycare, bring her back, dinner. And then my wife would check out at 7:30, 8:00. She gets up really early, and she was just done.
+
+So from 8:00 on every day for almost two years, I would bring out one of actually just a couple of books. And often I would just go — we were living on Mass Ave. in Cambridge, and so there are a lot of great bars and little restaurants. And I would go to the bar counter, get a burger or a pizza or something and a beer. And I would spend the next two hours, usually just on two paragraphs.
+
+Were these the same books or different books each time? Or were they consistently the same?
+
+Almost always the same. Actually I would focus on probably two books, and I would just dissect a paragraph or two from those two books for almost a year. And that was one of the other things, like with swimming, everybody says “Keep your head up” or “It’s natural to keep your head up.” There’s this natural inclination to try to read a ton, read widely, read all these authors and you get all these lists of, “Here’s my favorite 20 authors.” Like, “Oh, I should read those 20.” There’s somebody else’s favorite 20. “Oh, I should read those 20.”
+
+And so I kind of threw all that out and said, “I’m going to actually focus.” I don’t know much about literature. I never — I did sports and I did like math and science, and that’s it. I really didn’t read. So I didn’t — so I have like a big gap. But I picked two books that really resonated for me.
+
+What did you pick?
+
+Nabokov short stories and I’ll explain why. And Donald Hall, Essays After 80. And this is for just to develop an ear for writing. And I just read a paragraph or two or three from those books each night and then I would break it down. “Why did this guy use —” I wasn’t reading for content. I was just reading for ear.
+
+So Nabokov, I had read a little bit of this and a little bit of that and reading here. And then I picked some friend, I think had sent me — pointed me to Nabokov short stories. And by the way, I should say, I don’t think I’ve read anything of his, just that one. And when I opened it up to at random, the book of short stories, and I started reading his sentences, my jaw dropped. I didn’t know the English language could do that. How is this guy doing that? It’s probably sort of like your sports thing, with athletes. How the freaking hell is this guy doing it? And it just so different at such a higher level than anyone. So that’s why I would take two paragraphs at a time or three paragraphs and I’d say, “Why did he put this word here in this sentence and not there, because the natural thing would be, let’s say, to make it active voice, or the natural thing would be to — why did he use this transition from this sentence, the end of this one to the beginning of the —
+
+Why did he use this transition from this sentence, the end of this one to the beginning or the end of this paragraph? Suppose I do it differently. It just sounds worse. Why? Why does it sound worse when I move this word? He could’ve picked any word. There are like six words you could imagine that mean this thing. Why did he pick this one? Let me try a different one, and then, oh, it just sounds worse.”
+
+I would just do that repeatedly. Nabokov, because his sentences and rhythm and musicality of his writing, which is jaw dropping, and every one, every one is a 10 out of 10. It’s not like, “Oh, there’s a great sentence or a great passage.”
+
+Not a one-hit wonder.
+
+Yeah. It’s just like, “How the freaking hell does this guy do this?” Again, I have to say I’m not a literature guy or an English guy, and there’s 99 percent of famous authors I’ve not read. I just couldn’t believe this. I was, “How does this guy do this?”
+
+After doing this sort of over and over, and there were a few other beautiful passages and I would capture them in my Evernote and then I would highlight the word, like, “Why this word?” in yellow, and then sometimes I would bold.
+
+He uses a lot of alliteration, so I would highlight the first letters just to see his alliterations, and then I would highlight the transitions and then I would break down the transitions between paragraphs into, “Well, there’s seven different types of transitions. Here’s an example of one. Oh, this is the pivot transition.” So I started to get a sense of that.
+
+I started having this weird experience after doing this for a year or so, which was I would read passages and I would hear music. I would hear them in my head, but as music. So for example in the book, if I would hear — this is a little weird to say all this stuff ’cause it’s private internal mind — talk about it out loud.
+
+This is the podcast for that.
+
+Oh, yeah. Nobody listens to it, right?
+
+No. It’s just you, me, and a handful of our best friends.
+
+It’s just you and me, right? So it’s all private stuff. I would just hear this thing like music and it was in perfect harmony, and then I’d pick up the newspaper or I’d pick up some other stuff or some random book and I couldn’t read more than two sentences ’cause it just sounded like clashing. Well, the transitioning and the use of passive and this word could’ve been that word. I’m like, “I can’t even read more than three sentences ’cause it’s grating.”
+
+I go back to this other thing where there was perfect harmony, which is musical. At some point, I wouldn’t even know why, but one thing would just grate. It’s like somebody rubbing fingers on a chalkboard. The other one is just like, “Ahhh.”
+========,9,title.
+So can we talk about decisions a bit more?
+
+Sure.
+
+Okay. Because you are examining, in that case, decisions of a writer. You’re doing a forensic analysis of why certain things happen, why certain choices were made. This may be a natural place, maybe not. You can tell me. To talk a little bit about a totally different field, although a similar-sounding last name, Garry Kasparov.
+
+Oh, okay.
+
+Yeah. Could you describe to me why you find Kasparov interesting, and who he is for people that don’t know?
+
+Okay. Another book that I really enjoyed was his book Life Imitates Chess. I love that book. I love it for a lot of reasons. I have a real admiration for excellent chess players ’cause it’s something that takes incredible focus, incredible commitment, and people who do it really well do something I could never do. It’s so impressive. So I’ve always found it fascinating to learn about great chess players. I listened to some podcasts you did with a guy named Josh.
+
+Waitzkin.
+
+Waitzkin, which was fascinating. I actually loved his book, too. And then because of that, I went and got — I didn’t know who he was before — got his book, which was awesome, about —
+
+Yeah, The Art of Learning.
+
+Love of Learning, something.
+
+Yeah, The Art of Learning.
+
+The Art of Learning, right.
+
+Yeah. You guys would love each other. At some point you should meet.
+
+Yeah, ’cause he did chess and then did martial arts and I did martial arts for a long time and then physics. So Kasparov, as you may know, is the longest-reigning chess champion in history. He wrote this book about how life imitates chess where he breaks down what he did. It’s so fascinating, but one particular lesson really resonated for me as a mindset shift for how to think about making decisions or analyzing decisions, both in business life and in personal life.
+
+Kasparov said one of, if not the key to, his success in chess was after a game, whether he won or lost, rather than analyze the game by saying, “Oh, I moved pawn to bishop. Pawn takes bishop here and that was a bad move and that lost the game, so next time I shouldn’t do pawn takes bishop.” Rather than analyze the move and the outcome, which is what most chess players do, and you can call that an outcome mindset, he analyzed, “How did I arrive at the decision to make that move? Not just so much the move itself, but what was my decision-making process? Which series of moves did I go through? How long did I go through them? What did I consider? In what order? How did I prepare for the match and how did that affect me?”
+
+All these meta level, not the outcome itself, but one step above which is, “What was my process that I used to arrive at that decision? Given that it was a bad decision, where did that process break down in my decision, and therefore how should I tweak my decision-making process?”
+
+He said that one lesson, “Keep asking ‘Why did you make that decision?’” You can call that a system mindset. Let’s analyze the system rather than the outcome. That’s one higher level, and that has enormous power and leverage, because if you can identify a weakness in your process and adjust that process, now not only next time won’t you do pawn takes bishop, you might do pawn does something else, but you’ve now improved your process, which can help you in 500 other situations. Rather than help you in one situation, that can help you in 500. So I took that and I call that system versus outcome mindset, and that can help you enormously in personal life or in business life. So that’s the Kasparov story.
+
+This has extremely, as you’re saying, wide-ranging implications and applications, right? This outcome versus process distinction is also something that comes up if you talk to any really, really high level poker player, right, because you can have a great outcome that is just dumb luck, right?
+
+Exactly.
+
+You had a terrible decision-making process where you threw caution to the wind and really just flipped a coin and hoped that you would get heads, and you did, and so you’re like, “Oh, wow. Let me reward that decision-making process,” which might have not been a process at all, or you can make the right decision. You can have a good process and the deck is just stacked against you.
+
+Exactly.
+
+It doesn’t mean that you should stop making decisions that way.
+
+Exactly.
+========,9,title.
+So you really have to zoom out. This makes me also think of many, many other things, right? On some level, all of life is investing, right? You find that time, find that energy, find that capital, and even if the markets can remain irrational longer than you can remain solvent, which is part of the reason why really good poker players who are thinking systematically also understand the importance of having a bankroll, right, because if they have a string of bad luck, even with really, really good strategy and decision-making, they need to be able to weather a series of bad hands, for instance.
+
+This is such a critical distinction. I don’t want to belabor it, but I think it’s something that I’d love to hear a little more about, if you could personalize it. So, how do you implement this yourself or have you in terms of doing post-game analysis on decisions?
+
+Right. At the business level, the poker analogy is perfect, because people don’t realize how much is luck in real life, whether it’s an invention or an innovation or launching a new product.
+
+On a business level, and I’ll tell you kind of a totally different angle, personal level, but at the business level, there are some pretty good teams or companies that will try to do a postmortem after some product launches and they’ll analyze, but they’re still at that level one of outcome mindset of, “We did pawn takes bishop and it didn’t work, so let’s not do pawn,” so they say, “We launched the product and it didn’t have this feature and customers like this feature and that’s why it didn’t go as well, so let’s make sure we have this feature.” So you’re still on level one.
+
+The really, really great teams and companies, and there are not that many of them, say, “How did we arrive at that decision to launch that product at that time? How did we make that decision? Who was involved in the decision? What information did they have? Are we making the decisions in the right way? Are we presenting the people who are making the decisions with the right information at the right time, analyzed in the right way?”
+
+You see the difference. In one case, you just learn, “Let’s not put feature X on product Y.” In the other case, you learn something that can apply to 500 different products. “Let’s think about how we tweak our decision-making process in the future.” So that’s system versus outcome mindset on the business side.
+
+If I can pause for one second. So on the business side, and this might apply elsewhere, are there other questions you could ask when trying to decipher what your decision-making process was? Why did we think it was a good idea? What were we missing? What information didn’t we have until too late? I don’t know what the right selection of questions would be.
+
+Oh, yeah. There’s so many. What are people’s individual incentives? The people who are involved in the decision. So few people ask that question. Are they really incentivized by the project launch or do they have some other thing, like are they really focused on promotion? So how does being focused on promotion, how did that affect the decision? If we altered their incentives, might they have arrived at a different decision?
+
+So people rarely ask, “Let’s just think about the X number of people who are involved in the decision. Let’s walk through one by one what are their incentives. Let’s just have even a 20-minute conversation. Do we really think the incentives are the right incentives that are aligning people with the outcome or not?” How are people communicating?
+
+How are people exchanging ideas? Are they meeting the day of? Whose set of analyses are they looking at? Somebody who really knows what they’re doing or not, and did they get presented the right data at the right time to make the most informed —
+
+Now, the real key is, as you said with luck and cards, you want to do this for not just for failures. That’s wrong. You want to do it as much if not more for successes. You might have just gotten lucky. Those are the most dangerous traps.
+
+Let’s say you kick a soccer ball into the goal and you were five feet in front of the goal and you kicked right at the goalkeeper. It just happens that the goalkeeper slipped in the mud or whatever. It was raining. But you kicked right at the goalkeeper and you got a goal. Does that mean you should keep kicking right at the goalkeeper? That’s the right strategy? No, you just got lucky. Yeah, you won the game and maybe the World Championship, but you got lucky. Do you want to do that again next time? No.
+
+You bet on some dumb internet stock and it quadrupled or something and you had no idea what you were doing. You were drunk when you made the investment, but you made quadruple your money, so does that tell you you want to be drunk before every investment and not look at any due diligence? No, you got lucky.
+
+So it’s more important to actually look at the successes and think about, “How do I make that decision?” than it is the failures, ’cause everybody thinks hard about a failure. People rarely think about, “Did I get lucky?” They like to say, “Oh, it was my genius blah blah blah.”
+
+So it’s more important as a team to say, “All right, this worked. Where did we get lucky? Where do we actually have flaws in our process that we need to adjust next time? We were uninformed and we simply got lucky. Our competitor stumbled. We just got lucky.”
+
+The reason that’s more important is ’cause it cements bad habits. “This is what we did last time. We got drunk before we made an investment and it was a great investment. Let’s get drunk again and make another investment.” It cements bad habits ’cause you confuse good outcome with good decision-making process. That’s on the —
+
+On the business side.
+
+Business side. So it can have a pretty big effect on the personal side as well. One example is, I’ll give one example for married people and one example for single people. So, single one, I actually did use. It’s a little personal, but whatever. Again, it’s just you and me, right?
+
+It’s just us.
+
+Okay, good. Let’s say you get into an argument with your significant other and you find yourself getting into an argument. You say something about, I don’t know, whatever, the dishes, or you say something about the driving, and it leads into an argument.
+
+The outcome mindset is like, “Well, I said something about the dishes. Don’t say something about the dishes in the future.” So guess what’s going to happen? You’re going to have the same kind of argument about 57 other subjects ’cause you’re not getting at the root. What were you thinking when you said that thing about the dishes? Why were you thinking it? What state of mind were you in? Maybe you’re frustrated about something at work, as an example, and you’re mentioning some nagging comment.
+
+Right. Was the problem really about the problem?
+
+Right. You say, “Now I have a flaw in my system where I’m frustrated at work and it comes out as a comment about something that just is a bad idea.” So maybe rather than just say, “Don’t ask about the dishes next time,” say, “If I’m frustrated at work, what else can I do other than make comments about the dishes? Can I set up a punching bag and just start hitting the punching bag and take a shower and then I’m in a better mood and I don’t give a shit about dishes,” or whatever.
+
+So you find, what were you thinking at the time when you made that comment? Is there a tweak to your decision-making process so that you don’t make not just that comment, not pawn takes bishop, but many other similar things? So that’s married life, for example, personal example.
+========,9,title.
+Single life. Actually, when you and I knew each other, both were single. You’re still — we haven’t caught up in a couple years.
+
+We haven’t. I actually have a wonderful girlfriend I’ve been with for a while now and things are going extremely well, so we can talk more about that.
+
+We’ll talk more about that later. So I was living in Manhattan as a single guy. The company that I was running was in Boston, so I was just commuting back and forth and I didn’t have almost any social life because so much time in the plane and then dealing with running a business. So I would set up these gatherings, some of which you came to, I remember —
+
+Yes. They were good.
+
+— in my apartment. I called them SWAE, scientists, writers, artists, and entrepreneurs, and then eventually added, mostly ’cause I was trying to exclude them and eventually I just became explicit, no BLC. No bankers, lawyers, or consultants.
+
+Which one should note, you used to be, at McKinsey, which is great. No bankers, lawyers, or consultants.
+
+Right. Self-hating consultant. So it was SWAE and no BLC. Also, ’cause I just don’t remember stuff unless I have a silly acronym or something. So I called it SWAE no BLC. As soon as I said, especially when I added the no BLC, interest skyrocketed, especially from the BLC crowd. My banker, lawyer, and consultant friends were like, “Can I come?” I’m like, “Wait. What part of no BLC? I just said no BLC.” “Yeah, yeah, but can I come? Can you make an exception?” I’m like, “That’s weird.”
+
+And then single women in Manhattan, really interesting, intelligent, attractive women friends would be like, “I am so there. I so want to come.” I was sort of out of it, but I realized there was such frustration among really intelligent women, professional women. They were so tired of the same old, ’cause New York is full of these really ambitious bankers who are just focused on banking, and they were so curious to meet scientists. So for me, I see scientists all day long, and writers I was sort of curious about and entrepreneurs.
+
+Anyway, it ended up becoming this really fun thing. I went out on a series of dates, but for probably 10 years, I never really had — we’re coming to the system outcome in dating.
+
+I’m not in any rush.
+
+Okay.
+
+No, no. I’m loving this. So take your time.
+
+So, you, Tim, I remember coming to these sort of SWAE no BLC events. Auren Hoffman, my friend, used to come to these things. They were awesome. I ended up having some decent dating life because I would do these things mostly just ’cause I was not around very often. I would just pick a day and then everybody would be there.
+
+Five years, 10 years, I was a single guy in Manhattan. A friend liked to describe it as, you know how you have junk eating where you just move from — It was sort of like junk dating. There’s a high on the first date, and then that high is still sort of there on the second date, and then it fades on the third date, and so then you go to the next one ’cause there’s a high.
+
+Manhattan is full of this junk dating, like you have the junk eating thing. You go from one to another. It’s really a bad, bad place for dating I think because there’s so many carbs around. Everyone’s looking for the next shiny penny and you don’t actually take the time to really relish and savor and get past a couple little speed bumps to find what’s really valuable underneath.
+
+Anyway, I’d been dating five years, six years, seven years, and then at that point my father had gotten ill and then passed away from cancer from a rare type of leukemia. That I think gave me a mind shift, like, “What am I doing here?”
+
+I had been doing this mindless, kind of like the Garry Kasparov, pawn takes bishop, “Well, that didn’t work out with that dating thing, so let me not date some woman who looks like this or is in profession Y or has this characteristic.” Okay, so that’s one pawn takes bishop. Don’t do this move. Don’t do that move. But I’d never stepped back and said just systematically, “What’s wrong here? Why have I not dated anyone for more than two months or three months in a bunch of years?”
+
+I took a weekend and I just said, “All right, let me try to be really honest with myself. I do want something more serious. I want a life partner. Let me just think through the last 10 or 20 women that I’ve gone on some kind of date with. Why did it not develop? Is there any pattern here? What was I thinking?” Again, what was your decision-making process that you want to —
+
+Then, when I was pretty honest about it and stepped back and looked at it from the view above, there was a pattern that came out. I was like, “This is stupid. I’m doing this same pattern over and over and I need to be thinking in a completely different way and I need to be making my decisions about who I date and why I date them in a totally different way.”
+
+I know we’re getting into a therapy session here or a lot of personal details, but are you open to sharing what the pattern was?
+
+This is just between you and me, right?
+
+It’s just between you and me.
+
+Okay. Got it. I think one of the lessons there is that no matter how self-aware you think you are, you’re really influenced by your surroundings, at least I was, really influenced by who I was surrounded with more than I appreciated. I thought, “Oh, I’m my own person. It doesn’t matter.”
+
+But at the time, I had a number of friends who were in the film and fashion world, so I didn’t have a lot of time to arrange social life stuff ’cause I was flying all over, and so I would go to social events with them and they were really interested in other film and fashion, so a lot of my dates were film and fashion. Occasionally I would meet some other variants, and they were really especially interested in some of the more superficial qualities, and fast dating based on superficial stuff and how people look or how people talk.
+
+As much as I thought I was a good guy, I fell into that trap of dating based on much more superficial. Because I was able to make conversation reasonably well and have a good time, I could have a fun first or second, and then kind of fool myself into thinking, “Oh, I really connect with this person, because look at these really interesting conversations.”
+
+You mentioned Richard Feynman. One of the great Feynman quotes is, “The most important thing is not to fool yourself and you need to remember that you are the easiest person to fool.” I was fooling myself. I was saying, “Oh, I’m really into that person ’cause they’re a great people person and we have all these great people insights.” Meanwhile, the person wants to go to clubs at midnight or one a.m. and that’s the last thing I have any interest in doing.
+
+So then I said, “I’m really being influenced. I need to just step out of this. I need to actually break up with some of my guy friends,” which is a weird thing to think, but you get kind of reliant, and then you just sort of follow. “I need to break up because this is influencing me and I need to make different decisions about who I want to go out on dates with because that stuff is not really me. It’s not who I am at my core and I’m making the first few conversations fun but then I’m getting bored.”
+
+I had an old friend who told me there were two criteria for finding the right life partner. He was a New York guy and he was an older guy and he was a mentor for me. Very successful, very good-looking, very classic Midwest gentleman and been very successful in dating.
+
+He learned a lot ’cause he was on his third wife. This is a footnote, but very happily married. I think he learned more from failure obviously than success. He learned a lot. He said just two criteria. One, mental health, and especially Manhattan, that’s a pretty high bar, and two, find somebody you like having dinner with, ’cause you’re going to be having a lot of dinners together. If that’s not appealing to you, it’s going to be a tough marriage. The physical stuff takes care of itself ’cause you won’t be there, but that was just a —
+
+Physical stuff meaning it’s either there or it isn’t.
+
+Yeah, and you know that within the first few, and you’re just not going to go there. It’s so overrated. It’s so overemphasized anyway. That’s not something you need to think about. What’s underemphasized is —
+
+Stuff you’re more likely to miss or not see.
+
+It’s just a really straightforward litmus test. How much do you like having dinner together? What I realized is when I went back and looked, I wouldn’t rank high how much I liked to have dinner with the people I’d been dating. So that’s what I started looking for, people who were more just an intellectual mind fit for me and less worried about any of the other stuff, less worried what any friend would think or anybody would think or anyone around me. I see you’re smiling.
+
+I’m smiling because I want to ask just a few follow up questions. I know that I’m jumping in a lot, but this is what I do anyway. If we were having drinks, I’d be doing exactly the same thing.
+
+You mentioned peer group. There’s at least two components of, I would imagine, making a shift. One is breaking up with some of your friends, and the other is gathering the people you hope to be positively influenced by.
+
+Right.
+
+I think for a lot of people listening, the latter part is the easier part, or adding more people is the easier part. Did you break up with your friends by doing the slow drift where it’s like by the time you were gone, they didn’t really notice because it was very gradual, or did you do it more directly? How did you break up with people?
+
+Well, firstly we’re guys so we don’t talk about stuff. I think women have a much more communicative thing and guys are just like, “Oh, whatever. He didn’t answer a couple texts so whatever.” It’s also Manhattan, so the social life is like, “Let’s text 10 friends at 5 p.m. and see what’s going on at 7 p.m.” So after a while, you don’t answer some of those texts, so breaking up in Manhattan with some guy friends turns out —
+
+Not to be a heavy lift.
+
+Not to be a heavy lift. Of course, it depends. But yeah, it is breaking up, and then finding people who you think are more resonant, really excite you and you really enjoy, and are more the way you want to be aspirationally, how you want to live your life.
+
+Not long after I did that system mindset as opposed to outcome mindset on dating, I went out on a couple dates and they were just totally different level. I enjoyed them at a much different level. “How much am I genuinely enjoying dinner as opposed to how much am I telling stories trying to be funny and it was funny and she laughed and that’s great, let’s go to bed or whatever.” This thing’s not on, right?
+
+The mics are off.
+
+Okay, good. That’s great. That never happened by the way, honey. You’re the first, really. I’m going to be in trouble. Anywho.
+
+We have magic in post-production if needed.
+
+Anyway, so no, it just started. Very shortly thereafter, I was set up on an introduction. I call it a date. My wife calls it a business meeting, so there’s a slightly different perspective here. I don’t know if you know this story. Do you know this?
+
+I don’t.
+
+‘Cause you were at the wedding.
+
+I was at the wedding, but I don’t know this part.
+
+Okay. So I was at a cocktail event. There was a theater group. Actually, Catherine was at the wedding too, who was responsible for all this. There’s a theater production group in New York and they had their annual gala and I went to raise the flag in support. It’s full of artists and theater people. I didn’t know the first thing about theater or all this stuff, so I just went in line for a drink just to hide out and have an excuse not to talk to people.
+
+There was a guy standing next to me who said, “Oh hey, my name is so and so. What is your name? What do you do?” I said, “Oh, I do medical research,” because in New York, at the time, nobody knew what biotech was. He said, “Oh, that’s interesting. My ex-girlfriend does cancer research in Boston.”
+
+All of a sudden, my ears perk up. My antenna goes up, like, “Ding ding ding ding ding. Really?” ‘Cause this was a pretty good-looking dude. He was this tall and nice-looking guy and he was clearly well-adjusted and kind of a likable guy, and I thought A, cancer research in Boston. That’s what I do. B, if this guy’s pretty good-looking, his ex-girlfriend is probably pretty hot. C, she’s probably pretty well-adjusted because most women in science, there’s so few that the guys are like sharks, but if she can interest a guy who doesn’t know any science who’s pure arts, she must be kind of a well-rounded personality. So A, B, C. I’m like, “Ding ding ding ding ding,” ’cause I was already on the lookout ’cause of this system mindset, like who I’m dating.
+
+Within about the first 30 milliseconds I’m like, “How can I stalk this guy electronically tomorrow, figure out who his ex-girlfriend is, and then somehow accidentally arrange to bump into her?” This was all within the first few seconds.
+
+He’s just talking and you’re not hearing any of it.
+
+He’s just talking. I’m just mentally —
+
+Planning the next day.
+
+Planning, “Tomorrow I’m going to figure out, does he know the woman who’s hosting and then can I find out what his last name is?” Anyway, I’m doing all these calculations in my head. Then, so he asks, “What’s your connection?” I explain, “I run a biotech company in Boston in cancer research.” “Who’s your advisor? Oh, I know that guy,” dah dah dah. He says, “Oh, do you mind if I introduce you ’cause he might be interested in a job in industry.” I’m thinking, “Ding ding ding ding ding.” But I’m sort of calm. I’m like, “Sure. Well, I’ll see if I can make the time for that meeting.”
+
+So then I go home and the next morning I’m thinking, “All right, what are the odds? It’s Saturday night in New York. Some guy in line for a drink tells you something about his ex-girlfriend, that he’s actually follow through?” So this is less than a 10 percent chance, right?
+
+So I’m already thinking, “How do I figure out who this guy was?” And then I get this email. He’s like, “Oh, Safi and Magda, I want to introduce you. Magda is interested in so and so and Safi does such and such.” Later I found out he Googled me and there was this profile written about me online and there was a little video, and so he forwarded all that stuff to her. I didn’t know that at the time.
+
+Anyways, so I get this email, and then so 10 milliseconds later I Google her and out comes this model pose. I’m like, “What the freaking hell? That’s a cancer biology PhD who’s at postdoc at Harvard? Oh my god, I am so taking this meeting.”
+
+So then I arranged to meet her, and then we meet up one week later. It was supposed to be just a coffee. It’s the least romantic. I was down at the Dana Farber Cancer Center for some meetings and she was working right nearby so we met at the Longwood Medical Galleria. Doctors in scrubs everywhere and it’s just a fast food court, and there’s some cheesy little hotel there with a cheesy little restaurant. I forgot the name.
+
+I sit down, 5:00. It was supposed to be a 30-minute coffee and it turns into five hours, and I don’t even notice the time. For the first time, I feel like I’m not trying. I’m not trying to be entertaining or tell a story or blah blah blah. It’s just like, this is the actual me, and she’s like a female version of me. Not really, but female version minus 14 years, very attractive, and from the Czech Republic and I’m from Israel, and New Jersey, but other than that.
+
+Other than that, very similar.
+
+Other than those little things. No, but she really cared about science and the search for truth and family and really didn’t care for anything else. All this stuff of the glitz or financial or material stuff that is really sadly pretty common in Manhattan, she just had no interest. She just liked the science she was doing and figuring out good science and she cared deeply about family, and that was it. She knew what she cared about and she clearly just had fantastic values, and I was like, “This woman is awesome.”
+
+How’d it work out?
+
+And I would say eight months later you got the wedding invitation.
+
+Amazing.
+
+Yeah.
+
+Beautiful wedding.
+
+Thank you.
+
+Also.
+
+Thank you.
+========,9,title.
+And — so I like the weaving that we’re doing from sort of personal to business, because it’s same same but different, right? Like a lot of the thought processes behind them. And one thing I was hoping to do today also, which you’re doing a great job of doing yourself, but it is humanizing you in the sense that I read a very simple bio of you. But if we got into a lot of the details, you can be very intellectually intimidating, I think, you could be. You’re a very smart guy, and there’s no doubt some hard wiring that helps with that, but you also use systems, and you enable yourself with tools.
+
+So you mentioned no BLC, right? And you said very quickly in passing, “Well I can’t remember anything unless I use acronyms.” So let’s talk about acronyms for a second, because this type of shorthand can be really helpful. What other acronyms have you used and there are a whole bunch that pop up, literally many, many, many acronyms that you use. So I’m looking at one here, but you can start with any one you like, one FBR, write FBR, what the hell does that mean? But what are some other, whether it’s sort of heuristics or acronyms that you use to help perform better, make better decisions anything.
+
+All right. Write FBR. So that’s one of the writing rules of thumb that I learned was one of the most important writing rules. After a year or two or three I kind of broke out writing for myself into style, story, and process.
+
+Style, story, and process.
+
+So I had kind of five rules on style that I worked on and iterated, kind of five rules on story that I worked on and iterated, and five rules on just writing process, which is sort of writing routine. But probably one of the most important ones on the routine process was write FBR. So that means write fast, bad, and wrong. And the reason that that’s so important is that especially if you have any kind of perfectionistic tendencies, and I know a lot of people write about this, but FBR is what resonated for me and how I remember it. It just means when you’re starting to write, let’s say you found the idea and the narrative thread and the thing that you’re — the wheels are turning and you think you can see — it’s like driving and you can only see a few feet ahead, because you’re in a fog, and sort of the mist clearing and you’re like, “Oh, I see. I see where I’m going with this thing, and let’s just go.”
+
+The inclination is when you write a sentence or a paragraph or the first couple paragraphs is to stop and backtrack either for style or for facts. I’m doing nonfiction, so I’m not doing fiction, so on such and such date this guy did this thing, and then he did that thing. Was it really that date? Then let’s go check the internet. So that is a disaster; you’ll never get anything done if you do that. So the trick is to go exactly 180, especially if you haven’t — write FBR: write fast, bad, and wrong. Put the wrong date. You don’t get the style right? The sentence doesn’t sound good? Great.
+
+Write fast, write bad, and write wrong. Terrible style, terrible grammar, terrible word choice, wrong facts, and that liberates you. That liberates you to follow the narrative thread and just keep going and going with it. And not stop and backtrack, because every time you stop, maybe it’s like a car going down the highway, it’s easy to stop, but then you have to spend all this fuel to get back up to speed, and you might not get there. So once you’re finally going, what you often discover — you write a lot too — is like once you start writing, and start pulling on that narrative thread, like it’s just really surprising where it goes. But only if you go fast. Not if you go slow.
+
+Not if you say, “Oh, is it 1941 he did this, or was it 1939? Was he with this person or was he with that person? Am I spelling his name correctly? Let’s go check on the internet.” Then you’ve lost the thread. And it hurts on many levels; not only do you get less done, but you lose the creativity, ’cause it’s only when you’re at high speed, and the wheels are turning and you’re like, “Oh, wait, wait a minute, oh, I could go here, oh, I could go there, and oh, I could go here.” When you’re driving fast, you can make a left turn, it has a big impact. Not when you’re driving slow.
+
+You know, I was just thinking, creativity, and there are many different types of creativity, but it’s in some ways a lot like riding a bike. It’s easier at slightly higher speeds.
+
+Exactly.
+
+You try to ride a bicycle really really slowly and you’re twisting and turning and trying to keep your balance, and it’s herky jerky and the stopping and starting, that task switching is really expensive.
+
+It’s funny you’re saying that, because the physics of that is the angular momentum of the wheel, and once you have high angular momentum, you’re much more stable than at low angular momentum.
+
+Yeah. I was going to digress into motorcycles for a second, but — of course part of the fun of having our conversations is that it’s just a beautiful medley of digressions. But trying to maintain some semblance of professional podcasting protocol —
+
+Oh, we can go on a motorcycle digression too, I got motorcycle stuff, but that’s another — you’re in charge, you go wherever you want to go.
+
+We’ll come back to motorcycles. We’re going to segue to other subject areas, but what other, we’re not going to go through all of the rules for style, story, and process, but I’m curious particularly on process, but it could be any. Are there any other rules that you have found to be particularly valuable for writing that jump to mind?
+
+It’s the hats. For me I realized, and again a lot of this stuff took a long time, there are two hats you wear on reading, and there are three hats you wear on writing. And you just want to be very clear about what hat you’re wearing when, so you don’t confuse them. And then you’re much more efficient. So you asked about acronyms; I have some really silly, I don’t think I’ve ever said these out loud, it’s more like inner voice acronyms. But since you’re an old friend —
+
+That’s what I want.
+
+— and this thing is definitely not on. So in reading there are two modes, two hats you wear, or at least for me. And the first one I call RICLS, and the second one I call REAS.
+
+(laughs). Okay.
+
+I can tell it’s like silly and stupid, but that’s how I think about it. RICLS is reading for information, content, lessons. RIC — whatever it is. RICLS, reading for information, content, lessons, and stories, RICLS. If you’re writing nonfiction, that’s for like the raw meat of the facts or the ideas of the story. And you’re really reading for information, for content, and for lessons.
+
+And when you say reading, are you referring to research that you’re doing?
+
+Research.
+
+Got it.
+
+So that’d be the research. Let’s say you’re writing about World War II, then that’s in RICLS. You’re reading very fast, as fast as you can and as deep as you can, and chasing different threads, and different footnotes, and different archival — and that is the RICLS hat. You’re reading for the information, for the content, or for the lessons you want to use, or for the stories you want to tell: RICLS.
+
+Totally different hat is REAS. Reading for ear, art, and skill: REAS. So when I was reading —
+
+Nabokov.
+
+Nabokov for example, I was reading for kind of the musical rhythm, and the pacing, and the tricks that he uses on transitions and, or others. He wasn’t the only one I did that. Donald Hall, whose book Essays After Eighty — he was, again, I’m kind of ignorant when it comes to literature, a lot of people knew this, he was a Poet Laureate —
+
+First time I’m hearing his name.
+
+I remember talking to some English friends and they laughed at me that I didn’t know who he was. But, anyway, some friend had sent me his essays, and I picked that up, and as a poet he also has incredible word choice and rhythm and pacing and it’s very different from Nabokov. Nabokov is fun but it’s completely eccentric, and completely unique style that only applies if you’re a Russian emigre who plays with a dictionary for fun. It’s not relevant for copying, it’s just interesting to develop ear.
+
+But Nabokov is cold. He’s clearly, he’s writing for entertaining himself with language. He was the first to say, “I don’t have any messages; I don’t have any morals,” and you can sort of tell he doesn’t care about his characters. He’s just playing. He’s playing with language. Hall is warm. He wrote, he just passed away, sadly, he wrote so movingly and sparingly about incredibly deep, emotional, personal things. His love affair with his — how he fell in love with his wife, and how he thought she would outlive him and they made all these plans, and then she came down at an early age with leukemia, and he just couldn’t believe that he was out burying her, and she was — but he writes in a not a maudlin way at all, and he write it so beautifully, and so powerfully, and so tightly.
+
+So I read Hall for “How do you write about emotion?” which I had zero experience, especially as a scientist, emotional is not like a top skill, right? And communicating emotion was not something I had any skill in doing. So I read him not only for the beautiful but very different writing style, but also for “How do you write about emotion? How do you write about people? How do you write about characters in kind of a poetic way?” Not overtelling, but using as few words as possible. Anyway, that’s REAS.
+
+I want to pause for one second, because I’ve been able to see the output of that in Loonshots for instance, in the very beginning, in some of the stories you tell with patients. It’s a great example —
+
+Oh yeah. Thanks.
+
+— of like the output of training that ability that you did not consider yourself as that faculty you didn’t consider yourself as having developed, right?
+
+Absolutely, yeah.
+
+And I want to, I am going to interrupt but not for very long, because I do want to get to the writing side. I want to underscore for folks who are like, “Why are we talking about writing with the physicist biotech entrepreneur?” and the reason we’re talking about it is because it’s same same but different. What I’m really fascinated by is how you structure your thinking and question and stress test your thinking. So just for people who are like, “Why are we talking about writing?” That’s why. So, please continue.
+
+Okay. So you asked about the other writing lessons, these multiple hats. So in reading it was RICLS, now I’m going to put on my hat that has nothing to do with style, so just shut off that part of the brain, you read it really fast for a story or a content. And then REAS I’m reading for ear, art, and skill. So it’s pure writing skill. So the way I train for it is to think strategically about “Where am I weak?” So I can explain a technical idea pretty well; that’s what I’ve been doing my whole life, whether in academic science, or in a biotech company trying to explain technical stuff about how a drug works with the biology or chemistry to people who are not as technical.
+
+So explaining an idea I can do, even in plain English, but books that just explain ideas are boring. I don’t even like reading them. People don’t really connect to ideas. People connect to people. If you can tell a story about people through which an idea is revealed, that’s the best of all worlds. So just talking about ideas is just eh, so so. Just talking about people, then you’re sort of a fairy tale. But if you can combine the two, tell stories of people through which an underlying idea is revealed, which is connected by an underlying idea, which is what I tried to do in this book, that’s for me the grander challenge, that was really kind of the big challenge. How do you not do A and not do B but do the combination of A and B?
+
+So I was not good at telling stories of people. You don’t really do that in academic science, you write a paper, you’re not going to write a paper saying “Well let me tell you about the day I first had this idea, and then I was wrong about this, and then Joe — ” That’s not how you write an academic paper, and when you run a biotech company you do your earnings call if you’re public, or you’re at an investment meeting and you do your 25-minute road show, you’re not “You know, let me tell you a story about how failures and the characters — ” No. They’re like, “What was your RND spend —
+
+Just the facts, man.
+
+Just the facts.
+
+All right. Safi, we’ve talked about the two hats of reading. What are the three hats of writing?
+
+The three hats of writing, the way I think about is there’s hunting, there’s drafting, and there’s editing. In hunting, you’re looking for the narrative thread that’s going to hold your story together, or if you do nonfiction the series of stories, and the series of anecdotes, and the lesson you’re going to draw. That’s the hunting. The drafting is where you’re writing FBR, fast, bad, and wrong. Just as fast as you can. Then the editing is where it all comes together. You get rid of all the glitches and make it shine.
+
+As we were talking, I was thinking about this movie you took me to see, this premier you took me to see yesterday by Robert Rodriguez, where he made this kind of amazing movie for $7,000. Before that he was talking about a master class, he was doing his master class in film, which was just really a master class in creativity. He was talking about how in film, he thinks of making a film also in three stages, like cooking, where you write your recipe, then you go grocery shopping, and then you do the editing at the end just like you’re cooking.
+
+I think it’s very similar in writing. The hunting, the finding the narrative thread is like your recipe. The drafting fast, bad, and wrong, the FBR, write as fast as you can, is like going to the supermarket and just filling your cart as fast as you can with all this stuff. Then it all comes together in the editing. It’s actually very interesting hearing that from Robert Rodriguez, because it just reminded me of the three hats that I wear when I’m writing.
+
+Well it maps almost perfectly to it.
+
+Yeah, yeah.
+
+He used index cards, like a pack of index cards you can get for probably a dollar, or two dollars, and he’s like, “This could change your life.” One pack of index cards. He’ll lay it on the floor, and then rearrange the order, and so on. Like you said, that’s the hunting for the structure, or the arc. Then, same as you, fast, bad, and wrong in quick drafting. Then assembling it in some respects with film, I know this is slightly different, but improvising on the fly when things go wrong or other opportunities present themselves on the actual set or day of shooting.
+
+When you are doing the hunting, did you have, for instance, a within chapter structure that you tried to stick to? Were there common ingredients with a chapter, where you would try to start with a story, then add facts, then close with a story? Or did you look at it as more of an arc and a build over the course of the book? Or perhaps both? How did you approach the hunting portion?
+
+I’d love to say I had a system or a method, but absolutely not. I literally started with a blank page, and almost panicked. I actually had to learn — one of my rules is patience over panic. You start with a blank page, and I just had absolutely no idea what was going to happen, where it was going to go, what story. I end up with all these kind of crazy stories. In fact, this is probably the nicest thing somebody said to me about the book, it was this guy named Bob Sutton, who wrote this book called The No Asshole Rule.
+
+Yeah, Bob’s a good guy.
+
+Very funny guy. We were having beers at the Dutch Goose in Menlo Park, which I used to go to 20 years ago. He’s been like a lifelong customer since he was like 12. We were in the second or third beer. There’s another author friend of ours there. At some point he turns to me and he goes, “Your book.” I go, “Yeah.” He said, “Man, that was some wacky shit.” I feel like that’s some — you have Pan Am, and Einstein, and Kepler, and Steve Jobs, and U-boats. I feel like in some ways that was actually the nicest thing anybody said to me.
+
+Oh yeah. I think “wacky shit” is a strong endorsement.
+========,9,title.
+Yeah. When you asked what did I do to get these wacky stories in each chapter, all of them are so different. Comparing Juan Trippe at Pan Am with Bob Crandall in American, or Steve Jobs and Jef Raskin versus Isaac Newton and Robert Hooke, comparing across two centuries. I have absolutely no clue where they — I would just lock myself in my little cave, shut the blinds, and I would just disappear into some zone. Then I would reemerge at 5:30 to pick up my daughter from daycare. I’d look at what — where the hell did that come from? I have no idea.
+
+To answer your question, I would just look at a blank page and then I’d look up at 5:30 and this, what did he call it? Wacky shit was just all over. That’s the grocery shopping. We were talking about the Robert Rodriguez film, and once you start, that’s the advantage of writing FBR, writing fast, bad, and wrong, is that once you start going at a high speed, all this stuff just —
+
+Yeah. The speed is really important.
+
+Yeah. I’ve always thought, since I sort of have three rules for everything, creativity for me is about speed, attention, and courage. You want to go as fast as you can. For me, getting the stories is about speed reading. I had so many sources. I think I had about 5,000 files. I mean I scanned almost all the books, so I have everything electronic. I could search in the database electronically.
+
+I was just reading as fast as I could because eventually something — that’s number two. First is speed, second is attention. You want to be reading as fast as you can and then all of a sudden there’s a tiny little thing, like whoa, wait, what? That’s where you go. The visual I have, because I have sort of a visual for everything, is that there’s this dense forest of stuff which is all the facts, and data, and stories. There’s this beautiful clearing on the inside, which is a central core idea. You’re looking for the path in.
+
+You’re running around the circle as fast as you can, and you’re looking for a path in, or something to guide. Maybe you’re looking for a little red sparrow that’s hiding, that’s going to peak out behind little leaf, or a tree. You’re running, looking and looking, running, going as fast as you can. Then all of sudden you see that. You need speed, you need attention to keep your eye out for that tiny little red sparrow to say, “I’m over here. This is the path.”
+
+Then, you need courage. It may look like a really wacky sparrow. You need to have some balls to really follow that idea. Your first thought is “There’s just no way I could compare Steve Jobs and Isaac Newton, that’s absurd.” Well, let me pull on that a little bit more. Oh, it turns out Steve Jobs didn’t really develop the Macintosh, he had this assistant named — no, he didn’t have an assistant.
+
+There was a guy working at Apple who had been working on this project that he called the Macintosh Project for a year or two before Jobs. He tried to interest Jobs in it, and Jobs dismissed it. Eventually, just because of, by default after Jobs had kind of messed up the Lisa and Apple III, that was the only project they could find. History got rewritten, that oh, he invented it. That’s not really what happened.
+
+That’s kind of what happened with Isaac Newton. Oh, he just came up with the idea of gravity. Well actually there was a guy who was a much less charismatic, much less good communicator named Robert Hooke who came up with a couple of the central ideas of gravity. He sort of fed them to Isaac Newton, and then Isaac Newton ran with it, just like Jef Raskin kind of fed the ideas of a graphical user interface and a small computer called the Macintosh, it already had the name, to Steve Jobs.
+
+Now Steve Jobs was a much more charismatic, much better communicator, in some ways much more ambitious, and shoved him aside. Just like Isaac Newton had a lot of skills that the other guy didn’t have. I mean Steve Jobs was a great synthesizer. He could bring in marketing, and motivate people the way that Jef Raskin couldn’t. I realize we’re going on a really long tangent here.
+
+It’s okay.
+
+Isaac Newton also had some better skills, but he was really fed the early ideas by a guy named Robert Hooke. For creativity, what I found is speed, attention, and courage. You have to say the idea of comparing Steve Jobs and Jef Raskin with Isaac Newton and Robert Hooke sounds nuts; who would ever do that? You have to have some balls to go after that.
+
+Yeah. It strikes me also that one could look at it not just as a potential sequence, but also as a hierarchy in the sense that, if you don’t have speed, you’re not going to be able to develop the 360 degree view to have the attention yield any fruit. You need to have that as almost a precursor to the attention. Then the attention is a precursor to the courage, which is sort of the execution on what you find, that little red sparrow.
+
+Yeah. That’s exactly right. It’s in order. Speed, attention, courage. That’s what I found for me was the secret of creating wacky shit.
+
+If we come out again to look at the world of business, and not fooling yourself, or not confusing process and outcome and trying to really have, to read something correctly, I should note also that these different hats and these different heuristics for being clear on your purpose before say reading a book, or selecting a book in the first place, is really really really important, and — I’ll give an example that illustrates this in a very different context.
+
+So Tony Robbins does an exercise at some of his events where he’ll ask people to scan the room and he’ll say, “Before you scan the room, I want you to note anything red, a reddish hue, remotely close,” and they do that for 60 seconds, then he says, “All right. Run through the list of all the things you saw that were red,” and then he asks people, “Now note without looking around the room what you saw that was blue.”
+
+Right.
+
+And people can’t do it.
+
+Right.
+
+And it’s to have that search function set in place before reading a book, before editing, is really really critical. Let’s talk about, I think the term you used is false failures? Or …
+========,9,title.
+False failures.
+
+Let’s talk about that for a second, because it also might tie into someone you mentioned at the very beginning of the conversation who is Peter Thiel, but can you talk about what a false fail or false failure is?
+
+So false fail is the idea. Let’s say you’re nurturing some crazy idea that everybody thinks is nuts, which I call for lack of a better word a loonshot, rather than a moonshot. A moonshot everybody knows what it is, a big goal and an exciting destination, but the big ideas that really make, that transform whether it’s an industry, a science, or even world history, almost never arrive dazzling everybody with their brilliance. They tend to be the ones that are floating around for years or sometimes decades, and the people championing them are written off as nuts.
+
+In the revisionist history, looking back it’s like, oh it’s obvious that it was right, it’s sort of a natural tendency to assume that, and the guy was obviously a genius, but most people don’t talk about the fact that everyone said he was an idiot for 20 years, including some of the most famous people and famous discoveries we know of. But what you see with loonshots, with these crazy ideas, is very often people give up on them because of what you might call a false fail. By false fail I mean it was a flaw in the experiment, rather than the idea. The outcome is the same, the experiment gave a negative result, and everybody walks away; in science that’s the case. Experiment gave a negative result, everybody walks away, but the problem is not with the idea, it’s with the experiment.
+
+So the example, you mention Peter Thiel, so the example I use, I think I might have first heard about this from Ken Howery, another mutual friend. So I think Ken was telling me this one time over drinks, this was many years ago.
+
+He was at PayPal with Peter, part of the PayPal Mafia.
+
+That’s right. I think they knew each other from Stanford days or something like that.
+
+Yep, and then later Founders Fund and so on.
+
+Right. So Ken had started working with Peter on his private investments. This was just a few months or a year before it turned into Founders Fund, so he was kind of helping him out. And he mentioned that this guy Zuckerberg had come by, Mark Zuckerberg, with this idea for a social network, and social networks had been around for a decade at that point, and they’d all gone nowhere. There was a dozen of them. Even I can remember all these crazy names of all these things, you know, ASmallWorld, Tribe — whatever. All these things went and flamed out. And at the time, there was another one that was rising, it was sort of the popular one at the time called Friendster, which some people may remember, and that was just starting to flame out, and people were leaving Friendster for the new thing at the time which was called MySpace.
+
+So when Zuckerberg was going around, Ken was telling me this story, everybody had kind of passed on investing because everybody said, “Well look at all the social networks —”
+
+Bishop takes pawn.
+
+They said “All these guys fail, and do you know why they fail? We know why they failed: because you can see that all these users are hopping from network to network and that’s the outcome.” That’s the bishop take pawn. It lost the game. “All these social networks are going nowhere; there’s no money in them. So no, we’re not giving our money to this Zuckerberg kid or whatever his name is.” And Ken and Peter said, “Is that really why they’re failing? Let’s take a look.”
+
+And so they had friends behind the scene at Friendster, I don’t remember if they were investors or not or whatever, but it’s a small community, and they said, “Let’s ask for the data, for the user retention data. People are clearly fleeing,” and we know they were using Friendster and the website was kind of glitchy and it was sort of crashing. So they got the data on the user retention in Friendster and they found, “Holy crap, people are staying on this site for hours. Now this is a site that’s crappy — no offense to whoever’s listening who is part of that team — but this site is crashing all the time,” and they happened to know that they had been given advice on, “Okay, you need to build — you’ve scaled from a few users to a few million; you need to improve your systems because your site is glitchy.”
+
+And what they realized was that people were staying on for hours, even though it was a crappy, glitchy website, and that the MySpace just had a better website. It wasn’t that it was a bad business model like clothing fads, that’s what everybody thought, you just switch, everybody will switch en masse every season. They were actually great. People were staying forever on these sites; these guys just had a bad website. They had a software glitch. So it was a false fail. It was a false fail of Friendster. It was a flaw in the experiment, in the process by which people were making their judgment. Not a flaw in the underlying idea, the loonshot, this crazy idea that social networks had some value.
+
+So Thiel wrote Zuckerberg a check for $500,000.
+
+I think he was the first outside money in Facebook, or non-family and friends in Facebook.
+
+That’s right, and I think eight years later he sold it for a billion dollars. And that’s how paying attention to a false fail can be very lucrative.
+========,9,title.
+So, let’s see here, there’s another name I wanted to bring up, who I am blanking here, it begins with Sir James…Black. So who is Sir James Black, and what did he say to you at one point that sticks in memory, because this may relate in some way.
+
+So he was — and he passed away a few years ago as well — he was a Nobel prize winning pharmacologist, chemist from Scotland, and he in some ways revolutionized drug discovery. He’s one of the first legendary what people call drug hunters. He just had a nose for identifying great new drugs. And so when I met him I think he was already in his 80s, but we got him interested in what we were doing, there were things that he liked about our little team and our little band of biologists and chemists, and we had to sort of — we went against the grain of what people said you should be doing and that kind of appealed to him.
+
+So he would fly over periodically from Scotland and advise our team, and I remember one night he had flown over — remember, this is like an 80-year-old guy — and he had flown over some transatlantic flight, landed in the morning, and he probably had a 12 or 14 hour, he just went through the whole day of like research, research, stories, and he’d been talking the whole day, and standing on his feet, and we’re at the end of some dinner and I am like dropping dead of exhaustion, and I’m probably in my mid 30s or early 40s at the time, and I’m just like, “I want to go home to bed, because this was a long day.” So I’m getting up to go and he goes, “No, Safi, stay, sit down, sit down. Come have a whisky with me.” I can’t do a Scottish accent.
+
+Like everybody else leaves and I’m like, “Oh my God. How is this 80-year-old guy just full of energy?” So he gets some whiskies and tells us why he loves what we’re doing and this and that, and then, he starts with “Well let me tell you when I was —” and starts with like the Korean War. I’m like, “Oh, my God.”
+
+This is going to be a long night.
+
+I’m going to need a shot of adrenaline or something just to stay alive. But I mean they’re fascinating stories, this guy really developed two phenomenal drug categories that saved millions of lives. So we start talking, he tells me this stuff, and at some point I tell him about how there’s this project in the lab that I’m feeling kind of depressed about, because I was really excited about it, but it hit this negative result. And he pats me on the knee again, and he goes “Oh, my boy, it’s not a good drug unless it’s been killed three times.”
+
+And I took away from that, it really kind of gave me pause and made me rethink. And then as I started going through more histories and stories, the revisionist histories that you read about these great discoveries, “Oh, I had this idea on a Monday, and then I showed it to people on Tuesday, and we’re all excited on Wednesday, and it worked on Thursday, and the drug was approved on Friday!” That is not what happens.
+
+These people with these great ideas, they get killed. Like really, the project gets terminated, everybody hates it, it’s pull the plug. People say it’s tough to pull a project, let me be a big man and kill a project. It’s really easy to kill a project. If you’re in charge, you just say no funding, you’re done, and it never comes back. No one’s going to work on a dead project, so no one can prove you wrong. You seem like a big man, it’s actually hard to keep a project going. Why? Because any good, crazy idea stumbles and fails, like Jim said, it gets killed through time, it has these terrible failures it seems like a really bad idea, it doesn’t work, it looks like it’s not going to work out, and then if you have a really great champion, or you get really lucky, you survive that failure.
+
+And all of his projects, that he won the Nobel prize for, there are two drug categories, the beta blockers and the histamine antagonists, failed like that multiple times. And so that’s what he meant, and then when you look back in history like the statin drugs, I tell a little bit of that story, probably saved millions of lives, prevented millions of heart attacks, they were killed multiple times, and they almost died and disappeared and never happened. I’ve come to think of that as the three deaths of the loonshot. The truly important breakthroughs are killed several times, and it does go against the grain of the stuff that you hear in Silicon Valley all the time of fail fast and pivot. Fail fast and pivot.
+
+Well, okay, if you fail fast and pivot, that’s probably what everybody else did when they hit the exact same stumble. And sometimes it’s the opposite. Everybody will fail fast and pivot when they hit that same stumble, but there’s something really important underlying there, I mean often that is the reason why there’s something really important is because everybody has turned away from the same stumble, you need to make it past that first stumble, past the second stumble, past the third stumble, and then you have the goal. And that’s why it’s gold, because everybody gives up on the first or second — because everyone is following fail fast and pivot, so everybody’s given up. If you persisted through those failures, that’s where the really, really big breakthroughs are.
+
+So let’s do a little retrospective on looking at some historical examples, and maybe by way of example, describing what loonshots are, and I believe there are two types, and we can talk about Juan and Bob, which is not a country music duo. Give us some examples of loonshots and maybe the different species of loonshots.
+
+The two types, so, there is the one type I think of as a product or a technology that everybody says won’t work. So you go way back to the telephone, people said, “This is a pointless toy,” or the transistor, “There’s no way you can make a switch out of some solid state device,” or personal computer, “That’s not going to be important,” or digital cameras, or even jet engines, that’s the Juan and Bob story, jet engines, there’s no way you could ever make a commercial plane with a jet engine. So those are products or technologies that everybody says won’t work, let’s call those P type.
+
+The other thing is much less, those are kind of glamorous, because you can put a picture of a product —
+
+P for product.
+
+P for product, P type. You can put that on the cover of a magazine, people get really excited. There is, we’re at South by Southwest, so there is this obsession of product, product, product. But what people often miss, and is sometimes much more important, and is a dangerous trap if you miss it, is the other kind, is a small change in strategy, that involves no new technology. It’s a small change in strategy, it’s called S type, that everyone says is crazy, or won’t work. So what’s an example of that?
+
+Well, let’s take a story of a young kid who wanted to go into retail and wants to open a shop where all the customers are, which is big cities. And then his wife happens to say, “Well, honey, I’m happy to support you in this dream of yours, but I just hate big cities. I’m only willing to live where the town is smaller than 10,000 people.” So he says, “Okay.” And he decides he likes being married. He also likes quail hunting. So he knows there’s this region in the middle of America where the four states come together in the corner, and there are four different quail hunting seasons, so he puts his store there, and he moves to a little town called Bentonville, Arkansas, and he opens his store.
+
+And he makes it a little bit bigger, and he sells stuff a little bit cheaper, and he gives the store a name, it’s called Walmart. Okay, now that ends up absolutely dominating the retail industry and wiping out everybody else. Now is he thinking about “Let me go disrupt the retail industry?” No, he had a wife that didn’t want to live in a big town, and he liked quail hunting, and he made stuff a little cheaper. So he had small changes in strategy, where he put his store, how big he made his store, and made prices a little bit lower. Were there any new technologies? No. He just sold stuff. Did he invent retail? No. Did he invent selling stuff a little bit cheaper? No.
+
+These were small shifts in strategy that ended up being incredibly important. So those things are much harder and they’re much less glamorous because they’re harder to write about and harder to prove than the P type things, which are easier to prove. So those are the two types.
+========,9,title.
+And just so people aren’t left hanging with Juan and Bob, Juan Trippe and Bob Crandall, American Airlines. But the example that really, I had actually not had any familiarity with — which I’d love you do describe briefly is Robert Goddard and the rocket flight in space, because people credit other people, namely, I guess it would have been JFK, but could you describe a little bit of the backdrop for that story?
+
+Sure, so in fact that gets right to the moonshot loonshot. So in 1961, Kennedy announced in a speech to congress his ambition of putting a man on the moon. And of course that was widely applauded and —
+
+And of course that was widely applauded and that’s actually where the term moonshot comes from. But as we mentioned, those breakthroughs that get us there are rarely recognized and widely applauded at the time. So in fact, how did we actually get to them? And well, we got to the moon on a rocket. Rockets work through liquid fueled jet propulsion. So the principles that got us to the moon were invented by a guy named Robert Goddard four decades earlier. And he had written it up. He had demonstrated. He’d been working on experiments. He had proved it to pretty good certainty, but he was ridiculed. And I remember I found this in The New York Times in the archives. This was pretty hilarious, in 1920 I think it was, after Goddard had suggested his idea that we could get to space with these liquid fueled rockets, in 1920 The Times came out with an editorial and said, “Oh, this guy, Professor Goddard with his ‘chair,’” they literally put quotes around the word chair and physics like that’s a bad thing. You know, air quotes, his “chair” and “physics” at some university like Clark and making fun that he wasn’t an Ivy League guy and he was a “chair.” And he says, “This professor doesn’t understand the basic laws of physics that we teach our children every day in schools.”
+
+“Seems to lack the knowledge ladled out daily in high schools.”
+
+Exactly. Namely that Newton’s Laws of Action and Reaction make rocket flight in space impossible. End of story. So the funny part of that is like fast forward, I think it was July 11th, 1969 if I remember, it was the day after the successful launch of the Apollo 11 rocket to the moon, The Times issues a retraction. And it says, “apparently rocket flight does not violate the laws of physics.” The Times regrets the error.
+
+And even when you really, really put these seemingly miraculous successes or iconic structures, for instance the Eiffel Tower, under a fine sort of forensic lens, you realize that, I’m not going to say all of them, but it’s certainly very high percentage, not only encountered resistance, but exceptionally violent and heavy handed, that sort of ad hominem attacks. I mean the Eiffel Tower, which everyone knows at this point and it’s in every brochure and every sales pitch for Paris and France was opposed by just about everyone. I mean, it was all uphill. And I want to talk at some point about how smaller teams or entrepreneurs who are maybe solo, maybe with a handful of folks can think about embracing or a structured thinking around loonshots.
+
+But I wanted to jump back to your personal experience for a second. And again, feel free to fact check this because you can’t believe everything you read on the Internet and certainly not in every book. But I have here a quote from Michelle Wie, the golfer’s coach who instructed her, and this is from a book, The Net and the Butterfly. She was given a quote by her coach to repeat to herself whenever she missed a putt. “I’ve gotten that out of the way. Now I’m one step closer to becoming the best putter in the history of golf.” The segue is that you were then mentioned afterwards and the quote is, “I often think of that quote when I screw up.” A, is that true? B, are there, how do you use such a quote or other quotes as a practice or a reminder? It’s a lot of questions at once.
+
+No, sure. That’s good research. So that’s from my very good friend, Olivia Fox who was also at the wedding. You may have met her there. But she sent me an early draft and I gave her that quote. And it’s a mental reminder of whenever you screw up and anyone who’s gotten anywhere, it’s because you’ve been through those three deaths. You’ve been called a failure, an idiot, including in drafting this book when like everybody, you had the same experience, every publisher is like, “Oh, yeah, there’s like no way. Books trying to mix physics and business never work.” And I’m thinking like, “Really? Like what book that mixes physics? I haven’t read any books.”
+
+There’s so many nevers just to like books on physical fitness, cookbooks don’t travel internationally. I mean, there’s so many nevers and you’re like, “Really? Like, where’s the data on that?”
+
+Yeah. And so, Olivia, who’s a good friend, asked me for that quote and I thought about that at the time. And the inspiration a little bit is also tennis. So I played in the juniors as a kid and grew up playing tennis and at the time it was probably, shows how old I am, Pete Sampras versus Andre Agassi. And so both were, I admired both. Agassi developed this tic or trick, which is at the end of a bad point, if I remember correctly, at the end of a bad point, he would slap his thigh, and that was like a mental little hook to forget about the point. He just associated with slapping his thigh with forgetting the bad point that he just fucked up and focusing on the current. And that was a little trick for his brain just to stop wallowing in the bad and focus on now and the bad just went away.
+
+And it’s the same thing with Michelle.
+
+Michelle Wie.
+
+Yeah. Michelle Wie. And it’s, you screw up, you do something stupid, even in business life, you had a bad board. You said stupid things or you had a bad investor meeting or you did something dumb with an employee that you regret doing, you need to slap your thigh or think of the Michelle Wie example like, “I screwed that up. And that’s one step along the way of me getting better in whatever I’m going to do. Now slap the thigh and let’s focus on, set that behind you and move forward.” And so that’s the kind of golfer quote or the Andre Agassi slap your thigh trick.
+========,9,title.
+Okay, related because you use, and not to belabor this, but you have, you use systems and reminders a lot.
+
+Yeah.
+
+Why do you have a Post-it note and you may no longer have it, but a Post-it note that says “The Adventures of Luke Starkiller?”
+
+Oh yeah. It’s still up on my wall.
+
+What on earth is that?
+
+So I did a lot of, one of the stories I tell, I tell a bunch of film stories. One of my really close friends is in film and we’ve been friends for many, many years. And so I’ve, he and I have traded stories and part of the inspiration was it was so fascinating to me how many of my stories from biotech were so similar to the stories from film and how what a biotech CEO does is so similar to what a film producer does and how the markets are structured. The hundreds of biotech companies and the hundreds of film and the few film majors are so similar to the hundreds of small production shops and the few film majors at the top, the few pharma majors at the top and the hundreds of production SOPs and the hundreds of biotech companies. The film industry structure, the financing of it, the dynamics of it, the focus of it was so similar. Developing a film was so similar to developing a drug. I just found that connection fascinating.
+
+So I tell a fair amount of film stories, and I realized my answers are kind of long winded here, like I tell a lot of stories to get there. My wife hates that by way. I’m doing that again? I’m going off on a tangent story of a tangent. This is a tangent of a tangent of a tangent.
+
+That’s why I do long form.
+
+That why there’s a delete button on those videos,
+
+Sure.
+
+Anyways, I tell us a fair number of film stories. I tell a kind of James Bond story, which was a loonshot. Like Ian Fleming had written these Bond novels and he really, he didn’t have as much money as some of the lifestyle he aspired to, which you can see in these Bond movies. And so he was really trying to sell the film and everybody had just written this off. Like all the studios, they just weren’t buying and there were a bunch of false fails. They made some TV show, which was a disaster. So that was a false fail. And American studios were like, “There’s just no way Americans want to see a British dude with an accent or they’re going to believe that.” It was like some heroic spy saving the world. The stories are junk. And he’s kind of a metrosexual, like who wants to watch that? He’s kind of prissy about his stuff. Like who wants to see that?
+
+And actually even the first, when he finally got it, he gave up after eight or nine years trying to do and got these like random producers who, one had just bankrupted his business. And they were trying to sell the movie, they just sold it to some studio and they’d cast this guy who was 32 years old who had been in a movie like Tarzan and the Little People or whatever it was, I forgot what the name was. And like two movies and he’d been a milk truck driver. And Americans, they made it for a million bucks and this American studio said “You know what? This is like, this is absurd. No one’s going to want to see…” Literally the quote was, “No one’s going to watch a limey truck driver fighting spies.” Of course, that guy was Sean Connery, but they really were so sure it wouldn’t work. They opened it in drive-in studios. I think it was in like in Kentucky and Texas. “Let’s just put it in a couple of drive-in studios and then write it off as a loss.”
+
+And then the reaction, the crowd reaction was like, “Wait, what?” And then of course it became one of the greatest film franchises of all times. And the other, the second, the two top film franchises of all time are James Bond and Star Wars. So I ended up going way back tracing like minute by minute what happened with Star Wars. And if you search you can actually find the early drafts. There are four early drafts of the script and you can actually find them. And I read the drafts. They were freaking horrific. It was, the writing was terrible, the storytelling was terrible. The characters were nothing like the characters that you have at the end. The plot was incomprehensible. It sounded absurd, which is you could see why people studios rejected it at first. And one of the titles of one of the drafts, actually this was the shooting version of the script, the first title was The Adventures of Luke Starkiller. And it was such a stupid name. The hero was called Mace Windy.
+
+Mace Windy.
+
+Mace Windy, which sounds like a superhero that farts. And it was just like, it was so bad yet it became one of the greatest movies of all time. And so I keep that to help me write FBR, write fast, bad and wrong. You just realize that all first drafts are shit. Everything when it starts off is shit. And if Star Wars, one of the greatest movies of all time, was just such horrific shit in the beginning, then you’re probably okay. It’s all right to have your stuff sound terrible and that’s okay. Just keep going. You fix it up in the editing, which is what they did.
+
+I knew every line to that film as a kid when it came out and I would drive audiences nuts because I think it’s the only film, maybe that and E.T. where I insisted my mom take me to the movies repeatedly. And for my family it was quite an indulgence to go to the movies to begin with. Right? But I knew the entire movie by heart and a split second before any character would say a line, I would say the line in the theater, which understandably drove the people around me bat shit crazy, but stuck with me. Had a huge impact. So now I know that Mace Windy is to thank for it.
+========,9,title.
+How can smaller teams, and we have so much to chat about, I mean, hopefully we can do a part two, a round two at this because I would love to, and it’s so fun to spend time together. But maybe just with some of the time that we have left, you could talk about how individual entrepreneurs or small, small teams can think about loonshots. Like what is the significance for a single person or a small group?
+
+Right. So, the moral of the story is you want to nurture these loonshots. So forget about moonshots or big goals or even the word “disruptive” innovation is a terrible word. It should be crossed out of every dictionary and taken off of every website because it’s misleading. Because anybody who’s been an entrepreneur knows that the ideas that ended up becoming incredibly important that actually in retrospect, disrupt the market, nobody knows at the time. Like Sam Walton had no clue. He just liked quail hunting. That’s why he went to Bentonville. He had no clue. He wasn’t thinking, “Let me disrupt the retail industry by locating stores in rural America and building them somewhat…” No, he was just like his wife said she didn’t want to live in a big city. And as he pointed out later, we had no idea what the demand would be.
+
+So real innovations are less about market projections and some guru waving a PowerPoint about you’re going to disrupt this market. That’s crap. A real innovation that ends up doing something is like a leaf in a tornado. You just never know where it’s going to end up. Anybody tells you it’s going to end up there has not been a real entrepreneur. Most of the great — like the transistor. They were working on building better switches for telecom, and when they came up with Bell Labs, when they invented this solid state device, it turned out it wasn’t good enough to use in telecom. So they really had no idea what to do with it. It was five years before the first application, which ended up being in hearing aids.
+
+So were the scientists working on the transistor going to their bosses and saying, “Let’s disrupt the hearing aid market! I have an idea for you!” No, they were just trying to build better switches. So the reason you want to nurture loonshots is to challenge beliefs. It’s not a — you want to use disruptive innovation if you’re a history professor and you’re writing about what happened in hindsight. Otherwise don’t use it. Yeah, Walton disrupted the retail industry, transistor disrupted everything. But that’s in hindsight. When you’re really there at the time, you nurture loonshots to challenge beliefs, to challenge accepted wisdoms. Some things that you think are absolutely true, maybe you’re right. But suppose you’re wrong. Do you want to read about it in a press release from your competitor, or would you rather be nurturing it in your own lab or trying it on yourself and seeing how it plays out? So that’s why you nurture loonshots.
+
+So what can small teams or groups do? Well to succeed with anything, just the idea is a small fraction of it. If you think about a football field, the idea is getting you from your own goal, maybe to your own five yard line or your own 10 line. Just there’s a lot of ideas in the world. You want to be able to take an idea into a real product. You need people who understand the markets, who understand how to segment the market, who understand audiences, who understand how to build, or understand how to manufacture, or understand how to release, how to understand timelines and getting things done on time, on budget, on spec. And that’s the other 90 yards. So you need both.
+
+And you can think of one as sort of the artist and one as sort of the soldier. You have artists that work on the crazy ideas and you have the soldiers that get the ball down the other 90 yards, and so you need both. And so that’s some kind of, one of the things that I get into is why companies often fail is that they don’t wear those two, they don’t understand the separation that you need for both. That you need to be motivated by two completely different things and you need to tailor the way you interact with the systems you design, the incentives, the metrics, totally different, almost exactly opposite for artists and soldiers. For artists, you want a high failure rate if you’re not trying stuff and failing stuff. For soldiers, you want a low failure rate. Like let’s go to military for aviation, the guys who are coming up with crazy ideas for new technology, if you want them to try lots of stuff and crazy things that nobody said could work. But the guys who are assembling planes, you don’t want them to launch 10 planes in the sky and say, “Well let’s see which eight fall and crash.” No. So it’s the exact opposite things you want to reward. So you need to separate your artists and your soldiers and design different tools and manage the balance between the two. So that’s if you’re a larger company.
+
+Now you asked about what if you’re a smaller company or a solo. So you want to separate your artists and soldiers. You can, if you’re a larger company, you can separate that by role. If you’re a smaller company, you want to think about separating that by time. You want to be very mindful. This sort of comes back to wearing different hats. You want to be very mindful. We’re going to go into a zone where all we’re going to do is the art is created and we want to maximize failure. And then we’re going to step out of that zone when we’ve listed the hundred different ideas and picked the five, and we’re going to minimize failure. We want to get these five ideas done on time, on budget, on spec to customers. So you need to be very self aware of what zone are you in. And the confusing thing is when you’re running a small team, because you don’t have different people, you don’t have an artist and a soldier. Sometimes you do, but you don’t want to tell your artists, “All right, I need you to have a 98 percent success rate on your ideas.” Like that’s, “I need you to have two ideas on Monday, two ideas on Tuesday, three ideas on Wednesday.” You can’t schedule creativity.
+
+The converse is when you’re dealing with your soldiers, you want to create those metrics. So in a small team or small group, if you can’t separate that by role, you want to separate that. We’re all going to put off our execution hat, our operational excellence hat, and we’re going to put on our crazy, artist, wacky, what ideas could kill our business? What are the things that are floating out there that we’re sure are not right? The loonshots. But if they were right, they would kill us. What are those things? What are embedded assumptions or beliefs about our customers?
+
+Right.
+
+… our competitors, our substitutes, the nature of our market or regulatory, whatever. We know that these are right. We know that our beliefs are true, but what’s the opposite? Suppose they’re wrong. What could somebody be doing to kill us? Let’s just take a week or whatever it is and think of all the things that we know we’re sure is true, what’s the opposite? And now let’s suspend disbelief like a movie. Let’s suspend disbelief. How might somebody, here’s all these reasons to dismiss it and why it could never be true. all the reasons people use to dismiss a loonshot, that’s why it’s a loonshot, like they made fun of Goddard. “Rockets can never fly in space. It’s against the laws of physics.” All these things that you’re sure are true, like The New York Times was sure Newton’s Laws of Physics applied and ruled out rocketry. All these things you’re sure are true — what if they weren’t? Or how might a really creative person get a way around that, and how might that kill us?
+
+Let’s just take a week and walk through all the loonshots that are out there on our customers or our markets or products or whatever it is, whatever we’re doing, how might they kill us? And then if we identify those things, how can we flip that around and use that to knock out our competitors? So that’s like separating the artists and soldiers not by role, but by time.
+
+Yeah.
+
+And then now that we’ve done that, let’s take off that hat and now let’s focus on operational excellence, on time, on budget, on spec. Okay? This is not a moment for like innovative, dreamy. This is like deliver on time, on budget, on spec. And there you separate by time rather than by role if you’re a small company.
+========,9,title.
+So this is, and we’re going to wrap up in just a few minutes, but I want to highlight for people listening how tied together everything is that we’ve talked about throughout this session one of hopefully at least two, because I love hanging out with you and catching up. In the sense that whether it’s fast, bad and wrong …
+
+Right.
+
+Right? Spitting out your two shitty pages a day or whatever it might be. In other words, on an individual level, being clear on the hat that you’re wearing and segmenting by time or within an extremely large organization, segmenting by role between artists and soldiers and so on. There are ways to systematize your generation of ideas, vetting of ideas, execution of ideas. And one of the reasons I enjoy whether it’s having drinks, hanging out at your wedding, or simply batting around ideas with you is that you’re very good at asking questions that help with clear thinking, which helps with clear action or more effective action.
+
+Would you be willing, not right now, but some other time to do a round two where we talk about how to bring a gun to a knife fight, which we kind of alluded to, right?
+
+Right.
+
+Incentives, how to apply incentives to other people, to yourself, to teams, et cetera, because this is really, really, really underappreciated and a whole bunch of other things that I’d love to talk to you about. Would you be willing to do that?
+
+Let’s do it.
+
+Okay. Awesome. Now, for those people who were only going to perhaps get this episode, I highly, highly recommend, and for those of you who listen to this show a lot, I don’t say that lightly that you grab a copy of Loonshots. It is incredibly pragmatic. It is very well written. I was really impressed because with all the time we’ve spent together, it’s like I haven’t, the identity that I have sort of painted on top of this avatar in my head called Safi is like scientist, entrepreneur, etc. I get sent a lot of books and I get sent a lot of books by my friends, too. And every time I get one I’m like, “Oh, God. I hope this isn’t garbage because it’s just going to be so uncomfortable to try to like dance around this somehow.” And it’s a damn good book.
+
+Thanks.
+
+It really is. So I encourage people, loonshots.com, take a look at the book. And if you’re like, “I still need to be sold,” okay. Go read up on Safi and you’ll be like, “Okay, there are probably additional things that I could learn from Safi and from the historical examples that you weave together, right?” It’s really the way that I like to learn personally and I think it’s the way a lot of humans learn as you pointed out, is through stories that illustrate points. And it’s tempting I think, and this is another thing that impresses me about you, is to, from the influence of, in some cases academics too, to speak in abstractions and conceptual frameworks without the real life sort of human glue that makes it memorable. And the memorable component is really important because if you don’t have the acronyms, the stickiness of these concepts, how the hell are you going to apply them when the time comes that they are actually important to implement? So check out Loonshots, @SafiBahcall on Twitter, SAFIBAHCALL. We will be continuing the conversation somehow some way.
+
+Is there anything else you would like to say before we wrap up this round one? Any questions, comments, suggestions to the audience? Anything at all that you’d like to say before we wrap up this first portion?
+
+This was just a ton of fun to see you again and just catch up. So, yeah, looking forward to part two and look forward to having drinks together one of these days and …
+
+For sure.
+
+… catching up some more.
+

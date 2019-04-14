@@ -56,12 +56,11 @@ class SliceNet():
     #######################################
     # Training
     #######################################
-    def train(self, filenames, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True):
+    def train(self, train_files, val_files, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True):
         
         # Define batch generator
-        trainGen = batchGen(filenames, batch_size, maxlen)
-        # define a validation generator
-        #valGen =
+        trainGen = batchGen(train_files, batch_size, maxlen)
+        valGen = batchGen(val_files, 4, maxlen)
         
         # I think these need to sum to 1
         weights = [0.1, 0.9]

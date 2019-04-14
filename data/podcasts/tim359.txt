@@ -1,0 +1,637 @@
+========,9,title.
+Thanks so much for having me.
+
+I feel like this is a long time coming. We go way, way back. And we’ll get to that. But I thought we could start with your penchant for related optimization. So I want to do a quick fact check here. So this is something I came across in The New York Times. It doesn’t surprise me, but here’s how it goes. “I also have a weird obsession with optimizing things.” This is supposedly a quote of yours. “Even when I was walking to elementary school, I counted the number of steps on different routes so I could figure out which one was shortest.” And I’ll just finish this up. I’ll just connect some things. “If I have to do something once, that’s fine. If I have to do it twice, I’m kind of annoyed. And if I have to do it three times, I’m going to try to automate it.” Did you count steps?
+
+I did. That sounds ridiculous, doesn’t it? It’s one of those situations where I think I was together with my mom and my sister. And my sister as complaining about me trying to optimize something. I think we were talking about going for a walk. And I’m like, “Well, you know, if the place we’re starting from is the same as the destination, why don’t we just not go?” And my mom merely said, “Do you realize you did this from when you were like four?” And she told me the story. And it kind of, unfortunately, tells people way too much about me. So I don’t know why this made it into The New York Times. I’m actually kind of unhappy about this right now, but here we are.
+
+And here we are. And the optimization or the looking for efficiency, is that something that either of your parents has? Or did that seem to kind of come out of left field?
+
+I don’t know. It’s probably one of those unexplained kinds of quirks, which, after probably many, many years where it’s annoying everyone around me, suddenly, it starts becoming useful because, especially as a programmer, it’s been wonderful. I love these old machines. I can understand every chip that’s in the machine. You can kind of figure out what’s what. Trying to make a video game in the ‘90s was really, really hard. And so those are the kinds of things which really, really attracted me.
+========,9,title.
+And just to give people a snapshot of where things are now, and we’re going to certainly continue with this retrospective rewinding the clock, but how big is Shopify at the moment? What are some of the numbers?
+
+So as you said, Shopify started in 2004. We released it in 2006, which, again, that’s almost 100 internet years ago. It’s been a long time. And the company now is about the company. There are about 4,500 people who work at Shopify. We have offices largely across Canada but also in Berlin and Australia and so on and all sorts of other places. And what else is good for size wise? We have about – I don’t know what the newest official number is. Let’s call it more than 700,000 customers all around the world, 175 countries and so on.
+
+So it’s become this, by almost any metric, fantastic success. I was mentioning when we were having lunch before this, that I was unpacking some boxes that I had not yet unpacked from my move from San Francisco to Austin. And I found the coin from the initial public offering. And it really made me smile because I remember when we first met, Shopify had, what would you say, 15 people?
+
+15 people.
+
+And was that 2008 or 2009?
+
+It was 2008, I think.
+
+It was 2008. And could you tell what you remember of that first meeting? Where did we first meet?
+
+We met at a conference called Rubi-Con. It may have been RailsConf. That sounds right. Ruby on Rails being the technology Shopify has been programmed in. And you were invited as a keynote speaker. I think you did an interview with David.
+
+That’s right. David Hannermeyer Hansson.
+
+Exactly. So I think we talked in the green room. It’s like, “Hey, I love everything about your book. But the worst part about it is you keep talking about using your Yahoo Stores for your supplement business. And you really should have used Shopify. What can I do to convince you of” – I wasn’t that direct. I was probably really shy.
+
+But the timing was perfect also because I was in the process of doing the final editing for the revised edition of The 4-Hour Workweek. And I had been polling my readers through social media and the blog and so on, which, at that time, the blog already had millions of readers, and asking for suggestions for updates for the tools and resources. And Shopify was the most consistent recommendation for the e-commerce platform. And then, I go to this conference. We meet in the speakers’ room, effectively. And you have let’s say 15 or so employees. And that was the beginning of our exchanges and then, collaboration, which we’ll get into. But, on one hand, it seems like a previous lifetime. And on another hand, it just doesn’t seem that long ago.
+
+It doesn’t, does it?
+
+And I have to say, for people who perhaps wonder this, does money change people, I have to say it’s been so – I didn’t expect you to change, and you didn’t. And it’s really refreshing. And I don’t know if I’ve said this publicly, but Shopify is one of those companies where everyone I’ve ever been involved with has been just such a genuinely good person. It’s an example of when the good guys have won, in a way. And it just makes me so happy that you guys have had the outcomes that you’ve had.
+
+Thank you so much for that, Tim.
+========,9,title.
+Yeah. I just want to start there. It gives me so much joy to think about. And let’s get back to your odd behavior as a kid. So this is from a separate piece, and this isn’t going to be all quotes. But some of these are just so fantastic, I can’t not mention it. This is from Globe and Mail. And this, I think, speaks to a superpower of yours that may have caused problems in the beginning. And I recall reading a quote, and I’m going to butcher it. But Francis Ford Coppola, the director, incredible, legendary filmmaker had said, “You receive lifetime achievement awards for the things that would have gotten you fired in the beginning.”
+
+That’s fantastic.
+
+Yeah. So here’s the quote. And this is the writer. “From an early age, Lütke had what he calls ‘authority problems.’ In school in Koblenz, Germany, he preferred to deconstruct the questions teachers gave him rather than deliver the expected answers.” And I was like, yeah, that sounds right. “He took shortcuts, determining the minimum number of hours he needed to spend in a particular class and still pass, so that he could spend most of his time with his computer.” One of the patterns that I have observed with you over the years that I think is so so valuable and so simultaneously important, but undervalued or underdiscussed, is not just asking the question in front of you, but dissecting it to determine if it’s the right question.
+
+So could you elaborate a bit on that or think of any examples that could serve as a launching off point or even maybe start with why you do this?
+
+Yeah. Well, this is already going to interesting places, isn’t it?
+
+Yeah.
+
+We have talked about my authority problem and my obsession with optimization, so where do we go from here? Here’s what the authority problem thing has morphed into, and I think this is exactly the sort of pivot point from which it went from problematic to very useful. And that is I have a serious problem just of accepting autotoxy, like, “Here’s how things are done.” That doesn’t grab me in any particular way. And so what I’ve determined for myself is I really want to understand the situation and the various pressures acting on the situation that I might get myself into. So you were taking us back with the little coin that you found, which is one of those artifacts the New York Stock Exchange gives you when you take a company public. And so we got to do this together.
+
+Before that date, when you actually rang the bell, at least traditionally, companies like Spotify and Slack now were doing the direct listing, which I think is really, really healthy for that particular industry. But before that, you worked with bankers, you build with prospectors, and then, you go on a road show and all of these kinds of things. It’s been a grueling – talk about I don’t want to do a thing two or three times. I had to give the same presentation 103 times in eight days. There’s a complete –
+
+Tobi’s version of hell.
+
+It was my version of hell, which is funny because my business partner, Harley, is like the opposite of me and loved it. It’s good to have these people around who can –
+
+Side note, Harley, probably the person I’ve heard most described as a force of nature. That phrase applied to Harley.
+
+Yes. Exactly, which I’m decidedly not. So Harley loved it. I wanted to automate it all the way through. But I’m taking us back there because I think it’s a good example of this kind of thinking. One thing I did very early in the process of actually taking the company public was to not just understand how could Shopify become a good, public company, but there was this sort of obvious agency problem that exists on the investment banker side. And so I spent a good couple of months talking to people, figuring out what kinds of things happen in the performance review of investment bankers. How do they make their money? How do they make their bonuses? How do they string together a career? What’s good, what’s bad? If they get a lot of these kinds of fees, is that good for them, or is that neutral?
+
+So I would like to come to a conclusion, and often this is the same conclusion: that autotoxy would have just sent me to myself because I want to say, “Okay, I’m going to do these following things because I, from the first principle, argued that this is the right thing to do.” And I think this, more often than not, leads to very interesting insights where you can say, “Because I understand what’s at play here, I can disagree with someone’s suggestion. And I can maybe improve something slightly.” And I think, in an interesting way, Shopify is a very long exercise in doing this over and over and over again, rather than saying, “Well, the internet needs online stores.” They are super important. Online retail is one of the biggest entrepreneurial opportunities of our lifetime. It’s a $1.9 trillion industry now. It’s going to be $4 trillion soon.
+
+Online stores need to be something that people can create. Cool. But do people really care about online stores? They care about selling. They care about becoming successful entrepreneurs. They care about reaching for independence and the success of that, which pretty quickly send us into the direction saying, “Okay, they do the online store thing. But that’s actually a bit of a soft bed that actually supports people in the activity of reaching for independence.” And because of this, it became something else. And success came through that.
+========,9,title.
+This also in a way connects some dots from earlier today, when we were chatting about a mutual friend, Seth Godin.
+
+Yeah.
+
+And Seth and I, not too long ago, had this conversation where he gave the example, which was borrowed from an example that he read, but he elaborated on it, which was: No one wants a quarter inch drill bit, they want a quarter inch hole. And then, it’s like, no, but they don’t really want a quarter inch hole, they want a shelf. And they don’t really want a shelf, they want a place to put their books, and so on and so forth, so that you don’t sort of mistake the current characteristics of a temporary solution as the ultimate objective.
+
+Because the world has sorted itself into solutions based on the world that’s long gone in a way. Just looking back at my industry, why was there an online store industry and a point of sale system industry and all of these eBay power seller tools? Each of those instances, someone has a product and wants to sell it through whatever channel. Do you want to go to three, four, five different vendors to get the software to participate in all of these channels? No. You just want to do it, right? And so I think it’s really worth going through life and just saying, “Hold on a second. What are people actually trying to accomplish? What is the actual problem here?” I think the most impressive story along those lines that I’ve ever come across is, are you familiar with Malcolm McLean’s story around the invention of the shipping container?
+========,9,title.
+I’m not, but I’ve had a book about shipping containers recommended to me multiple times.
+
+Yeah, The Box probably.
+
+The Box?
+
+Yeah.
+
+What was the person’s name you said?
+
+Well, his name was Malcolm McLean. He’s one of us entrepreneurs who would absolutely be on your podcast if he would be alive right now because he spent the first money out of college on buying a truck. He started a trucking company and tried to get things shipped across the country or even to Europe and realized we can make the most efficient trucking system, or the train guys have the most efficient trains, and the boat guys have ships all over the world. But getting something through multiple stations is impossible. You have to unload everything. So he ended up just buying a bunch of tankers from the US Navy, which had surplus tankers at the end of World War II and just came up with this idea of putting a shipping container together that you can put things in the factory in Maine and then ship them all the way to Berlin.
+
+And the moment he did that, the cost of sending a unit of goods went from, I think, $6 to $0.16.
+
+That’s incredible.
+
+We all live in Malcolm’s world because the shipping container has been hugely influential in history. It’s like a lot of people talk about free trade agreements and globalization. In reality, globalization happens the moment a shipping container opens in a country. And it’s a fascinating, rather underexposed story. But what’s so cool about this is the reason why he put this off is because, again, the Vanderbilts and the train guys really loved the trains. And the boat guys loved the boats. And he was the only person who just cared about moving things. He wanted to solve the problem of moving things in the world and then, you come to better solutions. We need more of that kind of thing.
+
+Yeah. The versatility, I don’t want to get too taken off track, but the shipping container – when I was – the brilliance of the modular design and the ability to take a single container and move it across different means of transport is an endlessly fascinating topic. And a lot of folks also don’t realize the sort of genius of the design of shipping containers and the considerations of the dimensions and the ability to cool or control temperature. And then, the entire aftermarket use of shipping containers also, just how I came into it. I kind of backed into it looking at different types of design and construction. That book was called The Box?
+
+Yes.
+========,9,title.
+The Box. So since we’re talking about it, we might as well just hit on something I was going to ask about anyway, which is books. So you’re, I would say, a veracious but very selective consumer of information. And there’s a lot of garbage out there. You mentioned The Box. There’s another book, and I think it might have been in Harley’s office where I first saw it at Shopify, but High Output Management by Andy Grove.
+
+That’s one of the best books ever.
+
+One of the best books ever. And then another one that I have listed here is Drive by Daniel Pink. I’m not sure if you want to comment on that. But could you mention a few books that you have found particularly helpful? And maybe start with High Output Management and why that is a good book.
+
+So I’ll take you back to the early days. I started at Shopify as “Hey, I only want to do the technology. I’m a programmer by trade, so this is my world.” And I wanted to treat the business as a black box for the first couple of years. And then, for various reasons, I was sort of thrust into also having to take over the business side of Shopify. Around that time, actually, we met. And I did a poll with people I knew for two books to read because I wanted –
+
+So business folks?
+
+Exactly. From this point, I was knee deep in Martin Fowler and Kent Beck and all of these kinds of luminaries of the programming world, but I had no idea about business. And so the two books I read, which is funny because it tells you how good that selection process was because I still think probably they would rank in the top five books I’ve ever read, and I had a completely wrong view about how good business books were after I read some, were High Output Management by Andy Grove and Influence by Cialdini. So they were the two first books to read.
+
+You got off to a good start.
+
+Yeah. So Andy’s book is unapologetically almost a how to manual, but kind of deconstructs the world of business into first principles. It’s like, “Here’s what matters. Here’s how to think about it. No one needs a degree. There’s a little bit of circumstantial contextual understanding that you just have to have.” But basically, at the end of the day, making business is an engineering exercise, which is brilliant for me because that actually made the whole thing about becoming CEO significantly less scary to me because engineering I understand. And then, Influence was just the most mind-bending book you can imagine, because it essentially taught you always humans are flawed and influential and how, yes, computers are predictable. And you can deal with it.
+
+But once you make things for people, you need to go into storytelling – and framing matters – which were also news to me, frankly. I spent my teens with computers, not with people. My wife would dine out on this topic and just probably make fun of me for hours, but she always says I’m an immigrant to the human condition. So it was to send me off to a good start. I just want to say though, I’m a voracious reader. I’m dyslexic. I actually read very slowly. I have sort of overcome dyslexia, but I read books very slowly. It’s actually an advantage, frankly. I have a very high recollection. But because of this, I have to be very selective on the books I read. I’m not one of those 100 books a year kind of people.
+
+Yeah. How do you choose books now? Or maybe as an example, The Box, why did that come on your radar? How did that make the cut?
+
+The Box came because I usually have a topic and then, just dive. I dive into it. In this case, I was like, “Hey, I’m running Shopify. Shopify causes tens of billions of dollars of commerce activity. And most of this is going to go through a logistics network that I don’t understand. And I feel my job as a CEO is to have the most full stack understanding of every component that’s at all related, which is, frankly, given that we are working here in world trade is almost the entire human condition.” So it’s an endless source of interesting deep dives into topics. But in this case, it was more about the logistics world. It’s a fascinating world because it’s been built for millennia. The Silk Road still has an impact on the way the economy works today. And stitching these things together is absolutely fascinating.
+
+But just even in the sort of first, “Let me start digging,” it became pretty clear that there was a history before the shipping container and history after the shipping container. And in these situations, there’s a specific date where everything changes, like The Industrial Revolution or another example of that. What I tend to like doing is I like to find the players, the people who have a lot of input on this kind of thing or at least who have the front row seat and then read their biographies, because they don’t tend to try to sell you anything other than that this person played an important role. But they tend to be the most credible witnesses to the actual outside events, without so much bias towards convincing you that it was good or bad. And so in this particular case, it was very easy. There was, actually, a perfectly good book about exactly the guy who came up with it.
+
+And so it was the obvious choice.
+========,9,title.
+Before we get to subjects and more books, because this may bridge over to something that I did not know, I feel like I should have known this, and it makes perfect sense, but I did not know this. So this is, I suppose, one of your problem domains. We can discuss what that means. When you became CEO, I have a question about that also, but this is a quote from a media piece. And I could try to paraphrase it, but it would take a lot longer. So here’s the piece. “As part of his self-directed crash course, he decided to fly to Silicon Valley.” Now I’m going to pause here for a second because people listening might think, of course you go to Silicon Valley to learn from fantastic entrepreneurs and so on. But it takes a different turn here, which I think is really indicative of how you’re thinking, how you apply very structured thinking to things.
+
+Back to the piece. “He set up meetings with venture capitalists and listened to their questions about Shopify’s attrition rates and conversion rates and ‘funnel’ (the various means by which a company attracts the attention, and secures the commitment, of new customers).” That’s a long way to say that. “He had no idea what they were talking about, but he wrote down the terms. Then he went back to the hostel he was staying in,” that also tells you something, “and looked everything up on Wikipedia. He would read up on how to calculate contribution margin ratio (the amount by which sales exceed variable production costs), then go to Shopify’s database to get the numbers. ‘Oh,’ he’d think, ‘that’s an interesting way to look at the business.’ Then, at the next meeting, he was able to answer one more question.”
+
+This is a really clever way to go about getting up to –
+
+Thank you. I think it’s about time.
+
+You’re learning by observing the questions and then defining the terms.
+
+See, this is why I love podcasts. My favorite thing in the world – books definitely rank up there, but there’s one thing that is better, which is being a fly on the wall and two experts talk amongst each other, which is one of those situations where it was almost impossible to line up as an outsider. And now, suddenly, it’s completely democratized for a wonderful invention of podcasting. But back then, and before that, I sometimes managed to do it via finding a chat room or forum where experts talked amongst each other. It’s something I was always seeking, in this case. So when I was trying to learn about some technology like some esoteric 3D rendering algorithms that I found interesting, I used to try to find where people talked about optimizing these things.
+
+And then I just don’t understand anything that they’re talking about. But then, I chip away at it, and I would come into the knowledge. And so I tried to replicate this. And talking to venture capitalists ended up being a way I figured out how to potentially do it because, again, I had no background in business. I had no idea how this all worked. And I had to do it fast because, in 2008, Shopify wasn’t doing well. It was very, very tough to keep the company alive.
+
+This is maybe a good opportunity to explain to people why you took over as CEO, just these circumstances.
+
+The circumstance was simple and probably fairly common. I had a co-founder for Snowdevil, which was the snowboard store. And I did the technology, and he ran the store and did a million other things like finding us an office at some point, and so on. But as the company pivoted much more to being a software company and started growing and acquiring more and more people, at some point, it was just a different situation. And so he sort of came to me and decided he wanted to transition out. and that was very surprising because, again, I really wanted to treat the business as a black box. I was a programmer. We don’t like business.
+
+Yeah. I was going to say treating it as a black box is a very diplomatic way to say it as a programmer.
+
+Yeah. I just didn’t want to become the Pointy-Haired Boss in the Dilbert comic! So this was the situation that just arose. And I actually looked for a CEO for a long time. I met with a lot of people who came recommended as potential CEO replacements. And it was one of my early investors, actually my only investor, frankly, who at some point took me aside and said, “Tobi, you will never find anyone who will care about Shopify as much as you do. And so you should just give this a go.” And that was pretty scary advice. But I liked the challenge. Why do we entrepreneurs do this thing? Why do we even build companies? It’s such a silly idea, right? Think about how we rationalize this. This is not my quote. But someone said “You spend 100 hours a week avoiding working 40 hours a week for someone else.”
+
+Right.
+
+It kind of makes no sense, right? Especially tech, there’s such a minor chance of actually getting any kind of returns on it. So you don’t do this for – I can only speak for myself. I certainly did not do this for monetary reasons. The reason why I did it was because I thought it sounded amazing not having to answer to anyone – back to authority problems. And I wanted to make my own technology decisions and these kinds of things. And I wanted to see what I could do. I wanted to challenge myself. And I said, “This is the right time in my life.” I was 24 when I started. “This is the right time in my life to give this a go. I will learn a ton. There is no way this could be a failure on a personal level other than in the way that maybe people lose money.” But failure was a very real thing, but I knew I would learn a lot.
+========,9,title.
+And so I reconnected with and said, “There’s another challenge to become the business side of the business as well. And I’m going to learn a lot again.” And so I traveled to Silicon Valley. It’s funny because I found this hostel close to Sand Hill Road where all of the VCs were back then. And I bought a bike on Craigslist and just biked to all of these things. If you look at Sand Hill Road, it’s not made for bikes.
+
+It’s not made for bikes.
+
+And biking interviews like gleaming palaces of capitalism.
+
+I just have to imagine they’re like, “Yeah, some guy is coming in from Ottawa, Canada. Ottawa, Canada?” And they’re like, “Wait, is that him on the bike?”
+
+This is exactly the situation. You’re just adding to the picture that’s perfectly accurate. And so I talked with them. I learned a lot. I thought they found that somehow I was endearing, in some way, because I actually did keep in contact with a lot of them. They didn’t actually run me out of the offices, which also speaks to Silicon Valley. It’s an amazing place where you can take meetings with people who will give you their time and advice. And I puzzled it out, I figured it out. It turns out I needed to learn a lot about certain terms and so on.
+
+You figured it out.
+
+I figured it out.
+
+First, an observation, which is how much fun it was for me and also instructive to meet you when I met you. That is quite a transitionary period in which to meet Tobi. So it’s been really, really fantastic to watch as things have evolved over time. That said, part of what makes it interesting is the good decisions but also the challenges and maybe some of the bad decisions. Can you talk to, in any order you like, some of the good decisions that you made and some of the bad decisions that you made, after taking on the role of CEO?
+
+Yeah. It would be good to have some sort of obvious examples here. But almost every good decision starts somehow bad first. We’ve made almost every mistake in the book. But we also are the kind of company that wants to in a way. It’s been so important to me to build a company that is unafraid of experimentation and where failure – within Shopify, I think we succeeded in this. We eliminated the talk of the term failure. We call it the successful discovery of something that did not work because I think it really changes people’s disposition to it. So what did we do wrong?
+
+I was just going to say, I don’t want to interrupt your answer, but I think that what you just said could also take us in a pretty interesting direction if you want to buy some time to think about the failures.
+
+Let me buy some time.
+
+========,9,title.
+Or not the failures, “failures” in quotation marks. So there are a number of things that seem paradoxical that I don’t think are paradoxical in practice. Maybe they are, but I want you to comment on them. And I just have to find the right quote here. Well, I’ll give you the first part. So the first part is a quote of yours, I believe. “‘Your work here needs to make an impact like a crater.’ So it’s not like just good work, it’s not excellence; it’s like massive, cosmic impact. It needs to be visible from outer space.” And so people are encouraged to take risks. Now, at the same time, another quote here. Toby Shannan, right? So you know what’s coming.
+
+This is on receiving feedback from Tobi. “Be prepared to be crushed,” says Shopify’s vice president of revenue, Toby Shannan. “‘If you can’t be crushed, you don’t make it on the executive team. You need thick skin. It’s not that Tobi shouts or treats people meanly. He’s simply direct, unfiltered. When he looks at the fruits of someone’s labor, he says what he thinks, even if what he thinks is: ‘This is shit.’” Okay.  So how do you combine these two things successfully? One of the things I love about you is that you don’t get the sugar coated, kid glove version of Tobi’s thought. You get Tobi’s thought. So how do you encourage risks when the feedback you receive at the end might be, “That was total shit. You can do better?”
+
+No, I want to register that that quote came up in 2015. And since then, I have learned that I should translate something like “This is shit” into “Is this really the best way we can do this?” But it’s the same thing in a different form, really. Wikipedia, right? I hope I get the name right. There’s a specific editor from the early days of Wikipedia who, I think, was called [Lee Daniel Crocker]. And he declared something like Crocker’s Rules, which said that he wanted everyone to edit his pages just to make them better. And he didn’t want people to apologize for it or try to politically give him credit or something. He said, “I’m going to take 100 percent responsibility for my own mental state. You cannot make me unhappy by just giving me feedback in some way. So just give me raw feedback without all of the shit sandwich around it.”
+
+And I love that. I would like to run my team on Crocker’s Rules because I think there’s so much time spent. First, you have to talk about the weather.
+
+And then you have to say, “Nice sweater. That’s a really nice sweater.”
+
+Exactly. So you have to find something and then ideally, address some very productive character traits, then talk about the thing you want to talk about. And then figure out some way, afterwards, talking about something highly positive again. That’s the sort of standard formula. And I can do it, but I don’t think that the highest performing teams in the world should spend time doing this to each other. I think there’s a level of progression that comes if you’re part of one of the teams. Again, we are one of the bigger technology companies in the world. Certainly, we’re the fastest growing SaaS company on the market. And so I don’t want to compare it too much to sports because sports is sports. But this is like a big game. We need to be very good at what we’re doing, otherwise, we cannot build Shopify.
+
+And so I think these things are in the way. So yes, I want people to be impactful. Again, if a hard object collides with a soft object, suddenly, there’s no crater to prove it. And so I want people to take their mental state in their own hands and just say, “I’m going to learn how to be intrinsically reminded that I’m good at what I’m doing and not have to rely on other people constantly telling me.”
+========,9,title.
+Does Shopify have any type of training or resources or cultural rules that are explicit that help to facilitate that type of awareness? Because there are people who meditate for 10 years with that objective and never quite get there. And you can already find the people. You can go out and hire Jocko Willink to run your HR Department. I’m kidding. And he would give them all a copy of Extreme Ownership and be like, “Here we go.” But then, there are people who come in who might be exceptional performers but very sensitive in some way. I run into that quite a bit.
+
+Yeah.
+
+What do you do in a situation like that? Or what are the things that you do or that Shopify does to help people take that ownership of their internal state? Because it is hugely important.
+
+Yeah. It’s hugely important. So one thing that’s so neat about Shopify, let’s get a little bit back to this Ottawa, Canada thing. Clearly, as you said, this is off the beaten track of the startup world. It ended up being a phenomenally good place to build a world class company, but for reasons that were also not clear to me when I started there. A couple of things that happen when you’re not in Silicon Valley, when you’re not in – let’s call it a primary company creation city. Tenure gets longer. If I hire someone through this very intricate hiring process that we have, there’s sort of an understanding that the chance of us still working together in 10 years is actually really high. It’s a commitment from both sides. And the company needs to be worth working for for 10 years.
+
+That’s what I work on day in and day out. Because of that, we can have a very different relationship than in a place where the expected tenure is 18 months. And in an 18 month place, I really have to kind of access every good idea and productive power of an engineer. So immediately, they need to be productive.
+
+And they need to be really pampered, in some cases.
+
+To even keep them for over 18 months because –
+
+That’s right. Via Facebook, Google, and then, name five other companies who are all pitching the same employees at those five companies via headhunters.
+
+Yeah. And so in a place like this, it ends up, for better or for worse, in a world where people don’t actually go have careers at companies anymore because the way to have a career is actually jumping between companies. So your new position is always slightly higher. And so our cities aren’t like that. We assume that we have these long tenured relationships, and therefore Shopify can invest in people who are part of Shopify in a completely different way. So we probably hired all business coaches in Canada and then beyond, at this point, to be full time employees of Shopify because we’re investing so much in the people. We hire people on future high potential and then try to get them there as fast as possible because that actually works for us. It works for people, and it works for Shopify fantastically well.
+
+And so we have a lot of these opportunities because of that to make some slight edits to the normal psyche. So feedback is a gift. It’s not just a simple sentence, but it really is not the way most people think about feedback.
+
+Feedback is a gift.
+
+Feedback is a gift because it is. It clearly is. It’s not meant to hurt. It’s meant to move things forward, to demystify something for you. I want frank feedback from everyone, and I get it. Although funny enough, you might not have thought about this, I tend to get it from the Germans at Shopify more frequently than anyone else. So there might be a cultural component here, too. But yeah. Did you say call it crusher of egos or get your ego crushed? That sounds so dramatic.
+
+Yes, be prepared to be crushed. If you can’t be crushed, you don’t make it on the executive team.
+
+I would say that might be a little –
+
+Or learn how not to feel crushed.
+
+Yes. So this is the executive team that is directly my team and the people who I have the highest requirements of and we have worked together for the longest. So I don’t think it’s like this everywhere in Shopify.
+
+So are there particular books, particular types of training, exercises that are used within Shopify to help people take ownership of their internal state or to view feedback as a gift that people listening might be able to use or explore and think about, in some way?
+
+Different companies have different sort of personality traits, testing kind of things that they like. Shopify is very partial to a system called Enneagram.
+
+Enneagram? I just had my first Enneagram typing last week.
+
+And you are an eight?
+
+I appear to be a loyal skeptic six.
+
+Oh, wow. Interesting. There you go.
+
+Yeah, we could get into it. This is all new to me. This is all new to me.
+
+It’s very interesting. But Enneagram, it has worked very, very well for us. In our internal system, you can actually see the Enneagram with everyone else.
+
+Really?
+========,9,title.
+And it tells you what nuances, what means for how to work together, for instance. So that’s one. But the other thing, I think, why personality tests are interesting is it doesn’t even matter which one it is. After you kind of do one, it already kind of teaches you like, “Hey, wait a second. The way I’m wired is different from the people around me.” And I think this is so fruitful of a discovery, especially early in your career because, again, a lot of the people we hire, the average age at Shopify is 29, I think. So we get to people very early in their career because the thing that we want to accomplish, and this is really the goal of all of the internal programs, is we want to take people from a – find out what kind of areas they have a fixed mindset on, and try to get people to acquire a growth mindset.
+
+Think of their intelligence as something that can be trained. Think of their skill as a program and not as something static. And when someone comes and tells you there’s something you could have done better, that’s not someone finding out that you’re not as good as you thought. That’s actually a teacher appearing. And once people acquire this growth mindset on at least a number of different traits, usually, they make it very, very far, and they can have these 10 years of a career in 1 year on the work clock. And it’s a wonderful kind of thing when it happens.
+
+How would you suggest that people acquire a growth mindset? Because there are books – I haven’t read Angela Duckworth’s book, Grit. It’s been recommended a number of times. But there are a number of books that talk about the importance of fostering growth versus fixed mindset in child rearing. And you shouldn’t say, “You’re so smart.” You should say, “You worked really hard and did a good job,” and so forth because, inevitably, if they have what’s perceived to be a failure or make mistakes, it’s then not indicative of them being stupid but rather something related to effort and/or chance that they can play a part in resolving or improving.
+
+But if we’re talking about – let’s just say there are any number of people certainly listening to the podcast like, “I’m sure I have a fixed mindset somewhere. But I don’t know if it’s a blind spot. I don’t know how I would spot it. And then, how do I fix it? What would your thoughts be?
+
+I think that it’s a really, really good question. I wish I had a better answer. I do find that Carol Dweck’s original book called Mindset is probably still the best.
+
+That’s D-W-E-C-K, right?
+
+Yeah.
+
+We were talking about Josh Waitzkin during lunch, also a book that he’s quite a fan of.
+
+Yeah. I’m a big fan of the book. It talks you through the theory. And what I’ve observed is even with a very, very high super successful executives who come to Shopify and have worked at Shopify for a very long time, they end up reading the book. And they say, “You know what? I was actually fixed mindset on all of these three things. And it’s like it really irks me now.” It’s just really funny how it wakes you up to this reality that we kind of all have that. It’s not something you can completely overcome. But it’s something that just having the awareness is really powerful. And also, if you have to have reports in a company, even if that book does nothing for you, it will allow you to be a much better lead to most people because it’s just priming you to detect fixed mindset talk in other people. And pointing it out is hugely beneficial.
+
+So I want to note an observation that may or may not be true. But it seems to me that the discussion of fixed and growth mindset pairs quite well with Enneagram also. Enneagram, by the way, I was introduced to by Drew of Dropbox. And I was always skeptical, and I still am somewhat skeptical of certain aspects of Enneagram, which I think actually means nine pointed. So there are nine different types. Then there’s a lot of discussion through different books and experts about Enneagram. But like you said in your commentary about Enneagram, it’s not necessarily the specifics of the business acceptable horoscope that you get. It’s the fact that you begin to look at relating to other people and your own weaknesses and/or fixed mindsets differently. And so I found it very useful.
+
+My girlfriend did her typing. And I’m going to have all of my employees do their typing also just so they think with awareness about interactions through that lens, even if the exact content may be 50 percent hand waving, if that makes sense.
+========,9,title.
+Yeah. Here’s why all of these things matter. I don’t particularly believe in Hell. But I like this definition I’ve heard. Hell is meeting the best version that you could have become of your life. And so I think that one of the really, really fun things about an experience like an entrepreneur journey like with a company, the careers we have, the books we read, if they end up being pointed in a direction that allows us to minimize the difference between that person we will meet and the person we are, at that point in time, I think that’s time well spent. And there are some key events in one’s life that have to go through it. At some point, hopefully, you realize that the people around you are very different. You have some unexplained traits in you, which some of them becoming big strengths and some of them are weaknesses.
+
+And you double down on your strengths, and you try to work around your weaknesses. And by the way, later in life, it might actually flip which one is which, which gets really weird. But that’s another one of those kinds of things. The sort of awakening to a growth mindset is another one of those life events, I think. And so these events matter because what you’re building, eventually, is like some kind of path that allows you to wake up smarter every day. And if you get there, really, really powerful things happen. Suddenly, jumping into a completely new job that you have no qualifications for doesn’t sound scary anymore. It probably still does a little bit. But the challenge and the thrill of this sounds real. “I could fail; I have to grow to make this work” actually becomes hugely motivating.
+
+And I think that one of the most amazing things that anyone can go through and can do in their lives is a variation on the theme of going on a journey, doing hard things surrounded by friends. Company building is one of those things. Often travel is another one, sports are really good at these kinds of things. I would love Jocko’s opinion on if war is like that.
+
+I think he would definitely say that.
+
+So variations on this theme is what you want to prepare for.
+========,9,title.
+I want to come back to something you mentioned earlier that I think is very, very relevant here. So I’m going to try to tie a few different things together. You talked about taking risks and looking for opportunities for massive impact. You also talked about how you have looked at certain opportunities or transitions as opportunities for learning and that you’ve made a lot of mistakes. But it seems to me that you’ve, in some ways, optimized for learning. And I just want to highlight for folks listening, and also just to remind myself, that this is something that comes up quite frequently with people who seem to just step up to bat and hit home run after home run. If you really dig under the hood, that’s not necessarily the case.
+
+But, for instance, people who are in any number of different fields, whether it’s Scott Adams and Dilbert or some of the investors I deeply respect Marc Andreessen, who has been on the podcast. They talk about rather than trying to be the top one percent in the NBA, which is very hard to do and very attribute dependent, you could be top 10 percent or even top 25 percent in things that are rarely combined. It could be computer science and law. It could be Warren Buffett and value investing and public speaking. He says the best investment he ever made was in a Dale Carnegie public speaking course because it magnifies everything else that you do. And so there’s the combining of skill sets that are rarely combined. And, as Scott has also written about quite extensively and I agree with, and I’m paraphrasing here, so I might be mixing and matching a little.
+
+But if you optimize for learning new skills and developing new relationships that transcend any one given project, it’s really difficult to fail completely. And so you end up accumulating these skills and relationships that then, help for you to combine these different disciplines in unique ways. So that I just want to mention because it’s tempting and debilitating to think that you have to be the absolute best top one percent in X. And when you really look at people, whether it’s all of the various billionaires on magazine covers or what have you, that’s not necessarily the case.
+
+No. So I could not agree more with you. And it’s interesting because I almost have two phases to my life, in this regard, because I really was trying to become, I don’t know, I don’t know if I was trying to become the best programmer in the world. But I certainly was making a bid for it. My life completely revolved around writing code, understanding more of it, and just being very, very good at it. I was going for mastery anyway. And then this situation that happened there, again, I had to pause and have to go into business. And I ended up really, really liking so many aspects of it. I really pivoted from someone who was going to try to get – I would like to understand 100 percent of a field to I want to, as quickly as possible, understand 80 percent of every field. And I like it way better on this side.
+
+And I’m eternally thankful for having realized this, at some point, because it actually doesn’t take that long. You wrote an entire book on this. I’m, obviously not trying to convince you on this, but it doesn’t take long to understand the first 80 percent of any number of fields, right? But of course, you can’t understand 80 percent of every field. There are too many. So you’ll follow your interests pretty automatically. And when you find out exactly what you just said, and this is something that’s worth looking into the Shopify universe. The people who are really successful are the people who usually have some multiple skill sets and combine them into some kind of new product. It’s like sort of an obvious example is boosted, boards. It’s electrical engineers who also like skateboarding, and it’s combining those two things by putting a battery into the skateboards.
+
+And so it’s really, really hard to be the best in the world at a single discipline. But as soon as you start overlaying three different interests, you make Pokémon inspired jewelry or something, you can make the best Pokémon inspired jewelry in the world pretty quickly.
+
+The speed with which you came up with that makes me think that that’s a store on Shopify somewhere.
+
+Absolutely. Yes.
+
+You’re in a great position to see hundreds of thousands of these examples.
+========,9,title.
+We see millions of success stories and attempts at success stories. This is, honestly, the most interesting part of Shopify is really that we see this. Let’s actually zoom out for a second here on my entrepreneurship topic because it’s really dear to me. But it’s also at a stage where a lot of people don’t really quite appreciate it. Entrepreneurship is in big crisis right now. It’s a complete counternarrative to what most people think. But right now, new company information is at the lowest point it’s ever been. Gen X has started a lot fewer companies than its parents. And millennials are lower yet. So it’s the least entrepreneurial generation so far. And all numbers are down.
+
+Is that measured by LLC formation, entity formation?
+
+Just general companies of all classes in the United States over time. Once you look at the graphs, they are looking like they tanked, especially since 2005/2006. So the very beginning of the financial crisis, it suddenly fell off a cliff. So why is that?
+
+Tell me, Tobi. I don’t know.
+
+Well, I wish I knew. It’s like I know some contributing factors. One thing is we just don’t need too many copies of everything anymore. Back in the day, you probably lived in a smaller community, you visited a big one, you saw here’s a certain kind of hardware store, some kind of business you’ve never seen before. You’d say, “Hey, I might be able to do that back at home.” And that’s a new company. Now, everything is franchised and centralized. And it’s a lot harder to do these kinds of businesses. But the same thing is going on on the internet as well. The internet is, as much as it can be a democratizing force, it really benefits centralization. We have one social network. It’s one search engine and so on. So it’s just harder to start businesses. And you kind of have to clock in the top percentile of a field or at least an intersection of multiple fields to even partake in entrepreneurship.
+
+And I think that’s not good. If you would give me like there are two versions of a world, choose one. One in which entrepreneurship is common and easy and straightforward and one where it isn’t, who takes the one where it isn’t easy, right?
+
+So how would you make it easier, whether in the US and maybe not Canada specifically – could be – but is there anything that you would do to increase the number of entrepreneurs? And why is that important? Is it important?
+
+Yeah. That’s a good question, which I think should be studied. One thing, if you look at this completely from an economics perspective, if you think that we need to provide employment to people, a couple of mega companies are not going to employ everyone. I think everyone understands this. We need millions of 10, 20 people companies, SMBs where almost everyone is employed by small businesses if you look at the actual numbers. So with small business going away, that’s definitely a force in the opposite direction. So how would you do it? One thing that’s actually a real problem in the United States, but it’s actually a problem everywhere, is licensing. It’s a crazy situation that I can get a laptop and start $15 billion Shopify and need to ask no one. But if I want to become a hairdresser, I need to get a license for it, right?
+
+And I need to go invest quotas in many places, and you can’t because of all of these reasons. So that’s kind of one of the things that probably people have to have a look at. But the other one is just friction. How difficult is it? How many things do you have to understand to start an online business? You built a supplement business back in the day.
+
+Yeah.
+
+What were all of the things you had to learn?
+
+Well, even before that, when I was taking a stab at a few businesses, all of which self-immolated. But just setting up a merchant account, I remember, back in the day, was a complex and hugely involved task.
+
+I had to post a $30,000 bond to get a merchant account when I started Snowdevil. That was all of the capital I had.
+
+It’s wild.
+
+But both kinds of points of friction are everywhere. I don’t want to make this [inaudible] [01:08:08], but Shopify is not the solution to this problem because it’s a much more global and bigger problem. But the retail world is one of the most accessible parts of entrepreneurship. And that’s really all Shopify is. Try to take the learning curve of partaking in entrepreneurship, building online businesses, and make it as flat as possible so as many people can succeed. That’s what we’ve been working on for the last 14 years now.
+========,9,title.
+I think this might be a good place to chat about the Build a Business competition.
+
+Oh, yes.
+
+The Build a Business competition, we’ve been talking about just smoothing the path or removing impediments to entrepreneurship. But you also have incentives. And incentives are also important. What is the Build a Business competition?
+
+Let’s go back to where it comes from because it’s so relevant to the two of us. Well, certainly to me. I don’t know if it’s relevant to you.
+
+To me, too.
+
+You were involved. So this was 2009. At this point, Shopify was completely running on fumes. All sorts of things didn’t work. Like you asked me earlier, the things that didn’t work – the company kind of didn’t work. I had the numbers, and people were selling things, and it was valuable to them. But there was no real business being built around it. And it kind of all just didn’t function. My father-in-law was gracious enough to give me a check every week for the running payroll at that stage. And he said he would do that for some time. And by the end of it, we kind of had to figure out what we had to do. At this point, we were talking. And the reason why, again, we see the world in a similar way; you wrote The 4-Hour Workweek. But what I tried to meet in this focus [1:10:07] like what you were talking about: just building a business and then actually doing other things, like I was seeing people doing this on Shopify.
+
+But I was like, “This is an underexplored form of what you can do online. People should know about this, that this is what some people do, and we should obviously tell people that that’s what we will do on Shopify, and Shopify is good for this kind of thing.” So we had this conversation. I was at my college. I was actually on a boat when we had this conversation. And we were like. “How can we overcome this built-in fear of failure that everyone is running around with?” So many people come to me, come to you and say, “One day, I’m going to start my own business.” It’s like, “Okay, what about today? What’s wrong with today?” And there were all of these kinds of reasons. And I think our working theory was: we need to test this by really incentivizing people, to which I said, “We should give away a MacBook Pro or something.”
+
+And then you did what you always did in our phone calls. It’s like, “Tobi, first of all, that’s way too nerdy, and only you care about MacBook Pros. And second, if you want anyone to notice, you need to go like 100x that in terms of prices,” or something like this, which is probably easier to say on your side.
+
+I also remember exactly where I was. I was in Glen Park walking down – I think it was Diamond Street past Ocean Tide. I remember the exact block I was on when we were having this conversation. Yeah.
+
+It’s funny. Sometimes, these things are just branded in your mind because I think we both realized we were egging each other on to make something big. And what we ended up doing was saying, “You’re going to take the last $100,000 in the bank and just put it up as a competition. And whoever is going to build the biggest business starting now in the next six months is going to just get the check.” Which at this point, I said, “This is either going to work, and then we’ll make the money during the competition to then give to people, or the company is bankrupt anyway, in which case I’ll deal with that in some other way.” But we did. And I think, through some contact of you, you introduced me to Lora. The New York Times ended up talking about it because it was surprising.
+
+It was a tiny start up in Canada putting up something that’s beyond every business plan competition in terms of prize money. It was a pretty stunning amount.
+
+Yeah, the biggest ever.
+
+It was a huge success. You were super confident that it would be a big success from the beginning. I thank you for this because I was like oh, my God.
+
+And it’s been really awesome to watch also year after year as it has grown and evolved. So you could give some examples, but from the beginning, which we’re not entirely sure – on some level, we know where the $100,000 is going to come from. But this is an existential bet, in a way. But like you said, it’s like there are other inherent issues that, if we don’t do it, it’s not clear what the picture is going to look like. And then you flash forward, and you’re doing these Build a Business competitions. And it’s like a high end reality show, in the sense that you have the mansion from The Great Gatsby with DiCaprio. And other people are flying all over the world. And you have Tony Robbins coming in to mentor the finalists and so on.
+
+Yeah. We took everyone to his place in Fiji, right.
+
+Yeah. It’s been so much fun to watch. You guys have done a fantastic job of executing. And it’s ended up coming full circle also as I’m considering, with the audience that I have, what could I do potentially competition wise? You guys have taken the ball, run with it, and have done this so many years now. I’m like, “Hey, which lawyers did you guys use?” It turns out, by the way, anyone who is thinking about doing something like this, you have the prize money, but then you have the putting together of a competition of this complexity, which is no joke.
+
+No joke. Every state, even every province in Canada, has completely different laws for this. Everyone will come and ask, “Hey, is this a game of chance here or is this a game of skill?” Which is actually an interesting question because the intellectual answer is chance. I would try to never get confused about this. Shopify is enormously successful, but it’s like 99 percent chance. You can’t predict all of these kinds of things which happened to transpire, which led to success. But, of course, when you’re talking to the lawyers, it’s a game of skill, absolutely, 100 percent skill. And so we launched this in 2010. And we had an amazing winner at the end with DODOcase. It was so cool.
+========,9,title.
+Yeah. Can you tell people a little bit about that?
+
+Yeah. Patrick and Craig, two brilliant entrepreneurs from San Francisco who – I think this was around the launch of iPad. And so they realized these iPads need cases just like the phones. And so they got together with some traditional bookbinders and made some Moleskine looking, beautiful – it was really just wood and whatever Moleskine is, a case for iPads. And I think they gave fliers to everyone waiting in line at the Apple Store before iPad got launched. So people wrote about it. And they were one of the competitors in the competition and won it. And a fantastic story. There’s a later picture of President Obama with his DODOcase, which, of course, they used very successfully in every one of their marketing campaigns.
+
+And I think, actually, this goes back to the thing that really excites me about the effects that come from all of these kinds of things. Not only was this an entrepreneur success story for them, and they got $100,000 check in the end. They also quadrupled or even beyond the number of professional bookbinders in the San Francisco Bay region again. This was an area which had a lot of bookbinding talent when that was an industry. And that’s not an industry anymore because it’s just not done manually anymore. But they got people out of retirement to come back making these iPad cases. And the industry exists. And I think these are just the stories which I find so so great.
+========,9,title.
+So let’s talk about it. We don’t have to get into all of the specifics of a ton of them. But I was very curious, from the first competition, to see what can people do. What can people actually do?
+
+In six months, right? It was six to eight months. It’s nothing.
+
+But some of these people are creating multimillion dollar businesses from ground zero. And it’s been really inspiring to watch and inspiring not just because of the size but also the variety. That having been said, one of the things I look forward to every year, when you guys are running the Build a Business competitions, is what patterns will emerge because you begin to spot, and this is much like I feel like with my audience from The 4-Hour Workweek or the podcast, but just the millions of entrepreneurs who allow me to pattern recognize because I just have the 30,000 foot view on my audience, show me things that are coming. It’s like William Gibson in Neuromancer said, “The future is already here, it’s just not evenly distributed.” So you see these patterns that are sort of this smoke signal in the distance.
+
+And then, five years later, it’s everywhere. And with Shopify, for instance, I remember the first year that a number of the category winners – because there are different categories, so it’s not all or nothing, at this point in the competition. There are different, what would you call it, industries or product categories?
+
+Yeah.
+
+Which gives more people a chance to win. And it’s like wow, okay, I’m making this number up, but it’s like three out of the six used Kickstarter. That’s interesting. And looking at the different tools and different approaches, different tactics and strategies that seem to be used with great efficacy each year are also something that I have really looked forward to.
+
+And this goes beyond the tools into the approach, I think. And this is actually where I feel like I learned the most from the entrepreneurs because these are really the best who are coming. Actually, we had first time entrepreneurs win categories. But they always had some kind of fantastic insight that they’re kind of adding to this exploration of how to build companies in this digital age. So even the Kickstarter folks, the question I always had is like, “Was Kickstarter itself valuable, or was it that they had to put a certain video on the website where the founders the company had to explain why this product needed to exist? Why does not every product in the world have an inventor declare why they felt this thing needed to be created? Why can it only get there from the people who happened to go on Kickstarter?”
+
+And most of them ended up figuring out approaches, which are really about storytelling. What’s the story? The DODOcase story is a story of the revitalization of a craft, which people connected with. The beautiful object that came out of it was completely imbued by this story. And when I was walking around with my DODOcase, someone would talk about it. I would talk about how this was handmade by real bookbinders because I owned part of that story. And that’s really a great thing. The really great thing is that the things that are powerful and work have actually not changed in the internet age. Our ancestors were once storytellers at least for people who listened most to the stories. This is how language developed. We’re storytelling creatures. And it just is rediscovering this medium after medium is something that is really fascinating.
+
+And if you’ve looked back to the two books you’ve mentioned, if you’re looking at Influence or you’re looking at Andy Grove’s book, also not a snapshot in time dependent on the technology of right now. These are principles. And I’ve often thought about Kickstarter also and other platforms like it as a talent assessment for some of the basic competencies that one will need in the company they would then subsequently build. If you cannot sell your product in a video and then marshal resources and try to garner PR, however, you take your approach to raise a potentially nominal sum of money for a first manufacturing run, how can you ever have the confidence then that you would be able to proceed and build something large over an extended period of time? It’s an audition, in a sense.
+
+And so then, it brings up all sorts of other questions. Just getting back to one of the first things I asked you about, questioning the question. Is it a survivorship bias? Is it that there are more people attempting things and, therefore, they can kind of stress test and then run with the things that work, and that is why you have this higher percentage appearing in, say, a Shopify Build a Business competition? In any case, it’s been such a fun ride. And thanks for having me as part of it.
+
+Well, you kind of started it. You shouldn’t downplay your input on the whole thing.
+========,9,title.
+Yeah. And I wanted to also, before I forget, and since I think other people listening might find it of interest, mention a book that’s kind of going to segue over to something that may or may not bear fruit, we’ll see, but the book that I would recommend – bear with me, guys. This is going to get very Tim Ferriss ADHD for a second. But you mentioned dyslexia. Do you not have any issues with real time review of code as you’re writing it?
+
+No.
+
+Okay. That’s interesting.
+
+None.
+
+Okay. That’s for another time. Neurologically and optically, that’s very interesting to me.
+
+It’s a fascinating question, but no, I don’t.
+
+Okay. I had that come to mind because I’m going to recommend a book. But it’s a short book by a reasonably recently deceased Jesuit priest who was also trained as a therapist named Anthony de Mello. The book is called Awareness. And the subtitle is The Perils and Opportunities of Reality. But it’s a collection of effectively transcribed talks that were given by Anthony. It was recommended by a guest on this podcast, Peter Mallouk, who is in finance. And I decided to pick it up because he said, every time he reads it, and he re-reads it more than any other book, it gives him an extended sense of peace. And I was like, that is not the phrase or explanation that I would expect.
+
+It’s a hell of a way to sell a book.
+
+Yeah. And I picked it up. Awareness: The Perils and Opportunities of Reality, I think, you might just find strikes a chord. It’s a very easy read. And for me, it did give me this extended afterglow effect of inner peace for two weeks. And I decided that I’m probably going to re-read it less than a month after having finished it. And it has proven very valuable for me, even though I do have a meditation practice, to reinforce through the prefrontal cortex the value of owning your internal state and be choosing to be or develop the responsiveness as opposed to reactivity. And this, on a macro level, makes me think of comfort, discomfort, and how humans relate to that.
+========,9,title.
+Something that came up in doing research for this was the concept of – and then, I may be barking up the wrong tree here, but we’ll see where it goes, the next box and what the box is. Not in the shipping container sense. Could you talk about what I’m referring to?
+
+Yeah. It’s a term from a talk I gave. I was invited to a local event, and they needed me to do a keynote. And I don’t tend to do these kinds of things a lot. But they just asked me to share something. And so I said, “Well, personal growth is something that I’m thinking a lot about and feel like I was going through.” So I decided to just explain it the way I see it without really going deep into what I was thinking about it. And so this is what I explained. When you’re back in high school, I remember being back in high school, and I remember that there were cool kids and uncool kids. And we probably were two different sides of that divide. I was with the uncool kids.
+
+I was the Dungeons & Dragons nerd kid camp. So I actually got my ass kicked up until about sixth grade, and then, a growth spurt, and then I was just an angry, rageful vigilante. But up until sixth grade, I was definitely in the nerd camp.
+
+So and, again, I don’t know why we keep talking about me as a kid because it’s not that interesting, but it seems to keep coming up. This is already going to tell you way too much about me as a kid. At some point, I decided I want to analyze why some kids are cool and why I’m not. And what I came back with was the cool kids all had Air Jordans. So I wanted them, too. And, of course, at some point, I got them, and it totally didn’t make a difference. But the reason why this is valuable is that high school is a universe. It’s kind of a box. And it’s hard to get in it because it feels very uncomfortable. You don’t understand it. You don’t understand the social network or inferences. And then you’re trying to make sense of it in your own way, and it actually becomes reasonably comfortable after you sort of explain it to yourself.
+
+Now, it’s a small box, narrow. And probably your understanding of it is wrong. Clearly, mine was about how I could join the cool kids. At some point, hopefully, what happens is you find a crack somewhere in the narrow box you’re in, and you go into the outer box where this box you just came from is like a tiny parcel in the corner. It’s a much bigger place. It may be college or work life. But, again, it feels super uncomfortable. You arrive in that new box not understanding physics, not understanding the situation, what’s expected of you. It’s all ambiguous. You have to reinvent – even the things you figured out before are no longer true. And you notice this at sort of an internal level. And the trick is to, at some point, figure it all out. And then comes the dangerous part because it’s now comfortable again.
+
+And so what you have to do is you have to go and find the crack and go into the next box around this where, suddenly, all of your college life and all of these kinds of things just are a small box in the corner somewhere. And, suddenly, your world is much bigger, and you need to learn more and understand more and so on. I find I’ve met, luckily, at various times in my life, these people who clearly occupy the much larger box. And they just sort of bend down to me to talk to me because they could just somehow – like you said this one thing, and what they said back to you was so clearly right, but you could never have understood yourself based on this vantage point you had. And they were usually the way that you entered into a larger box and so on.
+========,9,title.
+Can you think of any, or are you willing to give any, examples of an exchange like that?
+
+Yeah. It’s a recurring thing. It still happens to me to this day. The specific case I was thinking of, back in the day, I left school after tenth grade. I started my apprenticeship as a computer programmer, which is the thing you can do in Germany. And I spent a good deal of time on computers and understood them. I could do programming and so on. But there was a guy by the name of Jürgen Saar, who was sort of my designated mentor in this apprenticeship program. And he was one of those people who I could ask any question, and you could write down what he said back. Everything came back fully formed.
+
+Sam Harris type.
+
+Exactly. And but also, he was just an incredible mentor to me because he created almost these scenarios for me. He would do quote reviews and so on. But also, he would sign us up to drive to some customer, which he and I were writing some software for. And then, he would just find an excuse for not being able to do and just let me go myself. And I was like 17 or 18 years old. I just got my driver’s license.
+
+I’m just trying to imagine having spent a lot of time with you.
+
+I had to get 400 D mark, which was before euros, which was like 200 euros, to buy a suit from the company. I did not have that money. Going to a customer and selling software.
+
+Now why did he do that?
+
+Because he thought I could do it. And that was just it. It’s like he did think that I would probably not fail and that I was good enough also for him. And he also knew the customer well so he can pull a stunt like this, and they would find it’s funny. So there was very little personal risk for him. And then, you do this, and I learned a lot. And, of course, it totally didn’t work, and I had to use some satellite uplink to get the new version. But I came back and said, “Hey, in this sort of bird view box thing I was in just yesterday, it’s implausible that I would have succeeded doing this thing that I just did yesterday. So therefore, I think I’m in a comfortable new box right now. And I have to relook at everything I know and recategorize everything.” And Jürgen kind of just figured out how to get me through a couple of those. And so I don’t know if it’s a good metaphor for growth.
+
+But it’s one that just sort of came to my mind the first time I was supposed to explain this to people. And what I like about it is that it affirms the thing that makes it hard to grow because it is the dangerous part of when you feel comfortable in the box you’re in. And every one of us has, at the family reunion, the one uncle who decided to not traverse into further boxes way too early. The had the entire world figured out, and everything makes sense to them. And, of course, everyone else looks at it and says, oh, my God, what are they talking about, right?
+
+So I have a few questions about that. Comfort zones are a topic of great interest to me. But also, it comes back to awareness as well. For instance, do you know what box you are currently in and the next box you want to go to? Or is it not possible, until you have someone bend down and kind of poke you in the forehead?
+
+I don’t think you can. I know I’m always in a box. Personally, I think I have figured out the box I’m in. And I’m currently not seeing the exit, which makes me uneasy.
+
+I’m sorry, say that one more time. One more time.
+
+I would say that I understand the box I’m in, and I haven’t found the exit. And the funny thing is I’ve done this so many times that I’m actually really uncomfortable being comfortable. I really dislike not understanding where that comes from. So I’m a seeker right now.
+
+Are you comfortable sharing what the box is that you’re in that you don’t know the exit from?
+
+It’s nothing terribly profound. It’s like it’s my life. I understand how to be a public company CEO. It’s just a crazy sentence that [inaudible 01:34:53] we would never have met and me uttering. But I understand the systems of Wall Street. And I understand the company that I’ve built. I understand how to be the best leader I can be for the company. I’ve made a lot of progress in my personal life. I started working out and just have a meditation practice, all of these kinds of good things that you have been recommending forever and I finally came around to. So that’s good, but it’s comfortable, in a way. I’m seeking right now. I’m trying to poke at this. I am trying new things to figure out how to break out of it.
+
+How do you choose those things? How do you choose the things that might be the right stress test to find that crack?
+
+Books are generally good. Like, far afield books are useful. I’m really interested in just psychology right now because there are a lot of more interesting topics than people think. But I’m also challenging myself. I’m in a driver development program for motor racing, which is super fun.
+
+That sounds amazing.
+
+Talk about getting in a car not thinking about anything for two hours or three hours.
+
+Yeah. You’re highly incentivized not to think about other things.
+
+Exactly, because there are real repercussions. This is not like the successful discovery of something, but it did not work. This was a wall. So, like doing things that are just different from anything else. Imparting things from other people’s boxes who are presumably in bigger boxes is a way of doing it.
+========,9,title.
+Now I would also love your help to clarify something, not so much for me because I think I know the answer, but maybe for people listening. And that’s a distinction. I know, as I’m sure you know, many, many people who think that more money, more X, more Y will make them happy or content or at peace. And they never reach that moving goal post. And you and I also, I’m sure, have come across – it’s more common in Silicon Valley than Ottawa perhaps – but people who have tens of millions, hundreds of millions of dollars and are absolutely miserable. And is the feeling very uncomfortable with comfort a symptom of lack of contentment? Or is it something else, if that makes sense? In my time with you, you don’t strike me as – like you are not one of those miserable people.
+
+I’ve seen you with your family. I’ve seen you with your friends. You surround yourself with good people. I wouldn’t be like, “Oh, no, no, Tobi is an unhappy guy, and he’s not going to be happy because it’s just chasing this ever growing number,” which is definitely what you’re chasing. And I can say that for sure. But is there an aspect of it that makes it hard for you appreciate where you are currently? Or is it different?
+
+I think it is. You are right. I’m the most fortunate person on the planet, I sometimes think. I have an incredible family of three boys, a wonderful marriage. I’m on one of those journeys at an incredible scale surrounded by friends. So I have a lot of things going for me. But I certainly have my demons, too. I’m pretty serious that I’m going for a minimal distance from the person I’m meeting at the end of life to the person I become. I set very high requirements for me partly because I know that I was the bottleneck of Shopify for a couple of years around that 2008/2009 time period. I was holding us back. And a lot of my family and friends were dependent on this thing working out for obvious reasons. And so I just really don’t want to get in this situation again.
+
+I need to challenge myself intrinsically to be ahead, to understand what comes next, for better or for worse. If you’re running a company, and you have a product type CEO, you have to have a pretty good crystal ball about the future and where things are going. And that doesn’t need to be always right, but it certainly should be more right than it isn’t because building software takes a while. And if you’re building against it now, it’s going to be old in two years when it’s done. And so you need to build against the state of the world in 2021/2022 and so on. I’m chasing becoming the best version of myself. And a lot of good comes from that. But it can also be stressful.
+========,9,title.
+What do you think caused you to be the bottleneck? Can you define what that means to have been the bottleneck? And why do you think that happened? Was it because you didn’t know how to hire, you weren’t willing to hire because you, for whatever reason, weren’t expanding your skill set fast enough? What did it mean to be the bottleneck? And looking backwards, how do you do the forensic analysis?
+
+I just did not make decisions that I had to quick enough. There was this whole thing about, “Is Shopify a lifestyle business or a growth company?” I struggled with this so much. And it seems silly now because, obviously, we can all look at the result of it becoming a growth company at some point. But it was really unclear to me. And so I ran it cash based looking at bank accounts and making decisions based on “Hey, I need this amount of money in the bank before I can put $5,000 in cool adverts and so on.” And I just made a lot of decisions way too slow because I just didn’t feel comfortable understanding the implications of them. And so I didn’t know I was doing this, but I did. And I’m really unhappy that I did.
+
+I think I unintentionally slowed down the growth of the company for a period of time so that I could stay on top of it. And only realized this after I finally made the call to just say, “Let’s get some venture capital.” And once we had extra money and could spend it on all of these marketing campaigns, which we never did, it’s like every single one we tried worked. And the company just took off to a degree that is almost comical. The VCs are still talking about those times as something they’ve never seen before. I got my Series B, I think, six or seven months after the Series A. And they wired the money before we even started talking about it. It’s like, “You need more money. You didn’t raise enough money because the numbers were so good.” And so I just held back, and I don’t want to do this again.
+
+Yeah. So just for people listening, they’re going to think, “Wait a second, Ferriss, don’t gloss over that!” So everything worked. Why did everything work? Was it because you were bootstrapped? And I’m not trying to answer the question for you. But was it because you were bootstrapped and, therefore, all of the focus was on the product for an extended period of time? Was it because of something else? Was it because you had a lot of interaction with your customers and, therefore, knew how to position things so that when you turned them into more expensive campaigns, you had already honed the material? Why did things work?
+
+Yeah.  A little bit of all of those things. Shopify, when it came out in 2006, was a brilliant solution to the problem of “I need to start an online snowboarding store.” That’s it. Unless you happen to also want to make a snowboarding store, it was no good. But I was in customer support on top of everything else. And here’s the kind of interaction that happened all of the time. It’s like someone would send me an email saying, “I cannot imagine you’re calling yourself an e-commerce system and you don’t even have this feature.” And I’m on the other side of this email, and I’m starting to try to write an essay about what went wrong, and it’s clearly not coming together, which then means I spend the entire night – I implement the feature. I deploy it in the morning, and I reply from the email actually, “What are you talking about? It’s right here.”
+
+So that on top of also having been a merchant and really understanding – I was and I still am in absolute love with this particular problem in the same degree McLean was in love with shipping things. For this type of business, this retail product based business, I just want to give people a chance to reach for independence and start something that’s meaningful and turns them into an entrepreneur because I remember what it felt like when I did it. And so to spend years just chipping away at this problem, making it better and better, making Shopify better, it really came together around 2008/2009. And then, the financial crisis kind of just happened. And we thought we were dead. But, suddenly, at this point, it was actually quite good, at this point. And it was also really cheap compared to everything else. So people started to –
+
+The service itself, Shopify was cheaper.
+
+It was $29. We had people converting from a $900,000 a year bill to a $59 a month plan, which, of course, tells you exactly how good I was at business at this time. But for us, it was a point of pride. We loved this. And so we invested everything in our product. There were 20 years in our mind of the roadmap, which we couldn’t get to because it was a tiny team. And so again, in this timeframe, the software was really good. But then the people who used it loved it, but it was hard to get the word out. And so to test anything, everything, I had $5,000 additional reoccurring a month, I had to make a decision: “Am I going to hire this one person, which is going to be really good for our product, or am I going to spend this as a test in some kind of marketing capacity?”
+
+And so what I ended up doing, finally, and it was the right thing to do, is I got the top five ideas for marketing. I saved up the $25,000 so I could divvy that out amongst those ideas. And I said, “Let’s try all of them. Because if one of them really accelerates our growth, then we are actually a growth company, and we should get venture capital.”
+
+And we should know sooner rather than later.
+
+And we should have done it sooner.
+
+No, no, I’m saying you do all five at once as opposed to sequentially, because then you get the feedback sooner.
+
+Exactly. Because, otherwise, we don’t know. It’s already changed too much. This was still not very scientific, but it was better to do it at the same time because they are different ideas. It’s like radio and adverts in this way and other campaigns in this way. And all five worked. It was stunning, honestly. They all worked, and every single one clocked in better than what we expected a highly successful campaign should return, at which point, I took this as an Excel spreadsheet to the venture capitalist and said, “Here’s a formula. I need to fund this formula.” This changed the conversation quite a bit.
+
+They’re like, “Tobi, I remember when you came here on a bike.”
+
+Exactly.
+
+Oh, my God.
+
+First come with a bike, then, I come with a formula.
+========,9,title.
+As you said earlier, there’s a lot of chance involved with a lot of this stuff. And I wish I could give credit to the writer who came up with this term, and I’m blanking. You may know who this is. But they talk about a luck surface area and increasing your luck surface area so that chance has a higher likelihood of sticking. I know there’s a lot of confusion in that sense. But the importance of that hands on, those customer calls, is sort of hard to overstate. And I know some companies that require all of their executive hires to do a period of customer support.
+
+Same with us.
+
+Same with you guys, all on the front lines.
+
+And I still take customer calls. I do it periodically. I work with customer support. And I have my own account there. I take some tickets, and I take the phone. I go visit customers all of the time. This is actually the distance to front line becoming bigger has probably killed more companies from probably many other forces that people would immediately think about when talking about disruption.
+
+Yeah. I love it. Tobi, I’ll ask just a few more questions, and then we’ll wrap. We have some dinner and maybe some wine or something else to have later. But you mentioned the crystal ball and the importance of looking into the future, particularly with the types of products you’re developing and the technology that you work with, to go back to my notes. Here we go. “John Phillips considers it his job to go to Lütke’s office once in a while and get him to clear everything off this desk. As CEO, he feels he shouldn’t have any actual work to do.” We’ll kind of gloss over that part. “‘He has guys to do that. And if he meddles in it, he’ll cause a problem.’” That is pretty funny. But you have to be looking ahead.
+
+So this would be a super fantasy of mine. Is it literally clearing stuff off of your desk? What does John or other people do to help get you out of the stuff you shouldn’t have your hands in?
+
+Yeah. This has been such a journey. I want to say I like the really high level strategic things. And I like the absolute tiny, minute details.
+
+Then you are also in the customer ticket.
+
+Right. The thing that I optimize away is everything in between those two.
+
+Oh, right.
+
+And so that helps a lot because, again, these tickets matter. I think John has been such a massive help. He’s the same person I mentioned earlier who came to me and said, “Tobi, you’ll never find someone who is going to care as much about Shopify as you do.” Which encouraged me to take the CEO role. So he was there at many important parts of the Shopify journey and was full of good advice. And so he had me build out this practice over time to just hire great people for everything in the middle and allow me to think about the sort of long term, big picture kind of things. And but I really, really, really do like pulling my chair, in some part, with engineers working on some important performance detail and so on. But that teaches me something about the company.
+
+And it also allows me to access the latent pieces of mastery that I once built, which is actually – you were talking about happiness and contentment. Tapping into some kind of mastery, you just can’t spend all of your time just working on things which are going to finish two or three years up from now. The feedback loop’s too long. It doesn’t nourish you in the way that just doing something that’s fun to do now. That’s a really important component. But lastly, on this crystal ball, here’s the way I think about it. First of all, the future is not predictable. The future is a random walk and depends on macro economical events and climate change and a million other things. You can’t actually know the future. But there are two things you can do. One is really important, which is just draw the trend lines forward like a minor version of what Ray Kurzweil would do.
+
+In 2009, we knew that almost all traffic to Shopify would be coming from mobile phones by just looking at data and connecting two points and drawing it forward. It was kind of predictable. Computers getting faster, AI classes being around, and all of these kinds of things, we should add those into our calendar to say by then, they probably are very important. And we should be aware of them. So that’s one component. The other, much more interesting component is you need to be a credible witness to reality. And you have to have a model of what – this is currently January 2019. Almost no one in the world knows what January 2019 actually looks like because of exactly the William Gibson quote you just talked about.
+
+“The future is already there, it’s just not evenly distributed yet.” It used to be that you could go to Silicon Valley, and what you would see around you observing the things around you would be potentially 95 percent accurate rendition of the most up to date current version of the particular time you were in. So if you were an entrepreneur in Silicon Valley, and you looked around, and you just said, “I’m seeing what people did when cars just appeared by pushing a button on my magical piece of glass of in my pocket.” I’m going to try to disrupt the laundry industry. I’m going to do it in that way. You just, by osmosis, kind of are aware of what’s possible. Now, it’s much harder. China is a much bigger component, for instance. A lot of innovation is coming from China.
+
+And a lot of people have not realized that China is completely flipped on its head, in terms of it’s not copying ideas from the west. It’s actually delivering ideas. These fully automated supermarkets that people are talking about and coming to various cities are all over China.
+
+Yeah. The way they use facial recognition to gamify citizen behavior, in certain cities, and WeChat. It’s incredible.
+
+I want to steer away from sort of a moral and political side of China. But I think just looking at it through just what is life like in China, it’s appreciatively more futuristic than it is anywhere else by just we are in a post-credit card world for which we pay on all of these kinds of things. It unlocks completely new business models for them. So it’s worth our understanding. But there are other things. 
+========,9,title.
+Who actually, in the business world, understands the video game industry? It’s the biggest industry no one cares about.
+
+Yeah. I remember one time – I don’t want to interrupt, but I will since I’ve apparently had too much caffeine. I know very little about video games. But I remember I was looking at it because you see it all of the time, if you go to Rotten Tomatoes, you see the box office earnings of the biggest movies in the world, at least domestically. And then I saw some of the numbers for video game releases. And it was a multiple of the entire total of the list.
+
+Yeah. The video game industry is a good deal larger than television, music, and Hollywood combined.
+
+It’s incredible.
+
+Right? But it’s also one of the most competitive environments ever. It essentially is a massive industry on the Hollywood model that a hit is everything that everyone aims at. One hit clears the money from the industry. And so what these guys have found out in the video game industry about just human psyche is just fascinating and hugely futuristic compared to what these sort of business people figured out. And so what I’m getting at is you do the trend line thing and nothing at the table sticks. And people just need to do a good job of doing that. But that’s also not that hard. And then you have to look around the planet and just say, “Where are the competitive fields? What tools have the winners figured out in them? How can I impart this back into the rest of the world?”
+
+And I think through the intersection of those two disciplines, you can actually get a crystal ball and make assumptions on the future that start becoming reasonably precise so that they are better than not having them as guiding posts for making product decisions and so on.
+
+Tobi, the Oracle of Ottawa.
+
+That sounds so wrong, in a way.
+
+You should have just said that because now, I’m going to make it my job to make that your next headline.
+
+That’s my fate now.
+
+So let’s wrap up with a couple of questions that I like to ask and listeners seem to enjoy. I’ll just go for some of the hard ones. If you had a billboard, metaphorically speaking, a message, a quote, a question, a word – he lifted his glasses and is scratching his eyes as I’m asking this. That’s his sign of –
+
+I know you ask this question. Why was I not –
+
+That’s his sign of approval. What might you put on it? It can’t be an advertisement.
+
+I’m going to stay on topic. “Entrepreneurship is precious and needs to be celebrated” is what I would put on the billboard.
+
+Besides the books that you’ve mentioned, are there any other books that you would put – one that comes to mind is most frequently gifted or recommended? It doesn’t have to be one book. It could be whatever comes to mind.
+
+The most frequently gifted book is The Elements of Style because I like good writing.
+
+Now is that a passive aggressive thing to employees?
+
+People hate getting that book. But I think I might have 50 copies in my office. It happens frequently.
+
+“John, by the way, great use on the semicolon, however, here’s a gift.”
+
+Yeah. It’s more like, “Hey, I like the content of the memo, but I don’t think you’ve written a non-passive sentence in a year. So I think you need to” –
+
+Not to stereotype it, but it’s like the most German thing I’ve ever heard. We have to talk about your passive voice.
+
+Exactly. A book I love giving to people, I try to, of course, aim at the right moment, is A Guide to the Good Life is one of the best books I’ve ever read.
+
+That’s the introduction to Stoicism, William Irvine?
+
+Yeah, exactly. I think that’s the best gateway to walk into this world.
+
+That is a great book.
+
+Did you read The Courage to be Disliked?
+
+No, but I love the title.
+
+It is probably the best book I’ve read in the last couple of years.
+
+Wow.
+
+It’s an introduction to Adlerian psychology, which is sort of anti-Freud. They were two factions in the Vienna –
+
+What was the name?
+
+It’s called The Courage to be Disliked.
+
+But the psychologist?
+
+I think Alfred Adler is the name. And absolutely fantastic. Clearly a student of Stoicism, but I think he took it further. His concept of the separation of tasks is probably – maybe that would be another thing I would put on a billboard. But I think it requires a little bit of context and explanation.
+
+What is the separation of tasks?
+
+It is the basic idea of “It’s not your task to be liked. It’s your task to be likable, and it’s someone else’s task to like you or not. It’s up to them.” The biggest wedge between your psychology and someone else’s that could ever be driven into it. And I think, potentially, a more tangible way of getting people into this mindset than I think the stoics who came at it from a very high mindedness. It all makes sense. But I think what Adler does really well is he developed tangible tools to facilitate a lot of those kinds of outcomes with stoic but a sort of reasoning about it. So a fascinating book.
+
+The Courage to be Disliked. That is one of the better titles I’ve heard in a very, very long time.
+
+Agreed.
+
+Do you have any parting requests, asks for the audience, last comments for now that you would like to make? Anything you’d like to ask them to do, suggest that they might check out, or anything at all that you’d like to say?
+
+Yeah. The broad question, again, we didn’t really get into this too much. I sort of alluded to it probably enough. I’m a huge fan of people just going for it, reaching for independence, building businesses. I think it’s worthwhile for especially your listenership to sort of understand that there’s no law of the universe that makes entrepreneurship stick around. It actually happens because governments and various people made very deliberate choices to facilitate it. We do see friction massively increases the participation in entrepreneurship. This is not a plug for Shopify. Shopify is a player in the space. But actually, we need more companies to figure out ways to reduce the friction of entrepreneurship across the entire spectrum of how people engage in entrepreneurship because, I think, if you don’t, this is going to end up being a serious economical issue, eventually.
+
+Because, by the time people figure out why is employment going away, why small business employment is down, it’s actually because small businesses are going down. There are, potentially, so many systemic effects in play that it’s going to be hard to undo a lot of the damage. And so I think it’s an underappreciated area of entrepreneurship. It is entirely possible to build a company that’s highly valuable by focusing on this. You don’t have to go up market like the way everyone tells you to, specifically, investor types. And Shopify proves another way if you’re looking for a kind of blue print. And so I would love for more people to think about this.
+
+When you’re going into your oracle toolkit with the crystal ball and surveying the global landscape, are there any particular countries or cities that you think are worth examining or modeling that do a good job? I don’t know if Singapore would be an example.
+
+Yeah. It’s sort of Singapore, but also Stockholm is another one. What’s going on in Berlin is really interesting. But also, Shenzhen. I think visiting Shenzhen would be highly, highly –
+
+And that’s S-H-E-N-Z-H-E-N?
+
+Yeah, I think so. It’s exactly the kind of thing I have trouble with with dyslexia.
+
+Chinese is pretty hard for everyone who is not Chinese.
+
+But just because you go in the world’s biggest electronic markets, and you realize, “Hey, if I wake up early enough and make my goal ‘I’m going to build my own cell phone,’ I can be done by the end of the day by just getting components in this place.” And these buildings just don’t exist anywhere else in the world. And that kind of everything is possible attitude is also shared by everyone there. And it’s a really fascinating place. It’s really interesting. So I think that’s a place which figured it out.
+========,9,title.
+Yeah. That has sort of a silver lining on what could be a very large, systemic problem is that there are exemplars out there. There are cases to study. Tobi, this is so fun. I’m really glad that we ended up having the opportunity to cross paths yet again and sit down. Of course, people can find out more about Shopify at shopify.com. On Twitter, they can say hello to you @Tobi. And then, Twitter, Instagram, LinkedIn, of course, Shopify is on all of these platforms. And I’ll link to everything in the show notes. I also have a Reddit link here. And maybe you can explain what that is. There’s a shake of the head.
+
+I don’t know how it made it there. I thought I was anonymous on Reddit. This is no good.
+
+Okay. So that is not to be mentioned. The name that shall not be spoken. And I’ll link to everything we discussed, the books, and so on, the principles, philosophers, psychologists in the show notes @tim.blog/podcast as per usual. You can just search Shopify or Tobi, T-O-B-I, and everything will pop right up. Tobi, thank you so much.
+
+This was fun.
+
+Yeah. A really good time. I’ve always enjoyed spending time with you. You started off very humble and understated. You remain very humble and understated, which I think is a real testament to you. And I think it is true that companies tend to develop a culture around the personality and attributes of their leaders. And you’ve assembled a fantastic team and built a wonderful company that’s doing a lot of good.
+
+Thank you so much, Tim. And, again, kudos to you, too. Actually, thank you to you, too. You were a big inspiration along the way, a massive help. Thanks for making yourself available, when we needed you. And it was incredibly gratifying to spend that really fun day at the New York Stock Exchange ringing that bell, being there together. Again, it’s all about being on a journey surrounded by friends. So thank you so much for being a friend to a company.
+
+Oh, my pleasure. And what an honor to have been in the right place at the right time, RailsConf.
+
+Who knew?
+
+It is really important to have companions on the path. Many adventures ahead. And to everybody listening, thank you for tuning in. And try to figure out which box you’re in. And check out some of the resources in the show notes. Thanks for listening.

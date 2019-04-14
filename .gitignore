@@ -104,7 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # Large training data files
-data/
+data/*
+!/data/podcasts
 
 # Visual Studio Code config
 .vscode/

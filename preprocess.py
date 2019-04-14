@@ -9,13 +9,17 @@ import numpy as np
 
 class Pipeline(object):
 
-    def __init__(self, dataPath, ex_per_batch, ex_per_file):
+    def __init__(self, dataPath, ex_per_batch, ex_per_file, wiki=True):
+        self.wiki = wiki # We preprocess slightly differently based on wiki or podcast
         self.mainPath = Path(dataPath)
-        self.trainPath = Path(dataPath).joinpath('train', 'train')
-        self.testPath = Path(dataPath).joinpath('train', 'test')
-        self.devPath = Path(dataPath).joinpath('train', 'dev')
-        self.expPath = Path(dataPath).joinpath('test')
-        self.hdf5Path = Path(dataPath).joinpath('hdf5')
+        if wiki:
+            self.trainPath = Path(dataPath).joinpath('train', 'train')
+            self.testPath = Path(dataPath).joinpath('train', 'test')
+            self.devPath = Path(dataPath).joinpath('train', 'dev')
+            self.expPath = Path(dataPath).joinpath('test')
+            self.hdf5Path = Path(dataPath).joinpath('hdf5')
+        else:
+            self.hdf5Path = Path(dataPath).joinpath('hdf5')
 
         self.ex_per_batch = ex_per_batch
         self.ex_per_file = ex_per_file
@@ -34,7 +38,6 @@ class Pipeline(object):
         if max_examples:
             print('Processing a subset of size {}...'.format(max_examples))
             self.num_examples = max_examples
-
         # Determine number of batches to process
         self.num_batches = math.ceil(self.num_examples/self.ex_per_batch)
 
@@ -45,22 +48,21 @@ class Pipeline(object):
             self.docs = []
             # Determine start and stop indices in file list for current batch
             startIdx = batchIdx * self.ex_per_batch
-            if batchIdx-1 == self.num_batches:
+            if batchIdx+1 == self.num_batches:
                 stopIdx = self.num_examples
             else:
                 stopIdx = startIdx + self.ex_per_batch
-            
             # Run spacy nlp on each document
             for file in self.files[startIdx:stopIdx]:
                 try:
                     doc = self.nlp(file.read_text(encoding='utf-8'))
-                    docs.append(doc)
+                    if len(doc.user_data['labels']) > 0:
+                        docs.append(doc)
                 except Exception as e:
                     print(file)
                     print(e)
 
             self.docs = docs
-            
             # Generate HDF5s for current batch
             self._genHDF5s(batchIdx, startIdx, stopIdx)
 
@@ -81,6 +83,7 @@ class Pipeline(object):
             self.hdf5Path.mkdir()
 
         num_files = math.floor(len(self.docs)/self.ex_per_file)
+        num_files = max(1, num_files) # Ensure generation of at least 1 file
         print('There are {} examples in batch {}'.format(len(self.docs), batchIdx))
         print('Creating {} hdf5 files...'.format(num_files))
 
