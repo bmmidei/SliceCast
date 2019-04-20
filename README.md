@@ -1,14 +1,17 @@
 # SliceCast
 A recurrent neural architecture for long-document segmentation
 
-
+# Demo / TLDR
 
 # Table of Contents
+[**Demo**](#Demo-/-TLDR)
+
 [**Data**](#Data)
   * [**Wiki-727k Dataset**](#Wiki-727k)
   * [**Small-scale podcast dataset**](#Small-scale-podcast-dataset)
 
 [**Results**](#Results)
+  * [**Reproducing Results**](#Reproducing-results)
 
 [**Built With**](#Built-With)
 
@@ -16,24 +19,21 @@ A recurrent neural architecture for long-document segmentation
 
 [**License**](#License)
 
-[**Acknowledgements**](#Acknowledgements)
+[**Acknowledgments**](#Acknowledgments)
 
 
-## Data
+# Data
 The data for this project comes from two separate sources:
 
-### Wiki-727k
+## Wiki-727k
 Data Structure:
 * train set: 582160 text files
 * test set: 73232 text files
 * dev set: 72354 text files
 
+## Small-scale podcast dataset
 
-
-### Small-scale podcast dataset
-
-
-## Results
+# Results
 
 ## Reproducing Results
 
@@ -60,21 +60,21 @@ of this repository. With your new environment active, use the following command 
 pip install -r /path/to/req.txt
 ```
 
-## Built With
+# Built With
 * [TensorFlow](https://www.tensorflow.org) - The Neural Network backend used
 * [Keras](https://keras.io) - The Neural Network high-level API
 * [NumPy](http://www.numpy.org/) - Matrix operations and linear algebra
 
-## Authors
+# Authors
 
 * **Brian Midei** - [bmmidei](https://github.com/bmmidei)
 * **Marko Mandic** - [markomandic](https://github.com/markomandic)
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
+# Acknowledgments
 
 * Omri Koshorek, Adir Cohen, Noam Mor, Michael Rotman, Jonathan Berant for proposing text segmentation as a supervised
 learning task and for providing the Wiki-727k dataset
