@@ -105,7 +105,10 @@ venv.bak/
 
 # Large training data files
 data/*
-!/data/podcasts
+!/data/podcasts/
+!/data/wiki-sample/
+/data/wiki-sample/*
+!/data/wiki-sample/wiki-sample.zip
 
 # Visual Studio Code config
 .vscode/
