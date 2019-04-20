@@ -1,0 +1,15 @@
+========,1,preface.
+Cobalt(III) fluoride is the inorganic compound with the formula CoF.
+This highly reactive, hygroscopic brown solid is used to synthesize organofluorine compounds.
+CoF is a powerful fluorinating agent that leaves CoF as the byproduct.
+========,2,Preparation.
+CoF is prepared in the laboratory by treating CoCl with fluorine at 250 °C:
+This conversion is a redox reaction: Co and Cl are oxidized to Co and Cl, respectively, while F is reduced to F. Cobalt(II) oxide (CoO) and cobalt(II) fluoride (CoF) can also be converted to cobalt(III) fluoride using fluorine.
+========,2,Reactions.
+CoF decomposes upon contact with water to give oxygen:
+CoF is hygroscopic, forming a dihydrate (CAS#54496-71-8).
+It reacts with fluoride sources to give the anion [CoF], which is a rare example of a high-spin, octahedral cobalt(III) complex.
+========,2,Applications.
+Used as slurry, CoF converts hydrocarbons to the perfluorocarbons:
+Such reactions are sometimes accompanied by rearrangements or other reactions.
+The related reagent KCoF is more selective.

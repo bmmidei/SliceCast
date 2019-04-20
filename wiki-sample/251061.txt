@@ -1,0 +1,59 @@
+========,1,preface.
+Glass-ceramics have an amorphous phase and one or more crystalline phases and are produced by a so-called "controlled crystallization" in contrast to a spontaneous crystallization, which is usually not wanted in glass manufacturing.
+Glass-ceramics have the fabrication advantage of glass, as well as special properties of ceramics.
+Glass-ceramics do not require brazing but can withstand brazing temperatures up to 700 °C.
+Glass-ceramics usually have between 30% [m/m] and 90% [m/m] crystallinity and yield an array of materials with interesting properties like zero porosity, high strength, toughness, translucency or opacity, pigmentation, opalescence, low or even negative thermal expansion, high temperature stability, fluorescence, machinability, ferromagnetism, resorbability or high chemical durability, biocompatibility, bioactivity, ion conductivity, superconductivity, isolation capabilities, low dielectric constant and loss, high resistivity and break-down voltage.
+These properties can be tailored by controlling the base-glass composition and by controlled heat treatment/crystallization of base glass.
+In manufacturing, glass-ceramics are valued for having the strength of ceramic but the hermetic sealing properties of glass.
+Glass-ceramics are mostly produced in two steps: First, a glass is formed by a glass-manufacturing process.
+The glass is cooled down and is then reheated in a second step.
+In this heat treatment the glass partly crystallizes.
+In most cases nucleation agents are added to the base composition of the glass-ceramic.
+These nucleation agents aid and control the crystallization process.
+Because there is usually no pressing and sintering, glass-ceramics have, unlike sintered ceramics, no pores.
+A wide variety of glass-ceramic systems exists, e.g., the LiO × AlO × "n"SiO system (LAS system), the MgO × AlO × "n"SiO system (MAS system), the ZnO × AlO × "n"SiO system (ZAS system).
+The LAS system mainly refers to a mix of lithium, silicon, and aluminum oxides with additional components, e.g., glass-phase-forming agents such as NaO, KO and CaO and refining agents.
+As nucleation agents most commonly zirconium(IV) oxide in combination with titanium(IV) oxide is used.
+This important system was studied first and intensively by Hummel, and Smoke.
+After crystallization the dominant crystal phase in this type of glass-ceramic is a high-quartz solid solution (HQ s.s.).
+If the glass-ceramic is subjected to a more intense heat treatment, this HQ s.s. transforms into a keatite-solid solution (K s.s., sometimes wrongly named as beta-spodumene).
+This transition is non-reversible and reconstructive, which means bonds in the crystal-lattice are broken and new arranged.
+However, these two crystal phases show a very similar structure as Li could show.
+The most interesting properties of these glass-ceramics are their thermomechanical properties.
+Glass-ceramic from the LAS system is a mechanically strong material and can sustain repeated and quick temperature changes up to 800–1000 °C.
+The dominant crystalline phase of the LAS glass-ceramics, HQ s.s., has a strong "negative" coefficient of thermal expansion (CTE), keatite-solid solution as still a negative CTE but much higher than HQ s.s.
+These negative CTEs of the crystalline phase contrasts with the positive CTE of the residual glass.
+Adjusting the proportion of these phases offers a wide range of possible CTEs in the finished composite.
+Mostly for today's applications a low or even zero CTE is desired.
+Also a negative CTE is possible, which means, in contrast to most materials when heated up, such a glass-ceramic contracts.
+At a certain point, generally between 60% [m/m] and 80% [m/m] crystallinity, the two coefficients balance such that the glass-ceramic as a whole has a thermal expansion coefficient that is very close to zero.
+Also, when an interface between material will be subject to thermal fatigue, glass-ceramics can be adjusted to match the coefficient of the material they will be bonded to.
+Originally developed for use in the mirrors and mirror mounts of astronomical telescopes, LAS glass-ceramics have become known and entered the domestic market through its use in glass-ceramic cooktops, as well as cookware and bakeware or as high-performance reflectors for digital projectors.
+========,2,Ceramic matrix composites.
+One particularly notable use of glass-ceramics is in the processing of ceramic matrix composites.
+For many ceramic matrix composites typical sintering temperatures and times cannot be used, as the degradation and corrosion of the constituent fibres becomes more of an issue as temperature and sintering time increase.
+One example of this is SiC fibres, which can start to degrade via pyrolysis at temperatures above 1470K.
+One solution to this is to use the glassy form of the ceramic as the sintering feedstock rather than the ceramic, as unlike the ceramic the glass pellets have a softening point and will generally flow at much lower pressures and temperatures.
+This allows the use of less extreme processing parameters, making the production of many new technologically important fibre-matrix combinations by sintering possible.
+========,2,Cooktops.
+Glass-ceramic from the LAS-System is a mechanically strong material and can sustain repeated and quick temperature changes.
+However, it is not totally unbreakable.
+Because it is still a brittle material as glass and ceramics are, it can be broken.
+There have been instances where users reported damage to their cooktops when the surface was struck with a hard or blunt object (such as a can falling from above or other heavy items).
+At the same time, it has a very low heat conduction coefficient and can be made nearly transparent (15–20% loss in a typical cooktop) for radiation in the infrared wavelengths.
+In the visible range glass-ceramics can be transparent, translucent or opaque and even colored by coloring agents.
+, there are two major types of electrical stoves with cooktops made of glass-ceramic:
+***LIST***.
+It is interesting to note that this technology is not entirely new, as glass-ceramic ranges were first introduced in the 1970s using Corningware tops instead of the more durable material used today.
+These first generation smoothtops were problematic and could only be used with flat-bottomed cookware as the heating was primarily conductive rather than radiative.
+Compared to conventional kitchen stoves, glass-ceramic cooktops are relatively simple to clean, due to their flat surface.
+However, glass-ceramic cooktops can be scratched very easily, so care must be taken not to slide the cooking pans over the surface.
+If food with a high sugar content (such as jam) spills, it should never be allowed to dry on the surface, otherwise damage will occur.
+For best results and maximum heat transfer, all cookware should be flat-bottomed and matched to the same size as the burner zone.
+========,2,Brands and manufacturers.
+Some well-known brands of glass-ceramics are Pyroceram, "Ceran" (cooktops), "Eurokera" (cooktop, stoves and fireplaces), "Zerodur" (telescope mirrors), and "Macor", "Kanger" (Glass-Ceramic for cooktop, stoves, microwave and fireplaces door).
+German manufacturer Schott introduced Zerodur in 1968, Ceran followed in 1971.
+Nippon Electric Glass of Japan is another worldwide manufacturer of glass ceramics, whose related products in this area include Firelite and Neoceram fire-rated glass.
+Keralite, manufactured by Vetrotech Saint-Gobain, is a specialty glass-ceramic fire and impact safety rated material for use in fire-rated applications.
+Glass-ceramics manufactured in the Soviet Union/Russia are known under the name "Sitall".
+The same class of material was also used, until the late 1990s, in CorningWare dishes, which could be taken from the freezer directly to the oven with no risk of thermal shock.

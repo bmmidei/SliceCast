@@ -1,0 +1,25 @@
+========,1,preface.
+Jack R. Edmonds (born April 5, 1934) is an American computer scientist, regarded as one of the most important contributors to the field of combinatorial optimization.
+He was the recipient of the 1985 John von Neumann Theory Prize.
+========,2,Research.
+A breakthrough contribution of Edmonds is defining the concept of polynomial time characterising the difference between a practical and an impractical algorithm.
+Another of Edmonds' earliest and most notable contributions is the blossom algorithm for constructing maximum matchings on graphs, discovered in 1961 and published in 1965.
+This was the first polynomial-time algorithm for maximum matching in graphs.
+Its generalization to weighted graphs was a conceptual breakthrough in the use of linear programming ideas in combinatorial optimization.
+It sealed in the importance of there being proofs, or "witnesses", that the answer for an instance is yes and there being proofs, or "witnesses", that the answer for an instance is no.
+Additional landmark work of Edmonds is in the area of matroids.
+He found a polyhedral description for all spanning trees of a graph, and more generally for all independent sets of a matroid.
+Building on this, as a novel application of linear programming to discrete mathematics, he proved the matroid intersection theorem, a very general combinatorial min-max theorem which, in modern terms, showed that the matroid intersection problem lay in both NP and co-NP.
+Edmonds is well known for his theorems on max-weight branching algorithms and packing edge-disjoint branchings and his work with Richard Karp on faster flow algorithms.
+The Edmonds–Gallai decomposition theorem describes finite graphs from the point of view of matchings.
+He introduced polymatroids, submodular flows with Richard Giles, and the terms clutter and blocker in the study of hypergraphs.
+A recurring theme in his work is to seek algorithms whose time complexity is polynomially bounded by their input size and bit-complexity (see the Cobham–Edmonds thesis).
+========,2,Career.
+Edmonds graduated with a baccalaureate degree from George Washington University in 1958, and obtained a master's degree from the University of Maryland in 1959, with a thesis on the problem of embedding graphs into surfaces.
+From 1959 to 1969 he worked at the National Institute of Standards and Technology (then the National Bureau of Standards), and was a founding member of Alan Goldman’s newly created Operations Research Section in 1961.
+From 1969 on, with the exception of 1991-1993, he held a faculty position at the Department of Combinatorics and Optimization at the University of Waterloo's Faculty of Mathematics.
+He supervised the doctoral work of a dozen students in this time.
+From 1991 to 1993, he was involved in a dispute ("the Edmonds affair") with the University of Waterloo, wherein the university claimed that a letter submitted constituted a letter of resignation, which Edmonds denied.
+The conflict was resolved in 1993, and he returned to the university.
+Edmonds retired in 1999.
+The fifth Aussois Workshop on Combinatorial Optimization in 2001 was dedicated to him.

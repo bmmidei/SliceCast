@@ -1,0 +1,61 @@
+========,1,preface.
+Dual-energy X-ray absorptiometry (DXA, previously DEXA) is a means of measuring bone mineral density (BMD).
+Two X-ray beams, with different energy levels, are aimed at the patient's bones.
+When soft tissue absorption is subtracted out, the BMD can be determined from the absorption of each beam by bone.
+Dual-energy X-ray absorptiometry is the most widely used and most thoroughly studied bone density measurement technology.
+The DXA scan is typically used to diagnose and follow osteoporosis, as contrasted to the nuclear bone scan, which is sensitive to certain metabolic diseases of bones in which bones are attempting to heal from infections, fractures, or tumors.
+========,2,Uses.
+DXA scans are used primarily to evaluate bone mineral density.
+DXA scans can also be used to measure total body composition and fat content with a high degree of accuracy comparable to hydrostatic weighing with a few important caveats.
+However, it has been suggested that, while very accurately measuring minerals and lean soft tissue (LST), DXA may provide skewed results due to its method of indirectly calculating fat mass by subtracting it from the LST and/or body cell mass (BCM) that DXA actually measures.
+DXA scans are also used to assess adiposity in children, especially to conduct clinical research.
+========,2,Indications.
+The U.S. Preventive Services Task Force recommends that women over the age of 65 should get a DXA scan.
+The date at which men should be tested is uncertain but some sources recommend age 70.
+At risk women should consider getting a scan when their risk is equal to that of a normal 65-year-old woman.
+A person's risk can be measured using the World Health Organization's FRAX calculator, which includes many different clinical risk factors including prior fragility fracture, use of glucocorticoids, heavy smoking, excess alcohol intake, rheumatoid arthritis, history of parental hip fracture, chronic renal and liver disease, chronic respiratory disease, long-term use of phenobarbital or phenytoin, celiac disease, inflammatory bowel disease, and other risks.
+========,2,Scoring.
+The World Health Organization has defined the following categories based on bone density in white women:
+The WHO committee did not have enough data to create definitions for men or other ethnic groups.
+Special considerations are involved in the use of DXA to assess bone mass in children.
+Specifically, comparing the bone mineral density of children to the reference data of adults (to calculate a T-score) will underestimate the BMD of children, because children have less bone mass than fully developed adults.
+This would lead to an over-diagnosis of osteopenia for children.
+To avoid an overestimation of bone mineral deficits, BMD scores are commonly compared to reference data for the same gender and age (by calculating a Z-score).
+Also, there are other variables in addition to age that are suggested to confound the interpretation of BMD as measured by DXA.
+One important confounding variable is bone size.
+DXA has been shown to overestimate the bone mineral density of taller subjects and underestimate the bone mineral density of smaller subjects.
+This error is due to the way by which DXA calculates BMD.
+In DXA, bone mineral content (measured as the attenuation of the X-ray by the bones being scanned) is divided by the area (also measured by the machine) of the site being scanned.
+Because DXA calculates BMD using area (aBMD: areal Bone Mineral Density), it is not an accurate measurement of true bone mineral density, which is mass divided by a volume.
+In order to distinguish DXA BMD from volumetric bone-mineral density, researchers sometimes refer to DXA BMD as an areal bone mineral density (aBMD).
+The confounding effect of differences in bone size is due to the missing depth value in the calculation of bone mineral density.
+Despite DXA technology's problems with estimating volume, it is still a fairly accurate measure of bone mineral content.
+Methods to correct for this shortcoming include the calculation of a volume that is approximated from the projected area measure by DXA.
+DXA BMD results adjusted in this manner are referred to as the bone mineral apparent density (BMAD) and are a ratio of the bone mineral content versus a cuboidal estimation of the volume of bone.
+Like the results for aBMD, BMAD results do not accurately represent true bone mineral density, since they use approximations of the bone's volume.
+BMAD is used primarily for research purposes and is not yet used in clinical settings.
+Other imaging technologies such as Computed Quantitative Computer Tomography (QCT) are capable of measuring the bone's volume, and are, therefore, not susceptible to the confounding effect of bone-size in the way that DXA results are susceptible.
+DXA uses X-rays to assess bone mineral density.
+The radiation dose of the older original DEXA systems was low with approximately 1/10 that of a standard chest X-ray, causing little interest from the radiation dose specialists.
+However, the dose of the DEXA systems of the second-generation can be as high as 35 mGy.
+The quality of DXA operators varies widely.
+DXA is not regulated like other radiation-based imaging techniques because of its low dosage.
+Each US state has a different policy as to what certifications are needed to operate a DXA machine.
+California, for example, requires coursework and a state-run test, whereas Maryland has no requirements for DXA technicians.
+Many states require a training course and certificate from the International Society of Clinical Densitometry (ISCD).
+It is important for patients to get repeat BMD measurements done on the same machine each time, or at least a machine from the same manufacturer.
+Error between machines, or trying to convert measurements from one manufacturer's standard to another can introduce errors large enough to wipe out the sensitivity of the measurements.
+DXA results need to be adjusted if the patient is taking strontium supplements.
+========,2,Current clinical practice in pediatrics.
+DXA is, by far, the most widely used technique for bone measurements, since it is considered to be cheap, accessible, easy to use, and able to provide an accurate estimation of bone mineral density in adults.
+The official position of the International Society for Clinical Densitometry (ISCD) is that a patient may be tested for BMD if he suffers from a condition that could precipitate bone loss, is going to be prescribed pharmaceuticals known to cause bone loss, or is being treated and needs to be monitored.
+The ISCD states that there is no clearly understood correlation between BMD and the risk of a child's suffering a fracture; the diagnosis of osteoporosis in children cannot be made using the basis of a densitometry criteria.
+T-scores are prohibited with children and should not even appear on DXA reports.
+Thus, the WHO classification of osteoporosis and osteopenia in adults cannot be applied to children, but Z-scores can be used to assist diagnosis.
+Some clinics may routinely carry out DXA scans on pediatric patients with conditions such as nutritional rickets, lupus, and Turner Syndrome.
+DXA has been demonstrated to measure skeletal maturity and body fat composition and has been used to evaluate the effects of pharmaceutical therapy.
+It may also aid pediatricians in diagnosing and monitoring treatment of disorders of bone mass acquisition in childhood.
+However, it seems that DXA is still in its early days in pediatrics, and there are widely acknowledged limitations and disadvantages with DXA.
+A view exists that DXA scans for diagnostic purposes should not even be performed outside specialist centers, and, if a scan is done outside one of these centers, it should not be interpreted without consultation with an expert in the field.
+Furthermore, most of the pharmaceuticals given to adults with low bone mass can be given to children only in strictly monitored clinical trials.
+Whole-body calcium measured by DXA has been validated in adults using in-vivo neutron activation of total body calcium but this is not suitable for paediatric subjects and studies have been carried out on paediatric-sized animals.

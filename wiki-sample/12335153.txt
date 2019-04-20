@@ -1,0 +1,16 @@
+========,1,preface.
+Enterotoxemia is a condition induced by the absoption of large volumes of toxins produced by "Clostridum perfringens" from the intestines.
+There are several strains of "C.perfringens" (Type B, Type C & Type D) that may lead to the development of this gastrointestinal condition.
+========,2,Lamb dysentery.
+A form of enterotoxemia caused by an infection of Type B "C. perfringens", affecting lambs whom are less than 3 weeks old.
+Lambs often die before displaying clinical signs, nonetheless common behaviours of lambs with this condition include, cessation of nursing, lethargy, and recumbency.
+Diarrhea is typical as well, death usually occurs within a few days.
+========,2,Calf enterotoxemia.
+A form of enterotoxemia caused by Type B or Type C "C.perfringens."
+Calves less than 1 month of old are affected.
+The symptoms include, diarrhea, abdominal discomfort, convulsions, and opisthotonos.
+Death may occur within a few days but recovery from this form is possible.
+========,2,Overeating disease or pulpy kidney.
+A form of enterotoxemia caused by Type D "C. perfringens" that occurs in sheep and goats.
+When an animal is exposed to a rapid increase in dietary carbohydrates, the bacteria begin to proliferate causing a significant rise in the concentration of toxins.
+Clinical signs include, anorexia, abdominal pain, and liquid diarrhea (scours) that may contain blood.

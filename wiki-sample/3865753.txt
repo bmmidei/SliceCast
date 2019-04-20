@@ -1,0 +1,84 @@
+========,1,preface.
+KION-TV is a full-power television station in Salinas, California, broadcasting on digital channel 32 as a CBS affiliate.
+The stations continues to use UHF channel 46 as its virtual channel through the use of PSIP.
+KION-TV shows local news, weather, and sports programming, as well as syndicated and community-affair programs.
+Owned by News-Press & Gazette Company, the station is sister to low-powered Telemundo affiliate KMUV-LP.
+KION can be seen on channel 5 on most cable systems.
+While most transmitters for the Monterey Peninsula are located on Fremont Peak, KION's transmitter is currently located on Mount Toro, about 10 miles south of Salinas, while studios are located on Moffett Street in Salinas behind the city's airport.
+========,2,History.
+KION originally started out as KMST-TV (Monterey-Salinas Television) on January 25, 1969 as a CBS affiliate, taking it over from NBC affiliate KSBW which had it as a secondary.
+KMST was available in markets that reached from the Monterey Bay area to San Jose, California.
+Retlaw Broadcasting, a subsidiary of Retlaw Enterprises (a company owned by relatives of Walt Disney), acquired KMST from its original local owners in 1979.
+By 1993, San Jose's TCI cable opted to drop KMST.
+Later that year Retlaw sold the station to a partnership between Harron Communications and Smith Broadcasting (with Smith Broadcasting controlling the joint venture).
+Through a share of Smith Broadcasting, Sandy DiPasquale (who later became CEO of Newport Television) held a small stake in Channel 46 at that time.
+The new owners changed Channel 46's call sign on October 4th to KCCN-TV.
+The next year Smith Broadcasting sold its share of the station to Harron in order to purchase KSBW.
+At that time KCBA (Fox 35), then owned by the Ackerley Group, signed a local marketing agreement with KCCN with Ackerley taking over the operations of both stations.
+The beginning of the LMA came at a time when CBS' ratings were (relatively speaking) at one of the lowest points in the network's history while Fox's ratings were on the rise.
+Although KCCN was longer-established, KCBA became the senior partner in the LMA.
+On February 23, 1997 KCCN changed its call letters again, this time to KION.
+Late in 1998, Ackerley bought KION outright from Harron and sold KCBA to Seal Rock Broadcasters.
+It took more than a year for this transaction to receive Federal Communications Commission approval due to the then-pending license renewals for both stations, and the deal was completed on January 12, 2000.
+However, Ackerley continued to operate KCBA through an LMA with its new owners, resulting in KION now becoming the senior partner in the LMA.
+By that time CBS' ratings had recovered to the competitive level of ABC and NBC.
+Two years later, Ackerley merged with Clear Channel Communications.
+Clear Channel added the -TV suffix to KION's legal call sign when what was then KTXX (AM 1460, also owned by Clear Channel) took the KION call letters on August 14, 2002.
+From 1995 to 2003 KION and KCBA carried UPN programs such as "WWF/E SmackDown!"
+and the 2002 version of "The Twilight Zone" as a secondary affiliate.
+On April 20, 2007, Clear Channel entered into an agreement to spin off its entire television stations group to Newport Television, a broadcasting holding company established by the private equity firm Providence Equity Partners.
+However, Newport Television could not keep KION or Telemundo affiliate KMUV-LP due to Providence Equity Partners' partial ownership of several media properties (specifically, several radio stations owned by Univision Radio that are located just outside the Monterey/Salinas Nielsen market) which serve parts of the market.
+KION and KMUV were sold to the Cowles Publishing Company, the owner of KHQ-TV and The KHQ Television Group in Spokane, Washington.
+The deal closed on May 7, 2008.
+On that day, Cowles Publishing took over the LMA for KCBA from Newport Television.
+However, for some time afterward, Newport Television's website continued to list all three stations (KION, KCBA and KMUV) as being owned and/or operated by Newport.
+Subsequently, KION and the other former Clear Channel/Newport stations acquired by Cowles switched their web site CMS providers from Inergize Digital to Worldnow.
+On September 20, 2013, News-Press & Gazette Company announced that it would purchase KION-TV and KMUV-LP, as well as San Luis Obispo sister station KKFX-CA.
+NPG will also take over some of the operations of Santa Maria sister station KCOY-TV, which Cowles initially retained but eventually sold it to VistaWest Media LLC, under a shared services agreement (as NPG's holdings in the area already include KEYT-TV in Santa Barbara).
+The sale was completed on December 13.
+The existing LMA for KCBA was terminated on December 1, as that station's operations were assumed by Entravision Communications through a joint sales agreement (the license was retained by Seal Rock Broadcasters).
+Almost immediately after NPG closed on the purchase, Internet Broadcasting took over the operations of KION's web site (like all other NPG station web sites).
+KION radio is no longer co-owned with KION-TV, as Clear Channel continues to operate the radio station.
+For several years after Clear Channel sold the television station, the radio station's logo continued to echo that of KION-TV's previous logo, with a "1" and a "0" added to turn "46" into "1460".
+On June 20th, 2014 KION redesigned its website with a new logo to coincide with the rest of the NPG stations in San Luis Obispo, Santa Maria, and Santa Barbara.
+On caller ID it's known as NewsChannel 5 because of its cable position on most areas.
+On its logo its NewsChannel 5 and 46.
+Representing both the dominant cable channel and the virtual separating viewer confusion from neighboring KPIX 5 in San Francisco.
+========,2,Digital television.
+========,3,Analog-to-digital conversion.
+KION-TV shut down its analog signal, over UHF channel 46, on February 17, 2009, the original target date in which full-power television in the United States were to transition from analog to digital broadcasts under federal mandate (which was later pushed back to June 12, 2009).
+The station's digital signal remained on its pre-transition UHF channel 32.
+Through the use of PSIP, digital television receivers display the station's virtual channel as its former UHF analog channel 46.
+========,2,News operation.
+KION has morning and evening newscasts seven days a week, totaling 23 hours of news per week (including a broadcast on subchannel 46.2).
+On weekdays, a two-hour morning news block begins at 5 a.m., followed by a half-hour newscast at 5, 6, and 11 p.m., respectively.
+KION also produces a half-hour 10 p.m. newscast on subchannel 46.2, seven nights a week; this newscast had aired on KCBA prior to November 30, 2013.
+On weekends, asides from the 46.2 broadcast, while KION does not have weekend morning newscasts, KION only has half-hour newscasts at 6 and 11 p.m.
+The CBS Evening News has its timeslot at 5:30 p.m. due to current ownership.
+KION previously had the CBS Evening News at 6 p.m.
+In October 2009, KION became the first station in the Salinas - Monterey market to begin broadcasting local newscasts in widescreen high definition.
+The 10 p.m. newscast on KCBA was included in the upgrade.
+KION broadcasts news in high definition using HD studio cameras, HD field cameras and a new HD control room installed in August 2009.
+Live shots are still done using upconverted widescreen standard definition signals.
+KCBA and KION were the only stations in the Monterey Bay and on the Central Coast to broadcast their news in HD until August 25, 2010, when rival KSBW started to broadcast the majority of its local news, as well as weather and sports segments, in HD.
+This comes after KSBW had been the first to launch a widescreen newscast a few weeks before KION, though the KSBW newscasts were in merely widescreen standard definition, and no pillarboxes were inserted until late-February 2010.
+Sports segments originate from the KCOY studios and are currently in 16:9 widescreen.
+When the 10 p.m. newscast moved from KCBA to KION-DT2, that newscast reverted to standard definition as the subchannel, although it is transmitted in 16:9 widescreen, is not available in HD.
+Under current ownership (as of May 2010), the slogan has changed from "Your Eye on the Central Coast" to "Right Now" at the start of newscasts.
+This slogan is used on other Cowle media stations in California, where they are also branded as Central Coast News, however, the slogan mirrors other stations in that group, including The KHQ Television Group.
+KION has previously used the "Central Coast News" branding in the 1990s when it was branded as "KCCN Central Coast News".
+As of late 2010, KION and KCBA introduced a new slogan, "A New Leader is Emerging."
+The new promos include viewership, news, weather, and political coverage.
+In addition, weekend weather anchors also produces weather segments for sister stations KCOY and KKFX.
+On January 6, 2012, sister stations KCOY and KKFX announced that in an effort to cut costs, a round of layoffs was announced that includes the elimination of the sports department, cutting the morning show produced at the Santa Maria studios to only one hour on weekdays, and having the evening newscasts to be based at the KION/KCBA studios.
+Layoffs at KCOY/KKFX include chief meteorologist Jim Byrne and sports anchor Kevin Roose, although KCOY weeknight anchor Arturo Santiago will shift to reporting duties.
+========,3,Friday Night Blitz.
+Friday Night Blitz is a special segment which covers local high school football.
+The show is aired and recorded during the 10 p.m. newscast on KION-DT2 and the 11 p.m. newscast on KION.
+One hour earlier than KSBW's sports show currently titled "High School Playbook Blitz".
+The show features a "Game of the Week" segment which viewers vote for each week.
+The game of the week is featured during their evening newscasts on KION.
+The shows include live coverage and interviews from players and coaches.
+========,3,KION Questions.
+During Central Coast newscasts on KION, viewers can ask questions directly via the station's website relating to local issues that was presented by various anchors and presenters can respond during various newscasts.
+Many promos about KION questions are often viewed during commercial breaks as well as on station IDs.

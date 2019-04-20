@@ -1,0 +1,196 @@
+========,1,preface.
+The General Motors 60° V6 engine family is a series of 60° V6 engines which were produced for both longitudinal and transverse applications.
+All of these engines are 12-valve cam-in-block or overhead valve (OHV) engines, except for the LQ1; which uses 24-valves driven by dual overhead cams (DOHC) instead.
+These engines vary in displacement between 2.5 and 3.4 liters and have a cast iron block and either cast iron or aluminum heads.
+Production of these engines began in 1980 and ended in 2005 in the U.S., with production continued in China until 2010.
+This engine family was the basis for the GM High Value engine family.
+Some refer to these engines as X engines due to first usage in the X-body cars.
+This engine is in no way related to the GMC V6 engine that was designed for commercial vehicle usage.
+========,2,Generation I.
+The first generation of modern small GM 60° V6 engines featured an iron block and heads with inline valves.
+This "clean sheet" design was introduced in 1980 and versions were produced through 1995.
+Two different blocks with minor differences were developed:
+***LIST***.
+========,3,Transverse.
+The transverse engines began the 60° family in 1980.
+Like the rest of the Generation I engines, they were updated in 1985 with larger main journals for durability, along with multi-point fuel injection or E2SE carb and OBD I.
+Production of the Generation I transverse engines ended in 1986.
+========,4,LE2.
+The 2.8 L LE2 was the first version of the 60° engine.
+It was a transverse version produced from 1980 through 1986 for the A-Body and X-body cars.
+The standard ("X-code") engine for this line, it used a 2-barrel carburetor.
+Output was for 1980 and '81 for 1982-86 and .
+Bore was and stroke was .
+***LIST***.
+========,4,LH7.
+Introduced in 1981, the 2.8 L LH7 was a High Output ("Z-code") version of the LE2 for the higher-performance X-cars like the Chevrolet Citation X-11 and higher-performance A-cars like the Pontiac 6000 STE.
+It still used a 2-barrel carburetor and produced and for 1981 and for 1982-1984 versions.
+The LH7 was replaced after 1984 with the MFI L44.
+***LIST***.
+========,4,L44.
+The L44 was produced from 1985 to 1988, replacing the LH7.
+It was the first transverse 2.8 L to utilize Multi-Port Fuel Injection, and was a High Output ("9-code") engine option for the higher performance A-cars, X-cars and the Pontiac Fiero.
+This engine produced at 5200 rpm and of torque at 3600 rpm.
+This engine's camshaft and cylinder heads were later reused in the L32 3.4L engine.
+***LIST***.
+========,4,LB6.
+The LB6 engine was introduced in 1985 to replace the original LE2.
+It used Multi-Port Fuel Injection and produced 130 horsepower.
+***LIST***.
+========,3,LG6.
+The LG6 ("D-code") was produced from 1990 to 1996 in both transverse and longitudinal applications.
+It used throttle-body injection and iron heads.
+It produced and .
+***LIST***.
+========,3,Longitudinal.
+The longitudinal versions had minor differences from the transverse engines on which they were based.
+This group appeared in 1982 with the LC1 and LR2 and never added the aluminum heads of the Generation II engines.
+Like the rest of the family, larger journals appeared in 1985, along with MPFI for the F-body LB8 version.
+TBI was added for the truck version in 1986.
+A 3.1 L version was added in 1990 with an longer stroke, and a 3.4 L appeared for 1993 with a bore and SFI.
+Production of the 2.8 L and 3.1 L (Isuzu) engines ended in 1994.
+Production ended for all longitudinal 60° V6s in 1996, though GM's performance parts division continued production of a related crate engine after 1999.
+========,4,LC1.
+The longitudinal LC1 was produced from 1982 to 1984.
+It was a 2-barrel High Output ("1-code") version for the F-body cars.
+Output was and .
+It was replaced by the LB8 for 1985.
+***LIST***.
+========,4,LR2.
+The longitudinal LR2 was a truck version ("B-code") produced from 1982 to 1990.
+It used a 2-barrel carburetor and produced and .
+***LIST***.
+========,4,LL1.
+The longitudinal LL1 was a high-output version of the LC1 produced in 1983 and 1984.
+It was an optional ("L-code") engine on the Pontiac Firebird with .
+***LIST***.
+========,4,LB8.
+The LB8 ("S-code") replaced the LC1 in 1985 and was produced until 1989.
+It used multi-port fuel injection and was made for longitudinal mounting.
+Output was and .
+***LIST***.
+========,4,LL2.
+The carbureted LL2 ("R-code") was produced from 1982 to 1988.
+Another LL2 ("R-code") with throttle body fuel injection was produced from 1986 to 1993.
+Output of the TBI version was 125 hp.
+***LIST***.
+========,4,LH0.
+The LH0 as used in the RWD applications differed significantly from that used in FWD applications.
+the RWD still retains the generation 1 architecture block and heads.
+***LIST***.
+========,4,L32.
+The power rating of the 3.4 L L32 ("S-code") used in the Camaro and Firebird was at 4,600 rpm and torque at 3600 rpm.
+The F-body cars used the Generation I architecture, with iron heads, and without splayed valves.
+Which had a tendency to break under normal driving conditions.
+***LIST***.
+========,2,Generation II.
+The second generation, still 2.8 liters, was introduced in 1987.
+It used aluminum heads with splayed valves and an aluminum front cover.
+It was produced exclusively for transverse, front-wheel drive use.
+The next year, Chevrolet introduced a full-production long-stroke 3.1 L (3136 cc, 191 CID) version in the Pontiac 6000 STE AWD, thanks to an bore and stroke compared to the 2.8 which shared the same bore, however with a 76mm/3.0" stroke.
+It was produced simultaneously with the 2.8 L in various compact & midsized vehicles until 1990 when the 2.8 L was dropped.
+MPFI was used on both, and a full-production turbo version was available on the 3.1 L. An even higher displacement DOHC 3.4 L LQ1 was also developed and, eventually, the new GM High Value engine family followed.
+Production of OHV Generation II engines ended in 1994 after the introduction of the Generation III in 1993.
+The 2.8 L 60° V6 was used in the following vehicles:
+***LIST***.
+The 3.1 L 60° V6 was used in the following vehicles:
+***LIST***.
+========,3,LH0.
+The LH0 ("T-code") was introduced in 1988 on the Pontiac 6000 STE AWD.
+It featured a more exotic (for the time) multi-port fuel injection.
+While not known for its high rpm power, the LH0 has strong low- and mid-range torque.
+The 3.1 L engine has retained an excellent reputation for reliability with some going well over .
+It was produced until 1994 (1996 for Mexican market) and was exported in some models.
+This engine produced and of torque from 1988–1989, then upgraded to at 4800 rpm and of torque at 3600 rpm.
+***LIST***.
+========,3,LG5.
+The LG5 ("V-code") was a special 3.1 L turbocharged engine produced with McLaren for just two years, 1989 and 1990.
+It featured the same multi-port fuel injection intake manifolds and throttle body as the LH0, but cranked out at 5200 rpm and of torque at 2100 rpm.
+Approximately 3,700 engines were produced each year.
+This engine had a block with more nickel content and hardened internals.
+This engine is notable, along with other GM turbo engines of the era (such as that found in the Typhoon/Syclone), for the ease with which significant performance gains can be realized with relatively simple modifications.
+***LIST***.
+========,3,LQ1.
+The LQ1 (also called the Twin Dual Cam or TDC) was a 3.4 L DOHC V6 motor ("X-code") based on the aluminum-headed second generation of GM's 60° engine line, sharing a similar block with its pushrod cousins, the 3.1 L LH0 V6 and the then recently retired 2.8 L LB6 V6.
+The motor was built only for front wheel drive applications, and was featured exclusively in the first generation of GM's W-body platform.
+It was built from 1991 to 1997.
+From 1991 to 1993, it used tuned multi-port fuel injection, made 200-210 hp (150-160 kW) at 5200 rpm and of torque at 4000 rpm.
+From 1994 to 1997, it used sequential port fuel injection, making at 5200 rpm and of torque at 4000 rpm.
+In 1996, the heads were redesigned for better flow as well as now making the engine an interference design and adapting the engine for federally mandated OBDII emissions.
+Output for the 1996-1997 LQ1 is and .
+It had four large valves per cylinder.
+The 3.4 L engine used a cogged belt to drive the four overhead camshafts and a chain to drive the intermediate shaft, which is mounted in the same slot where the camshaft would go in on any of the pushrod engines in the 60-degree family.
+Adapting a pushrod block for the LQ1's overhead cams was difficult, and the 60° angle made this a very tall engine.
+The power output for this engine was impressive during its time; however, this engine has never been well liked by auto mechanics, as important maintenance such as spark plug and timing belt changes is very troublesome, especially on later models.
+Spark plug changes for the three rear cylinders are thought by some to require removing the upper intake manifold when performed as directed by factory service manual, and timing belt changes have a labor rate of 5 hours as opposed to 2-3 for a typical belt-driven engine.
+In fact, cylinders 1, 3, and 5 spark plugs can be changed by removing the crosswise stabilizer bar from atop strut towers, and using proper socket extensions and a mirror.
+Timing belt procedure has been posted to You Tube with some labor-saving tips.
+Bore was increased to , but the 3.1 L engine's stroke was retained.
+There are only a few interchangeable parts between this DOHC engine and other members of the 60° family, namely the connecting rods and crankshaft.
+The heads and intake manifolds were redesigned for the 1996 model year, incorporating a larger throttle body and plenum area, slightly longer intake runners, cloverleaf combustion chambers, and larger "pill"-shaped exhaust ports.
+Camshafts and cam timing were also revised for the new, higher rpm powerband.
+Optional from 1991 to 1993 was a Getrag 284 5-speed manual transaxle, which was also exclusive to the GM W platform and was available only with the LQ1; parts for the Getrag 284 are not available.
+The electronically controlled Hydramatic 4T60-E 4-speed automatic transaxle was the alternative, used during the entire production run with the exception of the 1997 Monte Carlo Z34 and 1997 Lumina LTZ, which received the 4T65-E. Interchange:
+1991–1993 models were Multi-port injection, and had a single crank sensor for computer timing.
+1994-1995 models used the same long block, but had different cam carriers and timing cover.
+1996–1997 models used a modified version of the same short block and had different heads.
+91-93 motors cannot be used in later models due to lack of sensors needed for the newer computer systems.
+***LIST***.
+========,2,Generation III.
+The third generation of the 60° engine was introduced in the 1993 Oldsmobile Cutlass Supreme.
+Like its predecessors it continued to utilized an overhead valve configuration with 2 valves per cylinder, a cast iron cylinder block, aluminum cylinder heads, and an aluminum intake manifold.
+However, the heads and intake manifold were redesigned for better air flow, the cylinder block was stiffened, and the flat-tappets of the generation I and II engines were replaced with roller tappets.
+This generation also came standard with sequential multiport fuel injection and structural oil pan.
+From the mid-1990s to 2003 these engines had failure prone intake manifold gaskets which could cause coolant leakage often leading to engine failure.
+In 2002 a technical service bulletin (#02-06-01-014) was issued to recommend RTV sealand applied during gasket replacement.
+Another TSB was issued to change the design of replacement gaskets intended to remedy deterioration of the nylon/silicone material of the original gasket [citation needed].
+Tell-tale signs of such eventual related damage are a white foam that appears on the inside of the oil filler cap and the gradually increasing loss of antifreeze coolant (due to seepage into the intake passages which will lead to engine lock up failure in such cases).
+External seepage is also found near the  valley edge of the lower intake manifold.
+These engines are also known for problematic EGR Valves in which carbon build-up occurs very rapidly, therefore reducing gas mileage drastically, however without affecting the reliability of the engine.
+========,3,31L/3100.
+========,4,L82.
+The L82 ("M-code") was an updated, SFI replacement for the MPFI LH0, produced from 1993 through 1999.
+It featured a structural oil pan, a stiffer redesigned engine block, sequential fuel injection and revised aluminum heads.
+Output for the L82 was up , over the previous Gen II LH0, to at 5200 rpm and at 4000 rpm.
+Compression Ratio for the L82 was 9.5:1 and the bore measured while the stroke was giving it a displacement of 191 CID (3,136 cc).
+***LIST***.
+========,4,LG8.
+The LG8 ("J-code") was an updated version of the 3.1 L engine that displaced .
+It was utilized starting model year 2000.
+It still had an iron block and 2-valve pushrod aluminum heads and full sequential port fuel injection.
+The LG8 also featured a new intake manifold and numerous changes to improve parts sharing with the larger displacement LA1 3400.
+Emissions were improved with secondary air injection and it earned LEV status.
+The engine featured a bore and a stroke and a 9.6:1 compression ratio.
+It produced and .
+The LG8 was built in Ramos Arizpe, Coahuila, Mexico and Tonawanda, New York.
+***LIST***.
+========,3,34/3400.
+========,4,LA1.
+The LA1 or 3400 ("E-code") was a bored-out version of the L82.
+It was first utilized on the 1996 U platform minivans.
+It displaces and has bore and an stroke with a 9.5:1 compression ratio.
+Emissions are controlled via a catalytic converter and exhaust gas recirculation; however the Pontiac Aztek and Buick Rendezvous do not utilize the latter.
+Fuel shut off is at 6000 rpm.
+Starting around year 2000, most vehicles are equipped with GM's Engine Oil Life Monitor (EOLM).
+This engine was assembled at both Tonawanda engine and the Mexican Ramos Arizpe engine plant.
+***LIST***.
+========,3,China.
+Production of the 60° family began in China with the success of the Buick marque there.
+Importation of Chinese-built engines to the United States began in 2004 with the LNJ found in the Chevrolet Equinox.
+========,4,LB8.
+The LB8 is General Motors' base V6 in China.
+It is a derivative of the LG8 with the same bore and a shorter stroke for 2.5 L (2490 cc).
+It is still an iron block with pushrods and an aluminum 2-valve head.
+Power is and .
+It is built by Shanghai GM in Shanghai, China.
+***LIST***.
+========,4,LW9.
+The LW9 is a larger version of the LB8 with an stroke for 3.0 L (2986 cc).
+Power is and torque is .
+***LIST***.
+========,4,LNJ.
+The 3.4 L is a 204-cubic-inch (3,350 cc) modified version of the normal 3400 engine.
+It includes a modified intake manifold, oil pan, engine cover, and fuel system as well as electronic throttle control.
+It is built in China and imported to Canada for use in the Chevrolet Equinox and Pontiac Torrent.
+The LNJ makes and .
+***LIST***.

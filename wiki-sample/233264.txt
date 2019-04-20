@@ -1,0 +1,80 @@
+========,1,preface.
+Heinrich Ignaz Franz von Biber (12 August 1644 (baptised) – 3 May 1704) was a Bohemian-Austrian composer and violinist.
+Born in the small Bohemian town of Wartenberg (Stráž pod Ralskem), Biber worked at Graz and Kroměříž before he illegally left his Kremsier (Kroměříž) employer (Prince-Bishop Carl Liechtenstein-Kastelkorn) and settled in Salzburg.
+He remained there for the rest of his life, publishing much of his music but apparently seldom, if ever, giving concert tours.
+Biber was one of the most important composers for the violin in the history of the instrument.
+His technique allowed him to easily reach the 6th and 7th positions, employ multiple stops in intricate polyphonic passages, and explore the various possibilities of scordatura tuning.
+He also wrote one of the earliest known pieces for solo violin, the monumental passacaglia of the "Mystery Sonatas".
+During Biber's lifetime, his music was known and imitated throughout Europe.
+In the late 18th century he was named the best violin composer of the 17th century by music historian Charles Burney.
+In the late 20th century Biber's music, especially the "Mystery Sonatas", enjoyed a renaissance.
+Today, it is widely performed and recorded.
+========,2,Biography.
+Biber was born in Wartenberg, Bohemia (now Stráž pod Ralskem, Czech Republic).
+Little is known about his early education, other than that he may have studied at a Jesuit Gymnasium at Opava in Bohemia, and that he may have had musical education by a local organist.
+Before 1668 Biber worked at the court of Prince Johann Seyfried von Eggenberg in Graz, and then was employed by the Bishop of Olomouc, Karl II von Liechtenstein-Kastelkorn, in Kroměříž.
+Biber's associate from the early 1660s, Pavel Josef Vejvanovský, worked there as director of the Kapelle.
+Biber apparently enjoyed a good reputation, and his violin playing skills were very highly regarded.
+In summer 1670 Karl II sent Biber to Absam, near Innsbruck, to negotiate with the celebrated instrument maker Jacob Stainer for the purchase of new instruments for the Kapelle.
+Biber never reached Stainer, however, and instead entered the employ of the Archbishop of Salzburg, Maximilian Gandolph von Kuenburg.
+Because Karl and Maximilian were friends, Biber's former employer refrained from taking any action; he was, however, very hurt by the composer's decision, and waited until 1676 to officially issue his release papers.
+It is not coincidental that most of the autograph compositions Biber sent to Kroměříž date from the early 1670s.
+Biber remained in Salzburg for the rest of his life.
+His musical and social careers flourished: he started publishing his music in 1676, performed before the Emperor Leopold I (and was rewarded by him) in 1677, became deputy Kapellmeister at Salzburg in 1679 and Kapellmeister in 1684.
+In 1690 Biber was raised to nobility by the Emperor, with the title of Biber von Bibern.
+Finally, the new Archbishop of Salzburg, Johann Ernst, Count Thun, appointed Biber lord high steward, the highest social rank Biber would attain.
+The composer was married on 30 May 1672 at the Bishop's summer residence, Hellbrunn Palace, just outside Salzburg.
+His wife Maria Weiss was a daughter of a Salzburg merchant, citizen and tradesman, Peter Weiss.
+Together they had 11 children, four of whom survived to adulthood.
+All were musically gifted.
+Anton Heinrich (1679–1742) and Karl Heinrich (1681–1749) both served as violinists at the Salzburg court, and the latter was promoted to Kapellmeister in 1743.
+Daughters Maria Cäcilia (born 1674) and Anna Magdalena (1677–1742) became nuns at Santa Clara, Merano, and the Nonnberg Abbey, respectively.
+Anna Magdalena was an alto singer and a violinist, and in 1727 became director of the choir and the Kapelle of the Abbey.
+November 3, 1692, Biber was appointed Steward by his Archbishop Johann Ernst.
+He then received his .
+Biber died in Salzburg in 1704, and his grave is located in Petersfriedhof.
+========,2,Works.
+Biber's violin music was possibly influenced, on one hand, by the Italian tradition of Marco Uccellini and Carlo Farina, and on the other, by the then-nascent German polyphonic tradition as exemplified by Johann Heinrich Schmelzer, who may have been Biber's teacher.
+Biber's achievements included further development of violin technique – he was able to reach the 6th and 7th positions, and his left-hand and bowing techniques were far more advanced than those of contemporary Italian composers.
+He also excelled at counterpoint, frequently writing fully polyphonic textures, with much use of multiple stops.
+Yet another area in which Biber made a substantial contribution was the art of scordatura, i.e.
+music for alternative tunings of the instrument.
+Finally, much of Biber's music employs various forms of number symbolism, "affekten", programmatic devices, etc., as seen in the symbolic retuning of the violin for the Resurrection sonata of the "Mystery Sonatas".
+During the latter half of the 17th century Biber was, together with the composers of the Dresden school (Johann Jakob Walther and Johann Paul von Westhoff), regarded as one of the best and most influential violinists in Europe.
+However, soon after his death, German violinists started following the style of Arcangelo Corelli and his imitators.
+========,3,Instrumental music.
+Biber's finest scordatura writing is represented in two collections.
+The first dates from c. 1676 and is known variously as "Mystery Sonatas", "Rosary Sonatas" ("Mysterien Sonaten", "Die Rosenkranz-Sonaten"), "Copper-Plate Engraving Sonatas", etc., remaining unpublished during the composer's lifetime.
+It comprises sixteen pieces: fifteen sonatas for violin and continuo portraying the fifteen Mysteries of the Rosary, and a long passacaglia for solo violin.
+In the extant copy of the collection, each piece is accompanied by a small engraving depicting the mystery it portrays, while the image (an ink drawing) preceding the passacaglia depicts a guardian angel with a child.
+Only the first and the last pieces use normal tuning; all others employ some form of scordatura:
+The sonatas were dedicated to Maximilian Gandolph von Khuenburg, whom Biber addresses in the preface: "I have consecrated the whole to the honour of the XV Sacred Mysteries, which you promote so strongly."
+Although unpublished during the composer's lifetime, these works are his most popular pieces today, and one of the reasons for the revival of interest in his music.
+The entire set has been recorded by numerous violinists such as John Holloway, Andrew Manze, and many others.
+Sonata 15 is famous for one of its themes, which matches the theme of Paganini's Caprice No.
+24 almost exactly; it is possible that Paganini was inspired by Biber, just as Franz Liszt, Johannes Brahms and Sergei Rachmaninoff were later inspired by Paganini's Caprice.
+The second work in which Biber explored scordatura techniques is "Harmonia artificioso-ariosa" (1696), his last known published collection of instrumental music.
+It contains seven partitas for two instruments and basso continuo: five for two violins, one for two violas d'amore, and one for violin and viola.
+Six of the partitas require scordatura tunings, including those for viola and two violas d'amore; Biber utilises the full potential of the technique, including all possibilities for complex polyphony: some of the pieces are in five parts, with both of the melodic instruments carrying two.
+Interestingly, no other chamber works by Biber use such devices, and the only other pieces to use scordatura are two of the sonatas included in "Sonatae violino solo" of 1681.
+That collection comprises eight sonatas for violin and basso continuo, all noted already by Charles Burney in late 18th century, for the brilliant virtuosic passages and elaborate structures.
+In contrast to both "Mystery Sonatas" and "Harmonia", these works consist mostly of pieces in free forms (prelude, aria) or variations, rather than dances.
+Biber's other published collections of instrumental music are "Sonatae tam aris quam aulis servientes" (1676), "Mensa sonora" (1680), and "Fidicinium sacro profanum" (1682/3).
+"Sonatae tam aris" contains sonatas in five, six or eight parts; some of them only use string instruments, some include one or two trumpets.
+"Mensa sonora" is a set of six partitas for one or two violins, viola, cello, and basso continuo, and "Fidicinium sacro profanum" comprises twelve sonatas for one or two violins, two violas, and continuo.
+Finally, manuscript sources include numerous other pieces: fantasias, balletti, sonatas, etc.
+Among these are the "Battalia", a programmatic "battle" piece which anticipates such latter-day techniques as polytonality and "col legno" playing, and the "Sonata representativa", another typical 17th-century piece similar to works by Walther and Farina, which imitates various birds and animals.
+An example of Biber's versatility in instrumental music is the "Sonata S Polycarpi", which is scored for eight trumpets and timpani.
+========,3,Sacred music.
+Unlike most composers for the violin, Biber did not limit himself to music for the instrument.
+He was also a prolific composer of sacred vocal works: masses, requiems, motets, etc.
+Many of those were polychoral and employing large instrumental forces, inspired by the possibilities of the spacious interior of the Salzburg Cathedral.
+Among the polychoral works, "Missa Salisburgensis" (1682) is the best known.
+An expansive setting of the mass for sixteen voices and 37 instrumentalists (i.e.
+53 parts total), it was previously attributed to Orazio Benevoli, but today Biber's authorship is certain.
+The instrumentation includes not only string ensembles, but also oboes, cornetts, trumpets, and timpani.
+Among his many polychoral works are "Plaudite tympana à 53" (1682) "Vesperae à 32" (1693), "Missa Bruxellensis" (1696) and "Missa Sancti Henrici" (1697), which was composed for the occasion of the taking of the veil by his second daughter, Anna Magdalena, at Nonnberg Abbey in Salzburg.
+In tribute to the Emperor Henry II, the second founding saint of the convent, she took the name Maria Rosa Henrica when her novitiate began in 1696.
+The Mass of Saint Henry is scored for a five-voice choir with two soprano lines and an orchestra of two violins, three violas, two trumpets, timpani and continuo, with optional extra trumpets and sackbuts to double the voice parts.
+Although Biber is best known for the massive polychoral works, he was also capable of writing for smaller forces.
+"Missa quadragesimalis" is a simple a cappella setting (with only a continuo part provided) for four voices, as is the "Stabat Mater".

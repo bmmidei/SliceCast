@@ -1,0 +1,34 @@
+========,1,preface.
+East Dubuque is a city in Jo Daviess County, Illinois, United States.
+The population was 1,704 at the 2010 census, down from 1,995 in 2000.
+East Dubuque is located alongside the Mississippi River.
+Across the river is the city of Dubuque, Iowa.
+About three miles north of the city is the Illinois – Wisconsin border.
+========,2,History.
+East Dubuque was originally called Dunleith, and under the latter name was platted in 1853.
+The present name comes from the city's location east of Dubuque.
+A post office was established at Dunleith in 1854, and the post office was renamed East Dubuque in 1879.
+========,2,Transportation.
+The main roads in East Dubuque are Sinsinawa Avenue and U.S. Route 20 (Wall Street).
+The Julien Dubuque Bridge serves as the connection between East Dubuque and Dubuque.
+Illinois Route 35 serves as the primary connection between East Dubuque and Wisconsin.
+========,2,Geography.
+East Dubuque is located at (42.491103, -90.641214).
+According to the 2010 census, East Dubuque has a total area of , of which (or 97.2%) is land and (or 2.8%) is water.
+========,2,Demographics.
+As of the census of 2000, there were 1,995 people, 864 households, and 527 families residing in the city.
+The population density was 967.4 people per square mile (373.9/km²).
+There were 932 housing units at an average density of 451.9 per square mile (174.7/km²).
+The racial makeup of the city was 99.10% White, 0.15% African American, 0.05% Native American, 0.20% Asian, 0.20% from other races, and 0.30% from two or more races.
+Hispanic or Latino of any race were 1.05% of the population.
+There were 864 households out of which 27.9% had children under the age of 18 living with them, 48.1% were married couples living together, 8.1% had a female householder with no husband present, and 38.9% were non-families.
+34.0% of all households were made up of individuals and 13.4% had someone living alone who was 65 years of age or older.
+The average household size was 2.31 and the average family size was 2.97.
+In the city, the population was spread out with 23.3% under the age of 18, 8.8% from 18 to 24, 28.4% from 25 to 44, 23.5% from 45 to 64, and 16.0% who were 65 years of age or older.
+The median age was 38 years.
+For every 100 females there were 105.9 males.
+For every 100 females age 18 and over, there were 99.2 males.
+The median income for a household in the city was $35,099, and the median income for a family was $45,924.
+Males had a median income of $31,010 versus $19,459 for females.
+The per capita income for the city was $20,984.
+About 2.1% of families and 4.3% of the population were below the poverty line, including 3.3% of those under age 18 and 6.9% of those age 65 or over.

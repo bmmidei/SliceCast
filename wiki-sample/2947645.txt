@@ -1,0 +1,167 @@
+========,1,preface.
+Snowboard Kids 2, , is a snowboarding video game developed by Racdym and published by Atlus.
+It is the sequel to Snowboard Kids and was itself followed by a sequel, .
+Unlike the first game, it was not released in Europe, although it did have an Australian release—the only PAL version of the game.
+========,2,Gameplay.
+Snowboard Kids 2 retains the core gameplay of its predecessor, while making changes to game mechanics.
+The main game is separated in two modes.
+Story Mode unites the Battle Races and Skill Games from the previous installment; it also introduces recurring boss stages after a set number of races, and a hub town that replaces the game menu.
+Battle Mode features multiplayer, customizable races.
+Training races that teach the game's mechanics are also available.
+Four new characters are introduced and one is absent from the previous game, making for a total of nine characters.
+Only the six starter characters can be used in Story Mode, while all nine characters can be used in Battle Mode, provided that the remaining three are unlocked.
+The five returning characters are hevily redesigned, and every character now has a set of four costumes to fit in with the different themes of the races.
+The game features a total of fifteen courses.
+Like the previous game, the themes and terrain of the races are not restricted only to snow, now featuring a tropical island, a castle, a haunted house, and even space.
+Story Mode features the standard nine race courses, three Skill Game courses and three Boss Stages; these are modified versions of race courses with changes in the time of day, weather and/or course hazards.
+All of them can be played as race courses in Battle Mode.
+All courses now have a standard 3-lap count, which can be customized for Battle Mode.
+New additions and changes were made to the Items and Shots as well.
+All of them were redesigned, the Shots were renamed Weapons, and both groups received additions.
+Changes were also made in the effects of these power ups: for instance, the slapstick has a new effect of making the affected player lose coins, the freeze time of the freezing shot was reduced, and the frying pan now has a standard effect time that is not affected by pressing buttons.
+The special tricks (which were different for each character and required the player to perform a combo) were replaced by the ability of doing multiple tricks while in the air.
+Also new is the ability to repel Weapon attacks by performing a Trick or Board Grab in the imminence of the hit.
+The player can also look behind by pressing the R button.
+========,2,Characters.
+========,3,Starting characters.
+Slash Kamei, voiced by Chiaki Morita (Japanese), Lani Minella (English): He's an active and noisy boy, and is seen throughout the game to be friendly and playful with most of the characters, being friends with Tommy since earlier ages and best friends with Jam.
+He's also shown alongside Jam annoying Linda and sometimes the other girls.
+Slash is an All-around type - he's the most balanced character in the game with average stats on speed, turning, and jump and is the best character for beginners, and is also the character players use while in Training mode.
+Nancy Neil, voiced by Rio Natsuki (Japanese), Julie Noble (English): She's a nice and reliable girl, sweet to everyone and always tries, with no success, to make Linda and Slash set things up and get along well.
+Otherwise, she remains unaffected by their fights.
+She seems to be best friends with Linda.
+Nancy is shown to be fond of cute animals, such as bunnies and butterflies, and very appreciative of nature in general.
+She is a Trick Type, good at turning and jumps but lacks speed, so she is most used in courses which have narrow paths and difficult turns.
+Jam Kuehnemund, voiced by Junichi Suwabe (Japanese), Mike Muratre (English): Jam is a conceited boy and thinks quite highly of himself.
+He can usually be found break-dancing, eating a sandwich, wreaking havoc or taunting Linda with Slash, although he can also be seen arguing or fighting with his friend due to his bad temper.
+He is also an All-around, balanced character similar to Slash.
+He is sometimes seen talking to Wendy in the Snow Town Downtown in Story mode, and it's implied by their dialogue that they're dating.
+Linda Maltinie, voiced by Rio Natsuki (Japanese), Julie Noble (English): Linda is a very rich girl who lives in a castle located in a section of Snow Town which seems unaffected by snow and remains green and grassy.
+Although acting like a snobbish brat sometimes, she is good-hearted and nice to most of the characters, and is constantly being taunted by Slash and Jam, what causes her to lose her temper and pursue the two boys until she catches or lose them.
+She is also very competitive.
+She is a Speed type, fast but lacks a bit in turning and tricks.
+Tommy Parsy, voiced by Kōichi Tōchika (Japanese), Ari Rossi (English): Tommy, although being a skilled snowboarder, pretty much prefers food over competition, which makes him an overweight boy.
+He is nice to everyone and has been friends with Slash since their early childhood and.
+He is a Speed type that makes up for his low turning and trick stats with blinding speed, being the fastest character tied with Mr Dog.
+He is a good pick for more experienced players.
+Wendy Lane, voiced by Shizuka Ishikawa (Japanese), Lani Minella (English): Wendy is an addition to the series.
+She is a child who loves inventing stuff.
+She is, in fact, shown as the inventor of the Rocket and of a spaceship that serves as her home and also takes the kids to Starlight Highway.
+She is kind to everyone and has the same stats as Nancy, thus making her a Trick type.
+Wendy is sometimes seen talking to Jam in the Snow Town Downtown in Story mode, and it is implied by their dialogue that they are dating.
+========,3,Unlockable characters.
+Damien, voiced by Chiaki Morita (Japanese), Lani Minella (English): Damien (known as Black Kid in the original Japanese version) is a bright, yet very stupid boy.
+Throughout the story he is constantly trying to interfere with the other kids games or activities but his plans fail (usually comically) and is often caught in the crossfire of the others' arguments.
+He lives in a house in a secret spot of Snow Town, and has a laboratory in Ice Land.
+Damien also seems to have a crush on Nancy, but he fails to talk to her.
+His character type isn't specified in game, although he does have good numbers in all stats.
+He can be unlocked by beating Story mode.
+Coach, voiced by Kōichi Tōchika (Japanese), Mike Muratre (English): This penguin is an arduous Snowboard teacher, and is shown in an episode of Story mode as the kids' snowboard teacher, as well as the "master trickster" of Snow Town.
+He is the NPC you race against when in Training Mode.
+He is a trick type with stats equal to Wendy and Nancy.
+Beating the Trick game unlocks him.
+Mr. Dog, voiced by Kōichi Tōchika (Japanese), Ari Rossi (English) Mr. Dog is a well-known kind old man.
+Like in the previous game, he runs the board shops in Snow Town.
+The fastest character in the game tied with Tommy, Mr. Dog has trouble navigating simple turns or jumping trivial gaps in the course, probably due to his weight.
+When the Shoot Game is beat, he will be unlocked.
+========,2,Plot (Story Mode).
+========,3,Chapters.
+The game is set in Snow Town, which is the hometown of the protagonists, and follows the lives of Slash, Nancy, Jam, Linda, Tommy and Wendy.
+The Story Mode shows their daily lives, as they try to arrive at school on time, work part-time delivering newspapers, or take part on trick festivals; as well as the adventures that lead them to each race.
+In the first chapter of the Story, "Enter Damien", a smart but clumsy demon child named Damien appears in Snow Town and tries to sabotage the other kids' activities.
+They, however, remain oblivious to his presence most of the time, as his plans constantly backfire at him.
+In his first attempt, he remains unconscious for hours after the bomb he meant to throw at the kids blows up near him and knocks him down.
+He wakes up by the sunset, when the group is returning from Sunny Mountain.
+In "Picnic at Turtle Island", he follows the children to Turtle Island, where he tries to spoil their picnic at the beach, only to wind up flattened by a fake treasure box that Slash finds during their race.
+When Damien is not trying to cause trouble, the children manage to do so by themselves.
+In "Mission: Snowman", the kids decide to have a snowmen competition, boys vs. girls.
+Slash gets mad when he notices that the girls' snowman is much bigger than the boys'.
+He destroys the girls' snowman, making Linda, Nancy and Wendy furious.
+They challenge him to a race around Jingle Town.
+After the race, Wendy activates her Snowman Robot to chase after the boys, while Linda watches, shocked.
+After the Snowman Robot is defeated, Wendy walks along while the children are celebrating, and rebuilds it.
+The others run in panic, leaving her confused.
+It's a summer day in "Oh m'gosh!
+We're tiny!
+", and Wendy invites her friends to her house.
+When they arrive, she shows off her new invention, which seems pretty plain, until she uses it to shrink everybody, so they can race around her furniture.
+All the children like the idea, and the race at Wendy's House starts.
+After the race, everybody is chatting when Tommy spots a piece of cheese in a mouse trap and tries to take it.
+He ends up stuck by the trap, and the other children help him.
+He apologizes, and everybody laughs together.
+It's Linda's Birthday in "Happy Birthday!
+", and she decides to throw a big party at her Castle.
+Nancy and Wendy arrive with presents, and Linda is absolutely happy until the girls notice the boys in a nearby table, eating all the food.
+Linda chases after them, and a race around the Castle starts.
+After the race, the grand hall of Linda's Castle is destroyed, much to Linda's dismay.
+Slash and Jam sneak behind her and start laughing.
+She gets angry again and chases them.
+Nancy and Wendy notice that Tommy is devouring the cake, and Nancy notices a strange blue figure (which is actually Damien) flattened under it.
+Nancy is hanging around with Tommy and Wendy in "Find the legendary butterfly", when she notices a rare, yellow butterfly and chases after it until she goes beyond their reach.
+Linda appears and offers help.
+They chase the butterfly in Linda's helicopter and leave Slash and Jam behind.
+The butterfly flies to Crazy Jungle, tailed by the helicopter, which is being pursued by Slash and Jam.
+The two boys finally arrive at the Jungle, exhausted, while the others are looking for the butterfly.
+After a race, Nancy is rejoicing with some butterflies when a Dinousaur appears.
+The kids beat him in race and he runs away.
+They celebrate together as many yellow and pink butterflies appear.
+In "Space Tour", the children are already back from the Jungle and meet at the usual spot, where Wendy invites everyone to a trip in her spaceship.
+They fly to Starlight Highway and have a great time racing there, until it's time to get back home.
+Damien, who had sneaked into the ship unnoticed by the others, is looking for them.
+Horrified, he sees the ship take off without him, and is left alone in outer space.
+Back in Earth, it's "Halloween Night", and the children decide to explore a Haunted House.
+Slash and Jam are excited to get in, while Nancy and Tommy don't want to enter, and Linda and Wendy are just curious.
+In the end, all the children enter (Nancy and Tommy are forced in by Jam), followed by Damien, who somehow managed to return from Starlight Highway.
+The door of the house closes by itself with a creepy sound after Damien enters.
+After the race, the kids are terrified by the house, and make their way out.
+Wendy decides to lock the door, preventing the house from opening again.
+Unaware of Damien's presence, the kids wind up locking him inside.
+"Damien's Revenge" is the final chapter of the story.
+Some time has passed since the Halloween incident.
+Damien is standing alone in the spot where the kids usually hang out, when Nancy appears and greets her friends, who are offscreen.
+Damien understands that the greeting is for him, and greets Nancy back, only to be ignored.
+Slash and Tommy is then seen chased by an angered Linda, which runs over Damien and knocks him down.
+This triggers his anger, and he challenges the kids to a race around Ice Land, thus setting his revenge into motion.<br> After losing the race, Damien is nowhere to be seen and Nancy calls for him, surrounded by the other kids.
+Suddenly, Damien appears controlling a big robot bearing his image, and challenges the children again.
+They destroy his robot and win the race.
+Damien starts to cry in despair and Nancy tries to calm him down, while Wendy convinces Slash to make a peace offering.
+Damien and the kids laugh together at what had happened, and the demon boy brings a present for them.
+As the kids gather around it, he slowly walks away.
+The present reveals itself to be a bomb, which explodes and knocks down the children.
+Angered, they start to chase him, while Damien runs away, laughing at his first plan that actually worked.
+========,3,Extra chapters.
+There is an extra chapter to each Skill Game.
+Oh no!
+I'm late!!!
+: The boys have just missed the school bus and can't be late to school.
+Then, the girls, who also missed the bus, rush by them in their boards, using rockets to catch up with the bus.
+The effect of the rockets wear off just as they were catching up with the bus, and they see the boys rush after the bus, using fans in their boards.
+This scene starts the Speed Game.
+Newspaper Delivery: Nancy, Linda, Tommy and Wendy are hanging around in the usual spot, when Jam passes by, delivering newspapers as a part-time job.
+The kids are amazed to see Jam perfectly throw a newspaper into a mailbox from a distance.
+Then, Slash passes with his newspapers.
+They expect a feat just as amazing from him, when he misses the mail box he was targeting and accidentally hits Linda's face with the newspaper.
+She gets mad and start chasing after him.
+After this scene, the Shoot Game will start.
+Let's begin the trick festival!
+": The kids are watching Coach perform very cool tricks in the opening of the trick festival.
+They're amazed by his moves and give him an ovation.
+Impressed, Tommy and Slash decide to mimic him.
+They, however, lose control of their boards, and end up colliding.
+This starts the Trick Game.
+========,2,Courses.
+Snowboard Kids 2 features 11 courses with four different themes: Winter, Summer, Halloween and Space.
+Sunny Mountain, Jingle Town, Ice Land, Snowboard Street and X-Course are snowy, Winter-themed courses.
+Turtle Island, which is set in a tropical island and underwater, is a Summer-themed course alongside Wendy's House and Crazy Jungle.
+Starlight Highway and Haunted House are the only Space and Halloween-themed courses, respectively.
+Linda's Castle, despite having a landscape similar to that of Grass Valley from the previous game, is a Winter-themed course.
+In Story mode, there are three Boss Stages, where the competition is against a boss instead of regular characters.
+The Snowman Robot is fought at Jingle Town; the race against the Dinosaur is set in Crazy Jungle; and Damien Robot is battled in Ice Land.
+All three boss races happen at night and, in Damien Robot's case, in the mid of a snow storm and mist.
+In Battle Mode, these special tracks still appear and can be raced in as regular tracks instead of Boss Stages.
+Also, Ice Land is the only track where Damien, Mr. Dog and Coach will appear as CPU racers: in regular Ice Land, Damien occupies the fourth player position.
+In Boss Stage Ice Land, Coach, Mr. Dog and Damien will occupy the second, third and fourth player positions, respectively.
+For the Skill Games, Snowboard Street and X-Course are used.
+Both Speed and Shoot Games happen at Snowboard Street.
+Trick Game, as well as the Training Mode, happens at X-Course.
+Just like the Boss Stages, these Skill Courses can be used as regular race courses.

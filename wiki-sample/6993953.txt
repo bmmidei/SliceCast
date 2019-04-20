@@ -1,0 +1,69 @@
+========,1,preface.
+In mathematics, an immersion is a differentiable function between differentiable manifolds whose derivative is everywhere injective.
+Explicitly, is an immersion if is an injective function at every point "p" of "M" (where "TX" denotes the tangent space of a manifold "X" at a point "p" in "X").
+Equivalently, "f" is an immersion if its derivative has constant rank equal to the dimension of "M":
+The function "f" itself need not be injective, only its derivative.
+A related concept is that of an embedding.
+A smooth embedding is an injective immersion that is also a topological embedding, so that "M" is diffeomorphic to its image in "N".
+An immersion is precisely a local embedding – i.e., for any point there is a neighbourhood, , of "x" such that is an embedding, and conversely a local embedding is an immersion.
+For infinite dimensional manifolds, this is sometimes taken to be the definition of an immersion.
+If "M" is compact, an injective immersion is an embedding, but if "M" is not compact then injective immersions need not be embeddings; compare to continuous bijections versus homeomorphisms.
+========,2,Regular homotopy.
+A regular homotopy between two immersions "f" and "g" from a manifold "M" to a manifold "N" is defined to be a differentiable function such that for all "t" in the function defined by for all is an immersion, with , .
+A regular homotopy is thus a homotopy through immersions.
+========,2,Classification.
+Hassler Whitney initiated the systematic study of immersions and regular homotopies in the 1940s, proving that for every map of an "m"-dimensional manifold to an "n"-dimensional manifold is homotopic to an immersion, and in fact to an embedding for ; these are the Whitney immersion theorem and Whitney embedding theorem.
+Stephen Smale expressed the regular homotopy classes of immersions as the homotopy groups of a certain Stiefel manifold.
+The sphere eversion was a particularly striking consequence.
+Morris Hirsch generalized Smale's expression to a homotopy theory description of the regular homotopy classes of immersions of any "m"-dimensional manifold "M" in any "n"-dimensional manifold "N".
+The Hirsch-Smale classification of immersions was generalized by Mikhail Gromov.
+========,3,Existence.
+The primary obstruction to the existence of an immersion is the stable normal bundle of "M", as detected by its characteristic classes, notably its Stiefel–Whitney classes.
+That is, since R is parallelizable, the pullback of its tangent bundle to "M" is trivial; since this pullback is the direct sum of the (intrinsically defined) tangent bundle on "M", "TM", which has dimension "m", and of the normal bundle "ν" of the immersion "i", which has dimension , for there to be a codimension "k" immersion of "M", there must be a vector bundle of dimension "k", "ξ", standing in for the normal bundle "ν", such that is trivial.
+Conversely, given such a bundle, an immersion of "M" with this normal bundle is equivalent to a codimension 0 immersion of the total space of this bundle, which is an open manifold.
+The stable normal bundle is the class of normal bundles plus trivial bundles, and thus if the stable normal bundle has cohomological dimension "k", it cannot come from an (unstable) normal bundle of dimension less than "k".
+Thus, the cohomology dimension of the stable normal bundle, as detected by its highest non-vanishing characteristic class, is an obstruction to immersions.
+Since characteristic classes multiply under direct sum of vector bundles, this obstruction can be stated intrinsically in terms of the space "M" and its tangent bundle and cohomology algebra.
+This obstruction was stated (in terms of the tangent bundle, not stable normal bundle) by Whitney.
+For example, the Möbius strip has non-trivial tangent bundle, so it cannot immerse in codimension 0 (in R), though it embeds in codimension 1 (in R).
+========,3,Codimension 0.
+Codimension 0 immersions are equivalently "relative" dimension 0 "submersions", and are better thought of as submersions.
+A codimension 0 immersion of a closed manifold is precisely a covering map, i.e., a fiber bundle with 0-dimensional (discrete) fiber.
+By Ehresmann's theorem and Phillips' theorem on submersions, a proper submersion of manifolds is a fiber bundle, hence codimension/relative dimension 0 immersions/submersions behave like submersions.
+Further, codimenson 0 immersions do not behave like other immersions, which are largely determined by the stable normal bundle: in codimension 0 one has issues of fundamental class and cover spaces.
+For instance, there is no codimension 0 immersion , despite the circle being parallelizable, which can be proven because the line has no fundamental class, so one does not get the required map on top cohomology.
+Alternatively, this is by invariance of domain.
+Similarly, although S and the 3-torus T are both parallelizable, there is no immersion – any such cover would have to be ramified at some points, since the sphere is simply connected.
+Another way of understanding this is that a codimension "k" immersion of a manifold corresponds to a codimension 0 immersion of a "k"-dimensional vector bundle, which is an "open" manifold if the codimension is greater than 0, but to a closed manifold in codimension 0 (if the original manifold is closed).
+========,2,Multiple points.
+A "k"-tuple point (double, triple, etc.)
+of an immersion is an unordered set of distinct points with the same image .
+If "M" is an "m"-dimensional manifold and "N" is an "n"-dimensional manifold then for an immersion in general position the set of "k"-tuple points is an -dimensional manifold.
+Every embedding is an immersion without multiple points (where ).
+Note, however, that the converse is false: there are injective immersions that are not embeddings.
+The nature of the multiple points classifies immersions; for example, immersions of a circle in the plane are classified up to regular homotopy by the number of double points.
+At a key point in surgery theory it is necessary to decide if an immersion of an "m"-sphere in a 2"m"-dimensional manifold is regular homotopic to an embedding, in which case it can be killed by surgery.
+Wall associated to "f" an invariant "μ"("f") in a quotient of the fundamental group ring Z[π("N")] which counts the double points of "f" in the universal cover of "N".
+For , "f" is regular homotopic to an embedding if and only if by the Whitney trick.
+One can study embeddings as "immersions without multiple points", since immersions are easier to classify.
+Thus, one can start from immersions and try to eliminate multiple points, seeing if one can do this without introducing other singularities – studying "multiple disjunctions".
+This was first done by André Haefliger, and this approach is fruitful in codimension 3 or more – from the point of view of surgery theory, this is "high (co)dimension", unlike codimension 2 which is the knotting dimension, as in knot theory.
+It is studied categorically via the "calculus of functors" by Thomas Goodwillie, John Klein, and Michael S. Weiss.
+========,2,Examples and properties.
+========,3,Immersed plane curves.
+Immersed plane curves have a well-defined turning number, which can be defined as the total curvature divided by 2"π".
+This is invariant under regular homotopy, by the Whitney–Graustein theorem – topologically, it is the degree of the Gauss map, or equivalently the winding number of the unit tangent (which does not vanish) about the origin.
+Further, this is a complete set of invariants – any two plane curves with the same turning number are regular homotopic.
+Every immersed plane curve lifts to an embedded space curve via separating the intersection points, which is not true in higher dimensions.
+With added data (which strand is on top), immersed plane curves yield knot diagrams, which are of central interest in knot theory.
+While immersed plane curves, up to regular homotopy, are determined by their turning number, knots have a very rich and complex structure.
+========,3,Immersed surfaces in 3-space.
+The study of immersed surfaces in 3-space is closely connected with the study of knotted (embedded) surfaces in 4-space, by analogy with the theory of knot diagrams (immersed plane curves (2-space) as projections of knotted curves in 3-space): given a knotted surface in 4-space, one can project it to an immersed surface in 3-space, and conversely, given an immersed surface in 3-space, one may ask if it lifts to 4-space – is it the projection of a knotted surface in 4-space?
+This allows one to relate questions about these objects.
+A basic result, in contrast to the case of plane curves, is that not every immersed surface lifts to a knotted surface.
+In some cases the obstruction is 2-torsion, such as in "Koschorke's example", which is an immersed surface (formed from 3 Möbius bands, with a triple point) that does not lift to a knotted surface, but it has a double cover that does lift.
+A detailed analysis is given in , while a more recent survey is given in .
+========,2,Generalizations.
+A far-reaching generalization of immersion theory is the homotopy principle:
+one may consider the immersion condition (the rank of the derivative is always "k") as a partial differential relation (PDR), as it can be stated in terms of the partial derivatives of the function.
+Then Smale–Hirsch immersion theory is the result that this reduces to homotopy theory, and the homotopy principle gives general conditions and reasons for PDRs to reduce to homotopy theory.

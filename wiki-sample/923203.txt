@@ -1,0 +1,105 @@
+========,1,preface.
+Norris Edwin Bradbury (30 May 1909 – 20 August 1997), was an American physicist who served as Director of the Los Alamos National Laboratory for 25 years from 1945 to 1970.
+He succeeded Robert Oppenheimer, who personally chose Bradbury for the position of director after working closely with him on the Manhattan Project during World War II.
+Bradbury was in charge of the final assembly of "the Gadget", detonated in July 1945 for the Trinity test.
+Bradbury took charge at Los Alamos at a difficult time.
+Staff were leaving in droves, living conditions were poor and there was a possibility that the laboratory would close.
+He managed to persuade enough staff to stay, and got the University of California to renew the contract to manage the laboratory.
+He pushed continued development of nuclear weapons, transforming them from laboratory devices to production models.
+Numerous improvements made them safer, more reliable and easier to store and handle, and made more efficient use of scarce fissionable materiel.
+In the 1950s Bradbury oversaw the development of thermonuclear weapons, although a falling out with Edward Teller over the priority given to their development led to the creation of a rival nuclear weapons laboratory, the Lawrence Livermore Laboratory.
+In later years, he branched out, constructing the Los Alamos Meson Physics Facility to develop the laboratory's role in nuclear science, and during the Space Race of the 1960s, the laboratory developed the Nuclear Engine for Rocket Vehicle Application (NERVA).
+The Bradbury Science Museum is named in his honor.
+========,2,Early life.
+Norris Bradbury was born in Santa Barbara, California, on 30 May 1909, one of four children of Edwin Pearly and his wife Elvira née Clausen.
+One sister died as an infant, and the family adopted twins Bobby and Betty, both of whom served in the United States Marine Corps during World War II.
+Bradbury was educated at Hollywood High School and Chaffey High School in Ontario, California, graduating at the age of 16.
+He then attended Pomona College in Claremont, California, from which he graduated summa cum laude with a Bachelor of Arts (BA) in chemistry in 1929.
+This earned him membership of the Phi Beta Kappa Society.
+At Pomona, he met Lois Platt, an English Literature major who was the sister of his college room mate.
+They were married in 1933, and had three sons, James, John, and David.
+Bradbury became interested in physics, and did graduate work at the University of California, Berkeley, where he was a teaching fellow from 1929 to 1931, and then a Whiting Foundation fellow from 1931 to 1932.
+He submitted a PhD thesis on "Studies on the mobility of gaseous ions" under the supervision of Leonard B. Loeb, and was awarded a National Research Council fellowship.
+As well as supervising Bradbury's thesis, Loeb, who had served as a naval reservist during World War I, encouraged Bradbury to apply for a commission as a naval reservist.
+Bradbury's commission as an ensign was signed by Lieutenant Commander Chester W. Nimitz, who was the head of the Naval Reserve Officer Training Corps at Berkeley at the time.
+After two years at the Massachusetts Institute of Technology, Bradbury became an assistant professor of physics at Stanford University in 1935, rising to become an associate professor in 1938, and a full professor in 1943.
+He became an expert on the electrical conductivity of gases, the properties of ions, and the behavior of atmospheric electricity, publishing in journals including the "Physical Review", "Journal of Applied Physics", "Journal of Chemical Physics", and the "Journal of Atmospheric Electricity and Terrestrial Magnetism".
+He invented the Bradbury-Nielsen shutter, a type of electrical ion gate, widely used in mass spectrometry in both time-of-flight mass spectrometers and ion mobility spectrometers.
+========,2,World War II.
+Bradbury was called up for service in World War II in early 1941, although the Navy allowed him to stay at Stanford until the end of the academic year.
+He was then sent to the Naval Proving Ground at Dahlgren, Virginia, to work on external ballistics.
+Already working at Dahlgren were Loeb and Commander Deak Parsons.
+In June 1944, Bradbury received orders from Parsons, who was now the Deputy Director of the Manhattan Project's Los Alamos Laboratory, to report to Albuquerque, New Mexico.
+Parsons explained that he needed Bradbury to work on the explosive lenses required by an implosion-type nuclear weapon.
+Bradbury was less than enthusiastic about the prospect, but he was a naval officer, and ultimately agreed to go.
+At Los Alamos, Bradbury became head of E-5, the Implosion Experimentation Group, which put him in charge of the implosion field test program.
+In August, the laboratory's director, Robert Oppenheimer, implemented a sweeping reorganisation.
+E-5 became part of George Kistiakowsky's new Explosives Division (X Division), and was renumbered X-1.
+At this point, Bradbury was leading some of the most critical work at the laboratory, as it struggled with the jets that spoiled the perfect spherical shape desired for the implosion process.
+These were examined with a combination of magnetic, X-ray and RaLa techniques.
+In March 1945, Oppenheimer created Project Alberta under Parsons to carry out the Manhattan Project's ultimate mission: the preparation and delivery of nuclear weapons in combat.
+Bradbury was transferred to Project Alberta to head the Fat Man assembly group.
+In July 1945, Bradbury supervised the preparation of "the Gadget", as the bomb was known, at the Trinity nuclear test.
+"For me to say", Bradbury later recalled, "I had any deep emotional thoughts about Trinity...
+I didn't.
+I was just damned pleased that it went off."
+========,2,Director of Los Alamos.
+Oppenheimer submitted his resignation as Director of the Los Alamos Laboratory, but remained until a successor could be found.
+The Director of the Manhattan Project, Major General Leslie R. Groves, Jr., wanted someone with both a solid academic background and a high standing within the project.
+Oppenheimer recommended Bradbury.
+This was agreeable to Groves, who liked the fact that as a naval officer Bradbury was both a military man and a scientist.
+Bradbury accepted the offer on a six-month trial basis.
+Parsons arranged for Bradbury to be quickly discharged from the Navy, which awarded him the Legion of Merit for his wartime services.
+He remained in the Naval Reserve, though, ultimately retiring in 1961 with the rank of captain.
+On 16 October 1945, there was a ceremony at Los Alamos at which Groves presented the laboratory with the Army-Navy "E" Award, and presented Oppenheimer with a certificate of appreciation.
+Bradbury became the laboratory's second director the following day.
+The first months of Bradbury's directorship were particularly difficult.
+He had hoped that Atomic Energy Act of 1946 would be quickly passed by Congress and the wartime Manhattan Project would be superseded by a new, permanent organization.
+It soon became clear that this would take more than six months.
+President Harry S. Truman did not sign the act creating the Atomic Energy Commission into law until 1 August 1946, and it did not become active until 1 January 1947.
+In the meantime, Groves' legal authority to act was limited.
+Most of the scientists at Los Alamos were eager to return to their laboratories and universities, and by February 1946 all of the wartime division heads had left, but a talented core remained.
+Darol Froman became head of Robert Bacher's G division, now renamed M Division.
+Eric Jette became responsible for Chemistry and Metallurgy, John H. Manley for Physics, George Placzek for Theory, Max Roy for Explosives, and Roger Wagner for Ordnance.
+The number of personnel at Los Alamos plummeted from its wartime peak of over 3,000 to around 1,000, but many were still living in temporary wartime accommodation.
+To make matters worse, the water pipe to Los Alamos froze and the water had to be supplied by tanker trucks.
+Despite the reduced staff, Bradbury still had to provide support for Operation Crossroads, the nuclear tests in the Pacific.
+Bradbury pushed continued development of nuclear weapons to take them from laboratory devices to production models.
+There were numerous improvements that could make them more safe, reliable and easy to store and handle, and make more efficient use of scarce fissionable materiel.
+While Bradbury gave priority to improved fission weapons, research still continued on "Alarm Clock", a boosted nuclear weapon, and the "Super", a thermonuclear weapons design.
+The new fission designs were tested during Operation Sandstone in 1948.
+The Mark 4 nuclear bomb became the first nuclear weapon to be mass-produced on an assembly line.
+As the future became more certain, Bradbury began looking for a new site for the laboratory away from the crowded town center.
+In 1948, Bradbury submitted a proposal to the Atomic Energy Commission for a new $107 million facility on the South Mesa, linked to the town by a new bridge over the canyon.
+All this time, Bradbury remained nominally a professor in absentia at Stanford.
+The Los Alamos Laboratory was nominally run under a wartime contract with the University of California, but a clause in the contract allowed the University to terminate the contract three months after the end of the war.
+The university duly served notice, but Bradbury managed to get it rescinded, and in 1948 the contract was renewed.
+In 1951, he became a professor at the University of California.
+By 1951, the laboratory had come up with the Teller-Ulam design, and thermonuclear tests were conducted during Operation Greenhouse.
+Tensions between Bradbury and Edward Teller over the degree of priority given to thermonuclear weapons development led to the creation of a second nuclear weapons laboratory, the Lawrence Livermore Laboratory.
+In later years, Bradbury branched out, constructing the Los Alamos Meson Physics Facility to develop the laboratory's role in nuclear science.
+During the Space Race of the 1960s, the laboratory worked on Project Rover, developing the Nuclear Engine for Rocket Vehicle Application (NERVA).
+The laboratory demonstrated the feasibility and value of nuclear rocket propulsion.
+For many years, Bradbury was responsible for much of the administration of the town of Los Alamos.
+The town established impressive health and education facilities.
+Eventually the new technical area was built outside the town, and on 18 February 1957 the security gates were taken down.
+Finally, the town became an incorporated community and the director's civic responsibilities ended.
+In 1966, Bradbury was awarded the Department of Defense Medal for Distinguished Public Service for "exceptionally meritorious civilian service to the Armed Forces and the United States of America in a position of great responsibility as director, Los Alamos Scientific Laboratory".
+His citation went on to say that "The outstanding international reputation of the Los Alamos Laboratory is directly attributable to his exceptional leadership.
+The United States is indebted to Dr. Bradbury and his laboratory, to a very large degree, for our present nuclear capability."
+He also received the Enrico Fermi Award in 1970.
+========,2,Later life.
+Bradbury retired as director of Los Alamos Laboratory in 1970.
+His successor, Harold Agnew, invited him to become a senior consultant, but Bradbury declined the offer, although he did serve as a consultant for other government agencies, including the National Academy of Sciences, and as a member of the boards of the Los Alamos Medical Center, the First National Bank of Santa Fe, the Los Alamos YMCA and the Santa Fe Neurological Society.
+In 1969 the Governor of New Mexico, David Cargo, appointed Bradbury as a regent of the University of New Mexico, but this was a turbulent time for the university.
+In response to the Kent State Shootings in May 1970, students and antiwar activist Jane Fonda marched on the home of Ferrel Heady, the President of the University of New Mexico.
+When he refused to meet with them, the students called a strike.
+Classes were cancelled, rallies were held and students occupied the Student Union Building.
+Cargo called in the New Mexico National Guard to remove them, and eleven people were bayoneted.
+Cargo's successor, Bruce King, replaced Bradbury and another regent.
+In the mid-1990s, Bradbury accidentally hit his leg while chopping firewood.
+Gangrene set in, and his right leg was amputated below the knee.
+It spread to his left leg, and part of his left foot was amputated, leaving him in a wheelchair.
+The disease eventually proved fatal, and he died on 20 August 1997.
+He was survived by his wife Lois, who died in January 1998, and his three sons.
+A funeral service was held in Los Alamos, and he was buried at Guaje Pines Cemetery in Los Alamos.

@@ -1,0 +1,52 @@
+========,1,preface.
+A helium–neon laser or HeNe laser, is a type of gas laser whose gain medium consists of a mixture of 85% helium and 15% neon inside of a small bore capillary tube, usually excited by a DC electrical discharge.
+The best-known and most widely used HeNe laser operates at a wavelength of 632.8 nm, in the red part of the visible spectrum.
+========,2,History of HeNe laser development.
+The first HeNe lasers emitted infrared at 1.15 μm, and were the first gas lasers.
+However, a laser that operated at visible wavelengths was much more in demand, and a number of other neon transitions were investigated to identify ones in which a population inversion can be achieved.
+The 633 nm line was found to have the highest gain in the visible spectrum, making this the wavelength of choice for most HeNe lasers.
+However other visible as well as infrared stimulated emission wavelengths are possible, and by using mirror coatings with their peak reflectance at these other wavelengths, HeNe lasers could be engineered to employ those transitions; this includes visible lasers appearing red, orange, yellow, and green.
+Stimulated emissions are known from over 100 μm in the far infrared to 540 nm in the visible.
+Because visible transitions have somewhat lower gain, these lasers generally have lower output efficiencies and are more costly.
+The 3.39 μm transition has a very high gain but is prevented from use in an ordinary HeNe laser (of a different intended wavelength) because the cavity and mirrors are lossy at that wavelength.
+However in high power HeNe lasers having a particularly long cavity, superluminescence at 3.39 μm can become a nuisance, robbing power from the stimulated emission medium, often requiring additional suppression.
+The best-known and most widely used HeNe laser operates at a wavelength of 632.8 nm, in the red part of the visible spectrum.
+It was developed at Bell Telephone Laboratories in 1962, 18 months after the pioneering demonstration at the same laboratory of the first continuous infrared HeNe gas laser in December 1960.
+========,2,Construction and operation.
+The gain medium of the laser, as suggested by its name, is a mixture of helium and neon gases, in approximately a 10:1 ratio, contained at low pressure in a glass envelope.
+The gas mixture is mostly helium, so that helium atoms can be excited.
+The excited helium atoms collide with neon atoms, exciting some of them to the state that radiates 632.8 nm.
+Without helium, the neon atoms would be excited mostly to lower excited states responsible for non-laser lines.
+A neon laser with no helium can be constructed but it is much more difficult without this means of energy coupling.
+Therefore, a HeNe laser that has lost enough of its helium (e.g., due to diffusion through the seals or glass) will lose its laser functionality because the pumping efficiency will be too low.
+The energy or pump source of the laser is provided by a high voltage electrical discharge passed through the gas between electrodes (anode and cathode) within the tube.
+A DC current of 3 to 20 mA is typically required for CW operation.
+The optical cavity of the laser usually consists of two concave mirrors or one plane and one concave mirror, one having very high (typically 99.9%) reflectance and the output coupler mirror allowing approximately 1% transmission.
+Commercial HeNe lasers are relatively small devices, among gas lasers, having cavity lengths usually ranging from 15 cm to 50 cm (but sometimes up to about 1 metre to achieve the highest powers), and optical output power levels ranging from 0.5 to 50 mW.
+The red HeNe laser wavelength of 633 nm has an actual vacuum wavelength of 632.991 nm, or about 632.816 nm in air.
+The wavelengths of the stimulated emission modes lie within about 0.001 nm above or below this value, and the wavelengths of those modes shift within this range due to thermal expansion and contraction of the cavity.
+Frequency-stabilized versions enable the wavelength of a single mode to be specified to within 1 part in 10 by the technique of comparing the powers of two longitudinal modes in opposite polarizations.
+Absolute stabilization of the laser's frequency (or wavelength) as fine as 2.5 parts in 10 can be obtained through use of an iodine absorption cell.
+The mechanism producing population inversion and light amplification in a HeNe laser plasma originates with inelastic collision of energetic electrons with ground state helium atoms in the gas mixture.
+As shown in the accompanying energy level diagram, these collisions excite helium atoms from the ground state to higher energy excited states, among them the 2S and 2S (LS or Russell-Saunder coupling, front number 2 tells that an excited electron is n = 2 state) in long-lived metastable states.
+Because of a fortuitous near coincidence between the energy levels of the two He metastable states, and the 5s and 4s (Paschen notation ) levels of neon, collisions between these helium metastable atoms and ground state neon atoms results in a selective and efficient transfer of excitation energy from the helium to neon.
+This excitation energy transfer process is given by the reaction equations:
+where (*) represents an excited state, and ΔE is the small energy difference between the energy states of the two atoms, of the order of 0.05 eV or 387 cm, which is supplied by kinetic energy.
+Excitation energy transfer increases the population of the neon 4s and 5s levels manyfold.
+When the population of these two upper levels exceeds that of the corresponding lower level neon state, 3p to which they are optically connected, population inversion is present.
+The medium becomes capable of amplifying light in a narrow band at 1.15 μm (corresponding to the 4s to 3p transition) and in a narrow band at 632.8 nm (corresponding to the 5s to 3p transition at 632.8 nm).
+The 3p level is efficiently emptied by fast radiative decay to the 1s state, eventually reaching the ground state.
+The remaining step in utilizing optical amplification to create an optical oscillator is to place highly reflecting mirrors at each end of the amplifying medium so that a wave in a particular spatial mode will reflect back upon itself, gaining more power in each pass than is lost due to transmission through the mirrors and diffraction.
+When these conditions are met for one or more longitudinal modes then radiation in those modes will rapidly build up until gain saturation occurs, resulting in a stable continuous laser beam output through the front (typically 99% reflecting) mirror.
+The gain bandwidth of the HeNe laser is dominated by Doppler broadening rather than pressure broadening due to the low gas pressure, and is thus quite narrow: only about 1.5 GHz full width for the 633 nm transition.
+With cavities having typical lengths of 15 cm to 50 cm, this allows about 2 to 8 longitudinal modes to oscillate simultaneously (however single longitudinal mode units are available for special applications).
+The visible output of the red HeNe laser, long coherence length, and its excellent spatial quality, makes this laser a useful source for holography and as a wavelength reference for spectroscopy.
+A stabilized HeNe laser is also one of the benchmark systems for the definition of the meter.
+Prior to the invention of cheap, abundant diode lasers, red HeNe lasers were widely used in barcode scanners at supermarket checkout counters.
+Laser gyroscopes have employed HeNe lasers operating at 0.633 μm in a ring laser configuration.
+HeNe lasers are generally present in educational and research optical laboratories.
+========,2,Applications.
+Red HeNe lasers have many industrial and scientific uses.
+They are widely used in laboratory demonstrations in the field of optics because of their relatively low cost and ease of operation compared to other visible lasers producing beams of similar quality in terms of spatial coherence (a single-mode Gaussian beam) and long coherence length (however since about 1990 semiconductor lasers have offered a lower-cost alternative for many such applications).
+A consumer application of the red HeNe laser is the LaserDisc player, made by Pioneer.
+The laser is used in the device to read the optical disk.

@@ -1,0 +1,26 @@
+========,1,preface.
+The Engineering Doctorate scheme is a British postgraduate education programme promoted by the UK's Engineering and Physical Sciences Research Council (EPSRC).
+The programme is undertaken over four years.
+Students conduct PhD-equivalent research and undertake taught business and technical courses whilst working closely with an industrial sponsor.
+Successful candidates are awarded the degree of Doctor of Engineering (EngD) and are addressed as "doctor".
+The first programmes began in 1992.
+In 2009, Engineering Doctorate schemes were offered by 45 UK universities, both singly or in partnership with other universities as industrial doctorate centres.
+Students on the scheme are encouraged to describe themselves as 'research engineers' rather than 'research students' and as of 2009 the minimum funding level was £1,500 higher than the minimum funding level for PhD students.
+Advocates of the scheme like to draw attention to the fact that EngD students share some courses with MBA students.
+In the UK a similar formation to doctorate is the NVQ 8 or QCF 8.
+However, a doctoral degree typically incorporates a research project which must offer an original contribution to knowledge within an academic subject area; an element which NVQs lack.
+In summary, an EngD is essentially an engineering PhD with a solid industrial base and an additional taught element.
+========,2,International equivalent qualifications.
+Countries following the German/US model of education usually have similar requirements for awarding Ph.D.(Eng.)
+and doctor of engineering degrees.
+The common degree abbreviations in the USA are D.Eng., D.Eng.Sc./Eng.Sc.D, whereas in the German-speaking world it is more commonly known as Dr.-Ing.
+========,2,History.
+The Engineering Doctorate (EngD) scheme was established by the EPSRC in 1992 following the recommendations of the 1990 Engineering Doctorate Report, produced by a working group chaired by Professor John Parnaby.
+The scheme was launched with five centres - at Warwick, UMIST and Manchester universities and a Welsh consortium led by University College Swansea.
+After a 1997 review, a further tranche of five centres was established, and further centres were added in 2001 and 2006 following calls by EPSRC in particular areas of identified national need.
+In a 2006 stakeholder survey of the scheme conducted on behalf of EPSRC it was found that the quality of output of research engineers was perceived to match or exceed that of a PhD.
+However, the majority of respondents disagreed with claims that EngDs were recruited to higher-paid posts than PhDs or that EngDs were more desirable to employers than PhDs.
+Observations were made that the EngD was not widely known, and that universities may offer EngD degrees that were not necessarily of the format promoted by the EPSRC.
+A March 2007 "Review of the EPSRC Engineering Doctorate Centres" noted that since 1992, some 1230 research engineers had been enrolled, sponsored by over 510 different companies (28 had sponsored at least six REs), at 22 centres based at 14 universities (some jointly run by several collaborating universities).
+The panel remained convinced of the value and performance of the EngD scheme, and made six key recommendations including clearer brand definition, academic study of the longer term impacts of the scheme, promotion of the scheme to potential new sponsors, business sectors and REs, work with the Engineering Council UK to develop a career path for REs to Chartered Engineer status, creation of a virtual "EngD Academy", and increased resources for the scheme.
+Work on establishing an Association of Engineering Doctorates began in 2010.

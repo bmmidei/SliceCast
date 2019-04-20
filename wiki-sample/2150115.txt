@@ -1,0 +1,18 @@
+========,1,preface.
+========,2,Capabilities of PatrolBot.
+PatrolBot can scan buildings, create floor plans and navigate them autonomously using a laser range-finding sensor inside the robot.
+It employs Monte Carlo/Markov-style localization techniques using a modified value-iterated search technique for navigation.
+It searches for alternative paths if a hall is blocked, circumnavigates obstacles and re-charges itself at its automated docking/charging station as needed.
+Using a Wi-Fi system the device can operate autonomously or be controlled remotely.
+========,2,Applications.
+PatrolBot is a robotic base used for delivery, security, sensor monitoring, inspection and guidance tasks.
+It is a reference platform added onto with various carrying attachments, sensors, touchscreens and cameras.
+While it began primarily as a security robot the platform is now used as a base for a broad range of applications.
+========,2,Robot Control.
+Users set up the robot using a GUI interface to give goals, docking location and constraints such as forbidden areas into the robot's map.
+Then, using drag and drop, an operator can give goal names, tasks and macros into a "route" or program for the robot to follow.
+Users can then use set or random sequences for the robot to follow by dragging routes into a weekly schedule.
+Advanced users can communicate with the robot from external systems or program more advance actions over a command language interface as well as add new sensors.
+PatrolBot can be sent to goals on demand or can patrol a sequence of goals.
+Status windows in the control GUI provide read-outs from the sensors as well as proprioceptive information such as battery levels.
+The robot's data logs are available for security and energy optimization as well as troubleshooting.

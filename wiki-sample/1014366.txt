@@ -1,0 +1,160 @@
+========,1,preface.
+Potassium iodide is a chemical compound, medication, and dietary supplement.
+As a medication it is used to treat hyperthyroidism, in radiation emergencies, and to protect the thyroid gland when certain types of radiopharmaceuticals are used.
+In the developing world it is also used to treat skin sporotrichosis and phycomycosis.
+As a supplement it is used in those who have low intake of iodine in the diet.
+It is given by mouth.
+Common side effects include vomiting, diarrhea, abdominal pain, rash, and swelling of the salivary glands.
+Other side effects include allergic reactions, headache, goitre, and depression.
+While use during pregnancy may harm the baby this use is still recommended in radiation emergencies.
+Potassium iodide has the chemical formula KI.
+Commercially it is made by mixing potassium hydroxide with iodine.
+Potassium iodide has been used medically since at least 1820.
+It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+Potassium iodide is available as a generic medication and over the counter.
+In the United States a course of treatment is less than 25 USD.
+Potassium iodide is also used for the iodization of salt.
+========,2,Medical uses.
+========,3,Dietary supplement.
+The uses of KI include as a nutritional supplement in animal feeds and also the human diet.
+For the latter, it is the most common additive used to "iodize" table salt (a public health measure to prevent iodine deficiency in populations that get little seafood).
+The oxidation of iodide causes slow loss of iodine content from iodised salts that are exposed to excess air.
+The alkali metal iodide salt, over time and exposure to excess oxygen and carbon dioxide, slowly oxidizes to metal carbonate and elemental iodine, which then evaporates.
+Potassium iodate is used to add iodine to some salts so that the iodine is not lost by oxidation.
+Dextrose or sodium thiosulfate are often added to iodized table salt to stabilize potassium iodide thus reducing loss of the volatile chemical.
+========,3,Thyroid protection.
+Thyroid iodine uptake blockade with potassium iodide is used in nuclear medicine scintigraphy and therapy with some radioiodinated compounds that are not targeted to the thyroid, such as iobenguane (MIBG), which is used to image or treat neural tissue tumors, or iodinated fibrinogen, which is used in fibrinogen scans to investigate clotting.
+These compounds contain iodine, but not in the iodide form.
+However, since they may be ultimately metabolized or break down to radioactive iodide, it is common to administer non-radioactive potassium iodide to ensure that iodide from these radiopharmaceuticals is not sequestered by the normal affinity of the thyroid for iodide.
+U.S. Food and Drug Administration-approved dosing of potassium iodide for this purpose with iobenguane, is as follows (per 24 hours): infants less than 1 month old, 16 mg; children 1 month to 3 years, 32 mg; children 3 years to 18 years, 65 mg; adults 130 mg.
+However, some sources recommend alternative dosing regimens.
+Not all sources are in agreement on the necessary "duration" of thyroid blockade, although agreement appears to have been reached about the "necessity" of blockade for both scintigraphic and therapeutic applications of iobenguane.
+Commercially available iobenguane is labeled with iodine-123, and product labeling recommends administration of potassium iodide 1 hour prior to administration of the radiopharmaceutical for all age groups, while the European Association of Nuclear Medicine recommends (for iobenguane labeled with either isotope), that potassium iodide administration begin one day prior to radiopharmaceutical administration, and continue until the day following the injection, with the exception of new-borns, who do not require potassium iodide doses following radiopharmaceutical injection.
+Product labeling for diagnostic iodine-131 iobenguane recommends potassium iodide administration one day before injection and continuing 5 to 7 days following administration, in keeping with the much longer half-life of this isotope and its greater danger to the thyroid.
+Iodine-131 iobenguane used for therapeutic purposes requires a different pre-medication duration, beginning 24–48 hours prior to iobenguane injection and continuing 10–15 days following injection.
+========,3,Nuclear accidents.
+In 1982, the U.S. Food and Drug Administration approved potassium iodide to protect thyroid glands from radioactive iodine involving accidents or fission emergencies.
+In an accidental event or attack on a nuclear power plant, or in nuclear bomb fallout, volatile fission product radionuclides may be released.
+Of these products, is one of the most common and is particularly dangerous to the thyroid gland because it may lead to thyroid cancer.
+By saturating the body with a source of stable iodide prior to exposure, inhaled or ingested tends to be excreted, which prevents radioiodine uptake by the thyroid.
+According to one 2000 study "KI administered up to 48 h before exposure can almost completely block thyroid uptake and therefore greatly reduce the thyroid absorbed dose.
+However, KI administration 96 h or more before exposure has no significant protective effect.
+In contrast, KI administration after exposure to radioiodine induces a smaller and rapidly decreasing blockade effect."
+For optimal prevention, KI must be dosed daily until a risk of significant exposure to radioiodine by either inhalation or ingestion no longer exists.
+Emergency 130 milligrams potassium iodide doses provide 100 mg iodide (the other 30 mg is the potassium in the compound), which is roughly 700 times larger than the normal nutritional need (see recommended dietary allowance) for iodine, which is 150 micrograms (0.15 mg) of iodine (as iodide) per day for an adult.
+The typical tablet actually weighs 160 mg. 130 mg of which is potassium iodide, and 30 mg being excipients, such as binding agents.
+Potassium iodide cannot protect against any other causes of radiation poisoning, nor can it provide any degree of protection against dirty bombs that produce radionuclides other than those of iodine.
+The potassium iodide in iodized salt is insufficient for this use.
+A likely lethal dose of salt (more than a kilogram) would be needed to equal the potassium iodide in one tablet.
+The World Health Organization does not recommend KI prophylaxis for adults over 40 years, unless the radiation dose from inhaled radioiodine is expected to threaten thyroid function, because the KI side effects increase with age and may exceed the KI protective effects; "...unless doses to the thyroid from inhalation rise to levels threatening thyroid function, that is of the order of about 5 Gy.
+Such radiation doses will not occur far away from an accident site."
+The U.S. Department of Health and Human Services restated these two years later as "The downward KI (potassium iodide) dose adjustment by age group, based on body size considerations, adheres to the principle of minimum effective dose.
+The recommended standard (daily) dose of KI for all school-age children is the same (65 mg).
+However, adolescents approaching adult size (i.e., >70 kg [154 lbs]) should receive the full adult dose (130 mg) for maximal block of thyroid radioiodine uptake.
+Neonates ideally should receive the lowest dose (16 mg) of KI."
+SSKI (i.e., the solution of KI rather than tablets) may be used in radioiodine-contamination emergencies (i.e., nuclear accidents) to "block" the thyroid's uptake of radioiodine, at a dose of two drops of SSKI per day for an adult.
+This is not the same as blocking the thyroid's release of thyroid hormone, for which the adult dose is different (and is actually higher by a factor of 7 or 8), and for which KI anti-radiation pills (not a common medical treatment form of KI) are not usually available in pharmacies, or normally used in hospitals, or by physicians.
+Although the two forms of potassium iodide are completely interchangeable, normally in practice the SSKI solution, which is the historical medical form of high dose iodine, is generally used for all medical purposes save for radioiodine prophylaxis.
+For protection of the thyroid against radioiodine (iodine-131) contamination, the convenient standard 130 mg KI pill is used, if available.
+As noted, the equivalent two drops of SSKI (equaling the dose of one KI pill) may be used for this purpose, if the pills are not available.
+========,2,Side effects.
+There is reason for caution with prescribing the ingestion of high doses of potassium iodide and iodate, as their unnecessary use can cause conditions such as the Jod-Basedow phenomena, and the Wolff-Chaikoff effect, trigger and/or worsen hyperthyroidism and hypothyroidism, and then cause temporary or even permanent thyroid conditions.
+It can also cause sialadenitis (an inflammation of the salivary gland), gastrointestinal disturbances, allergic reactions and rashes.
+Potassium iodide is also not recommended for those who have had an allergic reaction to iodine, and people with dermatitis herpetiformis and hypocomplementemic vasculitis – conditions that are linked to a risk of iodine sensitivity.
+There have been some reports of potassium iodide treatment causing swelling of the parotid gland (one of the three glands which secrete saliva), due to its stimulatory effects on saliva production.
+A saturated solution of KI (SSKI) is typically given orally in adult doses several times a day (5 drops of SSKI assumed to be  mL) for thyroid blockade (to prevent the thyroid from excreting thyroid hormone) and occasionally this dose is also used, when iodide is used as an expectorant (the total dose is about one gram KI per day for an adult).
+The anti-radioiodine doses used for uptake blockade are lower, and range downward from 100  mg a day for an adult, to less than this for children (see table).
+All of these doses should be compared with the far lower dose of iodine needed in normal nutrition, which is only 150 μg per day (150 micrograms, not milligrams).
+At maximal doses, and sometimes at much lower doses, side effects of iodide used for medical reasons, in doses of 1000 times the normal nutritional need, may include: acne, loss of appetite, or upset stomach (especially during the first several days, as the body adjusts to the medication).
+More severe side effects which require notification of a physician are: fever, weakness, unusual tiredness, swelling in the neck or throat, mouth sores, skin rash, nausea, vomiting, stomach pains, irregular heartbeat, numbness or tingling of the hands or feet, or a metallic taste in the mouth.
+The use of a particular 'Iodine tablet' used in portable water purification has also been determined as somewhat effective at reducing radioiodine uptake.
+In a small study on human subjects, who for each of their 90-day trial, ingested four 20 milligram tetraglycine hydroperiodide(TGHP) water tablets, with each tablet releasing 8 milligrams (ppm) of free titratable iodine; it was found that the biological uptake of radioactive iodine in these human subjects dropped to, and remained at, a value of less than 2% the radioiodine uptake rate of that observed in control subjects who went fully exposed to radioiodine without treatment.
+In the event of a radioiodine release the ingestion of prophylaxis potassium iodide, if available, or even iodate, would rightly take precedence over perchlorate administration, and would be the first line of defence in protecting the population from a radioiodine release.
+However, in the event of a radioiodine release too massive and widespread to be controlled by the limited stock of iodide and iodate prophylaxis drugs, then the addition of perchlorate ions to the water supply, or distribution of perchlorate tablets would serve as a cheap, efficacious, second line of defense against carcinogenic radioiodine bioaccumulation.
+The ingestion of goitrogen drugs is, much like potassium iodide also not without its dangers, such as hypothyroidism.
+In all these cases however, despite the risks, the prophylaxis benefits of intervention with iodide, iodate or perchlorate outweigh the serious cancer risk from radioiodine bioaccumulation in regions where radioiodine has sufficiently contaminated the environment.
+Potassium iodide in its raw form is a mild irritant and should be handled with gloves.
+Chronic overexposure can have adverse effects on the thyroid.
+Potassium iodide is a possible teratogen.
+========,2,Industrial uses.
+KI is used with silver nitrate to make silver iodide (AgI) an important chemical in film photography.
+KI is a component in some disinfectants and hair treatment chemicals.
+KI is also used as a fluorescence quenching agent in biomedical research, an application that takes advantage of collisional quenching of fluorescent substances by the iodide ion.
+However, for several fluorophores addition of KI in µM-mM concentrations results in increase of fluorescence intensity, and iodide acts as fluorescence enhancer.
+Potassium iodide is a component in the electrolyte of dye sensitised solar cells (DSSC) along with iodine.
+Potassium iodide finds its most important applications in organic synthesis mainly in the preparation of aryl iodides in the Sandmeyer reaction, starting from aryl amines.
+Aryl iodides are in turn used to attach aryl groups to other organics by nucleophilic substitution, with iodide ion as the leaving group.
+========,2,Chemistry.
+Potassium iodide is ionic, KI.
+It crystallises in the sodium chloride structure.
+It is produced industrially by treating KOH with iodine.
+It is a white salt, which is the most commercially significant iodide compound, with approximately 37,000 tons produced in 1985.
+It absorbs water less readily than sodium iodide, making it easier to work with.
+Aged and impure samples are yellow because of the slow oxidation of the salt to potassium carbonate and elemental iodine.
+========,3,Inorganic chemistry.
+Since the iodide ion is a mild reducing agent, is easily oxidised to by powerful oxidising agents such as chlorine:
+This reaction is employed in the isolation of iodine from natural sources.
+Air will oxidize iodide, as evidenced by the observation of a purple extract when aged samples of KI are rinsed with dichloromethane.
+As formed under acidic conditions, hydriodic acid (HI) is a stronger reducing agent.
+Like other iodide salts, forms when combined with elemental iodine.
+Unlike , salts can be highly water-soluble.
+Through this reaction, iodine is used in redox titrations.
+Aqueous , "Lugol's solution", is used as a disinfectant and as an etchant for gold surfaces.
+Potassium iodide and silver nitrate are used to make silver(I) iodide, which is used for high speed photographic film and for cloud-seeding:
+========,3,Organic chemistry.
+KI serves as a source of iodide in organic synthesis.
+A useful application is in the preparation of aryl iodides from arenediazonium salts.
+For example:
+KI, acting as a source of iodide, may also act as a nucleophilic catalyst for the alkylation of alkyl chlorides, bromides, or mesylates.
+========,2,History.
+Potassium iodide has been used medically since at least 1820.
+Some of the earliest uses included for syphilis.
+========,3,Chernobyl.
+Potassium iodide's (KI) value as a radiation protective (thyroid blocking) agent was demonstrated following the Chernobyl nuclear reactor disaster in April, 1986, a saturated solution of potassium iodide (SSKI) was administered to 10.5 million children and 7 million adults in Poland as a preventative measure against accumulation of radioactive in the thyroid gland.
+Reports differ concerning whether people in the areas immediately surrounding Chernobyl itself were given the supplement., however the US Nuclear Regulatory Commission (NRC) reported, "thousands of measurements of I-131 (radioactive iodine) activity...suggest that the observed levels were lower than would have been expected had this prophylactic measure not been taken.
+The use of KI...was credited with permissible iodine content in 97% of the evacuees tested."
+With the passage of time, people living in irradiated areas where KI was not available have developed thyroid cancer at epidemic levels, which is why the US Food and Drug Administration (FDA) reported "The data clearly demonstrate the risks of thyroid radiation... KI can be used [to] provide safe and effective protection against thyroid cancer caused by irradiation."
+Chernobyl also demonstrated that the need to protect the thyroid from radiation was greater than expected.
+Within ten years of the accident, it became clear that thyroid damage caused by released radioactive iodine was virtually the only adverse health effect that could be measured.
+As reported by the NRC, studies after the accident showed that "As of 1996, except for thyroid cancer, there has been no confirmed increase in the rates of other cancers, including leukemia, among the... public, that have been attributed to releases from the accident."
+But equally important to the question of KI is the fact that radioactivity releases are not "local" events.
+Researchers at the World Health Organization accurately located and counted the cancer victims from Chernobyl and were startled to find that "the increase in incidence [of thyroid cancer] has been documented up to 500 km from the accident site... significant doses from radioactive iodine can occur hundreds of kilometers from the site, beyond emergency planning zones."
+Consequently, far more people than anticipated were affected by the radiation, which caused the United Nations to report in 2002 that "The number of people with thyroid cancer... has exceeded expectations.
+Over 11,000 cases have already been reported."
+========,3,Nagasaki.
+These findings were consistent with studies of the effects of previous radioactivity releases.
+In 1945, millions of Japanese were exposed to radiation from nuclear weapons, and the effects can still be measured.
+Today, nearly half (44.8%) the survivors of Nagasaki studied have identifiable thyroid disease, with the American Medical Association reporting "it is remarkable that a biological effect from a single brief environmental exposure nearly 60 years in the past is still present and can be detected."
+========,3,Nuclear weapons testing.
+The development of thyroid cancer among residents in the North Pacific from radioactive fallout following the United States' nuclear weapons testing in the 1950s (on islands nearly 200 miles downwind of the tests) were instrumental in the 1978 decision by the FDA to issue a request for the availability of KI for thyroid protection in the event of a release from a commercial nuclear power plant or weapons-related nuclear incident.
+Noting that KI's effectiveness was "virtually complete" and finding that iodine in the form of KI was substantially superior to other forms including iodate (KIO) in terms of safety, effectiveness, lack of side effects, and speed of onset, the FDA invited manufacturers to submit applications to produce and market KI.
+========,3,Fukushima.
+It was reported on March 16, 2011, that potassium iodide tablets were given preventatively to U.S.
+Naval air crew members flying within 70 nautical miles of the Fukushima Daiichi Nuclear Power Plant damaged in the earthquake (8.9/9.0 magnitude) and ensuing tsunami on March 11, 2011.
+The measures were seen as precautions, and the Pentagon said no U.S. forces have shown signs of radiation poisoning.
+By March 20, the US Navy instructed personnel coming within 100 miles of the reactor to take the pills.
+========,2,Formulations.
+Three companies (Anbex, Inc., Fleming Co, and Recipharm of Sweden) have met the strict FDA requirements for manufacturing and testing of KI, and they offer products (IOSAT, ThyroShield, and ThyroSafe, respectively) which are available for purchase.
+In 2012, Fleming Co. sold all its product rights and manufacturing facility to other companies and no longer exists.
+ThyroShield is currently not in production.
+The Swedish manufacturing facility for Thyrosafe, a half-strength potassium iodide tablet for thyroid protection from radiation, was mentioned on the secret US 2008 Critical Foreign Dependencies Initiative leaked by Wikileaks in 2010.
+Tablets of potassium iodide are supplied for emergency purposes related to blockade of radioiodine uptake, a common form of radiation poisoning due to environmental contamination by the short-lived fission product .
+Potassium iodide may also be administered pharmaceutically for thyroid storm.
+For reasons noted above, therapeutic drops of SSKI, or 130 mg tablets of KI as used for nuclear fission accidents, are not used as nutritional supplements, since an SSKI drop or nuclear-emergency tablet provides 300 to 700 times more iodine than the daily adult nutritional requirement.
+Dedicated nutritional iodide tablets containing 0.15 mg (150 micrograms (µg)) of iodide, from KI or from various other sources (such as kelp extract) are marketed as supplements, but they are not to be confused with the much higher pharmaceutical dose preparations.
+Potassium iodide can be conveniently prepared as a saturated solution, abbreviated SSKI.
+This method of delivering potassium iodide does not require a method to weigh out the potassium iodide so it can be used in an emergency situation.
+KI crystals are simply added to water until no more KI will dissolve and instead sits at the bottom of the container.
+With pure water, the concentration of KI in the solution depends only on the temperature.
+Potassium iodide is highly soluble in water so SSKI is a concentrated source of KI.
+At 20 degrees Celsius the solubility of KI is 140-148 grams per 100 grams of water.
+Because the volumes of KI and water are approximately additive, the resulting SSKI solution will contain about 1.40 gram (1400 mg) KI per milliliter (mL) of solution.
+This is 100% weight/volume (note units of mass concentration) of KI (one gram KI per mL solution), which is possible because SSKI is significantly more dense than pure water—about 1.72 g/mL.
+Because KI is about 76.4% iodide by weight, SSKI contains about 764 mg iodide per mL.
+This concentration of iodide allows the calculation of the iodide dose per drop, if one knows the number of drops per milliliter.
+For SSKI, a solution more viscous than water, there are assumed to be 15 drops per mL; the iodide dose is therefore approximately 51 mg per drop.
+It is conventionally rounded to 50 mg per drop.
+The term SSKI is also used, especially by pharmacists, to refer to a U.S.P.
+pre-prepared solution formula, made by adding KI to water to prepare a solution containing 1000 mg KI per mL solution (100% wt/volume KI solution), to closely approximate the concentration of SSKI made by saturation.
+This is essentially interchangeable with SSKI made by saturation, and also contains about 50 mg iodide per drop.
+***LIST***.

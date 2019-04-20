@@ -1,0 +1,56 @@
+========,1,preface.
+The imperfective (abbreviated or more ambiguously ) is a grammatical aspect used to describe a situation viewed with interior composition.
+The imperfective is used in language to describe ongoing, habitual, repeated, or similar semantic roles, whether that situation occurs in the past, present, or future.
+Although many languages have a general imperfective, others have distinct aspects for one or more of its various roles, such as progressive, habitual, and iterative aspects.
+The imperfective contrasts with the perfective aspect, which is used to describe actions viewed as a complete whole.
+========,2,English.
+English is an example of a language with no general imperfective.
+The English progressive is used to describe ongoing events such as "The rain was beating down".
+Habitual situations do not have their own verb form (in most dialects), but the construction "used to" conveys past habitual action, as in "I used to ski".
+Unlike in languages with a general imperfective, in English the simple past tense can be used for situations presented as ongoing, such as "The rain beat down continuously through the night".
+A contrast between the progressive and imperfective is seen with stative verbs.
+In English stative verbs, such as "know", do not use the progressive ("*I was knowing" is ungrammatical), while in languages with an imperfective (for example French), stative verbs frequently appear in the imperfective.
+========,2,Other languages.
+Verbs in Slavic languages have perfective and/or an imperfective form.
+Generally, any of various prefixes can turn imperfectives into perfectives; suffixes can turn perfectives into imperfectives.
+The non-past imperfective form is used for the present, while its perfective counterpart is used for the future.
+There is also a periphrastic imperfective future construction.
+The imperfective aspect may be fused with the past tense, for a form traditionally called the imperfect.
+In some cases, such as Spanish, Portuguese and Modern Greek, this is because the imperfective aspect occurs only in the past tense; others, such as Georgian and Bulgarian, have both general imperfectives and imperfects.
+Other languages with distinct past imperfectives include Latin and Persian.
+========,2,Perfective.
+The opposite aspect is the "perfective" (in Ancient Greek, generally called the "aorist"), which views a situation as a simple whole, "without" interior composition.
+(This is not the same as the "perfect".)
+Unlike most other tense–aspect category oppositions, it is typical for a language not to choose either perfective or imperfective as being generally marked and the other as being generally unmarked.
+In narrative, one of the uses of the imperfective is to set the background scene ("It was midnight.
+The room was dark.
+The rain was beating down.
+Water was streaming in through a broken window.
+A gun lay on the table.
+"), with the perfective describing foregrounded actions within that scene ("Suddenly, a man burst into the room, ran over to the table, and grabbed the gun.").
+English does not have these aspects.
+However, the background-action contrast provides a decent approximation in English:
+Here 'entered' presents "the totality of the situation referred to [...]: the whole of the situation is presented as a single unanalysable whole, with beginning, middle, and end all rolled into one; no attempt is made to divide this situation up into the various individual phases that make up the action of entry."
+This is the essence of the perfective aspect: an event presented as an unanalyzed whole.
+'Was reading', however, is different.
+Besides being the background to 'entered', the form 'reading' presents "an internal portion of John's reading, [with] no explicit reference to the beginning or to the end of his reading."
+This is the essence of the imperfective aspect.
+Or, to continue the quotation, "the perfective looks at the situation from the outside, without necessarily distinguishing any of the internal structure of the situation, whereas the imperfective looks at the situation from inside, and as such is crucially concerned with the internal structure of the situation, since it can both look backwards towards the start of the situation, and look forwards to the end of the situation, and indeed it is equally appropriate if the situation is one that lasts through all time, without any beginning and without any end."
+This is why, within the past tense, perfective verbs are typically translated into English as simple past, like 'entered', whereas imperfective verbs are typically translated as 'was reading', 'used to read', and the like.
+(In English, it is easiest to illustrate aspect in the past tense.
+However, any tense is possible: Present "John is reading as I enter", future "John will be reading when I enter", etc.
+: In each tense, the aspectual distinction is the same.)
+This aspectual distinction is not inherent to the events themselves, but is decided by how the speaker views them or wishes to present them.
+The very same event may be described as perfective in one clause, and then imperfective in the next.
+For example, where the two forms of 'to read' refer to the same thing.
+In 'John read that book yesterday', however, "John's reading is presented as a complete event, without further subdivision into successive temporal phases;" while in 'while he was reading it', "this event is opened up, so that the speaker is now in the middle of the situation of John's reading," as it is in the middle of this reading that the postman arrives.
+The perfective and imperfective need not occur together in the same utterance; indeed they more often do not.
+However, it is difficult to describe them in English without an explicit contrast like "John was reading when I entered."
+========,3,Combination.
+The two aspects may be combined on the same verb in a few languages, for perfective imperfectives and imperfective perfectives.
+Georgian and Bulgarian, for example, have parallel perfective-imperfective and aorist-imperfect forms, the latter restricted to the past tense.
+In Bulgarian, there are parallel perfective and imperfective stems; aorist and imperfect suffixes are typically added to the perfective and imperfective stems, respectively, but the opposite can occur.
+For example, an imperfect perfective is used in Bulgarian for a simple action that is repeated or habitual:
+Here each sitting is an unanalyzed whole, a simple event, so the perfective root of the verb "sedn" 'sat' is used.
+However, the clause as a whole describes an ongoing event conceived of as having internal structure, so the imperfective suffix "-eshe" is added.
+Without the suffix, the clause would read simply as "In the evening he sat on the verandah."

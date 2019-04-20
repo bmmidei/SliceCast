@@ -1,0 +1,13 @@
+========,1,preface.
+The fundamental plane is a set of bivariate correlations connecting some of the properties of normal elliptical galaxies, including their radius, luminosity, mass, velocity dispersion, metallicity, surface brightness, colors, density (of luminosity, mass, or phase space), and, to a lesser degree, the shape of their radial surface brightness profiles.
+It is usually expressed as a relationship between the effective radius, average surface brightness and central velocity dispersion of normal elliptical galaxies.
+Any one of the three parameters may be estimated from the other two, as together they describe a plane that falls within their more general three-dimensional space.
+========,2,Motivation.
+Many characteristics of a galaxy are correlated.
+For example, as one would expect, a galaxy with a higher luminosity has a larger effective radius.
+The usefulness of these correlations is when a characteristic that can be determined without prior knowledge of the galaxy's distance (such as central velocity dispersion - the Doppler width of spectral lines in the central parts of the galaxy) can be correlated with a property, such as luminosity, that can be determined only for galaxies of a known distance.
+With this correlation, one can determine the distance to galaxies, a difficult task in astronomy.
+========,2,Notes.
+Diffuse dwarf ellipticals do not lie on the fundamental plane as shown by Kormendy (1987).
+Gudehus (1991) found that galaxies brighter than ***formula*** lie on one plane, and those fainter than this value, ***formula***, lie on another plane.
+The two planes are inclined by about 11 degrees.

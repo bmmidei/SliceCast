@@ -1,0 +1,13 @@
+========,1,preface.
+SMART: SCOTLAND is a high profile innovation support grant scheme in Scotland aimed at small and medium-sized firms.
+It supports commercially viable projects which represent a significant technological advance for the UK sector or industry concerned.
+The SMART grant supports technology development through:
+***LIST***.
+========,2,Criteria.
+Applicants must be based in Scotland or planning to set up in Scotland and must meet the European Community definition of a small and medium-sized enterprise which in summary means they must:
+***LIST***.
+Awards are judged according to technological, intellectual property, financial and commercial aspects of the application as well as the management expertise available to the business.
+In addition other aspects such as the project's implications on society such as environmental impact, sustainability and health and safety may be taken into account.
+========,2,History.
+The grant was launched in Scotland as SMART in 1999 and by April 2007 grants had been given to almost 400 businesses across Scotland amounting to some £14.7 million funding.
+In April 2007 SMART was relaunched as the "SMART:SCOTLAND" Programme .

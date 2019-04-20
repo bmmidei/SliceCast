@@ -1,0 +1,127 @@
+========,1,preface.
+The AgustaWestland AW609, formerly the Bell/Agusta BA609, is a twin-engined tiltrotor VTOL aircraft with a configuration similar to the Bell Boeing V-22 Osprey.
+It is capable of landing vertically like a helicopter while having a range and speed in excess of conventional rotorcraft.
+The AW609 is aimed at the civil aviation market, in particular VIP customers and offshore oil and gas operators.
+========,2,Development.
+========,3,Origins and program changes.
+The BA609 drew on experience gained from Bell's earlier experimental tiltrotor, the XV-15.
+In 1996, Bell and Boeing had formed a partnership to develop a civil tiltrotor aircraft; however, in March 1998, it was announced that Boeing had pulled out of the project.
+In September 1998, it was announced that Agusta had become a partner in the development program.
+This led to the establishment of the Bell/Agusta Aerospace Company (BAAC), a joint venture between Bell Helicopter and AgustaWestland, to develop and manufacture the aircraft.
+The Italian government subsidized Agusta's development of a military tiltrotor, and as the AW609 has civilian aspects, the European Commission requires AgustaWestland to pay back progressive amounts per aircraft to the Italian state to avoid a distortion of competition.
+, Bell continues to perform contract work on the AW609 program while considering commercial potential for the bigger V-280 tiltrotor, where military production may reach larger numbers and hence reduce unit cost.
+However, in 2016, Bell preferred the 609 for commercial applications and kept the V-280 for military use only.
+Bell also stated that conventional helicopters were not part of Bell's future for military customers.
+The aircraft's purpose is to take off and land vertically, but fly faster than a helicopter.
+Over 45 different aircraft have flown proving VTOL and STOL capabilities, of which the V-22, Harrier, Yak-38 and F-35 jets have proceeded to production.
+By 2008, Bell had estimated that very light jets and large offshore helicopters like the Sikorsky S-92 had reduced the potential market for tiltrotors.
+Also in 2008, it was reported that limited funding of the program by both Bell and AgustaWestland had resulted in slow flight testing progress.
+On 21 September 2009, AgustaWestland chief executive Giuseppe Orsi said that corporate parent Finmeccanica had authorised buying Bell Helicopter out of the program to speed it up, as Bell was dissatisfied with the commercial prospects and wanted to spend the resources on other programs.
+In 2013 AgustaWestland estimated a market of 700 aircraft over 20 years.
+By 2011, negotiations centred on the full transfer of technologies shared with the V-22, however Bell stated that no technology was shared with the V-22.
+At the 2011 Paris Air Show, AgustaWestland stated that it will assume full ownership of the programme, redesignating the aircraft as "AW609", and that Bell Helicopter will remain in the role of component design and certification.
+In November 2011, the exchange of ownership was completed, following the granting of regulatory approval - media estimated that the transfer happened at little cost.
+========,3,Testing.
+On 6 December 2002, the first ground tests of the BA609 prototype began, and the first flight took place on 6 March 2003 in Arlington, Texas, flown by test pilots Roy Hopkins and Dwayne Williams.
+After 14 hours of helicopter-mode flight testing, the prototype was moved to a ground testing rig to study the operational effects of the conversion modes.
+Following the completion of ground-based testing, on 3 June 2005 the prototype resumed flight testing, focusing on the expansion of its flight envelope.
+On 22 July 2005, the first conversion from helicopter to aeroplane mode while in flight took place.
+By October 2008, 365 flight-hours had been logged by two prototype aircraft.
+The AW609 demonstrated a safe dual-engine failure in normal cruise flight on 15 May 2009.
+By February 2012, this had risen to 650 hours, and it was reported that 85 percent of the AW609's flight envelope had been explored.
+Test pilot Paul Edwards has stated that the AW609 was not susceptible to the vortex ring state phenomena, naturally slipping out of the vortex on its own since both rotors will not simultaneously enter the vortex ring state.
+In 2011, AugustaWestland began construction of a third prototype; that prototype was still not fully assembled by February 2015.
+The company plans to conduct test flights in Italy in the summer of 2015.
+AugustaWestland will then disassemble it and ship it to Philadelphia, Pennsylvania, to prepare it for tests of the de-icing system in Minnesota.
+A fourth prototype, to be used in the development and testing of new avionics and control systems, was also underway.
+By November 2012, over 700 flight hours had been accumulated by the two operational prototypes.
+In January 2014, it was reported that in excess of 850 flying hours had been accumulated by the two prototypes; accumulated flight data is used to further develop representative simulators, which are in turn being used to support the development program.
+By March 2015, the two prototype aircraft had accumulated 1,200 hours (of about 2,000 hours necessary for certification), and two more aircraft were expected to fly that year.
+Flight test maximums had progressed to a weight of , a speed of , and altitude.
+In 2015, AgustaWestland reported that the AW609 flew from Yeovil, UK, to Milan, Italy, in 2 hours 18 minutes.
+In September 2015, the first AW609 prototype was reportedly nearing the end of its service life, while a third prototype was finishing construction at the company's Vergiate facility and a fourth prototype was being built in Philadelphia.
+On 30 October 2015, the second of the two prototypes (N609AG) fatally crashed near AgustaWestland's Vergiate facility in North West Italy.
+========,3,Certification.
+In 2002, certification of the aircraft was projected for 2007, while in 2007, certification was projected for 2011.
+In August 2012, the aircraft was forecast to receive FAA and European Aviation Safety Agency (EASA) certification in early 2016.
+The company expects to achieve FAA certification in 2017.
+Some delays were caused by lack of funding for the FAA, others by the V-22 troubles, while AgustaWestland also spent time increasing performance and reducing cost.
+In 2012, the Federal Aviation Administration (FAA) stated that the AW609 was to be certified in compliance with both helicopter and fixed-wing aircraft rules; additionally, new codes were to be developed to cover the transition phase between the two modes.
+Of the 217 Pilot Training Tasks, 10 are unique tiltrotor tasks.
+AW609 Certification Basis is established by FAA under the provisions of Part 21.17(b) for "Special Class Aircraft" along with a portion of Part 25 (fixed-wing aircraft) and 29 (helicopter) and new specific tiltrotor parts in a new category called "powered lift".
+In January 2013, the FAA defined US tiltrotor noise rules to comply with ICAO rules, expecting the AW609 to be available within 10 years.
+Noise certification will cost $588,000, which is the same as for a large helicopter.
+In February 2014, the AW609 was taken on its first customer demonstration flights, in both airplane and helicopter modes, and began certification flights.
+In early summer 2014, the AW609 performed FAA-monitored autorotation tests; more than 79 power-off conversions from airplane mode to helicopter mode were made across 10 flight hours; during these tests it was stated that the minimum autorotation altitude is , and that the system keeps rotor RPM above the minimum 70% for stable recovery.
+The test pilots subsequently received the Iven C. Kincheloe Award for their role in the tests.
+========,3,Further developments.
+At the Farnborough Air Show in July 2012, AgustaWestland announced that it was to offer a higher-weight variant of the AW609 (up to ); this model would trade some of its vertical takeoff performance for increased payload capacity.
+Officials from AgustaWestland have suggested that this short take off and vertical landing (STOVL) variant may be an attractive option for search and rescue and maritime operators.
+According to senior vice-president of marketing Roberto Garavaglia, the Italian government is interested in acquiring several AW609s for coastal patrol duties; due to an agreement with Bell, these may not feature armament.
+In June 2013, AgustaWestland announced that work to integrate design changes as part of a major modernization would delay the AW609's certification by up to one year.
+These design changes primarily involves aerodynamic improvements, aimed at achieving a 10% reduction in drag and a significant reduction in overall weight, boosting the AW609's performance and capabilities; in addition, separate improvement programs were underway on the aircraft's engines and avionics systems.
+In 2015, AgustaWestland announced the development of external fuel tanks which would permit flights carrying six passengers over three hours.
+In 2013, AgustaWestland was considering a US-based final assembly point for production AW609s; managing director Robert LaBelle stated that 35% of the customers for the tiltrotor are expected to come from the US market.
+Reportedly, the primary production line was to be located in Italy while a second production line in the US was under consideration.
+In 2015 AgustaWestland announced that the AW609 will be produced at its Philadelphia facility, the production site for the AW139, AW119 KXe and AW169.
+Two to three AW609 aircraft will be assembled there beginning in 2017, and once production matures, a second final assembly line is being considered for Italy.
+In 2015, Bristow Helicopters and AgustaWestland agreed to develop dedicated offshore oil and gas transport and search and rescue configurations for the AW609.
+Bristow Group signed a joint development agreement with AgustaWestland at Heli-Expo on 3 March 2015 which will allow Bristow to exclusively direct the direction of the tiltrotor for offshore missions such as oil and gas operations.
+The changes could extend beyond the AW609 to potentially affect the design of larger and more advanced models that AgustaWestland is planning to introduce in the early 2020s.
+The introduction of tiltrotors would allow for point-to-point operations, flying oil company personnel to platforms from major population centers with a greater margin of safety.
+Industry journalists viewed the agreement as an approval of the tiltrotor technology from the commercial industry, where previously only the military were interested.
+========,2,Design.
+The AW609 is a tiltrotor aircraft capable of performing vertical landings whereas conventional fixed-wing aircraft cannot, allowing the type to serve locations such as heliports or very small airports, while possessing twice the speed and the range of any available helicopter.
+AgustaWestland promotes the type as "...combining the benefits of a helicopter and a fixed-wing aircraft into one aircraft".
+The AW609 appears to be outwardly similar to the military-orientated V-22 Osprey; however, the two aircraft share few components.
+Unlike the V-22, the AW609 has a pressurised cabin.
+As of 2013, multiple cabin configurations have been projected, including a standard nine-passenger layout, a six-to-seven-passenger VIP/executive cabin, and a search and rescue model featuring a hoist/basket and four single seats; medevac and patrol/surveillance-orientated variants has also been proposed.
+For increased passenger comfort, the cabin is both pressurised and equipped with soundproofing.
+Access to the cabin is via a , two-piece clamshell door center-set into the fuselage underneath the wings.
+The AW609 is powered by a pair of Pratt & Whitney Canada PT6C-67A turboshaft engines, which each drive a three-bladed proprotor.
+These engines possess roughly twice the horsepower of the similarly sized AgustaWestland AW169 helicopter.
+Both of the engine and proprotor pairs are mounted on a load-bearing rotatable pylon at the wing's ends, allowing the proprotors to be positioned at various angles.
+In helicopter mode, the proprotors can be positioned between a 75- and 95-degree angle from the horizontal, with 87 degrees being the typical selection for hovering vertically.
+In airplane mode, the proprotors are rotated forward and locked in position at a zero-degree angle, spinning at 84% RPM.
+The flight control software reportedly handles much of the complexity of the transitioning between helicopter and airplane modes; automated systems also serve to guide pilots to the correct tilt angle and air speed settings.
+When flying in airplane mode, the majority of lift is produced by the AW609's wings, which are slightly forward-swept.
+Both the wing and the main fuselage are made largely of composite materials.
+The wings feature flaperon control surfaces which are normally automatically controlled; in vertical flight, the flaperons drop to a 66-degree downwards angle to reduce the wing area being encountered by downwash from the proprotors.
+A high-mounted rudderless vertical stabiliser is attached the rear of the fuselage to stabilise flight while in aircraft mode.
+In the event of a single engine failure, either engine can provide power to both proprotors via a drive shaft; the AW609 is also capable of autorotation.
+The AW609 has been designed to develop Full Transport Category/Class 1 performance to operate safely even when flown under single engine conditions.
+It is equipped with a de-icing system, and is to be certified for flying into known icing conditions.
+Building on experiences with the V-22, the AW609 is outfitted with a sink rate warning system.
+Avionics include a triple-redundant digital fly-by-wire flight control system, a head-up display system, and Full Authority Digital Engine Controls (FADEC).
+The cockpit has been designed so that the AW609 can be flown by a single pilot in instrument flight rules conditions.
+Several of the aircraft's controls, such as blade pitch, are designed to resemble and function like their counterparts on conventional rotorcraft, enabling helicopter pilots to transition to the type more easily.
+Elements of the aircraft's controls feature touchscreen interfaces.
+Shortly following AgustaWestland's full acquisition of the program, a substantial modernisation of the AW609's design was initiated in 2012; these changes included new engines and the redesigning of the cockpit.
+As part of the design refresh, new flight management systems, Northrop Grumman inertial and GPS navigation systems, and various other avionics from Rockwell Collins were adopted.
+========,2,Operational history.
+Bell/Agusta aimed the aircraft "at the government and military markets".
+Another key market for the AW609 has been the expansion of offshore oil and gas extraction operations, which requires aircraft capable of the traversing the increasing distances involved.
+In 2001, Bell estimated a market for 1,000 aircraft.
+Bell/Agusta stated in 2007 that they intend for the BA609 to compete with corporate business jets and helicopters, and that the BA609 would be of interest to any operator that has a mixed fleet of fixed wing and rotary wing aircraft.
+In 2004, Lt. Gen. Michael Hough, USMC deputy commandant for aviation, requested that Bell conduct studies into arming the BA609, potentially to act as an escort for V-22s.
+However, AgustaWestland's deal with Bell for taking over the BA609 program precludes the aircraft from carrying arms.
+In 2001, Terry Stinson, then chairman and CEO of Bell Helicopters, declared that costs will amount to "at least ".
+In 2004, Don Barbour, then executive marketing director, stated that "early orders were taken at a price of between $8 and $10 million... since 1999, orders have been at a price to be confirmed no later than 24 months before aircraft delivery.
+In 2012, industry reporters estimated that unit cost may come to $30 million, while in 2015 some believed the price to be around $24 million.
+Orders were 77 in 1999, and 70 in 2012, dependent on the final unit price.
+, there are 60 orders for the AW609.
+The company intends to have production facilities ready for completing orders right after FAA certification in 2017.
+Bristow Helicopters intends to order 10 or more.
+Michael Bloomberg, the U.S. billionaire businessman and politician, is "near the top" of the list of buyers who have put a deposit down on the AW609 tiltrotor aircraft.
+In February 2015, the Italian Army released a white paper documenting its vision of future procurement efforts, it included the intention to procure a force of tiltrotor aircraft for rapid troop-transport and medical evacuation duties; it has been speculated in the media that the AW609 is a likely candidate for the requirement.
+On 10 November 2015, United Arab Emirates selected a search and rescue variant of the AW609, ordering three with an option for three more.
+========,2,Notable accidents and incidents.
+On 30 October 2015, the second of the two prototypes (N609AG), which first flew in 2006, crashed near AgustaWestland's Vergiate facility in North West Italy, killing long-time test pilots Pietro Venanzi and Herb Moran.
+The aircraft broke up in midair after 27 minutes of flight, on a flight plan that included high speed testing.
+Investigators consider the most likely cause to be changes in flight control laws and tail changes.
+These lead to a "Dutch roll" instability while diving at where previously only had been achieved.
+The Italian authorities seized the third prototype in May 2016, and returned it for flight testing in July.
+The final report stated that during a high-speed dive with a left turn, "slight lateral-direction oscillations" started on roll-out and grew in amplitude and frequency.
+The pilot attempted to correct the roll with "counterphase input roll manoeuvres and then pedal inputs", but this did not dampen the oscillations.
+They instead became divergent, bringing the sideslip angle at 10.5°, well above the 4° maximum allowed, "inducing contact of the right proprotor with the right wing due to excessive flapping of the proprotor blades".
+This severed fuel and hydraulic lines in the wing leading edge, triggering a fire.

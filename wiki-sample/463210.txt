@@ -1,0 +1,255 @@
+========,1,preface.
+The Laws of Cricket is a code which specifies the rules of cricket worldwide.
+The code is owned and maintained by its custodian, the Marylebone Cricket Club (MCC) in London.
+There are currently 42 Laws (always written with a capital "L") which outline all aspects of how the game is played: e.g., how a team wins a game, how a batsman is dismissed, how the pitch is to be prepared and maintained, etc.
+The MCC is a private club which was formerly cricket's official governing body, a role now fulfilled by the International Cricket Council (ICC).
+MCC retains copyright in the Laws and only the MCC may change the Laws, although usually this is only done after close consultation with the ICC and other interested parties such as the Association of Cricket Umpires and Scorers.
+Cricket is one of the few sports in which the governing principles are referred to as "Laws" rather than as "rules" or "regulations".
+In certain cases, however, regulations to supplement and/or vary the Laws may be agreed for particular competitions as required.
+Those applying to international matches (referred to as "playing conditions") can be found on the ICC's website.
+========,2,History.
+========,3,Oral tradition.
+The origin of cricket is uncertain and it was first definitely recorded at Guildford in the 16th century.
+It is believed to have been a boys' game at that time but, from early in the 17th century, it was increasingly played by adults.
+Rules as such existed and, in early times, would have been agreed orally and subject to local variations.
+Cricket in the late 17th century became a betting game attracting high stakes and there were instances of teams being sued for non-payment of wagers they had lost.
+========,3,Articles of Agreement.
+In July and August 1727, two matches were organised by stakeholders Charles Lennox, 2nd Duke of Richmond and Alan Brodrick, 2nd Viscount Midleton.
+References to these games confirm that they drew up Articles of Agreement between them to determine the rules that must apply in their contests.
+The original handwritten articles document drawn up by Richmond and Brodrick has been preserved.
+It is among papers which the West Sussex Record Office (WSRO) acquired from Goodwood House in 1884.
+This is the first time that rules are known to have been formally agreed, their purpose being to resolve any problems between the patrons during their matches.
+The concept, however, was to attain greater importance in terms of defining rules of play as, eventually, these were codified as the "Laws of Cricket".
+The Articles are a list of 16 points, many of which are easily recognised despite their wording as belonging to the modern "Laws of Cricket", for example: (a) a Ball caught, the Striker is out; (b) when a Ball is caught out, the Stroke counts nothing; (c) catching out behind the Wicket allowed.
+Points that differ from the modern Laws (use of "italics" is to highlight the differences only): (a) the wickets shall be pitched at "twenty three yards" distance from each other; (b) that "twelve" Gamesters shall play on each side; (c) the Batt Men for every one they count are to "touch the Umpire's Stick"; (d) no Player shall be deemed out by any Wicket put down, "unless with the Ball in Hand".
+In modern cricket: (a) the pitch is 22 yards long; (b) the teams are eleven-a-side; (c) runs were only completed if the batsman touched the umpire's stick (which was probably a bat) and this practice was eventually replaced by the batsman having to touch the ground behind the popping crease; (d) run outs no longer require the ball to be in hand.
+========,3,1744 code.
+The earliest known code of Laws was enacted in 1744 but not actually printed, so far as it is known, until 1755.
+They were possibly an upgrade of an earlier code and the intention must have been to establish a universal codification.
+The Laws were drawn up by the "noblemen and gentlemen members of the London Cricket Club", which was based at the Artillery Ground, although the printed version in 1755 states that "several cricket clubs" were involved, having met at the "Star and Garter" in Pall Mall.
+A summary of the main points:
+***LIST***.
+The 1744 Laws do not say the bowler must roll (or skim) the ball and there is no mention of prescribed arm action so, in theory, a pitched delivery would have been legal, though potentially controversial.
+Underarm pitching is believed to have begun in the early 1760s when the Hambledon Club was rising to prominence.
+The modern straight bat was introduced as a consequence, replacing the old "hockey stick" bat which was good for hitting a ball on the ground but not for addressing a ball on the bounce.
+In 1771, an incident on the field of play led to the creation of a new Law which remains extant.
+In a match between Chertsey and Hambledon at Laleham Burway, the Chertsey all-rounder Thomas White used a bat that was the width of the wicket.
+There was no rule in place to prevent this action and so all the Hambledon players could do was register a formal protest which was signed by Thomas Brett, Richard Nyren and John Small, the three leading Hambledon players.
+As a result, it was decided by the game's lawmakers that the maximum width of the bat must be four and one quarter inches; this was included in the next revision of the Laws and it remains the maximum width today.
+========,3,1774 code.
+On Friday, 25 February 1774, the Laws were revised by a committee meeting at the "Star and Garter".
+Chaired by Sir William Draper, the members included prominent cricket patrons the 3rd Duke of Dorset, the 4th Earl of Tankerville and Sir Horatio Mann.
+The clubs and counties represented were Kent, Hampshire, Surrey, Sussex, Middlesex and London.
+A summary of the main points "vis-à-vis" the 1744 code:
+***LIST***.
+The main innovation was the introduction of leg before wicket (lbw) as a means of dismissal.
+The practice of stopping the ball with the leg had arisen as a negative response to the pitched delivery.
+As in 1744, there is nothing about the bowler's delivery action.
+The maximum width of the bat was confirmed following the incident in 1771.
+As in 1744, the 1774 code asserted that "the stumps must be twenty-two inches, the bail six inches long".
+There were only two stumps then, with a single bail.
+At the Artillery Ground on 22 & 23 May 1775, a lucrative single wicket match was played between Five of Kent (with Lumpy Stevens) and Five of Hambledon (with Thomas White).
+Kent batted first and made 37 to which Hambledon replied with 92, including 75 by John Small.
+In their second innings, Kent scored 102, leaving Hambledon a target of 48 to win.
+Small batted last of the Hambledon Five and needed 14 more to win when he went in.
+He duly scored the runs and Hambledon won by 1 wicket but a great controversy arose afterwards because, three times in the course of his second innings, Small was beaten by Lumpy only for the ball to pass through the two-stump wicket each time without hitting the stumps or the bail.
+As a result of Lumpy's protests, the middle stump was introduced, although it was some years before its use became universal.
+========,3,1788 code.
+MCC was founded in 1787 and immediately assumed responsibility for the Laws, issuing a new version on 30 May 1788 which was called "The LAWS of the NOBLE GAME of CRICKET as revised by the Club at St. Mary-le-bone".
+The third Law stated: "The stumps must be twenty-two inches out of the ground, the bail six inches in length".
+These were the overall dimensions and the requirement for a third stump was unspecified, indicating that its use was still not universal.
+The 1788 code is much more detailed and descriptive than the 1774 code but, fundamentally, they are largely the same.
+The main difference was in the wording of the lbw Law.
+In 1774, this said that the batsman is out if, "with design", he prevents the ball hitting the wicket with his leg.
+In 1788, the "with design" clause was omitted and a new clause was introduced that the ball must have pitched straight.
+Also in 1788, protection of the pitch was first included in the Laws.
+By mutual consent between the teams, the pitch could be rolled, watered, covered and mown during a match and the use of sawdust was authorised.
+Previously, pitches were left untouched during a match.
+========,2,The Laws today.
+As of the 2017 English cricket season, the current version of the Laws is the 6th Edition of the "2000 Code of Laws" which came into force on 1 October 2015.
+On 1 October 2017, a new code will take effect globally.
+Custodianship of the Laws remains one of MCC's most important roles.
+The ICC still relies on MCC to write and interpret the Laws, which are the responsibility of MCC's Laws sub-committee.
+The process in MCC is that the sub-committee prepares a draft which is passed by the main committee.
+Certain levels of cricket, however, are subject to playing conditions which can differ from the Laws.
+At international level, playing conditions are implemented by the ICC; at domestic level by each country's board of control.
+The code of Laws consists of: 
+***LIST***.
+========,3,Players and officials.
+The first four Laws cover the players, the umpires and the scorers.
+"Law 1: The players".
+A cricket team consists of eleven players, including a captain.
+Outside of official competitions, teams can agree to play more than eleven-a-side, though no more than eleven players may field.
+"Law 2: Substitutes".
+In cricket, a substitute may be brought on for an injured fielder.
+However, a substitute may not bat, bowl, keep wicket or act as captain.
+The original player may return if he has recovered.
+A batsman who becomes unable to run may have a runner, who completes the runs while the batsman continues batting.
+Alternatively, a batsman may retire hurt or ill, and may return later to resume his innings if he recovers.
+"Law 3: The umpires".
+There are two umpires, who apply the Laws, make all necessary decisions, and relay the decisions to the scorers.
+While not required under the Laws of cricket, in higher level cricket a third umpire (located off the ground and available to assist the on-field umpires) may be used under the specific playing conditions of a particular match or tournament.
+"Law 4: The scorers".
+There are two scorers who respond to the umpires' signals and keep the score.
+========,3,Equipment and laying out the pitch.
+After dealing with the players, the Laws move on to discuss equipment and pitch specifications, except for specifications about the wicket-keeper's gloves, which are dealt with in Law 40.
+These Laws are supplemented by Appendices A and B (see below).
+"Law 5: The ball".
+A cricket ball is between 8 13/16 and 9 inches (22.4 cm and 22.9 cm) in circumference, and weighs between 5.5 and 5.75 ounces (155.9g and 163g).
+Only one ball is used at a time, unless it is lost, when it is replaced with a ball of similar wear.
+It is also replaced at the start of each innings, and may, at the request of the fielding side, be replaced with a new ball, after a minimum number of overs have been bowled as prescribed by the regulations under which the match is taking place (currently 80 in Test matches).
+The gradual degradation of the ball through the innings is an important aspect of the game.
+"Law 6: The bat".
+The bat is no more than in length, and no more than wide.
+The hand or glove holding the bat is considered part of the bat.
+Ever since the ComBat incident, a highly publicised marketing attempt by Dennis Lillee, who brought out an aluminium bat during an international game, the Laws have provided that the blade of the bat must be made of wood.
+In practice, they are made from salix alba (white willow wood).
+"Law 7: The pitch".
+The pitch is a rectangular area of the ground long and wide.
+The Ground Authority selects and prepares the pitch, but once the game has started, the umpires control what happens to the pitch.
+The umpires are also the arbiters of whether the pitch is fit for play, and if they deem it unfit, with the consent of both captains can change the pitch.
+Professional cricket is almost always played on a grass surface.
+However, in the event a non-turf pitch is used, the artificial surface must have a minimum length of and a minimum width of .
+"Law 8: The wickets".
+The wicket consists of three wooden stumps that are tall.
+The stumps are placed along the batting crease with equal distances between each stump.
+They are positioned so that the wicket is wide.
+Two wooden bails are placed on top of the stumps.
+The bails must not project more than above the stumps, and must, for men's cricket, be long.
+There are also specified lengths for the barrel and spigots of the bail.
+There are different specifications for the wickets and bails for junior cricket.
+The umpires may dispense with the bails if conditions are unfit (i.e.
+it is windy so they might fall off by themselves).
+Further details on the specifications of the wickets are contained in Appendix A to the Laws.
+"Law 9: Bowling, popping, and return creases".
+This law sets out the dimensions and locations of the creases.
+The bowling crease, which is the line the stumps are in the middle of, is drawn at each end of the pitch so that the three stumps in the set of stumps at that end of the pitch fall on it (and consequently it is perpendicular to the imaginary line joining the centres of both middle stumps).
+Each bowling crease should be in length, centred on the middle stump at each end, and each bowling crease terminates at one of the return creases.
+The popping crease, which determines whether a batsman is in his ground or not, and which is used in determining front-foot no balls (see law 24), is drawn at each end of the pitch in front of each of the two sets of stumps.
+The popping crease must be in front of and parallel to the bowling crease.
+Although it is considered to have unlimited length, the popping crease must be marked to at least on either side of the imaginary line joining the centres of the middle stumps.
+The return creases, which are the lines a bowler must be within when making a delivery, are drawn on each side of each set of the stumps, along each sides of the pitch (so there are four return creases in all, one on either side of both sets of stumps).
+The return creases lie perpendicular to the popping crease and the bowling crease, either side of and parallel to the imaginary line joining the centres of the two middle stumps.
+Each return crease terminates at one end at the popping crease but the other end is considered to be unlimited in length and must be marked to a minimum of from the popping crease.
+"Law 10: Preparation and maintenance of the playing area".
+When a cricket ball is bowled it almost always bounces on the pitch, and the behaviour of the ball is greatly influenced by the condition of the pitch.
+As a consequence, detailed rules on the management of the pitch are necessary.
+This law contains the rules governing how pitches should be prepared, mown, rolled, and maintained.
+"Law 11: Covering the pitch".
+The pitch is said to be 'covered' when the groundsmen have placed covers on it to protect it against rain or dew.
+The Laws stipulate that the regulations on covering the pitch shall be agreed by both captains in advance.
+The decision concerning whether to cover the pitch greatly affects how the ball will react to the pitch surface, as a ball bounces differently on wet ground as compared to dry ground.
+The area beyond the pitch where a bowler runs so as to deliver the ball (the 'run-up') should ideally be kept dry so as to avoid injury through slipping and falling, and the Laws also require these to be covered wherever possible when there is wet weather.
+========,3,Structure of the game.
+Laws 12 to 17 outline the structure of the game.
+"Law 12: Innings".
+Before the game, the teams agree whether it is to be over one or two innings, and whether either or both innings are to be limited by time or by overs.
+In practice, these decisions are likely to be laid down by Competition Regulations, rather than pre-game agreement.
+In two-innings games, the sides bat alternately unless the follow-on (law 13) is enforced.
+An innings is closed once all batsmen are dismissed, no further batsmen are fit to play, the innings is declared or forfeited by the batting captain, or any agreed time or over limit is reached.
+The captain winning the toss of a coin decides whether to bat or to bowl first.
+"Law 13: The follow-on".
+In a two innings match, if the side batting second scores substantially fewer runs than the side which batted first, then the side that batted first can require their opponents to bat again immediately.
+The side that enforced the follow-on has the chance to win without batting again.
+For a game of five or more days, the side batting first must be at least 200 runs ahead to enforce the follow-on; for a three- or four-day game, 150 runs; for a two-day game, 100 runs; for a one-day game, 75 runs.
+The length of the game is determined by the number of scheduled days play left when the game actually begins.
+"Law 14: Declaration and forfeiture".
+The batting captain can declare an innings closed at any time when the ball is dead.
+He may also forfeit his innings before it has started.
+"Law 15: Intervals".
+There are intervals between each day's play, a ten-minute interval between innings, and lunch, tea and drinks intervals.
+The timing and length of the intervals must be agreed before the match begins.
+There are also provisions for moving the intervals and interval lengths in certain situations, most notably the provision that if nine wickets are down, the tea interval is delayed to the earlier of the fall of the next wicket and 30 minutes elapsing.
+"Law 16: Start of play; cessation of play".
+Play after an interval commences with the umpire's call of "Play", and at the end of a session by "Time".
+The last hour of a match must contain at least 20 overs, being extended in time so as to include 20 overs if necessary.
+"Law 17: Practice on the field".
+There may be no batting or bowling practice on the pitch except before the day's play starts and after the day's play has ended.
+Bowlers may only have trial run-ups if the umpires are of the view that it would waste no time.
+========,3,Scoring and winning.
+The Laws then move on to discuss how runs can be scored and how one team can beat the other.
+"Law 18: Scoring runs".
+Runs are scored when the two batsmen run to each other's end of the pitch.
+Several runs can be scored from one ball.
+"Law 19: Boundaries".
+A boundary is marked round the edge of the field of play.
+If the ball is hit into or past this boundary, four runs are scored, or six runs if the ball didn't hit the ground before crossing the boundary.
+"Law 20: Lost ball".
+If a ball in play is lost or cannot be recovered, the fielding side can call "lost ball".
+The batting side keeps any penalty runs (such as no-balls and wides) and scores the higher of six runs and the number of runs actually run.
+"Law 21: The result".
+The side which scores the most runs wins the match.
+If both sides score the same number of runs, the match is tied.
+However, the match may run out of time before the innings have all been completed.
+In this case, the match is drawn.
+"Law 22: The over".
+An over consists of six balls bowled, excluding wides and no balls.
+Consecutive overs are delivered from opposite ends of the pitch.
+A bowler may not bowl two consecutive overs.
+"Law 23: Dead ball".
+The ball comes into play when the bowler begins his run up, and becomes dead when all the action from that ball is over.
+Once the ball is dead, no runs can be scored and no batsmen can be dismissed.
+The ball becomes dead for a number of reasons, most commonly when a batsman is dismissed, when a boundary is hit, or when the ball has finally settled with the bowler or wicketkeeper.
+"Law 24: No ball".
+A ball can be a no ball for several reasons: if the bowler bowls from the wrong place; or if he straightens his elbow during the delivery; or if the bowling is dangerous; or if the ball bounces more than twice or rolls along the ground before reaching the batsman; or if the fielders are standing in illegal places.
+A no ball adds one run to the batting team's score, in addition to any other runs which are scored off it, and the batsman can't be dismissed off a no ball except by being run out, or by handling the ball, hitting the ball twice, or obstructing the field.
+"Law 25: Wide ball".
+An umpire calls a ball "wide" if, in his or her opinion, the batsman did not have a reasonable opportunity to score off the ball.
+A wide adds one run to the batting team's score, in addition to any other runs which are scored off it, and the batsman can't be dismissed off a wide except by being run out or stumped, or by handling the ball, hitting his wicket, or obstructing the field.
+"Law 26: Bye and leg bye".
+If a ball that is not a no ball or wide passes the striker and runs are scored, they are called byes.
+If a ball that is not a no ball hits the striker but not the bat and runs are scored, they are called leg-byes.
+However, leg-byes cannot be scored if the striker is neither attempting a stroke nor trying to avoid being hit.
+Byes and leg-byes are credited to the team's but not the batsman's total.
+========,3,Mechanics of dismissal.
+Laws 27 to 29 discuss the main mechanics of how a batsman may be dismissed.
+"Law 27: Appeals".
+If the fielders believe a batsman is out, they may ask the umpire "How's That?
+", commonly shouted emphatically with arms raised, before the next ball is bowled.
+The umpire then decides whether the batsman is out.
+Strictly speaking, the fielding side must appeal for all dismissals, including obvious ones such as bowled.
+However, a batsman who is obviously out will normally leave the pitch without waiting for an appeal or a decision from the umpire.
+"Law 28: The wicket is down".
+Several methods of being out occur when the wicket is put down.
+This means that the wicket is hit by the ball, or the batsman, or the hand in which a fielder is holding the ball, and at least one bail is removed, but if both bails have already been previously removed, one stump must be removed from the ground.
+"Law 29: Batsman out of his ground".
+The batsmen can be run out or stumped if they are out of their ground.
+A batsman is in his ground if any part of him or his bat is on the ground behind the popping crease.
+If both batsman are in the middle of the pitch when a wicket is put down, the batsman closer to that end is out.
+========,3,Ways to get out.
+Laws 30 to 39 discuss the various ways a batsman may be dismissed.
+In addition to these 10 methods, a batsman may retire out.
+That provision is in Law 2.
+Of these, caught is generally the most common, followed by bowled, leg before wicket, run out and stumped.
+The other forms of dismissal are very rare.
+"Law 30: Bowled".
+A batsman is out if his wicket is put down by a ball delivered by the bowler.
+It is irrelevant whether the ball has touched the bat, glove, or any part of the batsman before going on to put down the wicket, though it may not touch another player or an umpire before doing so.
+"Law 31: Timed out".
+An incoming batsman must be ready to face a ball (or be at the crease with his partner ready to face a ball) within 3 minutes of the outgoing batsman being dismissed, otherwise the incoming batsman will be out.
+"Law 32: Caught".
+If a ball hits the bat or the hand holding the bat and is then caught by the opposition within the field of play before the ball bounces, then the batsman is out.
+"Law 33: Handled the ball".
+If a batsman wilfully handles the ball with a hand that is not touching the bat without the consent of the opposition, he is out.
+"Law 34: Hit the ball twice".
+If a batsman hits the ball twice, other than for the sole purpose of protecting his wicket or with the consent of the opposition, he is out.
+"Law 35: Hit wicket".
+If, after the bowler has entered his delivery stride and while the ball is in play, a batsman puts his wicket down by his bat or his body he is out.
+The striker is also out hit wicket if he puts his wicket down by his bat or his body in setting off for a first run.
+"Body" includes the clothes and equipment of the batsman.
+"Law 36: Leg before wicket (LBW)".
+If the ball hits the batsman without first hitting the bat, but would have hit the wicket if the batsman was not there, and the ball does not pitch on the leg side of the wicket, the batsman will be out.
+However, if the ball strikes the batsman outside the line of the off-stump, and the batsman was attempting to play a stroke, he is not out.
+"Law 37: Obstructing the field".
+If a batsman wilfully obstructs the opposition by word or action, he is out.
+"Law 38: Run out".
+A batsman is out if at any time while the ball is in play no part of his bat or person is grounded behind the popping crease and his wicket is fairly put down by the opposing side.
+"Law 39: Stumped".
+A batsman is out when the wicket-keeper (see Law 40) puts down the wicket, while the batsman is out of his crease and not attempting a run.
+========,3,Fielders.
+"Law 40: The wicket-keeper".
+The keeper is a designated man from the bowling side allowed to stand behind the stumps of the batsman.
+He is the only player from his side allowed to wear gloves and external leg guards.
+"Law 41: The fielder".
+A fielder is any of the eleven cricketers from the bowling side.
+Fielders are positioned to field the ball, to stop runs and boundaries, and to get batsmen out by catching or running them out.

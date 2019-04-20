@@ -1,0 +1,37 @@
+========,1,preface.
+The classical unities, Aristotelian unities, or three unities are rules for drama derived from a passage in Aristotle's "Poetics".
+In their neoclassical form they are as follows:
+***LIST***.
+========,2,Aristotle's unities.
+Aristotle dealt with the unity of action in some detail, under the general subject of "definition of tragedy", where he wrote:
+Now, according to our definition, Tragedy is an imitation of an action that is complete, and whole, and of a certain magnitude … As therefore, in the other imitative arts, the imitation is one when the object imitated is one, so the plot, being an imitation of an action, must imitate one action and that a whole, the structural union of the parts being such that, if any one of them is displaced or removed, the whole will be disjointed and disturbed.
+For a thing whose presence or absence makes no visible difference, is not an organic part of the whole.
+His only reference to the time in the fictive world is in a distinction between the epic and tragic forms:
+Epic poetry agrees with Tragedy in so far as it is an imitation in verse of characters of a higher type.
+They differ, in that Epic poetry admits but one kind of metre, and is narrative in form.
+They differ, again, in their length: for Tragedy endeavours, as far as possible, to confine itself to a single revolution of the sun, or but slightly to exceed this limit; whereas the Epic action has no limits of time.
+Unlike his prescriptive attitude regarding the plot (unity of action), Aristotle here merely remarks on the typical duration of a tragedy's action, and does not suggest any kind of imperative that it always ought to be so.
+He was writing after the golden age of Greek drama, and many Greek playwrights wrote plays that do not fit within these conventions.
+Aristotle does not actually mention the neoclassical unity of place at all.
+However, the prevalent interpretation of his "Poetics" during the Middle Ages inclined toward interpreting his comment on time as another "unity".
+========,2,European literature.
+Italian critics of the 16th century, from Lodovico Castelvetro onwards, and then 17th-century French critics, proponents of the neoclassical movement, both expanded Aristotle's descriptions.
+The result was to make them into prescriptions for structuring plays.
+French drama of the 17th century, particularly that of Molière and Racine was highly regular, while Corneille incurred harsh criticism for departing from them in "Le Cid"; whereas the English dramatists writing for the Elizabethan and Jacobean stage were largely unaware of these structures.
+By the later 17th century, however, English dramatists (under the influence of French criticism picked up by those in exile during the English Interregnum) did begin to assess their own plays according to these rules.
+Thus, John Dryden, among many others, compares the "irregular" Shakespeare (only two of Shakespeare's plays conform to the unities – "The Comedy of Errors" and "The Tempest") with the "regular" Dryden in his "Essay of Dramatick Poesie" (1668), and makes use of the unity of time in this passage criticizing Shakespeare's history plays:
+... if you consider the Historical Playes of Shakespeare, they are rather so many Chronicles of Kings, or the business many times of thirty or forty years, crampt into a representation of two hours and a half, which is not to imitate or paint Nature, but rather to draw her in miniature, to take her in little; to look upon her through the wrong end of a Perspective, and receive her Images not onely much less, but infinitely more imperfect then the life: this instead of making a Play delightful, renders it ridiculous.
+However, Dryden declared Shakespeare "incomparable" because of his disregard for convention:
+... in most of the irregular Playes of Shakespeare or Fletcher (for Ben Johnson's are for the most part regular) there is a more masculine fancy and greater spirit in all the writing, then[sic] there is in any of the French.
+Alexander Pope criticizes the violation of the unities in his "Dunciad".
+In the 1728 version of the poem, the goddess Dulness notes that "Time himself stands still at her command,/ Realms shift their place, and Ocean turns to land" ("Dunciad" 1728, i, 69–70).
+Additionally, he notes a violation of unity of action, as tragedy and comedy were mixed.
+Samuel Johnson, too, applied the unities to drama in his "Prefaces to Shakespeare".
+He was well aware that Aristotle had only recommended the unity of action, and knew that rules must serve drama, not vice versa:
+Whether Shakespeare knew the unities, and rejected them by design, or deviated from them by happy ignorance, it is, I think, impossible to decide, and useless to inquire.
+We may reasonably suppose, that, when he rose to notice, he did not want the counsels and admonitions of scholars and critics, and that he at last deliberately persisted in a practice, which he might have begun by chance.
+As nothing is essential to the fable, but unity of action, and as the unities of time and place arise evidently from false assumptions, and, by circumscribing the extent of the drama, lessen its variety, I cannot think it much to be lamented, that they were not known by him, or not observed: Nor, if such another poet could arise, should I very vehemently reproach him, that his first act passed at Venice, and his next in Cyprus.
+Such violations of rules merely positive, become the comprehensive genius of Shakespeare…
+The classical unities were influential in dramatic criticism until Victor Hugo's "Hernani" (1830); one of the things that made that play controversial at its debut was its violation of these rules of classicism.
+In the Spanish theatrical tradition, there is Lope de Vega's "Arte nuevo de hacer comedias" of 1609, which is a defense of the new form for writing and representation of Golden Age Spanish theatre.
+Lope's "Arte nuevo", is a 389 verse poem which explicitly defends his and other dramaturges, distancing from Aristotelian unities of theatre.

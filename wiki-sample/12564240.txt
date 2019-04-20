@@ -1,0 +1,33 @@
+========,1,preface.
+Glomerida is an order of pill-millipedes found primarily in the Northern Hemisphere.
+They superficially resemble pill-bugs or woodlice, and can enroll into a protective ball.
+They have twelve body segments, 17 to 19 pairs of legs, and males have enlarged rear legs involved in mating.
+The order includes about 30 genera and at least 280 species, including "Glomeris marginata", the common European pill-millipede.
+The order contains members in Europe, South-east Asia and the Americas from California to Guatemala.
+Although historically considered closely related with the similar sphaerotheriidans that also enroll, some DNA evidence suggest they may be more closely related to glomeridesmidans, a poorly known order that does not enroll.
+========,2,Description.
+Glomeridans are small, oval-shaped millipedes reaching up to long.
+Like the Sphaerotheriida (so-called Giant Pill-millipedes), they are capable of enrolling into a ball ("volvation"), a trait also shared with the unrelated pillbugs (Oniscidean crustaceans).
+They possess 12 body segments, although the second and third dorsal plates (tergites) may be fused, and the 11th tergite may be small or partially hidden to appear as 11 segments.
+The last tergite is enlarged and shield like.
+The head is relatively large and round, possessing long, slender antennae, and horseshoe-shaped Tömösváry organs.
+Eyes may be present or absent.
+The collum (first segment behind the head) is small while the second tergite is greatly enlarged.
+Defensive glands (ozopores) are situated dorsally, in contrast to the lateral ozopores of most other millipedes.
+Males and females differ in the number of leg pairs: males have 17 while females have 19.
+Additionally, in mature males the last leg pair is modified into clasping appendages known as telopods.
+========,2,Distribution.
+Glomerida is predominantly a northern hemisphere group.
+It contains members in Europe, North Africa, Central and Southeast Asia, and the Americas.
+Four species are present in the British Isles.
+Only in Southeast Asia do any members cross the equator, extending as far south as Indonesia.
+In the western hemisphere, Glomeridans occur in three disparate areas: an eastern, somewhat Appalachian region from Kentucky to northern Florida and Mississippi; a California region from the San Francisco Bay to the Monterey Bay, and a neotropical region from eastern Mexico (Nuevo León) to central Guatemala.
+========,2,Classification.
+Glomerida contains approximately 30 genera, but the relationship of these to each other is debated.
+Some authors divide the order into three families, the large family Glomeridae, Glomeridellidae, and Trachysphaeridae, while others classify the order into a more elaborate system of subfamilies and tribes and reognize the families Glomeridellidae, and Glomeridae and Protoglomeridae.
+Estimates of numbers of species range from 280 to 450.
+The genus "Glomeris" is the largest, containing at least 100 species and many more subspecies or varieties.
+Glomerida is traditionally classified along with Sphaerotheriida in the superorder Oniscomorpha, which contains short-bodied millipedes capable of volvation.
+Oniscomorphs are united with the poorly known Glomeridesmida in the infraclass Pentazonia, which is characterized by posterior telopods and relatively short bodies, and is the sister group to the Helminthomorpha, or "worm-like" millipedes.
+This classification is supported by morphological similarities.
+However, some studies based on DNA sequence comparisons have suggested that Glomerida is more closely related to Glomeridesmida than to Sphaerotheriida, a hypothesis which would imply the enrolling behavior evolved twice or was lost in the ancestors of Glomeridesmidans.

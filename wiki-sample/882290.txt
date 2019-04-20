@@ -1,0 +1,63 @@
+========,1,preface.
+Kaplan, Inc. is a for-profit corporation headquartered in Fort Lauderdale, Florida and founded in 1938 by Stanley Kaplan.
+Kaplan provides higher education programs, professional training courses, test preparation materials and other services for various levels of education.
+It is a wholly owned subsidiary of Graham Holdings Company, formerly known as The Washington Post Company.
+========,2,Company.
+Kaplan is a for-profit subsidiary of Graham Holdings Company.
+Its Chairman and CEO is Andrew Rosen.
+Its 2015 revenue was $1.9 billion.
+Stanley H. Kaplan, the founder of the company, died of a heart ailment on August 23, 2009 when he was 90 years of age.
+========,3,Divisions.
+========,4,Kaplan Higher and Professional Education.
+Kaplan Higher and Professional Education is a group of institutions that offer classroom and online certificate and degree programs in fields such as criminal justice, health care, business, information technology and legal studies.
+Iowa College Acquisition Corporation, operating under the Kaplan University brand, also offers online programs.
+Kaplan University specializes in online education, is accredited by the Higher Learning Commission of the North Central Association of Colleges and Schools and holds other programmatic accreditations.
+Most of Kaplan University’s programs are offered online, while some are offered in a traditional classroom format at 11 campuses in Iowa, Maine, Maryland and Nebraska, and four Kaplan University Learning Centers in four states.
+At year-end 2013, Kaplan University had approximately 33,000 students enrolled in online programs and approximately 6,800 students enrolled in its classroom-based programs.
+Due to student loan default rates, the U.S. Department of Education has criticized for-profit institutions, with the Secretary of Education asserting that "too many for-profit schools are saddling students with debt they cannot afford in exchange for degrees and certificates they cannot use."
+For fiscal year 2009, Kaplan's students were more likely to default on their loans than their community college counterparts, with 17.3 percent of Kaplan University students overall not repaying loans on time.
+In response, Kaplan Higher Education has set up the "Kaplan Commitment" program, which allows prospective students to attend the first few sessions of a course free, to decide if it meets their needs and abilities, before taking on a financial obligation.
+The policy, however, is too new to reveal an impact on graduation and retention rates.
+In October 2012, Kaplan closed nine of its campuses and consolidated four others into nearby locations.
+Although the company did not give a reason for shuttering these locations, an August 2012 filing with the Securities and Exchange Commission disclosed that an accrediting commission had warned that its campuses in Baltimore, Indianapolis and Dayton could lose their accreditation for failure to meet student achievement requirements.
+Loss of accreditation meant that Kaplan students would no longer be eligible for the federal student aid that makes up more than 80 percent of Kaplan’s revenues.
+This occurred among growing negative publicity about for-profits schools who enrolled students who had almost no chance of succeeding in order to get their federal student aid.
+Kaplan and the University of Phoenix announced new programs, offering some form of free trial to ensure that they enrolled only students who had a reasonable likelihood of success, which cut substantially into their enrollment numbers.
+Kaplan University also includes the fully online Concord Law School, which is not recognized by the American Bar Association (which does not accredit online institutions), and graduates of the programs are eligible to take the California Bar Exam, given that it is the only state in which online law schools can officially register.
+Also residing within Kaplan University is the School of Professional and Continuing Education (PACE).
+PACE assists professionals in advancing their careers by obtaining professional licenses, designations, and certifications, including the insurance, securities, mortgage and appraisal licensing exams, and for advanced designations, such as CFA® and CPA exams.
+PACE serves more than 3,200 business-to-business clients.
+In 2013, approximately 500,000 students used PACE’s exam preparation offerings.
+========,4,Kaplan International.
+Kaplan International operates businesses in Europe and the Asia Pacific region.
+A research report commissioned by NAFSA: Association of International Educators identified Kaplan Global Pathways as one of the eight third-party providers offerings intensive English preparation programs with academic credit for international students in the United States.
+In Europe, Kaplan International operates the following businesses, all of which are based in the U.K. and Ireland: Kaplan UK, Kaplan International Colleges (KIC), and a set of higher education institutions.
+***LIST***.
+In the Asia Pacific region, Kaplan operates businesses primarily in Singapore, Australia, New Zealand, Hong Kong and China:
+***LIST***.
+========,4,Kaplan Test Prep.
+Established in 1938, Kaplan Test Prep sells preparation materials for standardized tests through tutoring, on-site classes, asynchronous and live programs, print books, and digital products.
+With programs for individuals, schools, and businesses, Kaplan Test Prep offers preparation for more than 90 standardized tests.
+These include admissions tests for secondary school, college, and graduate school, such as the SAT, ACT, Law School Admission Test (LSAT), Graduate Management Admission Test (GMAT), Graduate Record Examination (GRE), Dental Admission Test (DAT), Medical College Admission Test (MCAT), Optometry Admission Test (OAT), Pharmacy College Admission Test (PCAT) and others.
+Kaplan also provides preparation for professional licensing exams include state-specific and Multi-State Bar Review for attorneys, USMLE and COMLEX prep for physicians, and NCLEX prep for nurses.
+Kaplan Test Prep also licenses material for some of its courses to third parties and a Kaplan affiliate, which, during 2015, offered courses at over 31 locations in 50 countries outside the U.S. During 2015, KTP enrolled approximately 360,000 students in its courses, including more than 155,000 enrolled in online programs.
+========,4,Schweser.
+Schweser provides review materials for certification programs in finance, including the Chartered Financial Analyst (CFA), Financial Risk Manager (FRM) and Chartered Alternative Investment Analyst (CAIA) examinations.
+Through the Schweser Institute, Schweser also offers certification programs of its own.
+========,2,History.
+Kaplan was founded in 1938 by Stanley H. Kaplan, who started the business by tutoring students for the New York State Regents Exam in the basement of his parents' Brooklyn home.
+He eventually opened locations around the country.
+In 1984, Kaplan sold the company to The Washington Post Company, which centralized control.
+The company grew significantly in the 1990s by expanding its business and purchasing other test preparation and educational companies.
+The company's leader during this expansion period was Jonathan Grayer.
+========,3,Acquisitions.
+Major acquisitions since 1995 include:
+***LIST***.
+In 2013 and 2014, Kaplan partnered with TechStars to create the Kaplan EdTech Accelerator, which hosted, mentored, and funded startup companies focused on education technology and product innovation for a three-month program in New York City.
+The 22 startups that participated raised more than $15 million.
+========,2,Lawsuit.
+In 2007 Kaplan agreed to settle a class-action lawsuit that had been brought against Kaplan and BarBri, a company offering a widely used bar exam preparation course.
+Among the allegations in the suit, which charged that BarBri had overcharged students, was an allegation of federal antitrust violation claiming that Kaplan had agreed not to compete in the bar review business while BarBri agreed it would not compete in the LSAT business.
+Both West Publishing Company (parent of BarBri) and Kaplan denied the allegations and the matter was resolved without any findings of wrongdoing, with BarBri and Kaplan paying $30 million to the class claimants.
+In 2015, Kaplan settled with the United States Department of Justice regarding allegations that it hired instructors who were not qualified.
+289 former students of Kaplan will receive tuition refunds as part of the settlement, in which Kaplan admitted no liability.

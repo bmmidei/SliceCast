@@ -1,0 +1,21 @@
+========,1,preface.
+Model-driven engineering (MDE) is a software development methodology that focuses on creating and exploiting domain models, which are conceptual models of all the topics related to a specific problem.
+Hence, it highlights and aims at abstract representations of the knowledge and activities that govern a particular application domain, rather than the computing (f.e.
+algorithmic) concepts.
+========,2,Overview.
+The MDE approach is meant to increase productivity by maximizing compatibility between systems (via reuse of standardized models), simplifying the process of design (via models of recurring design patterns in the application domain), and promoting communication between individuals and teams working on the system (via a standardization of the terminology and the best practices used in the application domain).
+A modeling paradigm for MDE is considered effective if its models make sense from the point of view of a user that is familiar with the domain, and if they can serve as a basis for implementing systems.
+The models are developed through extensive communication among product managers, designers, developers and users of the application domain.
+As the models approach completion, they enable the development of software and systems.
+Some of the better known MDE initiatives are:
+***LIST***.
+========,2,History.
+The first tools to support MDE were the Computer-Aided Software Engineering (CASE) tools developed in the 1980s.
+Companies like Integrated Development Environments (IDE - StP), Higher Order Software (now Hamilton Technologies, Inc., HTI), Cadre Technologies, Bachman Information Systems, and Logic Works (BP-Win and ER-Win) were pioneers in the field.
+The US government got involved in the modeling definitions creating the IDEF specifications.
+With several variations of the modeling definitions (see Booch, Rumbaugh, Jacobson, Gane and Sarson, Harel, Shlaer and Mellor, and others) they were eventually joined creating the Unified Modeling Language (UML).
+Rational Rose, a product for UML implementation, was done by Rational Corporation (Booch) responding automation yield higher levels of abstraction in software development.
+This abstraction promotes simpler models with a greater focus on problem space.
+Combined with executable semantics this elevates the total level of automation possible.
+The Object Management Group (OMG) has developed a set of standards called model-driven architecture (MDA), building a foundation for this advanced architecture-focused approach.
+According to Douglas C. Schmidt, model-driven engineering technologies offer a promising approach to address the inability of third-generation languages to alleviate the complexity of platforms and express domain concepts effectively.

@@ -1,0 +1,29 @@
+========,1,preface.
+A service level objective (SLO) is a key element of a service level agreement (SLA) between a service provider and a customer.
+SLOs are agreed upon as a means of measuring the performance of the Service Provider and are outlined as a way of avoiding disputes between the two parties based on misunderstanding.
+========,2,Overview.
+There is often confusion in the use of SLAs and SLOs.
+The SLA is the entire agreement that specifies what service is to be provided, how it is supported, times, locations, costs, performance, and responsibilities of the parties involved.
+SLOs are specific measurable characteristics of the SLA such as availability, throughput, frequency, response time, or quality.
+These SLOs together are meant to define the expected service between the provider and the customer and vary depending on the service's urgency, resources, and budget.
+SLOs provide a quantitative means to define the level of service a customer can expect from a provider.
+The SLO may be composed of one or more quality of service (QoS) measurements (service level indicators, SLIs) that are combined to produce the SLO achievement value.
+As an example, an availability SLO may depend on multiple components, each of which may have a QoS availability measurement.
+The combination of QoS measures into an SLO achievement value will depend on the nature and architecture of the service.
+========,2,Examples.
+Strum and Morris argue that SLOs must be:
+***LIST***.
+While Andrieux et.
+define the SLO as "the quality of service aspect of the agreement.
+Syntactically, it is an assertion over the terms of the agreement as well as such qualities as date and time".
+Keller and Ludwig more concisely define an SLO as "commitment to maintain a particular state of the service in a given period" with respect to the state of the SLA parameters.
+Keller and Ludwig go on to state that while service providers will most often be the lead entity in taking on SLOs there is no firm definition as such and any entity can be responsible for an SLO.
+Along with this an SLO can be broken down into a number of different components.
+***LIST***.
+Optionally an EvaluationEvent maybe assigned to the SLO, an EvaluationEvent is defined as the measure by which the SLO will be checked to see if it's meeting the Expression.
+SLOs should generally be specified in terms of an achievement value or service level, a target measurement, a measurement period, and where and how they are measured.
+As an example, "90% of calls to the helpdesk should be answered in less than 20 seconds measured over a one-month period as reported by the ACD system".
+Results can be reported as a percent of time that the target answer time was achieved and then compared to the desired service level (90%).
+========,2,Term Usage.
+The use of the term "SLO" is deprecated in ITIL V3 to Service Level Target, not to be confused with Service Level Requirement defined in the service design.
+However the SLO term is found in various scientific papers, for instance in the reference architecture of the SLA@SOI project, and it is used in the Open Grid Forum document on WS-Agreement.

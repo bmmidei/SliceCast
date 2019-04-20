@@ -1,0 +1,182 @@
+========,1,preface.
+Nuclear magnetic resonance spectroscopy, most commonly known as NMR spectroscopy, is a research technique that exploits the magnetic properties of certain atomic nuclei.
+This type of spectroscopy determines the physical and chemical properties of atoms or the molecules in which they are contained.
+It relies on the phenomenon of nuclear magnetic resonance and can provide detailed information about the structure, dynamics, reaction state, and chemical environment of molecules.
+The intramolecular magnetic field around an atom in a molecule changes the resonance frequency, thus giving access to details of the electronic structure of a molecule and its individual functional groups.
+Most frequently, NMR spectroscopy is used by chemists and biochemists to investigate the properties of organic molecules, although it is applicable to any kind of sample that contains nuclei possessing spin.
+Suitable samples range from small compounds analyzed with 1-dimensional proton or carbon-13 NMR spectroscopy to large proteins or nucleic acids using 3 or 4-dimensional techniques.
+The impact of NMR spectroscopy on the sciences has been substantial because of the range of information and the diversity of samples, including solutions and solids.
+NMR spectra are unique, well-resolved, analytically tractable and often highly predictable for small molecules.
+Thus, in organic chemistry practice, NMR analysis is used to confirm the identity of a substance.
+Different functional groups are obviously distinguishable, and identical functional groups with differing neighboring substituents still give distinguishable signals.
+NMR has largely replaced traditional wet chemistry tests such as color reagents or typical chromatography for identification.
+A disadvantage is that a relatively large amount, 2–50 mg, of a purified substance is required, although it may be recovered through a workup.
+Preferably, the sample should be dissolved in a solvent, because NMR analysis of solids requires a dedicated MAS machine and may not give equally well-resolved spectra.
+The timescale of NMR is relatively long, and thus it is not suitable for observing fast phenomena, producing only an averaged spectrum.
+Although large amounts of impurities do show on an NMR spectrum, better methods exist for detecting impurities, as NMR is inherently not very sensitive - though at higher frequencies, sensitivity narrows.
+NMR spectrometers are relatively expensive; universities usually have them, but they are less common in private companies.
+Modern NMR spectrometers have a very strong, large and expensive liquid helium-cooled superconducting magnet, because resolution directly depends on magnetic field strength.
+Less expensive machines using permanent magnets and lower resolution are also available, which still give sufficient performance for certain application such as reaction monitoring and quick checking of samples.
+There are even benchtop nuclear magnetic resonance spectrometers.
+NMR can be observed in magnetic fields less then a millitesla.
+"Low"-resolution NMR produces broader peaks which can easily overlap one another causing issues in resolving complex structures.
+The use of higher strength magnetic fields result in clear resolution of the peaks and is the standard in industry.
+========,2,History.
+The Purcell group at Harvard University and the Bloch group at Stanford University independently developed NMR spectroscopy in the late 1940s and early 1950s.
+Edward Mills Purcell and Felix Bloch shared the 1952 Nobel Prize in Physics for their discoveries.
+========,2,Basic NMR techniques.
+========,3,Resonant frequency.
+When placed in a magnetic field, NMR active nuclei (such as H or C) absorb electromagnetic radiation at a frequency characteristic of the isotope.
+The resonant frequency, energy of the absorption, and the intensity of the signal are proportional to the strength of the magnetic field.
+For example, in a 21 Tesla magnetic field, protons resonate at 900 MHz.
+It is common to refer to a 21 T magnet as a 900 MHz magnet, although different nuclei resonate at a different frequency at this field strength in proportion to their nuclear magnetic moments.
+========,3,Sample handling.
+An NMR spectrometer typically consists of a spinning sample-holder inside a very strong magnet, a radio-frequency emitter and a receiver with a probe (an antenna assembly) that goes inside the magnet to surround the sample, optionally gradient coils for diffusion measurements and electronics to control the system.
+Spinning the sample is necessary to average out diffusional motion.
+Whereas, measurements of diffusion constants ("diffusion ordered spectroscopy" or DOSY) are done the sample stationary and spinning off, and flow cells can be used for online analysis of process flows.
+========,3,Deuterated solvents.
+The vast majority of nuclei in a solution would belong to the solvent, and most regular solvents are hydrocarbons and would contain NMR-reactive protons.
+Thus, deuterium (hydrogen-2) is substituted (99+%).
+The most used deuterated solvent is deuterochloroform (CDCl), although deuterium oxide (DO) and deuterated DMSO (DMSO-d) are used for hydrophilic analytes and deuterated benzene is also common.
+The chemical shifts are slightly different in different solvents, depending on electronic solvation effects.
+NMR spectra are often calibrated against the known solvent residual proton peak instead of added tetramethylsilane.
+========,3,Shim and lock.
+To detect the very small frequency shifts due to nuclear magnetic resonance, the applied magnetic field must be constant throughout the sample volume.
+High resolution NMR spectrometers use shims to adjust the homogeneity of the magnetic field to parts per billion (ppb) in a volume of a few cubic centimeters.
+In order to detect and compensate for inhomogeneity and drift in the magnetic field, the spectrometer maintains a "lock" on the solvent deuterium frequency with a separate lock unit.
+In modern NMR spectrometers shimming is adjusted automatically, though in some cases the operator has to optimize the shim parameters manually to obtain the best possible resolution.
+========,3,Acquisition of spectra.
+Upon excitation of the sample with a radio frequency (60–1000 MHz) pulse, a nuclear magnetic resonance response - a free induction decay (FID) - is obtained.
+It is a very weak signal, and requires sensitive radio receivers to pick up.
+A Fourier transform is carried out to extract the frequency-domain spectrum from the raw time-domain FID.
+A spectrum from a single FID has a low signal-to-noise ratio, but fortunately it improves readily with averaging of repeated acquisitions.
+Good H NMR spectra can be acquired with 16 repeats, which takes only minutes.
+However, for elements heavier than hydrogen, the relaxation time is rather long, e.g.
+around 8 seconds for C. Thus, acquisition of quantitative heavy-element spectra can be time-consuming, taking tens of minutes to hours.
+If the second excitation pulse is sent prematurely before the relaxation is complete, the average magnetization vector still points in a nonparallel direction, giving suboptimal absorption and emission of the pulse.
+In practice, the peak areas are then not proportional to the stoichiometry; only the presence, but not the amount of functional groups is possible to discern.
+An inversion recovery experiment can be done to determine the relaxation time and thus the required delay between pulses.
+A 180° pulse, an adjustable delay, and a 90° pulse is transmitted.
+When the 90° pulse exactly cancels out the signal, the delay corresponds to the time needed for 90° of relaxation.
+Inversion recovery is worthwhile for quantitive C, 2D and other time-consuming experiments.
+========,3,Chemical shift.
+A spinning charge generates a magnetic field that results in a magnetic moment proportional to the spin.
+In the presence of an external magnetic field, two spin states exist (for a spin 1/2 nucleus): one spin up and one spin down, where one aligns with the magnetic field and the other opposes it.
+The difference in energy (ΔE) between the two spin states increases as the strength of the field increases, but this difference is usually very small, leading to the requirement for strong NMR magnets (1-20 T for modern NMR instruments).
+Irradiation of the sample with energy corresponding to the exact spin state separation of a specific set of nuclei will cause excitation of those set of nuclei in the lower energy state to the higher energy state.
+For spin 1/2 nuclei, the energy difference between the two spin states at a given magnetic field strength is proportional to their magnetic moment.
+However, even if all protons have the same magnetic moments, they do not give resonant signals at the same frequency values.
+This difference arises from the differing electronic environments of the nucleus of interest.
+Upon application of an external magnetic field, these electrons move in response to the field and generate local magnetic fields that oppose the much stronger applied field.
+This local field thus "shields" the proton from the applied magnetic field, which must therefore be increased in order to achieve resonance (absorption of rf energy).
+Such increments are very small, usually in parts per million (ppm).
+For instance, the proton peak from an aldehyde is shifted ca.
+10 ppm compared to a hydrocarbon peak, since as an electron-withdrawing group, the carbonyl deshields the proton by reducing the local electron density.
+The difference between 2.3487 T and 2.3488 T is therefore about 42 ppm.
+However a frequency scale is commonly used to designate the NMR signals, even though the spectrometer may operate by sweeping the magnetic field, and thus the 42 ppm is 4200 Hz for a 100 MHz reference frequency (rf).
+However given that the location of different NMR signals is dependent on the external magnetic field strength and the reference frequency, the signals are usually reported relative to a reference signal, usually that of TMS (tetramethylsilane).
+Additionally, since the distribution of NMR signals is field dependent, these frequencies are divided by the spectrometer frequency.
+However, since we are dividing Hz by MHz, the resulting number would be too small, and thus it is multiplied by a million.
+This operation therefore gives a locator number called the "chemical shift" with units of parts per million.
+In general, chemical shifts for protons are highly predictable since the shifts are primarily determined by simpler shielding effects (electron density), but the chemical shifts for many heavier nuclei are more strongly influenced by other factors including excited states ("paramagnetic" contribution to shielding tensor).
+The chemical shift provides information about the structure of the molecule.
+The conversion of the raw data to this information is called "assigning" the spectrum.
+For example, for the H-NMR spectrum for ethanol (CHCHOH), one would expect signals at each of three specific chemical shifts: one for the C"H" group, one for the C"H" group and one for the O"H" group.
+A typical CH group has a shift around 1 ppm, a CH attached to an OH has a shift of around 4 ppm and an OH has a shift anywhere from 2–6 ppm depending on the solvent used and the amount of hydrogen bonding.
+While the O atom does draw electron density away from the attached H through their mutual sigma bond, the electron lone pairs on the O bathe the H in their shielding effect.
+In Paramagnetic NMR spectroscopy, measurements are conducted on paramagnetic samples.
+The paramagnetism gives rise to very diverse chemical shifts.
+In 1H NMR spectroscopy, the chemical shift range can span 500 ppm.
+Because of molecular motion at room temperature, the three methyl protons "average out" during the NMR experiment (which typically requires a few ms).
+These protons become degenerate and form a peak at the same chemical shift.
+The shape and area of peaks are indicators of chemical structure too.
+In the example above—the proton spectrum of ethanol—the CH peak has three times the area as the OH peak.
+Similarly the CH peak would be twice the area of the OH peak but only 2/3 the area of the CH peak.
+Software allows analysis of signal intensity of peaks, which under conditions of optimal relaxation, correlate with the number of protons of that type.
+Analysis of signal intensity is done by integration—the mathematical process that calculates the area under a curve.
+The analyst must integrate the peak and not measure its height because the peaks also have "width"—and thus its size is dependent on its area not its height.
+However, it should be mentioned that the number of protons, or any other observed nucleus, is only proportional to the intensity, or the integral, of the NMR signal in the very simplest one-dimensional NMR experiments.
+In more elaborate experiments, for instance, experiments typically used to obtain carbon-13 NMR spectra, the integral of the signals depends on the relaxation rate of the nucleus, and its scalar and dipolar coupling constants.
+Very often these factors are poorly known - therefore, the integral of the NMR signal is very difficult to interpret in more complicated NMR experiments.
+========,3,J-coupling.
+Some of the most useful information for structure determination in a one-dimensional NMR spectrum comes from J-coupling or scalar coupling (a special case of spin-spin coupling) between NMR active nuclei.
+This coupling arises from the interaction of different spin states through the chemical bonds of a molecule and results in the splitting of NMR signals.
+These splitting patterns can be complex or simple and, likewise, can be straightforwardly interpretable or deceptive.
+This coupling provides detailed insight into the connectivity of atoms in a molecule.
+Coupling to "n" equivalent (spin ½) nuclei splits the signal into a "n"+1 multiplet with intensity ratios following Pascal's triangle as described on the right.
+Coupling to additional spins will lead to further splittings of each component of the multiplet e.g.
+coupling to two different spin ½ nuclei with significantly different coupling constants will lead to a "doublet of doublets" (abbreviation: dd).
+Note that coupling between nuclei that are chemically equivalent (that is, have the same chemical shift) has no effect on the NMR spectra and couplings between nuclei that are distant (usually more than 3 bonds apart for protons in flexible molecules) are usually too small to cause observable splittings.
+"Long-range" couplings over more than three bonds can often be observed in cyclic and aromatic compounds, leading to more complex splitting patterns.
+For example, in the proton spectrum for ethanol described above, the CH group is split into a "triplet" with an intensity ratio of 1:2:1 by the two neighboring CH protons.
+Similarly, the CH is split into a "quartet" with an intensity ratio of 1:3:3:1 by the three neighboring CH protons.
+In principle, the two CH protons would also be split again into a "doublet" to form a "doublet of quartets" by the hydroxyl proton, but intermolecular exchange of the acidic hydroxyl proton often results in a loss of coupling information.
+Coupling to any spin ½ nuclei such as phosphorus-31 or fluorine-19 works in this fashion (although the magnitudes of the coupling constants may be very different).
+But the splitting patterns differ from those described above for nuclei with spin greater than ½ because the spin quantum number has more than two possible values.
+For instance, coupling to deuterium (a spin 1 nucleus) splits the signal into a "1:1:1 triplet" because the spin 1 has three spin states.
+Similarly, a spin 3/2 nucleus splits a signal into a "1:1:1:1 quartet" and so on.
+Coupling combined with the chemical shift (and the integration for protons) tells us not only about the chemical environment of the nuclei, but also the number of "neighboring" NMR active nuclei within the molecule.
+In more complex spectra with multiple peaks at similar chemical shifts or in spectra of nuclei other than hydrogen, coupling is often the only way to distinguish different nuclei.
+========,4,Second-order (or strong) coupling.
+The above description assumes that the coupling constant is small in comparison with the difference in NMR frequencies between the inequivalent spins.
+If the shift separation decreases (or the coupling strength increases), the multiplet intensity patterns are first distorted, and then become more complex and less easily analyzed (especially if more than two spins are involved).
+Intensification of some peaks in a multiplet is achieved at the expense of the remainder, which sometimes almost disappear in the background noise, although the integrated area under the peaks remains constant.
+In most high-field NMR, however, the distortions are usually modest and the characteristic distortions ("roofing") can in fact help to identify related peaks.
+Some of these patterns can be analyzed with the method published by John Pople, though it has limited scope.
+Second-order effects decrease as the frequency difference between multiplets increases, so that high-field (i.e.
+high-frequency) NMR spectra display less distortion than lower frequency spectra.
+Early spectra at 60 MHz were more prone to distortion than spectra from later machines typically operating at frequencies at 200 MHz or above.
+========,4,Magnetic inequivalence.
+More subtle effects can occur if chemically equivalent spins (i.e., nuclei related by symmetry and so having the same NMR frequency) have different coupling relationships to external spins.
+Spins that are chemically equivalent but are not indistinguishable (based on their coupling relationships) are termed magnetically inequivalent.
+For example, the 4 H sites of 1,2-dichlorobenzene divide into two chemically equivalent pairs by symmetry, but an individual member of one of the pairs has different couplings to the spins making up the other pair.
+Magnetic inequivalence can lead to highly complex spectra which can only be analyzed by computational modeling.
+Such effects are more common in NMR spectra of aromatic and other non-flexible systems, while conformational averaging about C-C bonds in flexible molecules tends to equalize the couplings between protons on adjacent carbons, reducing problems with magnetic inequivalence.
+========,2,Correlation spectroscopy.
+Correlation spectroscopy is one of several types of two-dimensional nuclear magnetic resonance (NMR) spectroscopy or 2D-NMR.
+This type of NMR experiment is best known by its acronym, COSY.
+Other types of two-dimensional NMR include J-spectroscopy, exchange spectroscopy (EXSY), Nuclear Overhauser effect spectroscopy (NOESY), total correlation spectroscopy (TOCSY) and heteronuclear correlation experiments, such as HSQC, HMQC, and HMBC.
+In correlation spectroscopy, emission is centered on the peak of an individual nucleus; if its magnetic field is correlated with another nucleus by through-bond (COSY, HSQC, etc.)
+or through-space (NOE) coupling, a response can also be detected on the frequency of the correlated nucleus.
+Two-dimensional NMR spectra provide more information about a molecule than one-dimensional NMR spectra and are especially useful in determining the structure of a molecule, particularly for molecules that are too complicated to work with using one-dimensional NMR.
+The first two-dimensional experiment, COSY, was proposed by Jean Jeener, a professor at Université Libre de Bruxelles, in 1971.
+This experiment was later implemented by Walter P. Aue, Enrico Bartholdi and Richard R. Ernst, who published their work in 1976.
+========,2,Solid-state nuclear magnetic resonance.
+A variety of physical circumstances do not allow molecules to be studied in solution, and at the same time not by other spectroscopic techniques to an atomic level, either.
+In solid-phase media, such as crystals, microcrystalline powders, gels, anisotropic solutions, etc., it is in particular the dipolar coupling and chemical shift anisotropy that become dominant to the behaviour of the nuclear spin systems.
+In conventional solution-state NMR spectroscopy, these additional interactions would lead to a significant broadening of spectral lines.
+A variety of techniques allows establishing high-resolution conditions, that can, at least for C spectra, be comparable to solution-state NMR spectra.
+Two important concepts for high-resolution solid-state NMR spectroscopy are the limitation of possible molecular orientation by sample orientation, and the reduction of anisotropic nuclear magnetic interactions by sample spinning.
+Of the latter approach, fast spinning around the magic angle is a very prominent method, when the system comprises spin 1/2 nuclei.
+Spinning rates of ca.
+20 kHz are used, which demands special equipment.
+A number of intermediate techniques, with samples of partial alignment or reduced mobility, is currently being used in NMR spectroscopy.
+Applications in which solid-state NMR effects occur are often related to structure investigations on membrane proteins, protein fibrils or all kinds of polymers, and chemical analysis in inorganic chemistry, but also include "exotic" applications like the plant leaves and fuel cells.
+For example, Rahmani et al.
+studied the effect of pressure and temperature on the bicellar structures' self-assembly using deuterium NMR spectroscopy.
+========,2,Biomolecular NMR spectroscopy.
+========,3,Proteins.
+Much of the innovation within NMR spectroscopy has been within the field of protein NMR spectroscopy, an important technique in structural biology.
+A common goal of these investigations is to obtain high resolution 3-dimensional structures of the protein, similar to what can be achieved by X-ray crystallography.
+In contrast to X-ray crystallography, NMR spectroscopy is usually limited to proteins smaller than 35 kDa, although larger structures have been solved.
+NMR spectroscopy is often the only way to obtain high resolution information on partially or wholly intrinsically unstructured proteins.
+It is now a common tool for the determination of Conformation Activity Relationships where the structure before and after interaction with, for example, a drug candidate is compared to its known biochemical activity.
+Proteins are orders of magnitude larger than the small organic molecules discussed earlier in this article, but the basic NMR techniques and some NMR theory also applies.
+Because of the much higher number of atoms present in a protein molecule in comparison with a small organic compound, the basic 1D spectra become crowded with overlapping signals to an extent where direct spectral analysis becomes untenable.
+Therefore, multidimensional (2, 3 or 4D) experiments have been devised to deal with this problem.
+To facilitate these experiments, it is desirable to isotopically label the protein with C and N because the predominant naturally occurring isotope C is not NMR-active and the nuclear quadrupole moment of the predominant naturally occurring N isotope prevents high resolution information from being obtained from this nitrogen isotope.
+The most important method used for structure determination of proteins utilizes NOE experiments to measure distances between atoms within the molecule.
+Subsequently, the distances obtained are used to generate a 3D structure of the molecule by solving a distance geometry problem.
+NMR can also be used to obtain information on the dynamics and conformational flexibility of different regions of a protein.
+========,3,Nucleic acids.
+"Nucleic acid NMR" is the use of NMR spectroscopy to obtain information about the structure and dynamics of polynucleic acids, such as DNA or RNA.
+, nearly half of all known RNA structures had been determined by NMR spectroscopy.
+Nucleic acid and protein NMR spectroscopy are similar but differences exist.
+Nucleic acids have a smaller percentage of hydrogen atoms, which are the atoms usually observed in NMR spectroscopy, and because nucleic acid double helices are stiff and roughly linear, they do not fold back on themselves to give "long-range" correlations.
+The types of NMR usually done with nucleic acids are H or proton NMR, C NMR, N NMR, and P NMR.
+Two-dimensional NMR methods are almost always used, such as correlation spectroscopy (COSY) and total coherence transfer spectroscopy (TOCSY) to detect through-bond nuclear couplings, and nuclear Overhauser effect spectroscopy (NOESY) to detect couplings between nuclei that are close to each other in space.
+Parameters taken from the spectrum, mainly NOESY cross-peaks and coupling constants, can be used to determine local structural features such as glycosidic bond angles, dihedral angles (using the Karplus equation), and sugar pucker conformations.
+For large-scale structure, these local parameters must be supplemented with other structural assumptions or models, because errors add up as the double helix is traversed, and unlike with proteins, the double helix does not have a compact interior and does not fold back upon itself.
+NMR is also useful for investigating nonstandard geometries such as bent helices, non-Watson–Crick basepairing, and coaxial stacking.
+It has been especially useful in probing the structure of natural RNA oligonucleotides, which tend to adopt complex conformations such as stem-loops and pseudoknots.
+NMR is also useful for probing the binding of nucleic acid molecules to other molecules, such as proteins or drugs, by seeing which resonances are shifted upon binding of the other molecule.

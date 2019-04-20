@@ -1,0 +1,31 @@
+========,1,preface.
+James J. Kay (June 18, 1954 – May 30, 2004) was an ecological scientist and policy-maker.
+He was a respected physicist best known for his theoretical work on complexity and thermodynamics.
+========,2,Biography.
+James Kay held a BS in Physics from McGill University and a Ph.D in Systems Design Engineering from the University of Waterloo.
+His Ph.D. thesis was entitled "Self-Organization in Living Systems".
+Much of his work relates to integrating thermodynamics into an understanding of self-organization in biological systems.
+For example, when water in a pot is heated, it will spontaneously form convection currents such as Bénard_cell.
+This is an example where as the amount of energy available to a system increases, the system self-organizes in order to dissipate energy more efficiently.
+Kay has examined how similar types of self-organization can occur within living systems at the level of individual organisms and ecosystems.
+In other words, organisms and ecosystems evolve to use the maximum amount of energy available to them.
+This has been backed up by studies showing that more mature ecosystems such as old growth forests are cooler (i.e.
+dissipate more incoming energy) than clear cuts or bare rock that receive the same amount of energy.
+Kay was an Associate Professor of Environment and Resource Studies at the University of Waterloo, with cross-appointments in Systems Design Engineering, Geography, Management Sciences, and the School of Planning.
+He was also cross-posted to the School of Rural Planning and Development at the University of Guelph.
+========,2,Public Policy.
+========,3,Local.
+Kay was founding Chair of the University of Waterloo's Greening the Campus Committee (1990–1996), which is responsible for overseeing the transition to a sustainable campus.
+He was also a founding member of the City of Kitchener's Environment Committee, which developed a Strategic Plan for the Environment and an ecosystem-based plan for the Huron Natural Area.
+He sat on the committee which developed the award-winning (Canadian Institute of Planners) bicycle master plan for Kitchener, and was on the City's committee for the transition to a hydrogen economy.
+========,3,Provincial and National.
+Kay served as an adviser to the Ontario Ministry of the Environment and delivered guest lectures to the National Ministry of the Environment.
+He served on the Long Term Ecosystem Research and Monitoring Panel of the Royal Society of Canada.
+========,3,International.
+Kay was a member of the Royal Swedish Academy of Sciences, Beijer Institute, Working Group on Complex Ecological Economic Systems Modeling.
+He was also an active member of the United States National Science Foundation Advisory Committee on Environmental Research and Education.
+========,2,References.
+Luvall, J. C.; Holbo, R.H. (1989), "Measurements of short-term thermal responses of coniferous forest canopies using thermal scanner data", Remote Sensing of Environment 27:1–10.
+Holbo, H. R., and J. C. Luvall.
+Modeling surface temperature distributions in forest landscapes.
+Remote Sensing of Environment 27:11–24.

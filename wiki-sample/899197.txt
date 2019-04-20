@@ -1,0 +1,37 @@
+========,1,preface.
+Coarray Fortran (CAF), formerly known as F--, started as an extension of Fortran 95/2003 for parallel processing created by Robert Numrich and John Reid in the 1990s.
+The Fortran 2008 standard (ISO/IEC 1539-1:2010) now includes coarrays (spelled without hyphen), as decided at the May 2005 meeting of the ISO Fortran Committee; the syntax in the Fortran 2008 standard is slightly different from the original CAF proposal.
+A CAF program is interpreted as if it were replicated a number of times and all copies were executed asynchronously.
+Each copy has its own set of data objects and is termed an "image".
+The array syntax of Fortran is extended with additional trailing subscripts in square brackets to provide a concise representation of references to data that is spread across images.
+The CAF extension has been available for a long time and was implemented in some Fortran compilers such as those from Cray (since release 3.1).
+Since the inclusion of coarrays in the Fortran 2008 standard, the number of implementations is growing.
+The first open-source compiler which implemented coarrays as specified in the Fortran 2008 standard for Linux architectures is G95.
+Currently, GNU Fortran provides wide coverage of Fortran's coarray features in single- and multi-image configuration (the latter based on the OpenCoarrays library).
+Another implementation of coarrays and related parallel extensions from Fortran 2008 is available in the OpenUH compiler (a branch of Open64) developed at the University of Houston.
+========,2,Implementation in compilers.
+CAF is often implemented on top of a Message Passing Interface (MPI) library for portability.
+Some implementations, such as the ones available in the GNU Fortran and OpenUH compilers, may run on top of other low-level layers (for example, GASNet) designed for supporting partitioned global address space languages.
+========,2,Examples.
+A simple example is given below.
+CAF is used in CGPACK, an open source package for simulating polycrystalline materials developed at the University of Bristol.
+The program above scales poorly because the loop that distributes information executes sequentially.
+Writing scalable programs often requires a sophisticated understanding of parallel algorithms, a detailed knowledge of the underlying network characteristics, and special tuning for application characteristics such as the size of data transfers.
+For most application developers, letting the compiler or runtime library decide the best algorithm proves more robust and high-performing.
+Fortran 2015 will offer collective communication subroutines that empower compiler and runtime library teams to encapsulate efficient parallel algorithms for collective communication and distributed computation in a set of collective subroutines.
+These subroutines and other new parallel programming features are summarized in a technical specification that the Fortran standards committee has voted to incorporate into Fortran 2015.
+These enable the user to write a more efficient version of the above algorithm where the lack of explicit synchronization offers the potential for higher performance due to less coordination between the images.
+Furthermore, TS 18508 guarantees that "A transfer from an image cannot occur before the collective subroutine has been invoked on that image."
+This implies some partial synchronization inside co_broadcast, but could be higher performing than the "sync all" in the prior example.
+TS 18508 also incorporates several other new features that address issues targeted by the CAF 2.0 effort described below.
+Examples include teams of images and events.
+========,2,An alternate perspective.
+A group at Rice University is pursuing an alternate vision of coarray extensions for the Fortran language.
+Their perspective is that the Fortran 2008 standard committee's design choices were shaped more by the desire to introduce as few modifications to the language as possible than to assemble the best set of extensions to support parallel programming.
+They don't believe that the set of extensions agreed upon by the committee are the right ones.
+In their view, both Numrich and Reid's original design and the coarray extensions proposed for Fortran 2008, suffer from the following shortcomings:
+***LIST***.
+To address these shortcomings, the Rice University group is developing a clean-slate redesign of the Coarray Fortran programming model.
+Rice's new design for Coarray Fortran, which they call Coarray Fortran 2.0, is an expressive set of coarray-based extensions to Fortran designed to provide a productive parallel programming model.
+Compared to Fortran 2008, Rice's new coarray-based language extensions include some additional features:
+***LIST***.

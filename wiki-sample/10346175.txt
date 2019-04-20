@@ -1,0 +1,48 @@
+========,1,preface.
+The MEMO Model (version 6.2) is a Eulerian non-hydrostatic prognostic mesoscale model for wind flow simulation.
+It was developed by the Aristotle University of Thessaloniki in collaboration with the Universität Karlsruhe.
+The MEMO Model together with the photochemical dispersion model MARS are the two core models of the European Zooming Model (EZM).
+This model belongs to the family of models designed for describing atmospheric transport phenomena in the local-to-regional scale, frequently referred to as mesoscale air pollution models.
+========,2,History.
+Initially, EZM was developed for modelling the transport and chemical transformation of pollutants in selected European regions in the frame of the EUROTRAC sub-project EUMAC and therefore it was formerly called the EUMAC Zooming Model (EUROTRAC, 1992).
+EZM has evolved to be one of the most frequently applied mesoscale air pollution model systems in Europe.
+It has been already successfully applied for various European airsheds including the Upper Rhine valley and the areas of Basel, Graz, Barcelona, Lisbon, Madrid, Milano, London, Cologne, Lyon, The Hague, Athens (Moussiopoulos, 1994; Moussiopoulos, 1995) and Thessaloniki.
+More details are to be found elsewhere (Moussiopoulos 1989), (Flassak 1990), (Moussiopoulos et al.
+========,2,Model equations.
+The prognostic mesoscale model MEMO describes the dynamics of the atmospheric boundary layer.
+In the present model version, air is assumed to be unsaturated.
+The model solves the continuity equation, the momentum equations and several transport equations for scalars (including the thermal energy equation and, as options, transport equations for water vapour, the turbulent kinetic energy and pollutant concentrations).
+========,2,Transformation to terrain-following coordinates.
+The lower boundary of the model domain coincides with the ground.
+Because of the inhomogeneity of the terrain, it is not possible to impose boundary conditions at that boundary with respect to Cartesian coordinates.
+Therefore, a transformation of the vertical coordinate to a terrain-following one is performed.
+Hence, the originally irregularly bounded physical domain is mapped onto one consisting of unit cubes.
+========,2,Parameterizations.
+Turbulence and radiative transfer are the most important physical processes that have to be parameterized in a prognostic mesoscale model.
+In the MEMO model, radiative transfer is calculated with an efficient scheme based on the emissivity method for longwave radiation and an implicit multilayer method for shortwave radiation (Moussiopoulos 1987).
+The diffusion terms may be represented as the divergence of the corresponding fluxes.
+For turbulence parameterizations, K-theory is applied.
+In case of MEMO turbulence can be treated either with a zero-, one- or two-equation turbulence model.
+For most applications a one-equation model is used, where a conservation equation for the turbulent kinetic energy is solved.
+========,2,Topography and surface type.
+For calculations with MEMO, a file must be provided which contains orography height and surface type for each grid location The following surface types are distinguished and must be stored as percentage:
+***LIST***.
+Only surface types 1 to 6 have to be stored.
+Type 7 is the difference between 100% and the sum of types 1 to 6.
+If the percentage of a surface type is 100%, then write the number 10 and for all other surface types the number 99.
+The orography height is the mean height for each grid location above sea level in meter.
+========,2,Meteorological data.
+The prognostic model MEMO is a set of partial differential equations in three spatial directions and in time.
+To solve these equations, information about the initial state in the whole domain and about the development of all relevant quantities at the lateral boundaries is required.
+========,3,Initial state.
+To generate an initial state for the prognostic model, a diagnostic model (Kunz, R., 1991) is applied using measured temperature and wind data.
+Both data can be provided as:
+***LIST***.
+========,3,Time-dependent boundary conditions.
+Information about quantities at the lateral boundaries can be taken into account as surface measurements and upper air soundings.
+Therefore, a key word and the time when boundary data is given must occur in front of a set of boundary information.
+========,2,Nesting facility.
+In MEMO, a one-way interactive nesting scheme is implemented.
+With this nesting scheme a coarse grid and a fine grid simulation can be nested.
+During the coarse grid simulation, data is interpolated and written to a file.
+A consecutive fine grid simulation uses this data as lateral boundary values.

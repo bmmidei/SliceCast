@@ -1,0 +1,39 @@
+========,1,preface.
+Nestin is a protein that in humans is encoded by the NES gene.
+Nestin (acronym for neuroectodermal stem cell marker) is a type VI intermediate filament (IF) protein.
+These intermediate filament proteins are expressed mostly in nerve cells where they are implicated in the radial growth of the axon.
+Seven genes encode for the heavy (NF-H), medium (NF-M) and light neurofilament (NF-L) proteins, nestin and α-internexin in nerve cells, synemin α and desmuslin/synemin β (two alternative transcripts of the DMN gene) in muscle cells, and syncoilin (also in muscle cells).
+Members of this group mostly preferentially coassemble as heteropolymers in tissues.
+Steinert et al.
+has shown that nestin forms homodimers and homotetramers but does not form IF by itself in vitro.
+In mixtures, nestin preferentially co-assembles with purified vimentin or the type IV IF protein -internexin to form heterodimer coiled-coil molecules.
+========,2,Gene.
+Structurally, nestin has the shortest head domain (N-terminus) and the longest tail domain (C-terminus) of all the IF proteins.
+Nestin is of high molecular weight (240kDa) with a terminus greater than 500 residues (compared to cytokeratins and lamins with termini less than 50 residues).
+After subcloning the human nestin gene into plasmid vectors, Dahlstrand et al.
+determined the nucleotide sequence of all coding regions and parts of the introns.
+In order to establish the boundaries of the introns, they used the polymerase chain reaction (PCR) to amplify a fragment made from human fetal brain cDNA using two primers located in the first and fourth exon, respectively.
+The resulting 270 base pair (bp) long fragment was then sequenced directly in its entirety, and intron positions precisely located by comparison with the genomic sequence.
+Putative initiation and stop codons for the human nestin gene were found at the same positions as in the rat gene, in regions where overall similarity was very high.
+Based on this assumption, the human nestin gene encodes a protein with 1618 amino acids, i.e.
+187 amino acids shorter than the rat protein.
+========,2,Expression.
+Nestin is expressed by many types of cells during development, although its expression is usually transient and does not persist into adulthood.
+One instance of nestin expression in adult organisms, and perhaps that for which nestin is best known, are the neuronal precursor cells of the subgranular zone.
+Nestin is an intermediate filament protein expressed in dividing cells during the early stages of development in the central nervous system (CNS), peripheral nervous system (PNS) and in myogenic and other tissues.
+Upon differentiation, nestin becomes downregulated and is replaced by tissue-specific intermediate filament proteins.
+During neuro- and gliogenesis, nestin is replaced by cell type-specific intermediate filaments, e.g.
+neurofilaments and glial fibrillary acidic protein (GFAP).
+Interestingly, nestin expression is reinduced in the adult during pathological situations, such as the formation of the glial scar after CNS injury and during regeneration of injured muscle tissue.
+========,2,Function.
+Distribution and expression of nestin in mitotically active cells suggests it plays a role in regulation of the assembly and disassembly of intermediate filaments, which, together with other structural proteins, participate in remodeling of the cell.
+The role of nestin in dynamic cells, particularly structural organization of the cell, appears strictly regulated by phosphorylation, especially its integration into heterogeneous intermediate filaments together with vimentin or α-internexin.
+Furthermore, nestin expression has been extensively used as a marker for central nervous system (CNS) progenitor cells in different contexts, based on observations indicating a correlation between nestin expression and this cell type in vivo.
+========,2,Clinical significance.
+Nestin, a protein marker for neural stem cells, is also expressed in follicle stem cells and their immediate, differentiated progeny.
+The hair follicle bulge area is an abundant, easily accessible source of actively growing pluripotent adult stem cells.
+Green fluorescent protein (GFP), whose expression is driven by the nestin regulatory element in transgenic mice, serves to mark hair follicle stem cells.
+These cells can differentiate into neurons, glia, keratinocytes, smooth muscle cells and melanocytes in vitro.
+Thus, hair follicle stem cells provide an effective, accessible, autologous source of stem cells for treatment of peripheral nerve injury.
+Nestin has recently received attention as a marker for detecting newly formed endothelial cells.
+Nestin is an angiogenesis marker of proliferating endothelial cells in colorectal cancer tissue.

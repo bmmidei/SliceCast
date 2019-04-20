@@ -1,0 +1,51 @@
+========,1,preface.
+Wind power in Ohio has a long history, and as of 2012, Ohio had 426 MW of utility-scale wind power installations installed.
+Over 1000 MW more were under construction or pending approval.
+Some installations have become tourist attractions.
+There has been a sudden increase in generating capacity, as total windpower generation in the state in 2010 was just 9.7 MW.
+Ohio's first large wind farm, Timber Road II near Payne in northwest Ohio, opened on October 6, 2011.
+========,2,History.
+========,3,Brush's windmill dynamo.
+Charles F. Brush designed one of world's earliest electricity-generating windmills in Cleveland, Ohio in 1887–1888.
+His engineering company built the "windmill dynamo" at his home.
+It operated from 1886 until 1900.
+The Brush wind turbine had a rotor 56 feet (17 m) in diameter and was mounted on a 60-foot (18 m) tower, making it similar in size to some of the first commercial wind farm turbines of the 1980s.
+However, the machine was only rated at 12 kW; it turned relatively slowly since it had 144 blades.
+Brush used the connected dynamo either to charge a bank of batteries or to operate up to 100 incandescent light bulbs, three arc lamps, and various motors in his laboratory.
+The machine fell into disuse after 1900 when electricity became available from Cleveland's central stations, and was abandoned in 1908.
+========,3,NASA Lewis MOD series.
+From 1974 to 1981, NASA's Glenn Research Center (then the Lewis Research Center) in Brook Park, Ohio led the U.S. Wind Energy Program for large horizontal-axis wind turbines, designing a series of 13 experimental large horizontal-axis wind turbines.
+In conjunction with the United States Department of Energy, NASA developed and tested megawatt-class wind turbines.
+The program's goal was to develop the technology, and then turn it over to private industry.
+While none of the program's wind turbine designs saw mass commercialization, the tests generated valuable data and pioneered modern design concepts such as tubular towers and computer control of blade pitch and rotor yaw.
+Most of the MOD-series wind turbines went to sites outside of Ohio, but the first unit, the MOD-0 operated at NASA's Plum Brook facility near Sandusky from 1975 to 1988.
+Initially the wind turbine had a lattice tower, a 38.1m diameter two-bladed rotor mounted downwind from the tower, and a capacity of 100 kW.
+Lockheed Corporation manufactured the aluminum rotor blades.
+The discovery of severe stress resulting from the rotor blades passing through the tower's wind shadow led to several redesigns.
+In 1979, NASA rebuilt the MOD-0 with an upwind rotor mounted on a teetering hub, with a steel spar reinforcing the blades.
+In 1982, a tubular tower replaced the lattice tower.
+Finally, in 1985 NASA tested a single-bladed rotor with a teetering hub.
+In 1981, two NASA Glenn engineers, Larry Viterna and Bob Corrigan, used the adjustable-pitch blade feature of the MOD-0 to invent an analytical method for calculating wind turbine output in high winds, which has since become widely used in the wind power industry as the Viterna method.
+========,2,Installed capacity and wind resources.
+The following table compares the growth in wind power installed nameplate capacity in megawatts (MW) for Ohio, Texas, California, and the entire United States since 1999.
+One large undeveloped resource of wind in Ohio is Lake Erie.
+Its shallow depth and shelter from hurricanes provide advantages in terms of both ease of construction as well as safety of investment.
+Although land based wind farms frequently have lower siting costs, offshore wind farms usually have better wind, as open water lacks obstructions such as forests, buildings, and hills.
+On February 11, 2010, the National Renewable Energy Laboratory released the first comprehensive update of the wind energy potential by state since 1993, showing that Ohio had potential to install 55 GW of onshore wind power nameplate capacity, generating 152 TWh annually.
+For comparison, Ohio consumed 160.176 TWh of electricity in 2005; the entire U.S. wind power industry was producing at an annual rate of approximately 50 TWh at the end of 2008; and Three Gorges Dam (the world's largest electricity-generating station) produced an average of 80 TWh/yr in 2008 and 2009.
+========,2,Wind farms.
+========,3,American Municipal Power Inc Wind Farm.
+The AMP Wind Farm located at the following coordinates:() west of Bowling Green in Wood County is Ohio's first utility-scale wind farm.
+It consists of four Vestas V80-1.8MW wind turbines giving a combined nameplate capacity of 7.2 MW.
+The first two units came online in 2003, and the second two in 2004, next to the Wood County landfill.
+The US$10 million wind farm's wind turbines are highly visible for miles in all directions, and have become a tourist attraction, regularly hosting busloads of school children.
+A solar-powered kiosk on the site gives data to visitors about the project, the current wind speed, and real time power generation.
+========,3,Great Lakes Science Center.
+The Great Lakes Science Center installed a reconditioned Vestas V27-225 kW wind turbine in 2006, outside its museum building on Cleveland's North Coast Harbor between Cleveland Browns Stadium and the Rock and Roll Hall of Fame ().
+The North Coast entertainment complex receives 1.5 million visitors per year, and the wind turbine appears regularly on local news broadcasts and Cleveland Browns NFL broadcasts, making it one of the world's most-viewed wind turbines.
+The wind turbine originally operated on a wind farm in Denmark, which resold the wind turbine while repowering to newer, larger wind turbines.
+The ground around the wind turbine features an art display entitled "Shadow and Light".
+The display includes walkways that align with the wind turbine's shadow at solar noon and two hours, eleven minutes after solar noon, respectively.
+On the vernal and autumnal equinoxes, the wind turbine's shadow also aligns with the walkways by length.
+Thus the wind turbine functions as a large gnomon in an incomplete sundial.
+The display includes boxes of light bulbs encased in concrete on one side of a plaza around the wind turbine's base, representing the amount of electricity consumed by the average American household in a year.

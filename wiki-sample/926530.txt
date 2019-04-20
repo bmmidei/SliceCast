@@ -1,0 +1,26 @@
+========,1,preface.
+AK-230 is a Soviet fully automatic naval twin 30 mm gun.
+Its primary function is anti-aircraft.
+It is mounted in an enclosed automatic turret and directed by radar.
+AK-230 is widely used, mounted on big warships as well as small crafts.
+About 1450 guns were produced in the USSR, and about 300 were produced in China as the Type 69.
+It was succeeded by the more powerful AK-630 from the mid-to-late 1970s.
+========,2,Development and service.
+Development of the weapon began during the 1950s, with the first trial weapon fitted to the "Osa" class of fast attack missile boats and "Shershen" class torpedo boats.
+The weapon was officially accepted into service in 1969.
+Its service life was relatively short, due to the fielding of the AK-630 system in the mid-1970s, which uses the same mountings and can be controlled by the same fire control systems.
+While its 30×210 mm round was much more powerful than the AK-630's 30×165 mm one, having the muzzle velocity of 1050 m/s (the same as with 30×175 mm GAU-8's cartridge), the moderately powered AK-630's round allowed for much higher rates of fire, especially in a Gatling-type weapon, which was considered more advantageous for the anti-aircraft system.
+========,2,Description.
+The weapon consists of two stabilized NN-30 30 mm water-cooled four chamber revolver cannons, which are mounted inside a riveted steel turret.
+The gun mechanism is gas operated.
+The guns each weigh 155 kg and have barrels 1930 mm long, and a total length of 2670 mm.
+The barrels are rifled with 12 grooves.
+The guns each have a rate of fire of 1,000 round per minute; they are fed by independent 500-round belts of ammunition.
+The rounds are electrically fired; propellent gasses are used to eject the spent shells and belt links into a space between the magazine and the hull.
+Ballistic maximum range for the weapon is about 6.7 km, but realistic ranges for engaging air targets are quoted as between 2.5 and 4 km.
+The weapon is remote-directed, typically by a fire-control system linked to either a "Drum Tilt" or "Muff Cobb" radar systems.
+========,2,Ammunition.
+The AK-230 fires specially developed 30x210B 30 mm ammunition that is electrically primed.
+Two rounds were developed: a high-explosive round with an impact fuze, and an armour-piercing round.
+The Chinese Type 69 fires only a locally produced version of the high-explosive round.
+Ammunition is also produced in Romania and Serbia.

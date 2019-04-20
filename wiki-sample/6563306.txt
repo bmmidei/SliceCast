@@ -1,0 +1,17 @@
+========,1,preface.
+The inner nuclear layer or layer of inner granules, of the retina, is made up of a number of closely packed cells, of which there are three varieties, viz.
+: bipolar cells, horizontal cells, and amacrine cells.
+========,2,Bipolar cells.
+The bipolar cells, by far the most numerous, are round or oval in shape, and each is prolonged into an inner and an outer process.
+They are divisible into rod bipolars and cone bipolars.
+***LIST***.
+========,3,Connection types.
+Midget bipolars are linked to one cone while diffuse bipolars take groups of receptors.
+Diffuse bipolars can take signals from up to 50 rods or can be a flat cone form and take signals from seven cones.
+The bipolar cells corresponds to the intermediary cells between the touch and heat receptors on the skin and the medulla or spinal cord.
+========,2,Horizontal cells.
+The horizontal cells lie in the outer part of the inner nuclear layer and possess somewhat flattened cell bodies.
+Their dendrites divide into numerous branches in the outer plexiform layer, while their axons run horizontally for some distance and finally ramify in the same layer.
+========,2,Amacrine cells.
+The amacrine cells are placed in the inner part of the inner nuclear layer, and are so named because they have not yet been shown to possess axis-cylinder processes.
+Their dendrites undergo extensive ramification in the inner plexiform layer.

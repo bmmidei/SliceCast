@@ -1,0 +1,34 @@
+========,1,preface.
+The ElGamal signature scheme is a digital signature scheme which is based on the difficulty of computing discrete logarithms.
+It was described by Taher ElGamal in 1984.
+The ElGamal signature algorithm is rarely used in practice.
+A variant developed at NSA and known as the Digital Signature Algorithm is much more widely used.
+There are several other variants.
+The ElGamal signature scheme must not be confused with ElGamal encryption which was also invented by Taher ElGamal.
+The ElGamal signature scheme allows a third-party to confirm the authenticity of a message sent over an insecure channel.
+========,2,Signature generation.
+To sign a message "m" the signer performs the following steps.
+***LIST***.
+Then the pair ("r","s") is the digital signature of "m".
+The signer repeats these steps for every signature.
+========,2,Verification.
+A signature ("r","s") of a message "m" is verified as follows.
+***LIST***.
+The verifier accepts a signature if all conditions are satisfied and rejects it otherwise.
+========,2,Correctness.
+The algorithm is correct in the sense that a signature generated with the signing algorithm will always be accepted by the verifier.
+The signature generation implies Hence Fermat's little theorem implies
+========,2,Security.
+A third party can forge signatures either by finding the signer's secret key "x" or by finding collisions in the hash function ***formula***.
+Both problems are believed to be difficult.
+However, as of 2011 no tight reduction to a computational hardness assumption is known.
+The signer must be careful to choose a different "k" uniformly at random for each signature and to be certain that "k", or even partial information about "k", is not leaked.
+Otherwise, an attacker may be able to deduce the secret key "x" with reduced difficulty, perhaps enough to allow a practical attack.
+In particular, if two messages are sent using the same value of "k" and the same key, then an attacker can compute "x" directly.
+========,3,Existential forgery.
+The original paper did not include a hash function as a system parameter.
+The message "m" was used directly in the algorithm instead of "H(m)".
+This enables an attack called existential forgery, as described in section IV of the paper.
+Pointcheval and Stern generalized that case and described two levels of forgeries:
+***LIST***.
+Improved version (with a hash) is known as Pointcheval–Stern signature algorithm

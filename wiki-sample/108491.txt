@@ -1,0 +1,33 @@
+========,1,preface.
+Ponderosa Park is a census-designated place (CDP) in Elbert County, Colorado, United States.
+The population was 3,232 at the 2010 census.
+========,2,Demographics.
+As of the census of 2000, there were 3,112 people, 1,040 households, and 897 families residing in the CDP.
+The population density was 210.7 people per square mile (81.4/km²).
+There were 1,057 housing units at an average density of 71.5 per square mile (27.6/km²).
+The racial makeup of the CDP was 95.37% White, 0.55% African American, 0.45% Native American, 0.48% Asian, 0.19% Pacific Islander, 1.19% from other races, and 1.77% from two or more races.
+Hispanic or Latino of any race were 3.98% of the population.
+There were 1,040 households out of which 44.5% had children under the age of 18 living with them, 80.3% were married couples living together, 4.0% had a female householder with no husband present, and 13.7% were non-families.
+8.7% of all households were made up of individuals and 1.4% had someone living alone who was 65 years of age or older.
+The average household size was 2.99 and the average family size was 3.19.
+In the CDP, the population was spread out with 29.2% under the age of 18, 5.2% from 18 to 24, 34.6% from 25 to 44, 26.3% from 45 to 64, and 4.7% who were 65 years of age or older.
+The median age was 38 years.
+For every 100 females there were 100.0 males.
+For every 100 females age 18 and over, there were 99.1 males.
+The median income for a household in the CDP was $70,192, and the median income for a family was $72,500.
+Males had a median income of $53,000 versus $26,988 for females.
+The per capita income for the CDP was $25,673.
+About 2.4% of families and 2.8% of the population were below the poverty line, including 3.9% of those under age 18 and 5.3% of those age 65 or over.
+========,2,Geography.
+Ponderosa Park is located on the western border of Elbert County at .
+It is bordered to the southeast by the town of Elizabeth.
+Colorado State Highway 86 forms the southern edge of the CDP, leading east to Kiowa, the county seat, and west to Franktown.
+Castle Rock is to the west, and Denver is to the northwest.
+According to the United States Census Bureau, the Ponderosa Park CDP has a total area of , all of it land.
+========,3,Climate.
+This climate type is usually found in the outskirts of true deserts in low-latitude, semiarid regions.
+It has a cooler, wetter winter resulting from the higher latitude and mid-latitude frontal cyclone activity.
+Annual precipitation totals are greater than in tropical and subtropical desert climates.
+Yearly variations in amount are not as extreme as in the true deserts but are nevertheless large.
+The Köppen Climate Classification subtype for this climate is "BSk".
+(Tropical and Subtropical Steppe Climate).

@@ -1,0 +1,25 @@
+========,1,preface.
+An essential nutrient is a nutrient required for normal physiological function that cannot be synthesized by the body, and thus must be obtained from a dietary source.
+Apart from water, which is universally required for the maintenance of homeostasis, essential nutrients are indispensable for the metabolic processes of cells, as well as the proper physiological functions of tissues and organs.
+In the case of humans, there are nine amino acids, two fatty acids, thirteen vitamins and fifteen minerals that are considered essential nutrients.
+In addition, there are several molecules that are considered conditionally essential nutrients since they are indispensable in certain developmental and pathological states.
+========,2,Amino acids.
+An essential amino acid is an amino acid that cannot be synthesized "de novo" (from scratch) by an organism, and therefore must be supplied in its diet.
+Out of the twenty amino acids, nine cannot be endogenously synthesized by humans: phenylalanine, valine, threonine, tryptophan, methionine, leucine, isoleucine, lysine, and histidine.
+========,2,Fatty acids.
+Essential fatty acids (EFAs) are fatty acids that humans and other animals must ingest because the body requires them for good health but cannot synthesize them.
+Only two fatty acids are known to be essential for humans: alpha-linolenic acid (an omega-3 fatty acid) and linoleic acid (an omega-6 fatty acid).
+========,2,Vitamins.
+Vitamins are organic molecules essential for an organism that are not classified as amino acids or fatty acids.
+They commonly function as enzymatic cofactors, metabolic regulators or antioxidants.
+Humans require thirteen vitamins in their diet, most of which are actually groups of related molecules (e.g.
+vitamin E includes tocopherols and tocotrienols).
+========,2,Minerals.
+Minerals are the exogenous chemical elements indispensable for an organism which are not provided by the other essential nutrients.
+The elements provided by essential amino acids, fatty acids and vitamins are carbon, hydrogen, oxygen, nitrogen and sulfur.
+For humans, the "major minerals" are calcium, phosphorus, potassium, sodium, chlorine, and magnesium.
+"Minor minerals" include metals such as iron, zinc, manganese and copper.
+========,2,Conditionally essential nutrients.
+Conditionally essential nutrients are certain organic molecules that can normally be synthesized by an organism, but under certain conditions such biosynthesis is not enough to prevent a deficiency syndrome.
+In humans, such conditions include prematurity, limited nutrient intake, rapid growth, and certain disease states.
+Choline, inositol, taurine, arginine, glutamine and nucleotides are classified as conditionally essential and are particularly important in neonatal diet and metabolism.

@@ -1,0 +1,24 @@
+========,1,preface.
+A citation index is a kind of bibliographic index, an index of citations between publications, allowing the user to easily establish which later documents cite which earlier documents.
+A form of citation index is first found in 12th-century Hebrew religious literature.
+Legal citation indexes are found in the 18th century and were made popular by citators such as Shepard's Citations (1873).
+In 1960, Eugene Garfield's Institute for Scientific Information (ISI) introduced the first citation index for papers published in academic journals, first the "Science Citation Index" (SCI), and later the "Social Sciences Citation Index" (SSCI) and the "Arts and Humanities Citation Index" (AHCI).
+The first automated citation indexing was done by CiteSeer in 1997.
+Other sources for such data include Google Scholar and Elsevier's Scopus.
+========,2,History.
+The earliest known citation index is an index of biblical citations in rabbinic literature, the "Mafteah ha-Derashot", attributed to Maimonides and probably dating to the 12th century.
+It is organized alphabetically by biblical phrase.
+Later biblical citation indexes are in the order of the canonical text.
+These citation indices were used both for general and for legal study.
+The Talmudic citation index "En Mishpat" (1714) even included a symbol to indicate whether a Talmudic decision had been overridden, just as in the 19th-century "Shepard's Citations".
+Unlike modern scholarly citation indexes, only references to one work, the Bible, were indexed.
+In English legal literature, volumes of judicial reports included lists of cases cited in that volume starting with "Raymond's Reports" (1743) and followed by "Douglas's Reports" (1783).
+Simon Greenleaf (1821) published an alphabetical list of cases with notes on later decisions affecting the precedential authority of the original decision.
+The first true citation index dates to the 1860 publication of Labatt's "Table of Cases...California...", followed in 1872 by Wait's "Table of Cases...New York...".
+But the most important and best-known citation index came with the 1873 publication of Shepard's Citations.
+========,2,Major citation indexing services.
+General-purpose academic citation indexes include:
+***LIST***.
+Each of these offer an index of citations between publications and a mechanism to establish which documents cite which other documents.
+They differ widely in cost: Web of Science and Scopus are available by subscription (generally to libraries).
+In addition, CiteSeer and Google Scholar are freely available online.

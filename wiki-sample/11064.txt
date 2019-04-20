@@ -1,0 +1,141 @@
+========,1,preface.
+========,2,Stages of faith development.
+James W. Fowler (1940-2015) proposes a series of stages of faith-development (or spiritual development) across the human life-span.
+His stages relate closely to the work of Piaget, Erikson, and Kohlberg regarding aspects of psychological development in children and adults.
+Fowler defines faith as an activity of trusting, committing, and relating to the world based on a set of assumptions of how one is related to others and the world.
+========,3,Stages of faith.
+***LIST***.
+No hard-and-fast rule requires individuals pursuing faith to go through all six stages.
+There is a high probability for individuals to be content and fixed in a particular stage for a lifetime; stages from 2-5 are such stages.
+Stage 6 is the summit of faith development.
+This state is often considered as "not fully" attainable.
+========,2,Epistemological validity.
+========,3,Fideism.
+Fideism is an epistemological theory which maintains that faith is independent of reason, or that reason and faith are hostile to each other and faith is superior at arriving at particular truths (see natural theology).
+Fideism is not a synonym for religious belief, but describes a particular philosophical proposition in regard to the relationship between faith's appropriate jurisdiction at arriving at truths, contrasted against reason.
+It states that faith is needed to determine some philosophical and religious truths, and it questions the ability of reason to arrive at all truth.
+The word and concept had its origin in the mid- to late-19th century by way of Catholic thought, in a movement called Traditionalism.
+The Roman Catholic Magisterium has, however, repeatedly condemned fideism.
+========,2,Religious views.
+========,3,Bahá'í Faith.
+In the Bahá'í Faith, faith is meant, first, conscious knowledge, and second, the practice of good deeds, ultimately the acceptance of the divine authority of the Manifestations of God.
+In the religion's view, faith and knowledge are both required for spiritual growth.
+Faith involves more than outward obedience to this authority, but also must be based on a deep personal understanding of religious teachings.
+========,3,Buddhism.
+Faith (Pali: "Saddhā", Sanskrit: "Śraddhā") is an important constituent element of the teachings of Gautama Buddha— in both the Theravada and the Mahayana traditions.
+The teachings of Buddha were originally recorded in the language Pali and the word "saddhā" is generally translated as "faith".
+In the teachings, saddhā is often described as:
+***LIST***.
+While faith in Buddhism does not imply "blind faith", Buddhist practice nevertheless requires a degree of trust, primarily in the spiritual attainment of Gautama Buddha.
+Faith in Buddhism centers on the understanding that the Buddha is an Awakened being, on his superior role as teacher, in the truth of his Dharma (spiritual teachings), and in his Sangha (community of spiritually developed followers).
+Faith in Buddhism can be summarised as faith in the Three Jewels: the Buddha, Dharma and Sangha.
+It is intended to lead to the goal of enlightenment, or bodhi, and Nirvana.
+Volitionally, faith implies a resolute and courageous act of will.
+It combines the steadfast resolution that one will do a thing with the self-confidence that one can do it.
+As a counter to any form of "blind faith", the Buddha's teachings included those included in the Kalama Sutra, exhorting his disciples to investigate any teaching and to live by what is learnt and accepted, rather than believing in something simply because it is taught.
+========,3,Christianity.
+The word translated as "faith" in the New Testament is the Greek word πίστις which can also be translated "belief", "faithfulness", and "trust".
+There are various views in Christianity regarding the nature of faith.
+Some see faith as being persuaded or convinced that something is true.
+In this view, a person believes something when they are presented with adequate evidence that it is true.
+Theologian Greg Boyd argues to the contrary, that faith includes doubt.
+Then there are numerous views regarding the results of faith.
+Some believe that true faith results in good works, while others believe that while faith in Jesus brings eternal life, it does not necessarily result in good works.
+Regardless of which approach to faith a Christian takes, all agree that the Christian faith is aligned with the ideals and the example of the life of Jesus.
+The Christian sees the mystery of God and his grace and seeks to know and become obedient to God.
+To a Christian, faith is not static but causes one to learn more of God and to grow; Christian faith has its origin in God.
+In Christianity, faith causes change as it seeks a greater understanding of God.
+Faith is not only fideism or simple obedience to a set of rules or statements.
+Before Christians have faith, they must understand in whom and in what they have faith.
+Without understanding, there cannot be true faith, and that understanding is built on the foundation of the community of believers, the scriptures and traditions and on the personal experiences of the believer.
+In English translations of the New Testament, the word "faith" generally corresponds to the Greek noun πίστις ("pistis") or to the Greek verb πιστεύω ("pisteuo"), meaning "to trust, to have confidence, faithfulness, to be reliable, to assure".
+========,4,Christian apologetic views.
+In contrast to noted atheist Richard Dawkins' view of faith as "blind trust, in the absence of evidence, even in the teeth of evidence", Alister McGrath quotes the Oxford Anglican theologian W. H. Griffith-Thomas (1861-1924), who states that faith is "not blind, but intelligent" and that it "commences with the conviction of the mind based on adequate evidence...", which McGrath sees as "a good and reliable definition, synthesizing the core elements of the characteristic Christian understanding of faith".
+American biblical scholar Archibald Thomas Robertson stated that the Greek word "pistis" used for faith in the New Testament (over two hundred forty times), and rendered "assurance" in Acts 17:31 (KJV), is "an old verb meaning "to furnish", used regularly by Demosthenes for bringing forward evidence."
+Tom Price (Oxford Centre for Christian Apologetics) affirms that when the New Testament talks about faith positively it only uses words derived from the Greek root [pistis] which means "to be persuaded".
+British Christian apologist John Lennox argues that "faith conceived as belief that lacks warrant is very different from faith conceived as belief that has warrant".
+He states that "the use of the adjective 'blind' to describe 'faith' indicates that faith is not necessarily, or always, or indeed normally, blind".
+"The validity, or warrant, of faith or belief depends on the strength of the evidence on which the belief is based."
+"We all know how to distinguish between blind faith and evidence-based faith.
+We are well aware that faith is only justified if there is evidence to back it up."
+"Evidence-based faith is the normal concept on which we base our everyday lives."
+Peter S Williams holds that "the classic Christian tradition has always valued rationality, and does not hold that faith involves the complete abandonment of reason will believing in the teeth of evidence."
+Quoting Moreland, faith is defined as "a trust in and commitment to what we have reason to believe is true."
+Regarding doubting Thomas in John 20:24-31, Williams points out that "Thomas wasn't asked to believe without evidence".
+He was asked to believe on the basis of the other disciples' testimony.
+Thomas initially lacked the first-hand experience of the evidence that had convinced them...
+Moreover, the reason John gives for recounting these events is that what he saw is evidence... Jesus did many other miraculous signs in the presence of his disciples...But these are written that you may believe that Jesus is the Christ, the son of God, and that believing ye might have life in his name.
+John 20:30,31.
+Concerning doubting Thomas, Michael R. Allen wrote, "Thomas's definition of faith implies adherence to conceptual propositions for the sake of personal knowledge, knowledge of and about a person "qua" person".
+Kenneth Boa and Robert M. Bowman Jr. describe a classic understanding of faith that is referred to as "evidentialism", and which is part of a larger epistemological tradition called "classical foundationalism", which is accompanied by "deontologism", which holds that humans have an obligation to regulate their beliefs in accordance with evidentialist structures.
+They show how this can go too far, and Alvin Plantinga deals with it.
+While Plantinga upholds that faith may be the result of evidence testifying to the reliability of the source (of the truth claims), yet he sees having faith as being the result of hearing the truth of the gospel with the internal persuasion by the Holy Spirit moving and enabling him to believe.
+"Christian belief is produced in the believer by the internal instigation of the Holy Spirit, endorsing the teachings of Scripture, which is itself divinely inspired by the Holy Spirit.
+The result of the work of the Holy Spirit is faith."
+========,3,Hinduism.
+Ahimsa, also referred to as non-violence, is the fundamental tenet of Hinduism which advocates harmonious and peaceful co-existence and evolutionary growth in grace and wisdom for all humankind unconditionally.
+In Hinduism, most of the Vedic prayers begins with the chants of Om.
+Om is the Sanskrit symbol that amazingly resonates the peacefulness ensconced within one's higher self.
+Om is considered to have a profound effect on the body and mind of the one who chants and also creates a calmness, serenity, healing, strength of its own to prevail within and also in the surrounding environment.
+========,3,Islam.
+In Islam, a believer's faith in the metaphysical aspects of Islam is called "Iman" (), which is complete submission to the will of God, not unquestionable or blind belief.
+A man must build his faith on well-grounded convictions beyond any reasonable doubt and above uncertainty.
+According to the Quran, Iman must be accompanied by righteous deeds and the two together are necessary for entry into Paradise.
+In the Hadith of Gabriel, "Iman" in addition to "Islam" and "Ihsan" form the three dimensions of the Islamic religion.
+Prophet Muhammad referred to the six articles of faith in the Hadith of Gabriel: "Iman is that you believe in God and His Angels and His Books and His Messengers and the Hereafter and the good and evil fate [ordained by your God]."
+The first five are mentioned together in the Qur'an The Quran states that faith can grow with remembrance of God.
+The Qur'an also states that nothing in this world should be dearer to a true believer than faith.
+========,3,Judaism.
+Faith itself is not a religious concept in Judaism.
+The only one time "faith in God" is mentioned in the 24 books of the Jewish Bible, is in verse 10 of the Book of Isaiah, Chapter 43.
+In this verse, the commandment to know God is followed by the commandments to believe and to understand, thus denoting descending importance.
+However, Judaism does recognize the positive value of "Emunah" (generally translated as faith, trust in God) and the negative status of the "Apikorus" (heretic), but faith is not as stressed or as central as it is in other religions, especially compared with Christianity and Islam.
+It could be a necessary means for being a practicing religious Jew, but the emphasis is placed on true knowledge, true prophecy and practice rather than on faith itself.
+Very rarely does it relate to any teaching that must be believed.
+Judaism does not require one to explicitly identify God (a key tenet of Christian faith, which is called Avodah Zarah in Judaism, a minor form of idol worship, a big sin and strictly forbidden to Jews).
+Rather, in Judaism, one is to honour a (personal) idea of God, supported by the many principles quoted in the Talmud to define Judaism, mostly by what it is not.
+Thus there is no established formulation of Jewish principles of faith which are mandatory for all (observant) Jews.
+In the Jewish scriptures trust in God - "Emunah" - refers to how God acts toward his people and how they are to respond to him; it is rooted in the everlasting covenant established in the Torah, notably Deuteronomy 7:9:
+The specific tenets that compose required belief and their application to the times have been disputed throughout Jewish history.
+Today many, but not all, Orthodox Jews have accepted Maimonides' Thirteen Principles of Belief.
+A traditional example of "Emunah" as seen in the Jewish annals is found in the person of Abraham.
+On a number of occasions, Abraham both accepts statements from God that seem impossible and offers obedient actions in response to direction from God to do things that seem implausible (see Genesis 12-15).
+"The Talmud describes how a thief also believes in G‑d: On the brink of his forced entry, as he is about to risk his life—and the life of his victim—he cries out with all sincerity, 'G‑d help me!'
+The thief has faith that there is a G‑d who hears his cries, yet it escapes him that this G‑d may be able to provide for him without requiring that he abrogate G‑d’s will by stealing from others.
+For "emunah" to affect him in this way he needs study and contemplation."
+========,3,Sikhism.
+Faith itself is not a religious concept in Sikhism.
+However, the five Sikh symbols, known as Kakaars or Five Ks (in Punjabi known as pañj kakkē or pañj kakār), are sometimes referred to as the "Five articles of Faith".
+The articles include "kēs" (uncut hair), "kaṅghā" (small wooden comb), "kaṛā" (circular steel or iron bracelet), "kirpān" (sword/dagger), and "kacchera" (special undergarment).
+Baptised Sikhs are bound to wear those five articles of faith, at all times, to save them from bad company and keep them close to God.
+========,2,Support.
+Religious epistemologists have formulated and defended reasons for the rationality of accepting belief in God without the support of an argument.
+Some religious epistemologists hold that belief in God is more analogous to belief in a person than belief in a scientific hypothesis.
+Human relations demand trust and commitment.
+If belief in God is more like belief in other persons, then the trust that is appropriate to persons will be appropriate to God.
+American psychologist and philosopher William James offers a similar argument in his lecture "The Will to Believe."
+Foundationalism is a view about the structure of justification or knowledge.
+Foundationalism holds that all knowledge and justified belief are ultimately based upon what are called properly basic beliefs.
+This position is intended to resolve the infinite regress problem in epistemology.
+According to foundationalism, a belief is epistemically justified only if it is justified by properly basic beliefs.
+One of the significant developments in foundationalism is the rise of reformed epistemology.
+Reformed epistemology is a view about the epistemology of religious belief, which holds that belief in God can be properly basic.
+Analytic philosophers Alvin Plantinga and Nicholas Wolterstorff develop this view.
+Plantinga holds that an individual may rationally believe in God even though the individual does not possess sufficient evidence to convince an agnostic.
+One difference between reformed epistemology and fideism is that the former requires defence against known objections, whereas the latter might dismiss such objections as irrelevant.
+Plantinga has developed reformed epistemology in "Warranted Christian Belief" as a form of externalism that holds that the justification conferring factors for a belief may include external factors.
+Some theistic philosophers have defended theism by granting evidentialism but supporting theism through deductive arguments whose premises are considered justifiable.
+Some of these arguments are probabilistic, either in the sense of having weight but being inconclusive, or in the sense of having a mathematical probability assigned to them.
+Notable in this regard are the cumulative arguments presented by British philosopher Basil Mitchell and analytic philosopher Richard Swinburne, whose arguments are based on Bayesian probability.
+In a notable exposition of his arguments, Swinburne appeals to an inference for the best explanation.
+Professor of Mathematics and philosopher of science at University of Oxford John Lennox has stated, "Faith is not a leap in the dark; it’s the exact opposite.
+It’s a commitment based on evidence… It is irrational to reduce all faith to blind faith and then subject it to ridicule.
+That provides a very anti-intellectual and convenient way of avoiding intelligent discussion.” He criticises Richard Dawkins as a famous proponent of asserting that faith equates to holding a belief without evidence, thus that it is possible to hold belief without evidence, for failing to provide evidence for this assertion.
+========,2,Criticism.
+Bertrand Russell wrote:
+Evolutionary biologist Richard Dawkins criticizes all faith by generalizing from specific faith in propositions that conflict directly with scientific evidence.
+He describes faith as belief without evidence; a process of active non-thinking.
+He states that it is a practice that only degrades our understanding of the natural world by allowing anyone to make a claim about nature that is based solely on their personal thoughts, and possibly distorted perceptions, that does not require testing against nature, has no ability to make reliable and consistent predictions, and is not subject to peer review.
+From the position and observations of Aron Ra, the president of the Atheist Alliance of America:"Religious faith is an unreasonable assertion of stoic conviction which is assumed without reason and is defended against all reason.
+"in an attempt to discredit faith as contrary to reason and to discredit people of faith as intellectually inept.
+His criticism includes ad hominem arguments like to refer to Wiliam Lane Craig as William Lyin’ Craig

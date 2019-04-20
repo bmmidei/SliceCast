@@ -1,0 +1,52 @@
+========,1,preface.
+Police 911, called in Japan and Police 24/7 in Europe, is a series of light gun shooter arcade games.
+Konami released the first game in 2000.
+Unlike earlier light gun games, the game was unique for its motion sensing technology, sensing body movement rather than requiring the player to move individual controls; the player's "real world" actions are reflected by the player character within the game.
+It also featured a unique cover system, where the player takes cover by physically ducking for cover rather than pressing a button.
+The 2001 Konami arcade game "MoCap Boxing" used similar motion-sensing technology.
+Although the game was a separate canon from the "Lethal Enforcers" series, Konami acknowledged "Lethal Enforcers 3" as the successor to the "Police 911" series, thus making it a canon in the "Lethal Enforcers" series.
+========,2,Gameplay.
+The gameplay in "Police 911" can be considered more interactive than most light gun games; instead of merely standing in one place and shooting enemies before you are shot, the game uses infrared sensors to determine a player's location; through this, the player is able to dodge around (with the knees, while standing on the pad), duck to avoid bullets (and reload), and lean out to maximize cover and get a better shot.
+This is not foolproof, however; enemies will continue to shoot while the player is hiding, so it is possible to rise up and immediately get shot if the player is not careful.
+Also, like "Time Crisis", the timer is continually running down, so one cannot hide for very long.
+========,3,Promotions.
+As the player successfully completes each sub-part of a level, they gain a point towards a new rank.
+The higher a player's rank, the greater bonuses they can receive; growing time increments to start, followed by additional "lives", with the highest rank rewarding the player with 100 additional lives—however, considering that the timer continues to decrease whenever a player goes through their death animation, and that no additional time bonuses will be given after they reach that rank, this may be more of an oversight by the design team, or that the design team knows that there was no way for the player to use all those lives in one game because of the time.
+In addition, the player's rank reverts to the bottom whenever they get shot, so a potential strategy for a skilled player would be to ascend to the point where they gain a life, then immediately die so the time bonuses may be re-earned.
+However, if a player shoots civilians or fellow officers, it will deduct the rank; if it is lowered below a "reward rank", the reward will not be re-earned.
+The ranks are as follows:
+***LIST***.
+========,2,Versions.
+========,3,Police 911.
+The first game of the series, called in Japan, was released in .
+It casts the player as either a "one man SWAT team" working for the Tokyo police, or an American police officer of the LAPD, working to take down members of the , an internationally based yakuza group.
+The game was ported to the PlayStation 2 video game console in 2001.
+========,3,Japanese version.
+In "The Keisatsukan: Shinjuku Ni Juu Yon Ji", the player begins on the streets of Kabuki-cho of Shinjuku, taking part in a raid on a nightclub owned by the Gokudo-kai; the officer, led by shielded riot squad members and surrounded by civilians (both whom the player must not shoot), can take different routes through the club as their shooting skill dictates.
+Once the players exit the club, they will be alerted that the suspects have scattered all over Japan to escape arrest, and arrest warrants have been issued for the 6 most wanted criminals in Shinjuku: , international weapon smuggler Richard Hansen, , , , and .
+Throughout the Mass Arrest Plan in Tokyo, it is determined that a number of fleeing suspects have fled to America; specifically, the Little Tokyo area in Los Angeles.
+The LAPD and FBI are notified, and an undercover detective is immediately dispatched to arrest remaining 3 fugitives to wrap up the mass arrest campaign.
+In "The Keisatsukan: Shinjuku Ni Juu Yon Ji", a newspaper headline flashes on the screen whenever a civilian is shot, because he or she can actually be killed.
+========,3,US/European version.
+In "Police 911/Police 24/7", the gameplay missions are reversed: the raid on the nightclub takes place in Los Angeles' Little Tokyo, followed by a "boss" fight with Richard Hansen at the crowded intersection with textures and buildings being digital replicas of the actual buildings around Los Angeles' 1st St. and San Pedro St.
+The Highway Chase and the underground garage are next, followed by the encounter with Bai Ei Lee; this time, he is the only one in the truck.
+A new warehouse level follows this; the player must stop Noriko Nagata from completing the smuggling of weapons to Japan, while in the original version, Richard Hansen had already completed the operation.
+At this point, it is determined that other fleeing suspects have returned to Japan; specifically, their base of operations in Kabuki-cho of Shinjuku.
+Tokyo's International Investigation Unit is contacted, and an undercover detective is immediately dispatched to arrest Matsuyama, Matsuoka, and Haraguchi at Ichibandai, Shinjuju Station Square, and the Shinjuku subway at the FBI's behalf.
+Finally, rather than showing a newspaper headline that civilians are killed on screen by the player as displayed in "The Keisatsukan: Shinjuku Ni Juu Yon Ji", the player simply loses a rank in "Police 911/Police 24/7" and is reminded not to shoot civilians or colleagues, but they are otherwise unharmed.
+========,2,Police 911 2.
+The second game, called Police 24/7 2 in Europe and in Japan, was released one year after the release of Police 911.
+The game takes place exclusively in Japan and players can choose 6 cities—Osaka, Hakata, Shinjuku, Kobe, Nagoya, and Sapporo.
+The first stage takes place in the scene of the crime and the following stage takes place in a shortened version of the usual city stage.
+The rest of the game takes place in normal stages before the player has to return to Osaka to arrest the remaining criminals.
+Police 911 2 expands the original police officer role to four different characters.
+They can choose from a Tokyo police officer (male or female), a detective from the Metro Police, or a SAT (Special Assault Team) trooper, each carrying different handguns (5-round revolver, 8-round Glock, 12-round HK MP5).
+In the overseas version, the police woman and the detective are male and female American Interpol Operatives holding 8-round glocks.
+========,3,Plot.
+Japanese mafia crimes are growing rapidly and rigidly as the Japanese government ordered a nationwide arrest plan (Senkoku Taitaiseki) throughout the whole nation to arrest all involved criminals.
+Criminal activity has increased by order of the infamous Japanese mafia Gokudo-kai.
+The growth of mafia crimes are rising at record levels due to a collaboration with a Hong Kong mafia group called ("Dragonhead in English").
+Finally, a mysterious kingpin is hiding behind-the-scenes to ensure that Japan falls down to the hands of the Gokudo-kai and the Ryuuto.
+Players start the investigation inside an office building where a collaboration deal is taking place between the Gokudo-kai and the Dragonheads.
+After arresting the first wave of criminals, nationwide arrest warrants have been issued for the capture of the following suspects holed in Osaka, Hakata, Shinjuku, Kobe, Nagoya, and Sapporo: , , , , Koji Motomura (sometimes mistranslated as Hiroshi Motomura; 本村 弘司 "Motomura Koji"), Sadaharu Kitaya (sometimes mistranslated as Sadaharu Kitadani; 北谷 貞治 "Kitaya Sadaharu"), and Hung Ko Cheung (熊 谷章).
+Arresting 3 behind-the-scene criminals throughout the game gives players a chance to capture the behind-the-scenes kingpin, "Shigenobu Matsuyama".

@@ -1,0 +1,40 @@
+========,1,preface.
+Spirit Lake is a city in Kootenai County, Idaho, United States.
+The population was 1,945 at the 2010 census, up from 1,376 in 2000.
+It is part of the Coeur d'Alene Metropolitan Statistical Area, which includes the entire county.
+========,2,History.
+A post office called Spirit Lake has been in operation since 1903.
+The city took its name from nearby Spirit Lake.
+========,2,Geography.
+Spirit Lake is located at , at an elevation of above sea level.
+According to the United States Census Bureau, the city has a total area of , all land.
+========,2,Demographics.
+========,3,2010 census.
+As of the census of 2010, there were 1,945 people, 739 households, and 530 families residing in the city.
+The population density was .
+There were 797 housing units at an average density of .
+The racial makeup of the city was 96.3% White, 0.2% African American, 0.5% Native American, 0.4% Asian, 0.1% Pacific Islander, 0.6% from other races, and 1.9% from two or more races.
+Hispanic or Latino of any race were 2.8% of the population.
+There were 739 households of which 38.0% had children under the age of 18 living with them, 53.9% were married couples living together, 11.4% had a female householder with no husband present, 6.5% had a male householder with no wife present, and 28.3% were non-families.
+22.6% of all households were made up of individuals and 7.4% had someone living alone who was 65 years of age or older.
+The average household size was 2.63 and the average family size was 3.06.
+The median age in the city was 37.8 years.
+27.7% of residents were under the age of 18; 6.6% were between the ages of 18 and 24; 24.4% were from 25 to 44; 29.4% were from 45 to 64; and 11.9% were 65 years of age or older.
+The gender makeup of the city was 50.3% male and 49.7% female.
+========,3,2000 census.
+As of the census of 2000, there were 1,376 people, 517 households, and 369 families residing in the city.
+The population density was 723.8 people per square mile (279.6/km²).
+There were 587 housing units at an average density of 308.8 per square mile (119.3/km²).
+The racial makeup of the city was 95.57% White, 0.15% African American, 0.65% Native American, 0.15% Asian, 0.07% Pacific Islander, 1.45% from other races, and 1.96% from two or more races.
+Hispanic or Latino of any race were 2.40% of the population.
+There were 517 households out of which 37.9% had children under the age of 18 living with them, 55.7% were married couples living together, 10.4% had a female householder with no husband present, and 28.6% were non-families.
+22.8% of all households were made up of individuals and 7.4% had someone living alone who was 65 years of age or older.
+The average household size was 2.66 and the average family size was 3.07.
+In the city, the population was spread out with 29.9% under the age of 18, 5.7% from 18 to 24, 30.1% from 25 to 44, 24.2% from 45 to 64, and 10.1% who were 65 years of age or older.
+The median age was 36 years.
+For every 100 females there were 94.6 males.
+For every 100 females age 18 and over, there were 98.8 males.
+The median income for a household in the city was $28,854, and the median income for a family was $32,337.
+Males had a median income of $25,875 versus $18,092 for females.
+The per capita income for the city was $13,592.
+About 11.6% of families and 16.4% of the population were below the poverty line, including 20.8% of those under age 18 and 6.3% of those age 65 or over.

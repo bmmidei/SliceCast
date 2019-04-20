@@ -1,0 +1,33 @@
+========,1,preface.
+Childs v Desormeaux, is a Supreme Court of Canada decision on the topic of social host liability.
+The Court held that a social host does not owe a duty of care to a person injured by a guest who has consumed alcohol.
+========,2,Background.
+Julie Zimmerman and Dwight Courrier hosted a New Year's pot-luck dinner to which guests were to bring their own alcohol.
+Desmond Desormeaux, a guest at the party and long-time heavy drinker, drank approximately 12 beers in over 2 and a half hours that evening.
+According to the version of events accepted by both sides, the hosts did not monitor his drinking more closely than the drinking of the other guests.
+Desormeaux drove home after a brief conversation with Courrier, who asked him, "Bro, are you going to be all right?".
+On the way home, he was involved in a car crash, paralyzing the passenger Zoë Childs and killing another passenger, Derek Dupre.
+Finding liability in this case would mean recognizing a new duty of care.
+To determine whether or not such a duty existed, all three levels of court used the standard test in Canadian law: the Anns two-stage test.
+This test was introduced in the United Kingdom in the case of "Anns v. Merton London Borough Council" [1977] 2 All ER 492; it was adopted in Canada in "City of Kamloops v. Nielsen" (1984), 10 DLR (4th) 641.
+The two-stage test was also adopted by other common law jurisdictions, but has since been repudiated in the United Kingdom and every major common law jurisdiction except Canada.
+In Canada, the test has undergone several developments since "Kamloops", most notably in "Cooper v. Hobart", [2001] 3 S.C.R.
+The trial judge at the Ontario Superior Court of Justice found that the injury to Childs was reasonably foreseeable, that is, a reasonable person in the position of Mr. Courrier and Ms. Zimmerman would have foreseen that Mr. Desormeaux might cause an accident and injure someone else—but refused to impose a duty of care based on public policy grounds (2002), 217 D.L.R.
+(4th) 217).
+Like the trial court, the Court of Appeal for Ontario held that Zimmerman and Courrier did not owe a duty of care to Childs, but for different reasons: the relationship between the hosts and the guest was not proximate enough to ground a duty of care.
+This was because, among other things, the hosts did not serve alcohol to Desormeaux and did not know he was intoxicated, they did not assume control over the service of alcohol, there was no statute imposing a duty to monitor drinking on social hosts, and the hosts did not otherwise assume responsibility for Desormeaux's safety.
+========,2,Supreme Court Decision.
+The Supreme Court held that a duty of care did not exist between the social hosts (Courrier and Zimmerman) and the third-party users of the road (Childs) injured by Desormeaux.
+Like the Ontario Court of Appeal, the Supreme Court found that the proximity between the plaintiffs and defendants was not sufficient to ground a duty of care.
+Unlike the Ontario court, however, the Supreme Court did not even discuss the second stage of the Anns/Kamloops Test, writing simply that since sufficient proximity was not present in the relationship between the parties, it was not necessary to discuss the second stage.
+========,2,Development of the two-stage Anns/Kamloops test.
+Looking at the three decisions in sequence, a pattern emerges.
+First, the trial judge found sufficient proximity under the first stage of the Anns/Kamloops test but declined to impose liability because of policy concerns under the second stage.
+Second, the Ontario Court of Appeal found insufficient proximity, disagreeing with the trial judge, but still went on to an extensive discussion of the second stage's broader policy concerns.
+Finally, the Supreme Court did all its analysis under the first stage, concentrating on the relationship between the defendant social hosts and Desormeaux.
+There are two possible readings of this progression.
+First, they could each represent different accounts of the facts under a fundamentally similar version of the Anns/Kamloops test.
+Second, they could represent different versions of the Anns/Kamloops test, with each court successively reducing the role of the second stage.
+Under this interpretation, one could see Canadian Courts as moving towards a rejection of the two stage test that would bring Canada into line with other common law jurisdictions that have also rejected the test.
+One could see the Supreme Court as paying lip service to the second stage test which continues to exist merely as a vestigial limb.
+This interpretation would build on the Court's decision in "Cooper v. Hobart", where the Court held that most duty-of-care cases would be decided under the first stage of the Anns/Kamloops test.

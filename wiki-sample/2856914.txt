@@ -1,0 +1,38 @@
+========,1,preface.
+Desmoteplase is a novel, highly fibrin-specific "clot-busting" (thrombolytic) drug in development that reached phase III clinical trials.
+The Danish pharmaceutical company, Lundbeck, owns the worldwide rights to desmoteplase.
+In 2009, two large trials (DIAS-3 and DIAS-4) were started to test it as a safe and effective treatment for patients with acute ischaemic stroke.
+After disappointing results in DIAS-3, DIAS-4 was terminated, and in December 2014 Lundbeck announced that they would stop the development of desmoteplase.
+========,2,Discovery of desmoteplase.
+As early as in 1932, the saliva of the vampire bat ("Desmodus rotundus") was known to lead to interference with the haemostatic mechanism of the host animal.
+In 1991, the DNA coding of four plasminogen activators present in the saliva of the vampire bat was completed.
+Of the four, recombinant "D. rotundus" salivary plasminogen activator alpha 1 (rDSPAα1; desmoteplase) was investigated further.
+========,2,Chemical structure.
+The structure of desmoteplase is similar to rt-PA (alteplase), but it does not contain the plasmin-sensitive cleavage site and the lysine-binding Kringle 2 domain.
+As a result, desmoteplase, in comparison to rt-PA, has high fibrin selectivity (100,000- v. 550-fold increase in catalytic activity), an absence of neurotoxicity, and no apparent negative effect on the blood–brain barrier.
+Desmoteplase also has a half-life of about four hours; rtPA has a terminal plasma half-life of about 5 minutes.
+========,2,Desmoteplase in acute ischaemic stroke clinical trial program.
+The two phase II trials DIAS and DEDAS indicated that when intravenous (IV) desmoteplase was administered three to 9 hours after onset of ischaemic stroke symptoms, it was associated with a high rate of reperfusion and a low rate of symptomatic intracranial haemorrhage at doses up to 125 µg/kg.
+In the subsequent DIAS-2 trial, the same benefit could not be shown.
+This could be explained by the inclusion of a substantial amount of patients with a mild stroke at baseline and small mismatch volumes associated with no vessel occlusion.
+Post hoc analyses of the DIAS-2 data and the pooled data of the DIAS, DEDAS and DIAS-2 data showed that patients who had a proximal cerebral vessel occlusion or high-grade stenosis on baseline angiography, had a positive response for desmoteplase.
+In 2009, the DIAS-3 and DIAS-4 phase III trials started, each planning to enroll 400 patients worldwide who had had an acute ischaemic stroke.
+Participants are treated with desmoteplase as an intravenous bolus dose of 90 µg/kg within three to 9 hours after stroke symptom onset.
+Patients are selected with occlusion or high-grade stenosis (TIMI 0-1) in proximal cerebral arteries as assessed by magnetic resonance or computed tomography angiography.
+Wherever possible, additional perfusion-weighted imaging and diffusion-weighted imaging assessments will be done.
+The outcomes of DIAS-3 and DIAS-4 studies should tell whether desmoteplase is a breakthrough treatment for acute ischaemic stroke.
+In June 2014, Lundbeck published a press release about the DIAS-3 study revealing neutral results in an intention-to-treat analysis.
+The proportion of patients presenting good clinical outcome was comparable in the desmoteplase group (51.3%) and in the placebo group (49.8%).
+Notably, Lundbeck mentioned that, when analysing per protocol, desmoteplase showed an effect relative to placebo.
+Publication of the final results is still awaited.
+After the disappointing results in DIAS-3, the DIAS-4 trial was terminated.
+In December 2014 Lundbeck announced they would stop the development of desmoteplase and the company made a write-down of 309 million Danish crowns.
+========,2,Significance of the time window.
+Current standards of treatment allow for IV rt-PA up to 4.5 hours in ischaemic stroke.
+After this time window, the benefit is typically thought to be outweighed by the risk of brain haemorrhage.
+Interarterial approaches are thought to be useful up to six hours.
+Nevertheless, CT-perfusion scans and MRI-perfusion versus MRI-diffusion demonstrate that even after six hours a significant ischaemic penumbra of brain tissue may be salvageable.
+Some approaches to this involves mechanical removal of clot (for example the Merci device, the penumbra device and removable stents like Solitaire).
+If desmoteplase can extend the IV treatment window to 9 hours, this would allow a much larger percentage of ischaemic stroke patients to receive active thrombolytic treatment – including patients who were delayed in getting to the hospital and neurological assessment.
+This could make a substantial difference in stroke outcomes.
+A 9-hour treatment window could also have a major impact on the treatment of "wake-up" strokes - where a patient awoke with symptoms, and is not sure whether the stroke occurred within the past 4.5 hours.

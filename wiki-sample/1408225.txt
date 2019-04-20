@@ -1,0 +1,24 @@
+========,1,preface.
+========,2,Education and early life.
+Gimzewski was born in Glasgow to Polish World War II war veteran Edmund Gimzewski.
+He earned his undergraduate degree in 1974 and PhD in 1977 from the University of Strathclyde in Glasgow.
+Until February 2001, he was a group leader at the IBM Zurich Research Laboratory, where he was involved in nanoscale science since 1983.
+Currently, he is a Professor in the Department of Chemistry and Biochemistry at UCLA, where he conducts research and advises graduate students in his PicoLab.
+He is also the faculty director of the Nano & Pico Characterization core lab at the California NanoSystems Institute at UCLA.
+========,2,Research.
+He pioneered research on electrical contact with single atoms and molecules, light emission and molecular imaging using STM.
+His accomplishments include the first STM-manipulation of molecules at room temperature, the realization of molecular abacus using buckyballs (C), the discovery of single molecule rotors and the development of nanomechanical sensors based on nanotechnology, which explore the ultimate limits of sensitivity and measurement.
+Recently , he discovered a new method to synthesize carbon nanotubes more regular in diameter and length.
+His current interests within CNSI are in the Nanoarchitectonics of molecular systems and molecular and biomolecular machines, in particular those with quantum mechanical possibilities for information processing.
+Recently , he has undertaken research in biophysics, which he calls sonocytology.
+With UCLA graduate student Andrew Pelling, Gimzewski published sonocytology's debut report in the August 2004 issue of Science magazine.
+In the sonocytology studies, a Bioscope AFM (atomic force microscope) was modified to be able to detect the vibrations of the cell wall of a living cell.
+These vibrations, once amplified using computer software, created audible sound, and it was discovered that cancerous cells emit a slightly different sound than healthy cells do.
+Gimzewski and Pelling hope that sonocytology may someday have applications in early cancer detection and diagnosis.
+========,2,Awards and honours.
+In May 2009 Gimzewski was elected Fellow of the Royal Society, the highest award in Britain for excellence in Science.
+He received the 1997 Feynman Prize in Nanotechnology, the 1997 The Discover Award for Emerging Fields, the 1998 'Wires 25' Award from "Wired" magazine and the Institute of Physics "Duddell" 2001 prize and medal for his work in nanoscale science.
+He holds two IBM "Outstanding Innovation Awards", and is a Fellow of the Institute of Physics and a Chartered Physicist.
+Gimzewski was elected to the Royal Academy of Engineering, and he has joined the scientific boards of Carbon Nanotechnologies, Inc. and Veeco Instruments.
+With over 168 papers published, Gimzewski's research continues to appear in journals, such as "Science", "Chemical Engineering" and "Nature".
+He has also appeared in many popular magazines such as "Discover Magazine", "The New York Times", "Wall Street Journal", and "Scientific American".

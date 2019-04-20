@@ -1,0 +1,13 @@
+========,1,preface.
+Bomberman Max 2 is a video game released for the Game Boy Advance on 4 June 2002.
+The game was preceded by "Bomberman Max" which was released for the Game Boy Color on May 14, 2000.
+As with "Bomberman Max", there are two versions of "Bomberman Max 2": "Blue Advance" and "Red Advance".
+As in the first, in "Blue Advance" the playable character is Bomberman and in "Red Advance" the playable character is Max.
+========,2,Story.
+Bomberman and Max have been shrunk by the evil Mujoe's Mini-Mini Device.
+They must take revenge on him and his Hige Hige Gang, and, hopefully, return to their normal size.
+========,2,Gameplay.
+The gameplay is similar to most Bomberman games, where Bomberman and Max lay down bombs to destroy enemies, blocks, etc.
+Unlike past Bomberman games, however, there is a lack of the classic multiplayer, instead featuring a more Pokémon-like game.
+In this game, there are many monsters that Bomberman and Max can acquire and use to their advantage.
+Both games are more or less the same, although they both have some extra levels and different charaboms.

@@ -1,0 +1,80 @@
+========,1,preface.
+The Amerika-Bomber project was an initiative of the German "Reichsluftfahrtministerium" to obtain a long-range strategic bomber for the "Luftwaffe" that would be capable of striking the United States from Germany, a distance of about .
+The concept was raised as early as 1938, but advanced, cogent plans for such a long-range strategic bomber design did not begin to appear in "Reichsmarschall" Hermann Göring's offices until early 1942.
+Various proposals were put forward, including using it to deliver an atomic bomb (which Germany ultimately never developed), but they were all eventually abandoned as too expensive, and potentially consuming far too much of Germany's rapidly diminishing aviation production capacity after 1942.
+========,2,Background.
+According to Albert Speer's book, "", Adolf Hitler was fascinated with the idea of New York City in flames.
+In 1937, Willy Messerschmitt hoped to win a lucrative contract by showing Hitler a prototype of the Messerschmitt Me 264 that was being designed to reach North America from Europe.
+On 8 July 1938, barely two years after the death of Germany's main strategic bombing advocate, "Generalleutnant" Walter Wever, and eight months after the Reich Air Ministry awarded the contract for the design of the Heinkel He 177, Germany's only operational heavy bomber during the war years, the Luftwaffe's commander-in-chief Hermann Göring gave a speech saying, "I completely lack the bombers capable of round-trip flights to New York with a 4.5-tonne bomb load.
+I would be extremely happy to possess such a bomber, which would at last stuff the mouth of arrogance across the sea."
+Canadian historian Holger H. Herwig claims the plan started as a result of discussions by Hitler in November 1940 and May 1941 when he stated his need to "deploy long-range bombers against American cities from the Azores."
+Due to their location, he thought the Portuguese Azores islands were Germany's "only possibility of carrying out aerial attacks from a land base against the United States."
+At the time, Portuguese Prime Minister Salazar had allowed German U-boats and navy ships to refuel there, but from 1943 onwards, he leased bases in the Azores to the British, allowing the Allies to provide aerial coverage in the middle of the Atlantic.
+Requests for designs, at various stages during the war, were made to the major German aircraft manufacturers (Messerschmitt, Junkers, Focke-Wulf and the Horten Brothers) early in World War II, coinciding with the passage of the Destroyers for Bases Agreement between the United States and the United Kingdom in September 1940.
+Heinkel's bid for the project had occurred sometime shortly after February 1943, by which time the RLM had issued the Heinkel firm the airframe type number "8-277" for what essentially became its entry.
+========,2,The plan.
+The Amerika-Bomber Project plan was completed on April 27, 1942 and submitted to "Reichsmarschall" Hermann Göring on May 12, 1942.
+The 33-page plan was discovered in Potsdam by , a German historian.
+Ten copies of the plan were made, with six going to different Luftwaffe offices and four held in reserve.
+The plan specifically mentions using the Azores as a transit airfield to reach the United States.
+If utilized, the Heinkel He 277, Junkers Ju 390, and the Messerschmitt Me 264 could reach American targets with a 3 tonne, 5 tonne, and 6.5 tonne payload respectively.
+Although it is apparent that the plan itself deals only with an attack on American soil, it is possible the Nazis saw other interrelated strategic purposes for the Amerika-Bomber project.
+According to military historian James P. Duffy, Hitler "saw in the Azores the ... possibility for carrying out aerial attacks from a land base against the United States ... [which in turn would] force it to build up a large antiaircraft defense."
+The anticipated result would have been to force the United States to use more of its antiaircraft capabilities—guns and fighter planes—for its own defense rather than for that of Great Britain, thereby allowing the Luftwaffe to attack the latter country with less resistance.
+Partly as a liaison with the "Wehrmacht Heer", in May 1942 "Generalfeldmarschall" Erhard Milch requested the opinion of "Generalmajor" Eccard Freiherr von Gablenz on the new proposal, with regard to the aircraft available to fill the needs of an "Amerika Bomber", which had then included the Me 264, Fw 300 and the Ju 290. von Gablenz gave his opinion on the Me 264, as it was in the second half of 1942, before von Gablenz's own commitments in the Battle of Stalingrad occurred: the Me 264 could not be usefully equipped for a true trans-Atlantic bomber mission from Europe, but it would be useful for a number of very long-range maritime patrol duties in co-operation with the "Kriegsmarine's" U-boats off the US East Coast.
+========,2,Design.
+========,3,Conventional bombers.
+The most promising proposals were based on conventional principles of aircraft design, and would have yielded aircraft very similar in configuration and capability to the Allied heavy bombers of the day.
+These would have needed ultra-long range capability similar to the Messerschmitt Me 261 maritime reconnaissance design, the longest-ranged intended design actually flown during the Third Reich's existence.
+Many of the developed designs, themselves first submitted during 1943 suggested tricycle landing gear for their undercarriage, a relatively new feature for large German military aircraft designs of that era.
+These included the following concepts:
+***LIST***.
+Three prototypes of the Me 264 were built, but it was the Ju 390 that was selected for production.
+A verified pair of the Ju 390 design were constructed before the program was abandoned.
+After World War II, several authors claimed that the second Ju 390 actually made a transatlantic flight, coming within 20 km (12 mi) of the northeast U.S. coast in early 1944.
+As both the Me 264 and He 277 were each intended to be four-engined bombers from their origins, the troubling situation of being unable to develop combat-reliable piston aviation engines of 1,500 kW (2,000 PS) and above output levels led to both designs being considered for six-engined upgrades, with Messerschmitt's paper project for a 47.5 meter wingspan "Me 264B" airframe upgrade to use six BMW 801E radials, and the Heinkel firm's July 23, 1943-dated request from the RLM to propose a 45-meter wingspan, six-engined variant of the still-unfinalized He 277 airframe design that could alternatively accommodate four of the troublesome, over-1,500 kW output apiece Junkers Jumo 222 24-cylinder six-bank liquid-cooled engines, or two additional BMW 801E radials beyond the original quartet of them that it was originally meant to use - the July 23, 1943 date was also, ironically, the same day that the USAAF submitted a "letter of intent" to Convair, that ordered the first 100 production Convair B-36 bombers to be built, an enormous six-engined, 70-meter wingspan design far superior to either the Heinkel He 277 or Focke-Wulf Ta 400 designs.
+========,3,"Huckepack Projekt" (Piggyback Project).
+One idea similar to Mistel-Gespann was to have a Heinkel He 177 bomber carry a Dornier Do 217, powered with an additional "Lorin-Staustrahltriebwerk" (Lorin-ramjet), as far as possible over the Atlantic before releasing it.
+For the Do 217 it would have been a one-way trip.
+The aircraft would be ditched off the east coast, and its crew would be picked up by a waiting U-boat.
+When plans had advanced far enough, the lack of fuel and the loss of the base at Bordeaux prevented a test.
+The project was abandoned after the forced move to Istres increased the distance too much.
+The Huckepack Projekt was brought up again at multiple joint conferences between the Luftwaffe and Kriegsmarine.
+After a few weeks the plan was abandoned on August 21, 1942.
+Air Staff General Kreipe wrote in his diary that the German navy could not supply a U-boat off the United States to pick up the aircrew.
+The plan saw no further development, since the Kriegsmarine would not cooperate with the Luftwaffe.
+========,3,Flying wings.
+Other proposals were far more exotic jet- and rocket-powered designs, e.g.
+a flying wing.
+The Horten brothers designed the Horten Ho XVIII, a flying wing powered by six turbojets based on experiences with their existing Ho X design.
+The Arado company also suggested a six-jet flying wing design, the Arado E.555.
+========,3,Winged rockets.
+Other designs were rockets with wings.
+Perhaps the best-known of these today is Eugen Sänger's pre-war "Silbervogel ("Silverbird")" sub-orbital bomber.
+While the A4b rocket, winged version of the V-2 rocket and probably its successor A9 rocket were tested several times in late 1944/early 1945, the A9/A10 "Amerika-Rakete", planned as a full 2-staged ICBM, remained a project.
+========,2,Potential targets.
+Included in the plan was a list of 21 targets of military importance in North America.
+Many of these would not have been viable targets for conventional bombers of World War II, operating from bases in Europe.
+Of these targets, primarily but not exclusively located in the eastern United States, 19 were located in the United States; one in Vancouver, British Columbia, Canada (a possibly achievable target for a similar Japanese project) and one in Greenland.
+Nearly all were companies that manufactured parts for aircraft, so the goal was likely to cripple U.S. aircraft production.
+***LIST***.
+========,2,Feasibility.
+According to British Intelligence, a German prisoner of war was quoted saying that since the beginning of 1944, "…regular air travel between Germany and Japan [was] established for the transport of high officials," and took place with the Messerschmitt Me 264.
+To put this into perspective, the distance from Frankfurt, Germany to Tokyo, Japan is 9,160 km (5,691 mi) whereas the distance from New York City to Paris is 5,840 km (3,628 mi).
+However in the case of bombing New York City, that distance must be doubled to 11,680 km (7,256 mi) as the bomber will need to make a return trip without refueling.
+Using classical bombs, it is unlikely the potential damages would be estimated important enough to sacrifice the bomber.
+The only German World War II aircraft built and flown that had anything close to this specified range was the Messerschmitt Me 261 "Adolfine", with a maximum range of 11,025 km (6,850 mi).
+For the bomber to be an effective weapon, these engineering challenges need to be addressed.
+Had Hitler spent more time and resources on this project, it may have had a chance of working.
+However, unless Germany had possessed a cogent program to develop an atomic bomb, which would have taken even more time and resources, it is unlikely this aircraft would have made a big impact on the outcome of the war.
+Historian James P. Duffy believed that Germany had no central authority over the development and construction of advanced weaponry, including advanced military aircraft concepts and designs and an even more critical problem in developing conventional reciprocating aviation engines of power output levels of over 1,500 kW (2,000 PS) output apiece that could operate with reliability in combat conditions, needed to power ever more-advanced twin and multi-engined combat aircraft being designed after 1942.
+Due to this, German scientists were forced to compete for resources that were already scarce due to the war.
+Hitler was often swayed to spend more time, money and resources on his "miracle weapons" or projects that were exciting and new, but less likely to be successful.
+As a result, insufficient attention was also given to the Amerika-Bomber project.
+The project failed to come to fruition, not because the transatlantic bomber was not feasible, but because the Nazis were unable to manufacture enough parts to produce the aircraft.
+The Allied bombing was so intense near the end of the war it disrupted the German supply chain.
+Also, the German war machine was running very low on supplies, particularly fuel and kept what little was left for defense.
+Ultimately, all of these projects were deemed too expensive and ambitious and were thus abandoned.
+They continued to be of interest to aerospace engineers, as the British Air Ministry considered development of the Ho XVIII for an airliner after the war.
+Likewise, the theoretical groundwork done on the Sänger "Silbervogel" would prove seminal to lifting body designs in the space age.
+One source traces the concept of the US Space Shuttle back to the designs for the Amerika bomber.

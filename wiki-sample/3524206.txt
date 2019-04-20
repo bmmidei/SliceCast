@@ -1,0 +1,86 @@
+========,1,preface.
+DriveSpace (initially known as DoubleSpace) is a disk compression utility supplied with MS-DOS starting from version 6.0.
+The purpose of DriveSpace is to increase the amount of data the user could store on disks, by transparently compressing and decompressing data on-the-fly.
+It is primarily intended for use with hard drives, but use for floppy disks is also supported.
+========,2,Overview.
+In the most common usage scenario, the user would have one hard drive in the computer, with all the space allocated to one partition (usually as drive C:).
+The software would compress the entire drive contents into one large file in the root partition.
+On booting the system, the driver would allocate this large file as drive C:, enabling files to be accessed as normal.
+Microsoft's decision to develop DoubleSpace and add it to MS-DOS was probably influenced by the fact that DOS-based operating systems from other manufacturers (IBM and Novell) had started including disk compression software in their products.
+Instead of developing its own product from scratch, Microsoft licensed the technology for the DoubleDisk product developed by Vertisoft and adapted it to become DoubleSpace.
+For instance, the loading of the driver controlling the compression/decompression (DBLSPACE.BIN) became more deeply integrated into the operating system (being loaded even before the CONFIG.SYS file).
+Microsoft had originally sought to license the technology from Stac Electronics, which had a similar product called Stacker, but these negotiations had failed.
+Microsoft was later successfully sued for patent infringement by Stac Electronics for violating some of its compression patents.
+During the court case Stac Electronics claimed that Microsoft had refused to pay any money when it attempted to license Stacker, offering only the possibility for Stac Electronics to develop enhancement products.
+========,2,Consumption and compatibility.
+A few computer programs, particularly games, were incompatible with DoubleSpace because they effectively bypassed the DoubleSpace driver.
+DoubleSpace also consumed a significant amount of conventional memory, making it difficult to run memory-intensive programs.
+========,2,Bugs and data loss.
+Shortly after its release, reports of data loss emerged.
+A company called Blossom Software claimed to have found a bug that could lead to data corruption.
+The bug occurred when writing files to heavily fragmented disks and was demonstrated by a program called BUST.EXE.
+The company sold a program called DoubleCheck that could be used to check for the fragmentation condition that could lead to the error.
+Microsoft's position was that the error only occurred under unlikely conditions, but fixed the problem in MS-DOS 6.2.
+The fragmentation condition was related to the way DoubleSpace compresses individual clusters (of size, say, 8K), and fits them on the disk, occupying fewer sectors (size 512 bytes) than the fixed number required without DoubleSpace (16 sectors in this example).
+This created the possibility of a kind of internal fragmentation issue, where DoubleSpace would be unable to find enough consecutive sectors for storing a compressed cluster even if plenty of space was available.
+Other potential causes of data loss included the corruption of DoubleSpace's memory areas by other programs, DoubleSpace's memory areas were not protected, because MS-DOS ran in real mode.
+Microsoft attempted to remedy this in the MS-DOS 6.2 version of DoubleSpace (via a feature called "DoubleGuard" that would check for such corruption).
+The fact that the compressed contents of a compressed drive was stored in a single file implied the possibility of a user accidentally deleting all his/her data by deleting just that file.
+This could happen if the user inadvertently got access to the host drive, containing this file.
+The host drive was usually mapped to the letter H: by the compression driver.
+However, if the compression driver had failed to load the user might see it as drive C:
+Turning off the computer before DoubleSpace could finish updating its data structures could also result in data loss.
+This problem was compounded by Microsoft making write caching enabled by default in the SMARTDRV disk cache software that came with MS-DOS 6.0.
+Because of this change, after exiting an application, the MS-DOS prompt might appear before all data had been written to the disk.
+However, due to the lack of a controlled shutdown procedure (as found in modern operating systems), many users saw the appearance of the MS-DOS prompt as an indication that it was safe to switch off the computer, which was typically the case prior to MS-DOS 6.0.
+Microsoft addressed this issue in MS-DOS 6.2 where the write caching was still enabled by default, but where the cache would be flushed before allowing the command prompt to reappear.
+========,2,Add-ons.
+AddStor, Inc. offered an add-on product called Double Tools for DoubleSpace.
+It contained a number of tools to enhance the functions of the version of DoubleSpace that came with MS-DOS 6.0.
+This included various diagnostic features, the ability to have compressed removable media auto-mounted as they were used, as well as support for background defragmentation of DoubleSpace compressed drives.
+To defragment files in the background, it was possible to let DoubleTools replace the low-level DoubleSpace driver (DBLSPACE.BIN) with one supplied by DoubleTools.
+Replacing the driver also enabled other enhanced functionality of the product, such as the use of 32-bit code paths when it detected an Intel 80386 or higher CPU, caching capabilities and - in addition to its supporting the use of the Upper Memory Area - also permitted the use of Extended Memory for some of its buffers (reducing the driver's total footprint in conventional and upper memory, albeit at the cost of somewhat reduced speed).
+Another function was the ability to split a compressed volume over multiple floppy disks, being able to see the entire volume with only the first disk inserted (and being prompted to change discs as necessary).
+It was also possible to share a compressed volume with a remote computer.
+Double Tools also had the capability to put a special utility on compressed floppy disks that made it possible to access the compressed data even on computers that didn't have DoubleSpace (or Double Tools).
+Vertisoft, the company who developed the DoubleDisk program that Microsoft subsequently licensed and turned into DoubleSpace, developed and sold a DoubleSpace add-on program called SpaceManager, which contained a number of usability enhancements.
+It also offered improved compression ratios.
+Other products, like later versions of Stacker from Stac Electronics, were capable of converting existing DoubleSpace compressed drives into their own format.
+========,2,Later versions.
+========,3,MS-DOS 62.
+MS-DOS 6.2 featured a new and improved version of DoubleSpace.
+The ability to remove DoubleSpace was added.
+The program SCANDISK introduced in this release was able to scan the non-compressed and compressed drives, including checks of the internal DoubleSpace structures.
+Security features (known as DoubleGuard) were added to prevent memory corruption from leading to data loss.
+The memory footprint of the DoubleSpace driver was reduced compared to the version shipped in MS-DOS 6.0.
+A fix was made to the fragmentation issue discussed above.
+========,3,MS-DOS 621.
+Following a successful lawsuit by Stac Electronics regarding demonstrated patent infringement, Microsoft released MS-DOS 6.21 without DoubleSpace.
+A court injunction also prevented any further distribution of the previous versions of MS-DOS that included DoubleSpace.
+========,3,MS-DOS 622.
+MS-DOS 6.22 contained a reimplemented version of the disk compression software, but this time released under the name DriveSpace.
+The software was essentially identical to the MS-DOS 6.2 version of DoubleSpace from a user point of view, and was compatible with previous versions.
+========,3,DriveSpace in Windows 95.
+Windows 95 had full support of DoubleSpace/DriveSpace via a native 32-bit driver for accessing the compressed drives, along with a graphical version of the software tools.
+MS-DOS DriveSpace users could upgrade to Windows 95 without any troubles.
+Furthermore, the Microsoft Plus!
+for Windows 95 pack contained version 3 of DriveSpace.
+This version introduced new compression formats (HiPack and UltraPack) with different performance characteristics for even greater compression ratios along with a tool that could recompress the files on the disk using the different formats, depending on how frequently the files were used.
+One could upgrade from DriveSpace 2 to DriveSpace 3, but there was no downgrade path back to DriveSpace 2.
+One could, however, decompress a DriveSpace 3 drive.
+The DOS device driver of DriveSpace 3 had a memory footprint of around 150 KB because of all these new features.
+This caused difficulty for users rebooting into the MS-DOS mode of Windows 95 for running games, because of the reduced amount of conventional memory available.
+DriveSpace 3 also shipped with Windows 95 OSR2 but many features were disabled unless Plus!
+was also installed.
+DriveSpace could also not be used with FAT32, making it of little use on PCs with large hard drives.
+========,3,DriveSpace in Windows 98.
+Windows 98 shipped with DriveSpace 3 as part of the operating system.
+Functionality was the same as in Windows 95 with Plus!.
+========,3,DriveSpace in Windows Me.
+Because of the removal of real mode support, FAT32 going mainstream and the decreasing popularity of DriveSpace, DriveSpace in Windows Me had only limited support.
+DriveSpace no longer supported hard disk compression, but still supported reading and writing compressed removable media, although the only DriveSpace operation supported beside that was deleting and reallocating compressed drives.
+It is possible to restore full function of DriveSpace 3 (unofficially) in Windows ME, copying the executable file from a Windows 98 installation and replace the executable in Windows ME installation.
+After that, one could compress new drives as could do on Windows 98.
+========,2,Support outside Microsoft.
+"DMSDOS", a Linux kernel driver, was developed in the late 1990s to support both the reading and writing of DoubleSpace/DriveSpace disks.
+However, reading and especially writing to compressed filesystems is reliable only in specific versions of the 2.0, 2.1 or 2.2 versions of the kernel.

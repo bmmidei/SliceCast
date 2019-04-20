@@ -1,0 +1,43 @@
+========,1,preface.
+ARM9 is a group of older 32-bit RISC ARM processor cores licensed by ARM Holdings for microcontroller use.
+The cores were released from 1998 to 2006 and consisted of ARM9TDMI, ARM940T, ARM9E-S, ARM966E-S, ARM920T, ARM922T, ARM946E-S, ARM9EJ-S, ARM926EJ-S, ARM968E-S, ARM996HS.
+========,2,Overview.
+With this design generation, ARM moved from a von Neumann architecture (Princeton architecture) to a (modified; meaning split cache) Harvard architecture with separate instruction and data buses (and caches), significantly increasing its potential speed.
+Most silicon chips integrating these cores will package them as modified Harvard architecture chips, combining the two address buses on the other side of separated CPU caches and tightly coupled memories.
+There are two subfamilies, implementing different ARM architecture versions.
+========,3,Differences from ARM7 cores.
+Key improvements over ARM7 cores, enabled by spending more transistors, include:
+***LIST***.
+Additionally, some ARM9 cores incorporate "Enhanced DSP" instructions, such as a multiply-accumulate, to support more efficient implementations of digital signal processing algorithms.
+Switching to from a von Neumann architecture entailed a non-unified cache, so that instruction fetches do not evict data (and vice versa).
+ARM9 cores have separate data and address bus signals, which chip designers use in various ways.
+In most cases they connect at least part of the address space in von Neumann style, used for both instructions and data, usually to an AHB interconnect connecting to a DRAM interface and an External Bus Interface usable with NOR flash memory.
+Such hybrids are no longer pure Harvard architecture processors.
+========,3,ARM license.
+ARM Holdings neither manufactures nor sells CPU devices based on its own designs, but rather licenses the processor architecture to interested parties.
+ARM offers a variety of licensing terms, varying in cost and deliverables.
+To all licensees, ARM provides an integratable hardware description of the ARM core, as well as complete software development toolset and the right to sell manufactured silicon containing the ARM CPU.
+========,3,Silicon customization.
+Integrated device manufacturers (IDM) receive the ARM Processor IP as synthesizable RTL (written in Verilog).
+In this form, they have the ability to perform architectural level optimizations and extensions.
+This allows the manufacturer to achieve custom design goals, such as higher clock speed, very low power consumption, instruction set extensions, optimizations for size, debug support, etc.
+To determine which components have been included in a particular ARM CPU chip, consult the manufacturer datasheet and related documentation.
+========,2,Cores.
+The ARM MPCore family of multicore processors support software written using either the asymmetric (AMP) or symmetric (SMP) multiprocessor programming paradigms.
+For AMP development, each central processor unit within the MPCore may be viewed as an independent processor and as such can follow traditional single processor development strategies.
+========,3,ARM9TDMI.
+ARM9TDMI is a successor to the popular ARM7TDMI core, and is also based on the ARMv4T architecture.
+Cores based on it support both 32-bit ARM and 16-bit Thumb instruction sets and include:
+***LIST***.
+========,3,ARM9E-S and ARM9EJ-S.
+ARM9E, and its ARM9EJ sibling, implement the basic ARM9TDMI pipeline, but add support for the ARMv5TE architecture, which includes some DSP-esque instruction set extensions.
+In addition, the multiplier unit width has been doubled, halving the time required for most multiplication operations.
+They support 32-bit, 16-bit, and sometimes 8-bit instruction sets.
+***LIST***.
+========,2,Documentation.
+The amount of documentation for all ARM chips is daunting, especially for newcomers.
+The documentation for microcontrollers from past decades would easily be inclusive in a single document, but as chips have evolved so has the documentation grown.
+The total documentation is especially hard to grasp for all ARM chips since it consists of documents from the IC manufacturer and documents from CPU core vendor (ARM Holdings).
+A typical top-down documentation tree is: high-level marketing slides, datasheet for the exact physical chip, a detailed reference manual that describes common peripherals and other aspects of physical chips within the same series, reference manual for the exact ARM core processor within the chip, reference manual for the ARM architecture of the core which includes detailed description of all instruction sets.
+***LIST***.
+IC manufacturer has additional documents, including: evaluation board user manuals, application notes, getting started with development software, software library documents, errata, and more.

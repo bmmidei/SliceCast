@@ -1,0 +1,18 @@
+========,1,preface.
+========,2,Application.
+The Act applies throughout Canada, but only to federally regulated activities; each province and territory has its own anti-discrimination law that applies to activities that are not federally regulated.
+The Canadian Human Rights Act created the Canadian Human Rights Commission that investigates claims of discrimination as well as the Canadian Human Rights Tribunal to judge the cases.
+Before a case can be brought to the Tribunal it must go through several stages of investigation and remediation by the Commission.
+After this process has been completed, if the parties are not satisfied, the case will go to the tribunal.
+If a complainant can show a valid case of discrimination the defendant can rebuke it by showing that their practice was for a justified reason.
+The process is generally known as the "Meiorin test" which is similar to the Oakes test justification in a Charter challenge.
+========,2,Specific provisions.
+========,3,Gender identity and expression.
+In 2016, the government of Prime Minister Justin Trudeau introduced An Act to amend the Canadian Human Rights Act and the Criminal Code (C-16) in the Canadian House of Commons, to add and include "gender identity or expression" to the legislation.
+The bill passed the Commons on November 18, 2016 and the Senate on June 15, 2017.
+It received royal assent on June 19, 2017.
+The law went into effect immediately.
+========,3,Hate messages.
+In June 2012, the House of Commons voted to repeal Section 13(1) of the "Canadian Human Rights Act" regarding communication of hate messages.
+On June 26, 2013, Section 13(1) was repealed after a vote in the Senate.
+Royal Assent was given to the bill on July 1, 2013.

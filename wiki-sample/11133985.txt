@@ -1,0 +1,37 @@
+========,1,preface.
+Gundam Seed: O.M.N.I.
+vs Z.A.F.T.
+is a third person arcade game based on the "Gundam Seed" franchise.
+It was developed in 2005 by Capcom and published by Bandai (now known as Bandai Namco Games) in Japan.
+Similarly to "", the player can choose to ally themselves with either O.M.N.I., Z.A.F.T.
+or Blue Cosmos and fight against the other factions.
+The Arcade Mode has 9 stages plus a bonus Extra Stage.
+On November 11, 2005, a PlayStation 2 port was released in Japan which featured new pilots and units from the sequel Gundam Seed Destiny, as well as new unlockable features.
+A sequel, was released in 2006.
+========,2,Gundam Seed: Federation vs ZAFT Portable.
+In March 2007, A port of the game was also released for the Sony PSP by Bandai Namco Games in Japan.
+In addition to the extras available in the PlayStation 2 version of the game, the PSP version includes an all new Mission Mode with missions based on the plot of the anime.
+Aside from the new mode, the PSP version is an otherwise direct port of the PlayStation 2 version with all unlockables from PS2 version already unlocked in the PSP game without the need to play Arcade Mode several times.
+========,2,Game Modes.
+========,3,Arcade Mode.
+This mode provides the same basic gameplay as the original arcade, with the added bonus that players may configure various fight settings to customize the gameplay.
+The AI skill level, along with Damage dealt/received, round time, boost gauge, and other options for Arcade battles, may be adjusted in Game Options.
+Players may also choose to engage in cooperative gameplay with a friend in the Arcade multiplayer co-op mode.
+However, not all units in the game are playable in this mode.
+========,3,Free Battle/VS Mode.
+Versus Mode features all playable units in the game, including units you cannot select in Arcade Mode.
+This mode supports up to 4 human players or play against 3 AI opponents in a free-for-all deathmatch or in teams.
+The PlayStation Portable version uses the PSP's Ad Hoc mode to connect players but does not support Game sharing so each player must have their own copy of the game.
+========,3,Mission Mode (PSP Exclusive only).
+In Mission Mode, players must first choose O.M.N.I.
+or Z.A.F.T.
+as his/her alliance.
+About half-way through the storyline, players can choose to either continue serving their original alliance or defect to the Orb Union.
+Players start off with two of four basic units, depending on their initial alliance.
+Players fighting for the O.M.N.I.
+forces start off with the FX-550 Skygrasper and UWMF/S-1 GINN WASP.
+Those playing as Z.A.F.T.
+pilots are given the TFA-2 ZuOOT and UWMF/S-1 GINN.
+As the game progresses, players will also acquire new units after beating certain missions.
+Additionally, points awarded after each mission allow players to upgrade to better mobile suits by filling up their SP gauge (similar to leveling up with an EXP gauge in most RPGs).
+Different units are made available depending on the choice of upgrades selected by the player.

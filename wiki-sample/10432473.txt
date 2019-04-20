@@ -1,0 +1,26 @@
+========,1,preface.
+A zograscope is an optical device for enhancing the sense of depth perception from a flat picture.
+It consists of a large magnifying lens through which the picture is viewed.
+Some models have the lens mounted on a stand in front of an angled mirror.
+This allows someone to sit at a table and to look through the lens at the picture flat on the table.
+Pictures viewed in this way need to be left-right reversed; this is obvious in the case of writing.
+A print made for this purpose is called a "vue d'optique" or perspective view.
+According to Michael Quinion, the origin of the term is lost, but it is also known as a diagonal mirror, as an optical pillar machine, or as an optical diagonal machine.
+Zograscopes were popular during the later half of the 18th century as parlour entertainments.
+Most existing ones from that time are fine furniture, with turned stands, mouldings, brass fittings, and fine finishes.
+========,2,History.
+In 1677 German writer Johann Christoph Kohlhans described the effect of a convex lens in a camera obscura as if the subject appeared "naked before the eye in width, breadth, familiarity and distance".
+in 1692 William Molyneux wrote in his "Dioptrica Nova" how "Pieces of Perspective appear Natural and strong through Convex Glasses duly apply'd".
+The zograscope was developed around 1745 in England and soon many perspective views were printed for it, mostly of views with urban architecture.
+The oldest known reference to the device is found in an advertisement in an English newspaper from April 1746.
+========,2,Operation.
+One way a zograscope enhances depth perception is by minimizing other depth cues that specify the flatness and pictorial nature of the picture.
+The image is magnified, perhaps giving it a visual angle similar to the real scene the picture is depicting.
+The edges of the picture are blocked by the frame of the lens.
+The light coming from the lens to the eye is collimated, preventing accommodation.
+A second way a zograscope enhances depth perception is by creating stereopsis.
+Because each eye views the image from a different position, the visual directions of contours in the picture might differ for each eye, creating horizontal disparity.
+As well, coloured parts of the image will be refracted differently for each eye, creating a version of chromostereopsis.
+========,2,Construction.
+A simple zograscope can be built from a frame (by cutting a rectangular opening in the bottom of a cardboard box) and placing in the frame a large, magnifying, fresnel lens available from stationery stores.
+When this is placed over a computer monitor displaying a photograph of a natural scene, the depicted depth will be enhanced.

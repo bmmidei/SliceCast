@@ -1,0 +1,134 @@
+========,1,preface.
+Harry Max Markowitz (born August 24, 1927) is an American economist, and a recipient of the 1989 John von Neumann Theory Prize and the 1990 Nobel Memorial Prize in Economic Sciences.
+Markowitz is a professor of finance at the Rady School of Management at the University of California, San Diego (UCSD).
+He is best known for his pioneering work in modern portfolio theory, studying the effects of asset risk, return, correlation and diversification on probable investment portfolio returns.
+========,2,Biography.
+Harry Markowitz was born to a Jewish family, the son of Morris and Mildred Markowitz.
+During high school, Markowitz developed an interest in physics and philosophy, in particular the ideas of David Hume, an interest he continued to follow during his undergraduate years at the University of Chicago.
+After receiving his B.A., Markowitz decided to continue his studies at the University of Chicago, choosing to specialize in economics.
+There he had the opportunity to study under important economists, including Milton Friedman, Tjalling Koopmans, Jacob Marschak and Leonard Savage.
+While still a student, he was invited to become a member of the Cowles Commission for Research in Economics, which was in Chicago at the time.
+Markowitz chose to apply mathematics to the analysis of the stock market as the topic for his dissertation.
+Jacob Marschak, who was the thesis advisor, encouraged him to pursue the topic, noting that it had also been a favorite interest of Alfred Cowles, the founder of the Cowles Commission.
+While researching the then current understanding of stock prices, which at the time consisted in the present value model of John Burr Williams, Markowitz realized that the theory lacks an analysis of the impact of risk.
+This insight led to the development of his seminal theory of portfolio allocation under uncertainty, published in 1952 by "the Journal of Finance".
+In 1952, Harry Markowitz went to work for the RAND Corporation, where he met George Dantzig.
+With Dantzig's help, Markowitz continued to research optimization techniques, further developing the critical line algorithm for the identification of the optimal mean-variance portfolios, relying on what was later named the Markowitz frontier.
+In 1955, he received a PhD from the University of Chicago with a thesis on the portfolio theory.
+The topic was so novel that, while Markowitz was defending his dissertation, Milton Friedman argued his contribution was not economics.
+During 1955–1956 Markowitz spent a year at the Cowles Foundation, which had moved to Yale University, at the invitation of James Tobin.
+He published the critical line algorithm in a 1956 paper and used this time at the foundation to write a book on portfolio allocation which was published in 1959.
+Markowitz won the Nobel Memorial Prize in Economic Sciences in 1990 while a professor of finance at Baruch College of the City University of New York.
+In the preceding year, he received the John von Neumann Theory Prize from the Operations Research Society of America (now Institute for Operations Research and the Management Sciences, INFORMS) for his contributions in the theory of three fields: portfolio theory; sparse matrix methods; and simulation language programming (SIMSCRIPT).
+Sparse matrix methods are now widely used to solve very large systems of simultaneous equations whose coefficients are mostly zero.
+SIMSCRIPT has been widely used to program computer simulations of manufacturing, transportation, and computer systems as well as war games.
+SIMSCRIPT (I) included the Buddy memory allocation method, which was also developed by Markowitz.
+The company that would become CACI International was founded by Herb Karr and Harry Markowitz on July 17, 1962 as California Analysis Center, Inc.
+They helped develop SIMSCRIPT, the first simulation programming language, at RAND and after it was released to the public domain, CACI was founded to provide support and training for SIMSCRIPT.
+In 1968, Markowitz joined Arbitrage Management company founded by Michael Goodkin.
+Working with Paul Samuelson and Robert Merton he created a hedge fund that represents the first known attempt at computerized arbitrage trading.
+He took over as chief executive in 1970.
+After a successful run as a private hedge fund, AMC was sold to Stuart & Co. in 1971.
+A year later, Markowitz left the company.
+Markowitz now divides his time between teaching (he is an adjunct professor at the Rady School of Management at the University of California at San Diego, UCSD); video casting lectures; and consulting (out of his Harry Markowitz Company offices).
+He currently serves on the Advisory Board of BPV Capital Management (formerly SkyView Investment Advisors), an alternative investment advisory firm and fund of hedge funds.
+Markowitz also serves on the Investment Committee of LWI Financial Inc. ("Loring Ward"), a San Jose, California-based investment advisor; on the advisory panel of Robert D. Arnott's Newport Beach, California based investment management firm, Research Affiliates; on the Advisory Board of Mark Hebner's Irvine, California and internet based investment advisory firm, Index Fund Advisors; and as an advisor to the Investment Committee of 1st Global, a Dallas, Texas-based wealth management and investment advisory firm.
+Markowitz advises and serves on the board of ProbabilityManagement.org, a 501(c)(3) non-profit founded by Dr. Sam L. Savage to reshape the communication and calculation of uncertainty.
+Markowitz is co-founder and Chief Architect of GuidedChoice, a 401(k) managed accounts provider and investment advisor.
+Markowitz’s more recent work has included designing the backbone software analytics for the GuidedChoice investment solution and heading the GuidedChoice Investment Committee.
+He is actively involved in designing the next step in the retirement process: assisting retirees with wealth distribution through GuidedSpending.
+========,2,Research.
+A "Markowitz-efficient portfolio" is one where no added diversification can lower the portfolio's risk for a given return expectation (alternately, no additional expected return can be gained without increasing the risk of the portfolio).
+The Markowitz Efficient Frontier is the set of all portfolios that will give the highest expected return for each given level of risk.
+These concepts of efficiency were essential to the development of the capital asset pricing model.
+Markowitz also co-edited the textbook "The Theory and Practice of Investment Management" with Frank J. Fabozzi of Yale School of Management.
+========,2,Harry Markowitz model.
+========,3,Introduction.
+Harry Markowitz put forward this model in 1952.
+It assists in the selection of the most efficient by analyzing various possible portfolios of the given securities.
+By choosing securities that do not 'move' exactly together, the HM model shows investors how to reduce their risk.
+The HM model is also called mean-variance model due to the fact that it is based on expected returns (mean) and the standard deviation (variance) of the various portfolios.
+Harry Markowitz made the following assumptions while developing the HM model:
+Risk of a portfolio is based on the variability of returns from the said portfolio.
+An investor is risk averse.
+An investor prefers to increase consumption.
+The investor's utility function is convex and increasing, due to his risk aversion and consumption preference.
+Analysis is based on single period model of investment.
+An investor either maximizes his portfolio return for a "given" level of risk or maximizes his return for the "minimum" risk.
+An investor is rational in nature.
+To choose the best portfolio from a number of possible portfolios, each with different return and risk, two separate decisions are to be made:
+Determination of a set of efficient portfolios.
+Selection of the best portfolio out of the efficient set.
+========,3,Determining the efficient set.
+A portfolio that gives maximum return for a given risk, or minimum risk for given return is an efficient portfolio.
+Thus, portfolios are selected as follows:
+(a) From the portfolios that have the same return, the investor will prefer the portfolio with lower risk, and  (b) From the portfolios that have the same risk level, an investor will prefer the portfolio with higher rate of return.
+As the investor is rational, they would like to have higher return.
+And as he is risk averse, he wants to have lower risk.
+In Figure 1, the shaded area PVWP includes all the possible securities an investor can invest in.
+The efficient portfolios are the ones that lie on the boundary of PQVW.
+For example, at risk level x, there are three portfolios S, T, U.
+But portfolio S is called the efficient portfolio as it has the highest return, y, compared to T and U.
+All the portfolios that lie on the boundary of PQVW are efficient portfolios for a given risk level.
+The boundary PQVW is called the Efficient Frontier.
+All portfolios that lie below the Efficient Frontier are not good enough because the return would be lower for the given risk.
+Portfolios that lie to the right of the Efficient Frontier would not be good enough, as there is higher risk for a given rate of return.
+All portfolios lying on the boundary of PQVW are called Efficient Portfolios.
+The Efficient Frontier is the same for all investors, as all investors want maximum return with the lowest possible risk and they are risk averse.
+========,3,Choosing the best portfolio.
+For selection of the optimal portfolio or the best portfolio, the risk-return preferences are analyzed.
+An investor who is highly risk averse will hold a portfolio on the lower left hand of the frontier, and an investor who isn’t too risk averse will choose a portfolio on the upper portion of the frontier.
+Figure 2 shows the risk-return indifference curve for the investors.
+Indifference curves C, C and C are shown.
+Each of the different points on a particular indifference curve shows a different combination of risk and return, which provide the same satisfaction to the investors.
+Each curve to the left represents higher utility or satisfaction.
+The goal of the investor would be to maximize his satisfaction by moving to a curve that is higher.
+An investor might have satisfaction represented by C, but if his satisfaction/utility increases, he/she then moves to curve C Thus, at any point of time, an investor will be indifferent between combinations S and S, or S and S.
+The investor's optimal portfolio is found at the point of tangency of the efficient frontier with the indifference curve.
+This point marks the highest level of satisfaction the investor can obtain.
+This is shown in Figure 3.
+R is the point where the efficient frontier is tangent to indifference curve C, and is also an efficient portfolio.
+With this portfolio, the investor will get highest satisfaction as well as best risk-return combination (a portfolio that provides the highest possible return for a given amount of risk).
+Any other portfolio, say X, isn't the optimal portfolio even though it lies on the same indifference curve as it is outside the feasible portfolio available in the market.
+Portfolio Y is also not optimal as it does not lie on the best feasible indifference curve, even though it is a feasible market portfolio.
+Another investor having other sets of indifference curves might have some different portfolio as his best/optimal portfolio.
+All portfolios so far have been evaluated in terms of risky securities only, and it is possible to include risk-free securities in a portfolio as well.
+A portfolio with risk-free securities will enable an investor to achieve a higher level of satisfaction.
+This has been explained in Figure 4.
+R is the risk-free return, or the return from government securities, as those securities are considered to have no risk for modeling purposes.
+RPX is drawn so that it is tangent to the efficient frontier.
+Any point on the line RPX shows a combination of different proportions of risk-free securities and efficient portfolios.
+The satisfaction an investor obtains from portfolios on the line RPX is more than the satisfaction obtained from the portfolio P. All portfolio combinations to the left of P show combinations of risky and risk-free assets, and all those to the right of P represent purchases of risky assets made with funds borrowed at the risk-free rate.
+In the case that an investor has invested all his funds, additional funds can be borrowed at risk-free rate and a portfolio combination that lies on RPX can be obtained.
+RPX is known as the Capital Market Line (CML).
+this line represents the risk-return trade off in the capital market.
+The CML is an upward sloping curve, which means that the investor will take higher risk if the return of the portfolio is also higher.
+The portfolio P is the most efficient portfolio, as it lies on both the CML and Efficient Frontier, and every investor would prefer to attain this portfolio, P. The P portfolio is known as the Market Portfolio and is also the most diversified portfolio.
+It consists of all shares and other securities in the capital market.
+In the market for portfolios that consists of risky and risk-free securities, the CML represents the equilibrium condition.
+The Capital Market Line says that the return from a portfolio is the risk-free rate "plus" risk premium.
+Risk premium is the product of the market price of risk and the quantity of risk, and the risk is the standard deviation of the portfolio.
+The CML equation is :
+where, σ = standard deviation of portfolio (R – I)/σ is the slope of CML.
+(R – I) is a measure of the risk premium, or the reward for holding risky portfolio instead of risk-free portfolio.
+σ is the risk of the market portfolio.
+Therefore, the slope measures the reward per unit of market risk.
+The characteristic features of CML are:
+At the tangent point, i.e.
+Portfolio "P", is the optimum combination of risky investments and the market portfolio.
+Only efficient portfolios that consist of risk free investments and the market portfolio P lie on the CML.
+CML is always upward sloping as the price of risk has to be positive.
+A rational investor will not invest unless he knows he will be compensated for that risk.
+Figure 5 shows that an investor will choose a portfolio on the efficient frontier, in the absence of risk-free investments.
+But when risk-free investments are introduced, the investor can choose the portfolio on the CML (which represents the combination of risky and risk-free investments).
+This can be done with borrowing or lending at the risk-free rate of interest (I) and the purchase of efficient portfolio P. The portfolio an investor will choose depends on his preference of risk.
+The portion from I to P, is investment in risk-free assets and is called Lending Portfolio.
+In this portion, the investor will lend a portion at risk-free rate.
+The portion beyond P is called Borrowing Portfolio, where the investor borrows some funds at risk-free rate to buy more of portfolio P.
+========,3,Demerits of the HM model.
+Unless positivity constraints are assigned, the Markowitz solution can easily find highly leveraged portfolios (large long positions in a subset of investable assets financed by large short positions in another subset of assets), but given their leveraged nature the returns from such a portfolio are extremely sensitive to small changes in the returns of the constituent assets and can therefore be extremely 'dangerous'.
+Positivity constraints are easy to enforce and fix this problem, but if the user wants to 'believe' in the robustness of the Markowitz approach, it would be nice if better-behaved solutions (at the very least, positive weights) were obtained in an unconstrained manner when the set of investment assets is close to the available investment opportunities (the market portfolio) – but this is often not the case.
+Practically more vexing, small changes in inputs can give rise to large changes in the portfolio.
+Mean-variance optimization has been dubbed an 'error maximization' device (Scherer 2002): 'an algorithm that takes point estimates (of returns and covariances) as inputs and treats them as if they were known with certainty will react to tiny return differences that are well within measurement error'.
+In the real world, this degree of instability will lead, to begin with, to large transaction costs, but it is also likely to shake the confidence of the portfolio manager in the model.
+The amount of information (the covariance matrix, specifically, or a complete joint probability distribution among assets in the market portfolio) needed to compute a mean-variance optimal portfolio is often intractable and certainly has no room for subjective measurements ('views' about the returns of portfolios of subsets of investable assets).

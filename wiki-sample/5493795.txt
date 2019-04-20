@@ -1,0 +1,62 @@
+========,1,preface.
+In mathematics, stability theory addresses the stability of solutions of differential equations and of trajectories of dynamical systems under small perturbations of initial conditions.
+The heat equation, for example, is a stable partial differential equation because small perturbations of initial data lead to small variations in temperature at a later time as a result of the maximum principle.
+In partial differential equations one may measure the distances between functions using Lp norms or the sup norm, while in differential geometry one may measure the distance between spaces using the Gromov–Hausdorff distance.
+In dynamical systems, an orbit is called Lyapunov stable if the forward orbit of any point is in a small enough neighborhood or it stays in a small (but perhaps, larger) neighborhood.
+Various criteria have been developed to prove stability or instability of an orbit.
+Under favorable circumstances, the question may be reduced to a well-studied problem involving eigenvalues of matrices.
+A more general method involves Lyapunov functions.
+In practice, any one of a number of different stability criteria are applied.
+========,2,Overview in dynamical systems.
+Many parts of the qualitative theory of differential equations and dynamical systems deal with asymptotic properties of solutions and the trajectories—what happens with the system after a long period of time.
+The simplest kind of behavior is exhibited by equilibrium points, or fixed points, and by periodic orbits.
+If a particular orbit is well understood, it is natural to ask next whether a small change in the initial condition will lead to similar behavior.
+Stability theory addresses the following questions: Will a nearby orbit indefinitely stay close to a given orbit?
+Will it converge to the given orbit?
+(The latter is a stronger property.)
+In the former case, the orbit is called stable; in the latter case, it is called asymptotically stable and the given orbit is said to be attracting.
+An equilibrium solution ***formula*** to an autonomous system of first order ordinary differential equations is called:
+***LIST***.
+Stability means that the trajectories do not change too much under small perturbations.
+The opposite situation, where a nearby orbit is getting repelled from the given orbit, is also of interest.
+In general, perturbing the initial state in some directions results in the trajectory asymptotically approaching the given one and in other directions to the trajectory getting away from it.
+There may also be directions for which the behavior of the perturbed orbit is more complicated (neither converging nor escaping completely), and then stability theory does not give sufficient information about the dynamics.
+One of the key ideas in stability theory is that the qualitative behavior of an orbit under perturbations can be analyzed using the linearization of the system near the orbit.
+In particular, at each equilibrium of a smooth dynamical system with an "n"-dimensional phase space, there is a certain "n"×"n" matrix "A" whose eigenvalues characterize the behavior of the nearby points (Hartman–Grobman theorem).
+More precisely, if all eigenvalues are negative real numbers or complex numbers with negative real parts then the point is a stable attracting fixed point, and the nearby points converge to it at an exponential rate, cf Lyapunov stability and exponential stability.
+If none of the eigenvalues are purely imaginary (or zero) then the attracting and repelling directions are related to the eigenspaces of the matrix "A" with eigenvalues whose real part is negative and, respectively, positive.
+Analogous statements are known for perturbations of more complicated orbits.
+========,2,Stability of fixed points.
+The simplest kind of an orbit is a fixed point, or an equilibrium.
+If a mechanical system is in a stable equilibrium state then a small push will result in a localized motion, for example, small oscillations as in the case of a pendulum.
+In a system with damping, a stable equilibrium state is moreover asymptotically stable.
+On the other hand, for an unstable equilibrium, such as a ball resting on a top of a hill, certain small pushes will result in a motion with a large amplitude that may or may not converge to the original state.
+There are useful tests of stability for the case of a linear system.
+Stability of a nonlinear system can often be inferred from the stability of its linearization.
+========,3,Maps.
+Let be a continuously differentiable function with a fixed point , .
+Consider the dynamical system obtained by iterating the function :
+The fixed point is stable if the absolute value of the derivative of at is strictly less than 1, and unstable if it is strictly greater than 1.
+This is because near the point , the function has a linear approximation with slope :
+Thus which means that the derivative measures the rate at which the successive iterates approach the fixed point or diverge from it.
+If the derivative at is exactly 1 or −1, then more information is needed in order to decide stability.
+There is an analogous criterion for a continuously differentiable map with a fixed point , expressed in terms of its Jacobian matrix at , .
+If all eigenvalues of are real or complex numbers with absolute value strictly less than 1 then is a stable fixed point; if at least one of them has absolute value strictly greater than 1 then is unstable.
+Just as for =1, the case of the largest absolute value being 1 needs to be investigated further — the Jacobian matrix test is inconclusive.
+The same criterion holds more generally for diffeomorphisms of a smooth manifold.
+========,3,Linear autonomous systems.
+The stability of fixed points of a system of constant coefficient linear differential equations of first order can be analyzed using the eigenvalues of the corresponding matrix.
+An autonomous system where and is an matrix with real entries, has a constant solution (In a different language, the origin is an equilibrium point of the corresponding dynamical system.)
+This solution is asymptotically stable as ("in the future") if and only if for all eigenvalues of , .
+Similarly, it is asymptotically stable as ("in the past") if and only if for all eigenvalues of , .
+If there exists an eigenvalue of with then the solution is unstable for .
+Application of this result in practice, in order to decide the stability of the origin for a linear system, is facilitated by the Routh–Hurwitz stability criterion.
+The eigenvalues of a matrix are the roots of its characteristic polynomial.
+A polynomial in one variable with real coefficients is called a Hurwitz polynomial if the real parts of all roots are strictly negative.
+The Routh–Hurwitz theorem implies a characterization of Hurwitz polynomials by means of an algorithm that avoids computing the roots.
+========,3,Non-linear autonomous systems.
+Asymptotic stability of fixed points of a non-linear system can often be established using the Hartman–Grobman theorem.
+Suppose that is a in which vanishes at a point , .
+Then the corresponding autonomous system has a constant solution Let be the Jacobian matrix of the vector field at the point .
+If all eigenvalues of have strictly negative real part then the solution is asymptotically stable.
+This condition can be tested using the Routh–Hurwitz criterion.

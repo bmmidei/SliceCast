@@ -1,0 +1,24 @@
+========,1,preface.
+MYH7 is a gene encoding a myosin heavy chain beta (MHC-β) isoform (slow twitch) expressed primarily in the heart, but also in skeletal muscles (type I fibers).
+This isoform is distinct from the fast isoform of cardiac myosin heavy chain, MYH6, referred to as MHC-α.
+MHC-β is the major protein comprising the thick filament in cardiac muscle and plays a major role in cardiac muscle contraction.
+========,2,Structure.
+MHC-β is a 223 kDa protein composed of 1935 amino acids.
+MHC-β is a hexameric, asymmetric motor forming the bulk of the thick filament in cardiac muscle.
+MHC-β is composed of N-terminal globular heads (20 nm) that project laterally, and alpha helical tails (130 nm) that dimerize and multimerize into a coiled-coil motif to form the light meromyosin (LMM), thick filament rod.
+The 9 nm alpha-helical neck region of each MHC-β head non-covalently binds two light chains, essential light chain (MYL3) and regulatory light chain (MYL2).
+Approximately 300 myosin molecules constitute one thick filament.
+There are two isoforms of cardiac MHC, α and β, which display 93% homology.
+MHC-α and MHC-β display significantly different enzymatic properties, with α having 150-300% the contractile velocity and 60-70% actin attachment time as that of β. MHC-β is predominately expressed in the human ventricle, while MHC-α is predominantly expressed in human atria.
+========,2,Function.
+It is the enzymatic activity of the ATPase in the myosin head that cyclically hydrolyzes ATP, fueling the myosin power stroke.
+This process converts chemical to mechanical energy, and propels shortening of the sarcomeres in order to generate intraventricular pressure and power.
+An accepted mechanism for this process is that ADP-bound myosin attaches to actin while thrusting tropomyosin inwards, then the S1-S2 myosin lever arm rotates ~70° about the converter domain and drives actin filaments towards the M-line.
+========,2,Clinical significance.
+Several mutations in MYH7 have been associated with inherited cardiomyopathies.
+Lowrance et al.
+were the first to identify the causative mutation Arg403Gln for hypertrophic cardiomyopathy (HCM) in the MYH7 gene.
+Studies have since identified several more MYH7 mutations, that are estimated to be causal in approximately 40% of HCM cases.
+This condition is an autosomal-dominant disease, in which a single copy of the variant gene causes enlargement of the left ventricle of the heart.
+Disease onset usually occurs later in life, perhaps triggered by changes in thyroid hormone function and/or physical stress.
+Another condition associated to mutations in this gene is paraspinal and proximal muscle atrophy.

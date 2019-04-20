@@ -1,0 +1,44 @@
+========,1,preface.
+Actigraphy is a non-invasive method of monitoring human rest/activity cycles.
+A small actigraph unit, also called an actimetry sensor, is worn for a week or more to measure gross motor activity.
+The unit is usually, in a wrist-watch-like package, worn on the wrist.
+The movements the actigraph unit undergoes are continually recorded and some units also measure light exposure.
+The data can be later read to a computer and analysed offline; in some brands of sensors the data is transmitted and analysed in real time.
+========,2,Purpose.
+========,3,Sleep.
+Sleep actigraphs are generally watch-shaped and worn on the wrist of the non-dominant arm.
+They are useful for determining sleep patterns and circadian rhythms and may be worn for several weeks at a time.
+In the medical setting, traditional polysomnography has long been cited as "the 'gold standard' for sleep assessment."
+Since the 1990s, however, actigraphy has increasingly been used to assess sleep/wake behavior.
+Studies have found actigraphy to be helpful for sleep research because it tends to be less expensive and cumbersome than polysomnography.
+Unlike polysomnography, actigraphy allows the patient to be movable and to continue her or his normal routines while the required data is being recorded in his or her natural sleep environment; this may render the measured data more generally applicable.
+As sleep actigraphs are more affordable than polysomnographs, their use has advantages, particularly in the case of large field studies.
+Actigraphy is useful for assessing daytime sleepiness in place of a laboratory sleep latency test.
+It is used to clinically evaluate insomnia, circadian rhythm sleep disorders, excessive sleepiness and restless legs syndrome.
+It is also used in assessing the effectiveness of pharmacologic, behavioural, phototherapeutic or chronotherapeutic treatments for such disorders.
+The data, recorded over time, is in some cases more relevant than the result of polysomnography, particularly in assessing circadian rhythms and disorders thereof as well as insomnia.
+Actigraphy has been actively used in sleep-related studies since the early 1990s.
+It has not traditionally been used in routine diagnosis of sleep disorders, but technological advances in actiograph hardware and software, as well as studies verifying data validity, have made its use increasingly common.
+The main reason for this development is the fact that, while retaining mobility, actigraphy offers reliable results with an accuracy that is close to those of polysomnography (above 90% for estimating total sleep time but dropping to 55% for a 4 - way sleep stage estimation problem).
+The technique is increasingly employed in new drug clinical trials where sleep quality is seen as a good indicator of quality of life.
+========,3,Activity.
+Activity actigraphs are worn and used similarly to a pedometer: around the waist, near the hip.
+They are useful for determining the amount of wake-time activity, and possibly estimating the number of calories burned, by the wearer.
+They are worn for a number of days to collect enough data for valid analysis.
+========,3,Movement.
+Movement actigraphs are generally larger and worn on the shoulder of the dominant arm.
+They contain a 3D actigraph as opposed to a single dimension one, and have a high sample rate and a large memory.
+They are used for only a few hours, and can be used to determine problems with gait and other physical impairments.
+========,2,The actigraph unit.
+========,3,Measurements.
+Actigraphs have a number of different ways of accumulating the values from the accelerometer in memory.
+ZCM (zero crossing mode) counts the number of times the accelerometer waveform crosses 0 for each time period.
+PIM (proportional integral mode) measures the area under the curve, and adds that size for each time period.
+TAT (time above threshold) uses a certain threshold, and measures the length of time that the wave is above a certain threshold.
+Literature shows that PIM provides most accurate measurements for both sleep and activity, though the difference with ZCM is marginal.
+========,3,Features.
+Actigraph units vary widely in size and features and can be expanded to include additional measurements.
+However, there are a number of limiting factors:
+***LIST***.
+For some uses, the following are examples of additional features:
+***LIST***.

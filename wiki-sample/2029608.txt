@@ -1,0 +1,31 @@
+========,1,preface.
+Chlorobenzene is an aromatic organic compound with the chemical formula CHCl.
+This colorless, flammable liquid is a common solvent and a widely used intermediate in the manufacture of other chemicals.
+========,2,Uses.
+========,3,Historical.
+The major use of chlorobenzene is as an intermediate in the production of commodities such as herbicides, dyestuffs, and rubber.
+Chlorobenzene is also used as a high-boiling solvent in many industrial applications as well as in the laboratory.
+Chlorobenzene is nitrated on a large scale to give a mixture of 2-nitrochlorobenzene and 4-nitrochlorobenzene, which are separated.
+These mononitrochlorobenzenes are converted to related 2-nitrophenol, 2-nitroanisole, bis(2-nitrophenyl)disulfide, and 2-nitroaniline by nucleophilic displacement of the chloride, with respectively sodium hydroxide, sodium methoxide, sodium disulfide, and ammonia.
+The conversions of the 4-nitro derivative are similar.
+Chlorobenzene once was used in the manufacture of certain pesticides, most notably DDT, by reaction with chloral (trichloroacetaldehyde), but this application has declined with the diminished use of DDT.
+At one time, chlorobenzene was the main precursor for the manufacture of phenol:
+========,2,Production.
+It was first described in 1851.
+Chlorobenzene is manufactured by chlorination of benzene in the presence of a catalytic amount of Lewis acid such as ferric chloride, sulfur dichloride, and anhydrous aluminium chloride:
+The catalyst enhances the electrophilicity of the chlorine.
+Because chlorine is electronegative, CHCl exhibits somewhat decreased susceptibility to further chlorination.
+Industrially the reaction is conducted as a continuous process to minimize the formation of dichlorobenzenes.
+========,2,Safety.
+Chlorobenzene exhibits "low to moderate" toxicity as indicated by its of 2.9 g/kg.
+The Occupational Safety and Health Administration has set a permissible exposure limit at 75 ppm (350 mg/m) over an eight-hour time-weighted average for workers handling chlorobenzene.
+========,2,Toxicology and biodegradation.
+Chlorobenzene can persist in soil for several months, in air for about 3.5 days, and in water for less than one day.
+Humans may be exposed to this agent via breathing contaminated air (primarily via occupational exposure), eating contaminated food or water, or by coming into contact with contaminated soil (typically near hazardous waste sites).
+However, because it has only been found at 97 out of 1,177 NPL hazardous waste sites, it is not considered a widespread environmental contaminant.
+The bacterium "Rhodococcus phenolicus" degrades chlorobenzene as sole carbon sources.
+Upon entering the body, typically via contaminated air, chlorobenzene is excreted both via the lungs and the urinary system.
+========,2,On other planets.
+In 2015, the SAM science team announced that the Curiosity rover reported evidence of higher concentrations of chlorobenzene in a sedimentary rock, named "Cumberland", on Mars.
+The team speculated that the chlorobenzene might have been produced when the sample was heated in the instrument sampling chamber.
+The heating would have triggered a reaction of organics in the Martian soil with perchlorate known to be present in the Martian soil.

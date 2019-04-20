@@ -1,0 +1,45 @@
+========,1,preface.
+The .380 ACP (9x17mm) (Automatic Colt Pistol) is a rimless, straight-walled pistol cartridge developed by firearms designer John Moses Browning.
+The cartridge headspaces on the mouth of the case.
+It was introduced in 1908 by Colt, for use in its new Colt Model 1908 pocket hammerless semi-automatic, and has been a popular self-defense cartridge ever since, seeing wide use in numerous handguns (typically smaller weapons).
+Other names for .380 ACP include .380 Auto, 9mm Browning, 9mm Corto, 9mm Kurz, 9mm Short, 9×17mm and 9 mm Browning Court (which is the C.I.P.
+It is not to be confused with .38 ACP, 9mm Ultra, 9mm Makarov, 9mm Parabellum nor the rimmed .380 Long Revolver CF & .380 Rook Rifle cartridges, introduced around 1870.
+========,2,Design.
+The .380 ACP cartridge was derived from Browning's earlier 9×20mm semi-rimmed design, which was only marginally more powerful.
+The .380 ACP was designed to be truly rimless, with headspace on the case mouth instead of the rim for better accuracy.
+These relatively low-powered designs were intended for blowback pistols which lacked a barrel locking mechanism, which is often required for any handgun firing a round more powerful than a .380.
+Using blowback operation, the design can be simplified, and lowered in cost; a locking mechanism is unnecessary since the mass of the slide and strength of the recoil spring are enough to absorb the recoil energy of the round, due to the round's relatively low bolt thrust.
+Blowback operation also permits the barrel to be permanently fixed to the frame, which promotes accuracy, unlike a traditional short recoil-operation pistol, which requires a "tilting" barrel to unlock the slide and barrel assembly when cycling.
+A drawback of the blowback system is that it requires a certain amount of slide mass (weight) to counter the recoil of the round used.
+The higher the power the round, the heavier the slide assembly has to be in order for its inertia to safely absorb the recoil, meaning that a typical blowback pistol in a given caliber will be heavier than an equivalent recoil-operated weapon (alternatively, a very stiff spring will work, but will make operating the slide very difficult).
+Blowback weapons can be made in calibers larger than .380 ACP, but the required weight of slide and strength of spring makes this an unattractive option.
+Although the low power of the .380 ACP does not require a locking mechanism, there have also been a number of locked-breech pistols chambered in .380 ACP, such as the Remington Model 51, Kel-Tec P3AT and Glock 42; all three being designed to be lighter than blowback operated .380 ACP weapons.
+There have also been some relatively diminutive (blowback-operated) submachine guns, such as the Ingram MAC-11 and the Czech vz.
+========,2,Users.
+The .380 ACP has experienced very widespread use in the years since its introduction (1908 USA, 1912 Europe).
+In 1914, it was used by Gavrilo Princip to assassinate Archduke Franz Ferdinand and his wife Sophia, the event which is credited with starting the First World War.
+It was later adopted by the armies of at least five European nations as their standard pistol cartridge before World War II; Czechoslovakia (Vz.38), Hungary (FEMARU 37M), and Italy, all of whom used domestic designs, as well as The Netherlands and Yugoslavia, both of whom adopted the FN Model 1922.
+It was also used extensively by Germany, who captured or purchased hundreds of thousands of pistols in this caliber during World War II.
+Popular German built commercial models, such as the Walther PPK were very popular with German officers.
+The Italian Army used the Beretta M1934, but the Italian Air Force and Navy stuck with the 7.65mm/.32 ACP when they adopted the Beretta M1935.
+While .380 ACP was considered to be a moderately powerful service pistol round before World War II when compared to the .32 ACP pistols it replaced, no nation retained it as a military service cartridge for very long after the war (when it was largely replaced by its more powerful 9×19mm Parabellum cousin).
+It was widely used by police forces in Europe until at least the 1980s when more powerful 9×19mm handguns began to replace it in this market as well.
+It does find some use as a backup gun due to the generally small and easily concealable size of the weapons that chambered it (very few "mini pistols" are made in calibers larger than .380 ACP, and those few that are are recent developments), and is popular on the civilian market as a personal defense round.
+The .380 ACP round is suitable for self-defense situations as a choice for concealed carry pistols.
+It was the round used in Defense Distributed's "Wiki Weapon" project to successfully 3D print a firearm.
+========,2,Performance.
+The .380 ACP is compact and light, but has a relatively short range and less stopping power than other modern pistol cartridges.
+According to gun author Massad Ayoob, "Some experts will say it's barely adequate, and others will say it's barely inadequate."
+Even so, it remains a popular self-defense cartridge for shooters who want a lightweight pistol with manageable recoil and/or smaller pistol.
+It is slightly less powerful than a standard-pressure .38 Special and uses 9 mm (.355 in) diameter bullets.
+though the standard has long been 85, 90 or 95 grains (5.5, 5.8 or 6.2 g).
+The wounding potential of bullets is often characterized in terms of a bullet's expanded diameter, penetration depth, and energy.
+Bullet energy for .380 ACP loads varies from roughly .
+The table below shows common performance parameters for several .380 ACP loads.
+Bullet weights ranging from are common.
+Penetration depths from are available for various applications and risk assessments.
+***LIST***.
+========,2,Popular firearms in 380 ACP.
+The .380 ACP increased in popularity in the United States because of the spread of legal concealed carry, as have the compact and inexpensive pistols that make use of it.
+Popular pistols chambered in .380 ACP include:
+***LIST***.

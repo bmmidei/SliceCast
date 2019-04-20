@@ -1,0 +1,18 @@
+========,1,preface.
+Iridoids are a type of monoterpenoids in the general form of cyclopentanopyran, found in a wide variety of plants and some animals.
+They are biosynthetically derived from 8-oxogeranial.
+Iridoids are typically found in plants as glycosides, most often bound to glucose.
+The chemical structure is exemplified by iridomyrmecin, a defensive chemical produced by the "Iridomyrmex" genus, for which iridoids are named.
+Structurally, they are bicyclic "cis"-fused cyclopentane-pyrans.
+Cleavage of a bond in the cyclopentane ring gives rise to a subclass known as "secoiridoids", such as oleuropein and amarogentin.
+========,2,Occurrence.
+The iridoids produced by plants act primarily as a defense against herbivores or against infection by microorganisms.
+The variable checkerspot butterfly also contains iridoids obtained through its diet which act as a defense against avian predators.
+To humans and other mammals, iridoids are often characterized by a deterrent bitter taste.
+Aucubin and catalpol are two of the most common iridoids in the plant kingdom.
+Iridoids are prevalent in the plant subclass Asteridae, such as Ericaceae, Loganiaceae, Gentianaceae, Rubiaceae, Verbenaceae, Lamiaceae, Oleaceae, Plantaginaceae, Scrophulariaceae, Valerianaceae, and Menyanthaceae.
+========,2,Biosynthesis.
+The iridoid ring scaffold is synthesized, in plants, by the enzyme iridoid synthase.
+In contrast with other monoterpene cyclases, iridoid synthase uses 8-oxogeranial as a substrate.
+The enzyme uses a two-step mechanism, with an initial NADPH-dependent reduction step followed by a cyclization step that occurs through either a Diels-Alder reaction or an intramolecular Michael addition.
+Loganic acid is an iridoid substrate converted to strictosidine which reacts with tryptamine, eventually leading to the indole alkaloids which include many biologically active compounds such as strychnine, yohimbine, vinca alkaloids, and ellipticine.

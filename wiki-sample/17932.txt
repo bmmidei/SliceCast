@@ -1,0 +1,206 @@
+========,1,preface.
+A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals.
+Liquid crystals do not emit light directly, instead using a backlight or reflector to produce images in colour or monochrome.
+LCDs are available to display arbitrary images (as in a general-purpose computer display) or fixed images with low information content, which can be displayed or hidden, such as preset words, digits, and 7-segment displays, as in a digital clock.
+They use the same basic technology, except that arbitrary images are made up of a large number of small pixels, while other displays have larger elements.
+LCDs are used in a wide range of applications including computer monitors, televisions, instrument panels, aircraft cockpit displays, and indoor and outdoor signage.
+Small LCD screens are common in portable consumer devices such as digital cameras, watches, calculators, and mobile telephones, including smartphones.
+LCD screens are also used on consumer electronics products such as DVD players, video game devices and clocks.
+LCD screens have replaced heavy, bulky cathode ray tube (CRT) displays in nearly all applications.
+LCD screens are available in a wider range of screen sizes than CRT and plasma displays, with LCD screens available in sizes ranging from tiny digital watches to huge, big-screen television sets.
+Since LCD screens do not use phosphors, they do not suffer image burn-in when a static image is displayed on a screen for a long time (e.g., the table frame for an aircraft schedule on an indoor sign).
+LCDs are, however, susceptible to image persistence.
+The LCD screen is more energy-efficient and can be disposed of more safely than a CRT can.
+Its low electrical power consumption enables it to be used in battery-powered electronic equipment more efficiently than CRTs can be.
+By 2008, annual sales of televisions with LCD screens exceeded sales of CRT units worldwide, and the CRT became obsolete for most purposes.
+========,2,Overview.
+Each pixel of an LCD typically consists of a layer of molecules aligned between two transparent electrodes, and two polarizing filters (parallel and perpendicular), the axes of transmission of which are (in most of the cases) perpendicular to each other.
+Without the liquid crystal between the polarizing filters, light passing through the first filter would be blocked by the second (crossed) polarizer.
+Before an electric field is applied, the orientation of the liquid-crystal molecules is determined by the alignment at the surfaces of electrodes.
+In a twisted nematic (TN) device, the surface alignment directions at the two electrodes are perpendicular to each other, and so the molecules arrange themselves in a helical structure, or twist.
+This induces the rotation of the polarization of the incident light, and the device appears gray.
+If the applied voltage is large enough, the liquid crystal molecules in the center of the layer are almost completely untwisted and the polarization of the incident light is not rotated as it passes through the liquid crystal layer.
+This light will then be mainly polarized perpendicular to the second filter, and thus be blocked and the pixel will appear black.
+By controlling the voltage applied across the liquid crystal layer in each pixel, light can be allowed to pass through in varying amounts thus constituting different levels of gray.
+Color LCD systems use the same technique, with color filters used to generate red, green, and blue pixels.
+The optical effect of a TN device in the voltage-on state is far less dependent on variations in the device thickness than that in the voltage-off state.
+Because of this, TN displays with low information content and no backlighting are usually operated between crossed polarizers such that they appear bright with no voltage (the eye is much more sensitive to variations in the dark state than the bright state).
+As most of 2010-era LCDs are used in television sets, monitors and smartphones, they have high-resolution matrix arrays of pixels to display arbitrary images using backlighting with a dark background.
+When no image is displayed, different arrangements are used.
+For this purpose, TN LCDs are operated between parallel polarizers, whereas IPS LCDs feature crossed polarizers.
+In many applications IPS LCDs have replaced TN LCDs, in particular in smartphones such as iPhones.
+Both the liquid crystal material and the alignment layer material contain ionic compounds.
+If an electric field of one particular polarity is applied for a long period of time, this ionic material is attracted to the surfaces and degrades the device performance.
+This is avoided either by applying an alternating current or by reversing the polarity of the electric field as the device is addressed (the response of the liquid crystal layer is identical, regardless of the polarity of the applied field).
+Displays for a small number of individual digits or fixed symbols (as in digital watches and pocket calculators) can be implemented with independent electrodes for each segment.
+In contrast, full alphanumeric or variable graphics displays are usually implemented with pixels arranged as a matrix consisting of electrically connected rows on one side of the LC layer and columns on the other side, which makes it possible to address each pixel at the intersections.
+The general method of matrix addressing consists of sequentially addressing one side of the matrix, for example by selecting the rows one-by-one and applying the picture information on the other side at the columns row-by-row.
+"For details on the various matrix addressing schemes see" Passive-matrix and active-matrix addressed LCDs.
+========,2,History.
+========,3,1880s-1960s.
+The origins and the complex history of liquid-crystal displays from the perspective of an insider during the early days were described by Joseph A. Castellano in "Liquid Gold: The Story of Liquid Crystal Displays and the Creation of an Industry".
+Another report on the origins and history of LCD from a different perspective until 1991 has been published by Hiroshi Kawamoto, available at the IEEE History Center.
+A description of Swiss contributions to LCD developments, written by Peter J.
+Wild, can be looked up at the "Engineering and Technology History Wiki".
+In 1888, Friedrich Reinitzer (1858–1927) discovered the liquid crystalline nature of cholesterol extracted from carrots (that is, two melting points and generation of colors) and published his findings at a meeting of the Vienna Chemical Society on May 3, 1888 (F. Reinitzer: "Beiträge zur Kenntniss des Cholesterins, Monatshefte für Chemie (Wien) 9, 421–441 (1888)").
+In 1904, Otto Lehmann published his work "Flüssige Kristalle" (Liquid Crystals).
+In 1911, Charles Mauguin first experimented with liquid crystals confined between plates in thin layers.
+In 1922, Georges Friedel described the structure and properties of liquid crystals and classified them in 3 types (nematics, smectics and cholesterics).
+In 1927, Vsevolod Frederiks devised the electrically switched light valve, called the Fréedericksz transition, the essential effect of all LCD technology.
+In 1936, the Marconi Wireless Telegraph company patented the first practical application of the technology, "The Liquid Crystal Light Valve".
+In 1962, the first major English language publication on the subject "Molecular Structure and Properties of Liquid Crystals", by Dr. George W. Gray.
+In 1962, Richard Williams of RCA found that liquid crystals had some interesting electro-optic characteristics and he realized an electro-optical effect by generating stripe-patterns in a thin layer of liquid crystal material by the application of a voltage.
+This effect is based on an electro-hydrodynamic instability forming what are now called "Williams domains" inside the liquid crystal.
+In 1964, George H. Heilmeier, then working at the RCA laboratories on the effect discovered by Williams achieved the switching of colors by field-induced realignment of dichroic dyes in a homeotropically oriented liquid crystal.
+Practical problems with this new electro-optical effect made Heilmeier continue to work on scattering effects in liquid crystals and finally the achievement of the first operational liquid-crystal display based on what he called the "dynamic scattering mode" (DSM).
+Application of a voltage to a DSM display switches the initially clear transparent liquid crystal layer into a milky turbid state.
+DSM displays could be operated in transmissive and in reflective mode but they required a considerable current to flow for their operation.
+George H. Heilmeier was inducted in the National Inventors Hall of Fame and credited with the invention of LCDs.
+Heilmeier's work is an IEEE Milestone.
+In the late 1960s, pioneering work on liquid crystals was undertaken by the UK's Royal Radar Establishment at Malvern, England.
+The team at RRE supported ongoing work by George William Gray and his team at the University of Hull who ultimately discovered the cyanobiphenyl liquid crystals, which had correct stability and temperature properties for application in LCDs.
+========,3,1970s-1980s.
+On December 4, 1970, the twisted nematic field effect in liquid crystals was filed for patent by Hoffmann-LaRoche in Switzerland, (Swiss patent No.
+532 261) with Wolfgang Helfrich and Martin Schadt (then working for the Central Research Laboratories) listed as inventors.
+Hoffmann-La Roche then licensed the invention to the Swiss manufacturer Brown, Boveri & Cie who produced displays for wristwatches during the 1970s and also to Japanese electronics industry, which soon produced the first digital quartz wrist watches with TN-LCDs and numerous other products.
+James Fergason, while working with Sardari Arora and Alfred Saupe at Kent State University Liquid Crystal Institute, filed an identical patent in the United States on April 22, 1971.
+In 1971 the company of Fergason ILIXCO (now LXD Incorporated) produced the first LCDs based on the TN-effect, which soon superseded the poor-quality DSM types due to improvements of lower operating voltages and lower power consumption.
+In 1972, the first active-matrix liquid-crystal display panel was produced in the United States by T. Peter Brody's team at Westinghouse, in Pittsburgh, Pennsylvania.
+In 1983, researchers at Brown, Boveri & Cie (BBC), Switzerland, invented the "super-twisted nematic (STN) structure" for passive matrix addressed LCDs.
+H. Amstutz "et al."
+were listed as inventors in the corresponding patent applications filed in Switzerland on July 7, 1983, and October 28, 1983.
+Patents were granted in Switzerland CH 665491, Europe EP 0131216, and many more countries.
+========,3,1990s-2010s.
+In 1990, under different titles, inventors conceived electro optical effects as alternatives to "twisted nematic field effect LCDs" (TN- and STN- LCDs).
+One approach was to use interdigital electrodes on one glass substrate only to produce an electric field essentially parallel to the glass substrates.
+To take full advantage of the properties of this "In Plane Switching (IPS) technology" further work was needed.
+After thorough analysis, details of advantageous embodiments are filed in Germany by Guenter Baur "et al."
+and patented in various countries.
+The Fraunhofer Institute in Freiburg, where the inventors worked, assigns these patents to Merck KGaA, Darmstadt, a supplier of LC substances.
+In 1992, shortly thereafter, engineers at Hitachi work out various practical details of the IPS technology to interconnect the thin-film transistor array as a matrix and to avoid undesirable stray fields in between pixels.
+Hitachi also improves the viewing angle dependence further by optimizing the shape of the electrodes ("Super IPS").
+NEC and Hitachi become early manufacturers of active-matrix addressed LCDs based on the IPS technology.
+This is a milestone for implementing large-screen LCDs having acceptable visual performance for flat-panel computer monitors and television screens.
+In 1996, Samsung developed the optical patterning technique that enables multi-domain LCD.
+Multi-domain and In Plane Switching subsequently remain the dominant LCD designs through 2006.
+In the fourth quarter of 2007, LCD televisions surpassed CRTs in worldwide sales for the first time.
+LCD TVs were projected to account 50% of the 200 million TVs to be shipped globally in 2006, according to Display Bank.
+In October 2011, Toshiba announced 2560 × 1600 pixels on a 6.1-inch (155 mm) LCD panel, suitable for use in a tablet computer, especially for Chinese character display.
+========,2,Illumination.
+Since LCD panels produce no light of their own, they require external light to produce a visible image.
+In a "transmissive" type of LCD, this light is provided at the back of the glass "stack" and is called the backlight.
+While passive-matrix displays are usually not backlit (e.g.
+calculators, wristwatches), active-matrix displays almost always are.
+The common implementations of LCD backlight technology are:
+***LIST***.
+Today, most LCD screens are being designed with an LED backlight instead of the traditional CCFL backlight.
+========,2,Connection to other circuits.
+LCD panels typically use thinly-coated metallic conductive pathways on a glass substrate to form the cell circuitry to operate the panel.
+It is usually not possible to use soldering techniques to directly connect the panel to a separate copper-etched circuit board.
+Instead, interfacing is accomplished using either adhesive plastic ribbon with conductive traces glued to the edges of the LCD panel, or with an elastomeric connector, which is a strip of rubber or silicone with alternating layers of conductive and insulating pathways, pressed between contact pads on the LCD and mating contact pads on a circuit board.
+========,2,Passive and active-matrix.
+Monochrome and later color passive-matrix LCDs were standard in most early laptops (although a few used plasma displays) and the original Nintendo Game Boy until the mid-1990s, when color active-matrix became standard on all laptops.
+The commercially unsuccessful Macintosh Portable (released in 1989) was one of the first to use an active-matrix display (though still monochrome).
+Passive-matrix LCDs are still used in the 2010s for applications less demanding than laptops and TVs, such as inexpensive calculators.
+In particular, these are used on portable devices where less information content needs to be displayed, lowest power consumption (no backlight) and low cost are desired or readability in direct sunlight is needed.
+Displays having a passive-matrix structure are employing "super-twisted nematic" STN (invented by Brown Boveri Research Center, Baden, Switzerland, in 1983; scientific details were published) or double-layer STN (DSTN) technology (the latter of which addresses a color-shifting problem with the former), and color-STN (CSTN) in which color is added by using an internal filter.
+STN LCDs have been optimized for passive-matrix addressing.
+They exhibit a sharper threshold of the contrast-vs-voltage characteristic than the original TN LCDs.
+This is important, because pixels are subjected to partial voltages even while not selected.
+Crosstalk between activated and non-activated pixels has to be handled properly by keeping the RMS voltage of non-activated pixels below the threshold voltage, while activated pixels are subjected to voltages above threshold.
+STN LCDs have to be continuously refreshed by alternating pulsed voltages of one polarity during one frame and pulses of opposite polarity during the next frame.
+Individual pixels are addressed by the corresponding row and column circuits.
+This type of display is called "passive-matrix addressed", because the pixel must retain its state between refreshes without the benefit of a steady electrical charge.
+As the number of pixels (and, correspondingly, columns and rows) increases, this type of display becomes less feasible.
+Slow response times and poor contrast are typical of passive-matrix addressed LCDs with too many pixels.
+In the 2010s, "zero-power (bistable) LCDs" do not require continuous refreshing.
+Rewriting is only required for picture information changes.
+Potentially, passive-matrix addressing can be used with these new devices, if their write/erase characteristics are suitable.
+High-resolution color displays, such as modern LCD computer monitors and televisions, use an active-matrix structure.
+A matrix of thin-film transistors (TFTs) is added to the electrodes in contact with the LC layer.
+Each pixel has its own dedicated transistor, allowing each column line to access one pixel.
+When a row line is selected, all of the column lines are connected to a row of pixels and voltages corresponding to the picture information are driven onto all of the column lines.
+The row line is then deactivated and the next row line is selected.
+All of the row lines are selected in sequence during a refresh operation.
+Active-matrix addressed displays look brighter and sharper than passive-matrix addressed displays of the same size, and generally have quicker response times, producing much better images.
+========,2,Active-matrix technologies.
+========,3,Twisted nematic (TN).
+Twisted nematic displays contain liquid crystals that twist and untwist at varying degrees to allow light to pass through.
+When no voltage is applied to a TN liquid crystal cell, polarized light passes through the 90-degrees twisted LC layer.
+In proportion to the voltage applied, the liquid crystals untwist changing the polarization and blocking the light's path.
+By properly adjusting the level of the voltage almost any gray level or transmission can be achieved.
+========,3,In-plane switching (IPS).
+In-plane switching is an LCD technology that aligns the liquid crystals in a plane parallel to the glass substrates.
+In this method, the electrical field is applied through opposite electrodes on the same glass substrate, so that the liquid crystals can be reoriented (switched) essentially in the same plane, although fringe fields inhibit a homogeneous reorientation.
+This requires two transistors for each pixel instead of the single transistor needed for a standard thin-film transistor (TFT) display.
+Before LG Enhanced IPS was introduced in 2009, the additional transistors resulted in blocking more transmission area, thus requiring a brighter backlight and consuming more power, making this type of display less desirable for notebook computers.
+Currently Panasonic is using an enhanced version eIPS for their large size LCD-TV products as well as Hewlett-Packard in its WebOS based TouchPad tablet and their Chromebook 11.
+========,4,IPS LCD vs AMOLED.
+In 2011, LG claimed the smartphone LG Optimus Black (IPS LCD (LCD NOVA)) has the brightness up to 700 nits, while the competitor has only IPS LCD with 518 nits and double an active-matrix OLED (AMOLED) display with 305 nits.
+LG also claimed the NOVA display to be 50 percent more efficient than regular LCDs and to consume only 50 percent of the power of AMOLED displays when producing white on screen.
+When it comes to contrast ratio, AMOLED display still performs best due to its underlying technology, where the black levels are displayed as pitch black and not as dark gray.
+On August 24, 2011, Nokia announced the Nokia 701 and also made the claim of the world's brightest display at 1000 nits.
+The screen also had Nokia's Clearblack layer, improving the contrast ratio and bringing it closer to that of the AMOLED screens.
+========,3,Advanced fringe field switching (AFFS).
+Known as fringe field switching (FFS) until 2003, advanced fringe field switching is similar to IPS or S-IPS offering superior performance and color gamut with high luminosity.
+AFFS was developed by Hydis Technologies Co., Ltd, Korea (formally Hyundai Electronics, LCD Task Force).
+AFFS-applied notebook applications minimize color distortion while maintaining a wider viewing angle for a professional display.
+Color shift and deviation caused by light leakage is corrected by optimizing the white gamut which also enhances white/gray reproduction.
+In 2004, Hydis Technologies Co., Ltd licensed AFFS to Japan's Hitachi Displays.
+Hitachi is using AFFS to manufacture high-end panels.
+In 2006, HYDIS licensed AFFS to Sanyo Epson Imaging Devices Corporation.
+Shortly thereafter, Hydis introduced a high-transmittance evolution of the AFFS display, called HFFS (FFS+).
+Hydis introduced AFFS+ with improved outdoor readability in 2007.
+AFFS panels are mostly utilized in the cockpits of latest commercial aircraft displays.
+But is no longer produced as of February 2015.
+========,3,Vertical alignment (VA).
+Vertical-alignment displays are a form of LCDs in which the liquid crystals naturally align vertically to the glass substrates.
+When no voltage is applied, the liquid crystals remain perpendicular to the substrate, creating a black display between crossed polarizers.
+When voltage is applied, the liquid crystals shift to a tilted position, allowing light to pass through and create a gray-scale display depending on the amount of tilt generated by the electric field.
+It has a deeper-black background, a higher contrast ratio, a wider viewing angle, and better image quality at extreme temperatures than traditional twisted-nematic displays.
+========,3,Blue phase mode.
+Blue phase mode LCDs have been shown as engineering samples early in 2008, but they are not in mass-production.
+The physics of blue phase mode LCDs suggest that very short switching times (~1 ms) can be achieved, so time sequential color control can possibly be realized and expensive color filters would be obsolete.
+========,2,Quality control.
+Some LCD panels have defective transistors, causing permanently lit or unlit pixels which are commonly referred to as stuck pixels or dead pixels respectively.
+Unlike integrated circuits (ICs), LCD panels with a few defective transistors are usually still usable.
+Manufacturers' policies for the acceptable number of defective pixels vary greatly.
+At one point, Samsung held a zero-tolerance policy for LCD monitors sold in Korea.
+As of 2005, though, Samsung adheres to the less restrictive ISO 13406-2 standard.
+Other companies have been known to tolerate as many as 11 dead pixels in their policies.
+Dead pixel policies are often hotly debated between manufacturers and customers.
+To regulate the acceptability of defects and to protect the end user, ISO released the ISO 13406-2 standard.
+However, not every LCD manufacturer conforms to the ISO standard and the ISO standard is quite often interpreted in different ways.
+LCD panels are more likely to have defects than most ICs due to their larger size.
+For example, a 300 mm SVGA LCD has 8 defects and a 150 mm wafer has only 3 defects.
+However, 134 of the 137 dies on the wafer will be acceptable, whereas rejection of the whole LCD panel would be a 0% yield.
+In recent years, quality control has been improved.
+An SVGA LCD panel with 4 defective pixels is usually considered defective and customers can request an exchange for a new one.
+Some manufacturers, notably in South Korea where some of the largest LCD panel manufacturers, such as LG, are located, now have "zero defective pixel guarantee", which is an extra screening process which can then determine "A" and "B" grade panels.
+Many manufacturers would replace a product even with one defective pixel.
+Even where such guarantees do not exist, the location of defective pixels is important.
+A display with only a few defective pixels may be unacceptable if the defective pixels are near each other.
+LCD panels also have defects known as "clouding" (or less commonly "mura"), which describes the uneven patches of changes in luminance.
+It is most visible in dark or black areas of displayed scenes.
+========,2,Zero-power (bistable) displays.
+The zenithal bistable device (ZBD), developed by QinetiQ (formerly DERA), can retain an image without power.
+The crystals may exist in one of two stable orientations ("Black" and "White") and power is only required to change the image.
+ZBD Displays is a spin-off company from QinetiQ who manufactured both grayscale and color ZBD devices.
+Kent Displays has also developed a "no power" display that uses polymer stabilized cholesteric liquid crystal (ChLCD).
+In 2009 Kent demonstrated the use of a ChLCD to cover the entire surface of a mobile phone, allowing it to change colors, and keep that color even when power is cut off.
+In 2004 researchers at the University of Oxford demonstrated two new types of zero-power bistable LCDs based on Zenithal bistable techniques.
+Several bistable technologies, like the 360° BTN and the bistable cholesteric, depend mainly on the bulk properties of the liquid crystal (LC) and use standard strong anchoring, with alignment films and LC mixtures similar to the traditional monostable materials.
+Other bistable technologies, e.g.
+BiNem technology, are based mainly on the surface properties and need specific weak anchoring materials.
+========,2,Advantages and disadvantages.
+Some of these issues relate to full-screen displays, others to small displays as on watches, etc.
+Many of the comparisons are with CRT displays.
+========,2,Chemicals used.
+Several different families of liquid crystals are used in liquid crystals.
+The molecules used have to be anisotropic, and to exhibit mutual attraction.
+Polarizable rod-shaped molecules (biphenyls, terphenyls, etc.)
+are common.
+A common form is a pair of aromatic benzene rings, with a nonpolar moiety (pentyl, heptyl, octyl, or alkyl oxy group) on one end and polar (nitrile, halogen) on the other.
+Sometimes the benzene rings are separated with an acetylene group, ethylene, CH=N, CH=NO, N=N, N=NO, or ester group.
+In practice, eutectic mixtures of several chemicals are used, to achieve wider temperature operating range (-10..+60 °C for low-end and -20..+100 °C for high-performance displays).
+For example, the E7 mixture is composed of three biphenyls and one terphenyl: 39 wt.% of 4'-pentyl[1,1'-biphenyl]-4-carbonitrile (nematic range 24..35 °C), 36 wt.% of 4'-heptyl[1,1'-biphenyl]-4-carbonitrile (nematic range 30..43 °C), 16 wt.% of 4'-octoxy[1,1'-biphenyl]-4-carbonitrile (nematic range 54..80 °C), and 9 wt.% of 4"-pentyl[1,1':4',1"-terphenyl]-4-carbonitrile (nematic range 131..240 °C).

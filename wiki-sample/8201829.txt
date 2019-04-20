@@ -1,0 +1,17 @@
+========,1,preface.
+========,2,Men.
+========,3,Large hill individual.
+Debuted: 1925.
+Unofficial event: 1941.
+***LIST***.
+========,3,Team large hill.
+Unofficial first ever demonstration team event: 1978.
+Officially debuted: 1982.
+***LIST***.
+========,3,Team normal hill.
+Debuted: 2001.
+Not held: 2003.
+Resumed: 2005.
+Not held: 2007-9.
+Resumed: 2011.
+***LIST***.

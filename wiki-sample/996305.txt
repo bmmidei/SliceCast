@@ -1,0 +1,22 @@
+========,1,preface.
+Colluvium is a general name for loose, unconsolidated sediments that have been deposited at the base of hillslopes by either rainwash, sheetwash, slow continuous downslope creep, or a variable combination of these processes.
+Colluvium is typically composed of a heterogeneous range of rock types and sediments ranging from silt to rock fragments of various sizes.
+This term is also used to specifically refer to sediment deposited at the base of a hillslope by unconcentrated surface runoff or sheet erosion.
+========,2,Location.
+"Colluviation" refers to the buildup of colluvium at the base of a hillslope.
+Colluvium is typically loosely consolidated angular material located at the base of a steep hill slope or cliff.
+Colluvium accumulates as gently sloping aprons or fans, either at the base of or within gullies and hollows within hillslopes.
+These accumulations of colluvium can be several meters in thickness and often contain buried soils (paleosols), crude bedding, and cut and fill sequences.
+========,2,Importance.
+Thick accumulations of colluvium may preserve a rich record of long term paleoclimatic change based on the paleosols and the remains of plants and animals, invertebrate and vertebrates that they often contain.
+These fossils indicate previous geologic and environmental settings.
+Thick accumulations of colluvium often contain well-preserved and sometimes deeply buried archaeological deposits as excavated at the Cherokee Sewer Site, Cherokee County, Iowa, and the Koster Site, Greene County, Illinois.
+Colluvium can also be rocks that have been transported downward from glaciers and so can indicate past stages of cooler and/or wetter weather.
+Deposits of detrital colluvium can reveal the soil composition and signify processes of chemical weathering.
+========,2,Colluvium vs alluvium.
+The definitions of colluvium and alluvium are interdependent and reliant on one another.
+Distinctions between the two are important in order to properly define the geomorphic processes that have occurred in a specific geological setting.
+Alluvium is sand, clay, or other similar detrital material deposited by running water.
+The distinction between colluvium and alluvium relates to the involvement of running water.
+Alluvium specifically refers to the geomorphic processes involved with flowing water and so alluvium is generally fine-grained clay and silt material that has the capacity to be entrained in water currents and eventually deposited.
+For these same reasons, alluvium is also generally well sorted material while colluvium is not.

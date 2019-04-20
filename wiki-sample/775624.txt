@@ -1,0 +1,25 @@
+========,1,preface.
+Climbing guidebooks are used by rock climbers to find the location of climbing routes at crags or on mountains.
+Many guidebooks also offer condensed information about local restaurants, bars and camping areas; often include sections on geology and local climbing history; and may contain many pictures to inspire climbers.
+Guidebooks may range in size from pamphlets detailing dozens of routes up to tomes that document thousands of routes.
+The library of the American Alpine Club contains over 20,000 books and videos, a majority of which are such guidebooks.
+In the Alps the Alpine Club Guide series is very comprehensive.
+========,2,Route descriptions.
+Guidebooks can indicate locations by verbal descriptions (for example" "start in the third left-facing corner below the large, orange roof, left of the route "Something Interesting"").
+Starting in the 1980s, a diagram-style was developed, with the detailed diagrams of the routes, called "topos" (probably from French).
+Route descriptions typically include information about the length of a route and its grade (difficulty).
+The description can also include varying amounts of information about how to climb the route, such as the location of the crux, special techniques needed, and amount and type of gear needed.
+When this information is very detailed it is collectively known as "beta".
+In a definitive guide, the route's history (credits for first ascents etc.)
+would also be included.
+========,2,Publication.
+Guidebooks may be compilations of selected popular routes, or exhaustive references.
+They may be published by national/regional mountaineering bodies, commercial publishers, or self-published by local enthusiasts.
+They are almost always sold in climbing shops near the areas described (or in general shops in areas too small for a climbing shop), but are also often distributed internationally.
+As climbing areas develop, it is usually necessary to publish new editions of guidebooks every several years.
+In the interim, "new routes" updates are published, either as printed booklets or online.
+In recent years, many climbing guidebooks have been published in digital format, often for display in smartphone applications.
+This medium offers the benefit of frequent or continuous updates, as well as rapid searching, and even, in some cases, GPS navigation.
+========,2,Influence.
+Climbing guidebooks are important to the culture of climbing, transmitting history and stories down through the ages, and delineating what is considered good style in a particular area.
+The upcoming publication of a new guidebook of the area often leads to a flurry of climbers establishing new routes there (because one can clearly see the parts of rock terrain which are still unclimbed).

@@ -1,0 +1,62 @@
+========,1,preface.
+========,2,History.
+Sprint originally appeared as the "FinalWord" application, developed by Jason Linhart, Craig Finseth, Scott Layson Burson, Brian Hess, and Bill Spitzak at Mark of the Unicorn - a company (headquartered in Cambridge, MA) which is now better known for its music software products.
+At the time MOTU sold MINCE and SCRIBBLE, a text editor package based on Emacs.
+As The FinalWord, the package met with some success: for example, the manuals of the Lotus software package were written on it, as was Marvin Minsky's book The Society of Mind.
+FinalWord II was renamed Sprint when it was acquired by Borland, which added a new user interface, new manuals, and features to the application.
+The editor speed was considered blazing at the time, running with no delays on machines as slow as 8 megahertz.
+This was the time of European development for Borland: Sidekick and Turbo Pascal had been founded in Denmark; and the management of the European subsidiary comprised former Micropro France managers (Micropro was at the time the world leader in Word processing software with the famous WordStar line-up.
+They had success with the launch of WordStar 2000 - the first word processor package with a spelling dictionary in French.)
+This is why the development and marketing of the product was conducted in France.
+Sprint is one of the very few major products from an American software publisher that had a French version shipped before the American version.
+Sprint v1.0 shipped in France with notable initial success, capturing a 30 percent market share and getting the jump on competing word processors.
+MicroPro was weakening with old Wordstar products and still-new WordStar 2000; WordPerfect was having problems with the translation and the user interface; and MS-Word was a decent but less polished or powerful product, and was also DOS and text-based.
+The lack of beta-test combined with pressure to ship for back-to-school time resulted in a Sprint 1.0 which had a number of minor glitches and bugs that had to be corrected with version 1.01 and a whole new set of diskettes for every single registered user.
+Version 1.0 (equivalent of French 1.01) shipped a few months later in the US and rest of world, with a mixed reception from customers.
+Traditional Borland fans who bought Sprint were happy with the editor, but wondered why the package included a sophisticated formatter, while business users who wanted a word processor just to write their memos and letters wondered what to do with the heavy manual and powerful features of the formatter language.
+In any event, word processing was shifting to WYSIWYG.
+Version 1.5 did ship with a number of new features and real stability in France, but never made it elsewhere, although a number of localized versions had been built for various European countries.
+At this time, Borland Scandinavia had gone bankrupt, while Borland France had to be saved by massive financial help from the US.
+The developers who once worked in Europe had to move to the Scotts Valley CA premises.
+Version 1.5 was a reasonable success in France for some years, but Microsoft Word and Windows gained momentum and obscured all the other products.
+In North America, Sprint never really gained traction in the marketplace, as it was overshadowed by WordPerfect and then Microsoft Word.
+It built up a small, but loyal and often enthusiastic, following among professional writers, researchers, academics, and programmers who appreciated its power, speed, and ability to handle large documents.
+Borland did not believe that there was enough of a market to warrant updating the product, and it eventually stopped supporting it.
+========,2,Features.
+Crash-recovery: Sprint had incremental back-up, with its swap file updated every 3 seconds, enabling full recovery from crashes.
+At trade shows, demos were made with one person pulling out the power cord, and the typist resuming work as soon as the machine restarted.
+Spell-as-you-type: With this feature, Sprint could beep at you in real time when detecting a typo.
+Multilingual editing: Sprint included dictionary switching, support for hyphenation, and spelling and thesaurus dictionaries that have yet to be matched by the competitors.
+Separate formatter and programmable editor: These have been useful features for corporate environments aiming at standardizing documents or building "boilerplate" contracts.
+In France, for example, applications were built for Banques Populaires (loan contracts) or Conseil d'Etat, while some local government agencies created specific applications for tenders and contracts.
+Powerful programming language: Programming in Sprint was done with the internal language of the word processor - a language that is much like C. Programmers have the ability to "get under the hood" and add modifications and extensions to an extent not possible with other word processors.
+Once written, Sprint programs are compiled into the interface, and run at full speed.
+Interface switching: Modifications and extensions to Sprint can be saved into separate interfaces which can be easily and quickly switched.
+This is useful for people working in different languages, as the keys can be mapped to the accents and characters of each language, depending on the interface.
+File handling: Users could work in up to 24 files at once.
+All open files could be saved on exit or not—and nevertheless automatically reopened as left, including each file's cursor position, cut and paste buffer contents, and spell check status.
+Because this behavior was accomplished using the crash-recovery swap file (see above), it allowed an "instant-on" behavior using the saved state from the previous run; this was unusual for its time.
+Handling large documents: Sprint has the ability to publish large documents (hundreds of pages) with strict formatting consistency and automatic table of contents, index generation, tables of figures, and tables of authorities.
+These features made Sprint a leader in the production of technical documents - and Borland itself did all its manuals on Sprint, for years.
+PostScript capabilities: Sprint could print in-line EPS images with dimensioning, and also had the ability to add in-line PostScript procedures.
+This made the product rather popular in the printing industry.
+For example, making a 200-page novel fit into 192 pages was simply a matter of changing the point size from 11 to 10.56.
+Sprint could size by 0.04 increment and scale the line spacing and kerning accordingly.
+(The 192 pages size is important in the printing industry, where the number of pages often has to be divisible by 32.
+A 200-page book would have to be printed using 224 pages, the extra 24 pages being empty.)
+Consistency with familiar environments: The default editor key bindings were a subset of those provided by EMACS, and the mark-up language was a subset of Scribe, making it easy for people familiar with those tools to use Sprint.
+========,2,Reception.
+"BYTE" in 1984 praised FinalWord 1.16's low memory requirements and many powerful features.
+Criticisms included great difficulty in learning how to use it and instability, including a serious bug that destroyed four days of work.
+The magazine in 1989 listed Sprint as among the "Distinction" winners of the BYTE Awards, stating that "if you can live without [WYSIWYG], Sprint may be all you need in word processing software".
+========,2,External References.
+Manuals are on the "Wayback Machine", the Internet Archive in several formats, emobi, pdf, djvu, etc.
+FROM https://archive.org/search.php?query=borland%20sprint 1.
+Borland Sprint Reference Guide 1988 (Jan 8, 2013) From the bitsavers.org collection, a scanned-in computer-related document.
+Topics: sprint, command, menu, text, file, commands, choose, formatter, chapter, format, reference guide... Bitsavers 2.
+Borland Sprint Users Guide 1988 (Jan 8, 2013) texts From the bitsavers.org collection, a scanned-in computer-related document.
+Topics: sprint, file, text, choose, command, menu, files, typestyle, press, user, user interface, record... Bitsavers 3.
+Borland Sprint Advanced Users Guide 1988 (Jan 8, 2013) texts From the bitsavers.org collection, a scanned-in computer-related document.
+Topics: sprint, command, text, macro, format, file, commands, formatter, advanced, chapter, sprint... Bitsavers 4.
+Borland Sprint Alternative User Interfaces 1988 (Jan 8, 2013) texts From the bitsavers.org collection, a scanned-in computer-related document.
+Topics: sprint, user, menu, command, interface, wordstar, commands, msword, file, alternative, use Bitsavers

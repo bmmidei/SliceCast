@@ -1,0 +1,173 @@
+========,1,preface.
+The British Agricultural Revolution was the unprecedented increase in agricultural production in Britain due to increases in labour and land productivity between the mid-17th and late 19th centuries.
+Agricultural output grew faster than the population over the century to 1770, and thereafter productivity remained among the highest in the world.
+This increase in the food supply contributed to the rapid growth of population in England and Wales, from 5.5 million in 1700 to over 9 million by 1801 though domestic production gave way increasingly to food imports in the nineteenth century as population more than tripled to over 32 million.
+The rise in productivity accelerated the decline of the agricultural share of the labour force, adding to the urban workforce on which industrialization depended: the Agricultural Revolution has therefore been cited as a cause of the Industrial Revolution.
+However, historians continue to dispute when exactly such a "revolution" took place and of what it consisted.
+Rather than a single event, G.E.
+Mingay states that there were a "profusion of agricultural revolutions, one for two centuries before 1750, another emphasising the century after 1650, a third for the period 1750-1880, and a fourth for the middle decades of the nineteenth century".
+This has led more recent historians to argue that any general statements about "the Agricultural Revolution" are difficult to sustain.
+One important change in farming methods was the move in crop rotation to turnips and clover in place of fallow.
+Turnips can be grown in winter and are deep rooted, allowing them to gather minerals unavailable to shallow rooted crops.
+Clover fixes nitrogen from the atmosphere into a form of fertiliser.
+This permitted the intensive arable cultivation of light soils on enclosed farms and provided fodder to support increased livestock numbers whose manure added further to soil fertility.
+========,2,Major developments and innovations.
+The British Agricultural Revolution was the result of the complex interaction of social, economic and farming technology changes.
+Major developments and innovations include:
+***LIST***.
+========,3,Crop rotation.
+One of the most important innovations of the British Agricultural Revolution was the development of the Norfolk four-course rotation, which greatly increased crop and livestock yields by improving soil fertility and reducing fallow.
+Crop rotation is the practice of growing a series of dissimilar types of crops in the same area in sequential seasons to help restore plant nutrients and mitigate the build-up of pathogens and pests that often occurs when one plant species is continuously cropped.
+Rotation can also improve soil structure and fertility by alternating deep-rooted and shallow-rooted plants.
+Turnip roots, for example, can recover nutrients from deep under the soil.
+The Norfolk System, as it is now known, rotates crops so that different crops are planted with the result that different kinds and quantities of nutrients are taken from the soil as the plants grow.
+An important feature of the Norfolk four-field system was that it used labor at times when demand was not at peak levels.
+Planting cover crops such as turnips and clover was not permitted under the common field system because they interfered with access to the fields.
+Besides, other people's livestock could graze the turnips.
+During the Middle Ages, the open field system had initially used a two-field crop rotation system where one field was left fallow or turned into pasture for a time to try to recover some of its plant nutrients.
+Later they employed a three-year, three field crop rotation routine, with a different crop in each of two fields, e.g.
+oats, rye, wheat, and barley with the second field growing a legume like peas or beans, and the third field fallow.
+Normally from 10–30% of the arable land in a three crop rotation system is fallow.
+Each field was rotated into a different crop nearly every year.
+Over the following two centuries, the regular planting of legumes such as peas and beans in the fields that were previously fallow slowly restored the fertility of some croplands.
+The planting of legumes helped to increase plant growth in the empty field due to the bacteria on legume roots' ability to fix nitrogen (N) from the air into the soil in a form that plants could use.
+Other crops that were occasionally grown were flax and members of the mustard family.
+Convertible husbandry was the alternation of a field between pasture and grain.
+Because nitrogen builds up slowly over time in pasture, ploughing up pasture and planting grains resulted in high yields for a few years.
+A big disadvantage of convertible husbandry was the hard work in breaking up pastures and difficulty in establishing them.
+The significance of convertible husbandry is that it introduced pasture into the rotation.
+The farmers in Flanders (in parts of France and current day Belgium) discovered a still more effective four-field crop rotation system, using turnips and clover (a legume) as forage crops to replace the three-year crop rotation fallow year.
+The four-field rotation system allowed farmers to restore soil fertility and restore some of the plant nutrients removed with the crops.
+Turnips first show up in the probate records in England as early as 1638 but were not widely used till about 1750.
+Fallow land was about 20% of the arable area in England in 1700 before turnips and clover were extensively grown.
+Guano and nitrates from South America were introduced in the mid-19th century and fallow steadily declined to reach only about 4% in 1900.
+Ideally, wheat, barley, turnips and clover would be planted in that order in each field in successive years.
+The turnips helped keep the weeds down and were an excellent forage crop—ruminant animals could eat their tops and roots through a large part of the summer and winters.
+There was no need to let the soil lie fallow as clover would re-add nitrates (nitrogen-containing salts) back to the soil.
+The clover made excellent pasture and hay fields as well as green manure when it was ploughed under after one or two years.
+The addition of clover and turnips allowed more animals to be kept through the winter, which in turn produced more milk, cheese, meat and manure, which maintained soil fertility.
+This maintains a good amount of crops produced.
+The mix of crops also changed: the area under wheat rose by 1870 to 3.5 million acres (1.4m ha), barley to 2.25m acres (0.9m ha) and oats less dramatically to 2.75m acres (1.1m ha), while rye dwindled to 60,000 acres (25,000 ha), less than a tenth of its late medieval peak.
+Grain yields benefited from new and better seed alongside improved rotation and fertility: wheat yields increased by a quarter in the 18th century and nearly half in the 19th, averaging 30 bushels per acre (2,080 kg/ha) by the 1890s.
+========,3,The Dutch and Rotherham swing (wheel-less) plough.
+The Dutch acquired the iron tipped, curved mouldboard, adjustable depth plough from the Chinese in the early 17th century.
+It had the advantage of being able to be pulled by one or two oxen compared to the six or eight needed by the heavy wheeled northern European plough.
+The Dutch plough was brought to Britain by Dutch contractors who were hired to drain East Anglian fens and Somerset moors.
+The plough was extremely successful on wet, boggy soil, but soon was used on ordinary land.
+British improvements included Joseph Foljambe's cast iron plough (patented 1730), which combined an earlier Dutch design with a number of innovations.
+Its fittings and coulter were made of iron and the mouldboard and share were covered with an iron plate, making it easier to pull and more controllable than previous ploughs.
+By the 1760s Foljambe was making large numbers of these ploughs in a factory outside of Rotherham, England, using standard patterns with interchangeable parts.
+The plough was easy for a blacksmith to make, but by the end of the 18th century it was being made in rural foundries.
+By 1770 it was the cheapest and best plough available.
+It spread to Scotland, America, and France.
+========,3,Enclosure.
+In Europe, agriculture was feudal since the Middle Ages.
+In the traditional open field system, many subsistence farmers cropped strips of land in large fields held in common and divided the produce.
+They typically worked under the auspices of the aristocracy or the Catholic Church, who owned much of the land.
+As early as the 12th century, some fields in England tilled under the open field system were enclosed into individually owned fields.
+The Black Death from 1348 onward accelerated the break-up of the feudal system in England.
+Many farms were bought by yeomen who enclosed their property and improved their use of the land.
+More secure control of the land allowed the owners to make innovations that improved their yields.
+Other husbandmen rented property they "share cropped" with the land owners.
+Many of these enclosures were accomplished by acts of Parliament in the 16th and 17th centuries.
+The process of enclosing property accelerated in the 15th and 16th centuries.
+The more productive enclosed farms meant that fewer farmers were needed to work the same land, leaving many villagers without land and grazing rights.
+Many of them moved to the cities in search of work in the emerging factories of the Industrial Revolution.
+Others settled in the English colonies.
+English Poor Laws were enacted to help these newly poor.
+Some practices of enclosure were denounced by the Church, and legislation was drawn up against it; but the large, enclosed fields were needed for the gains in agricultural productivity from the 16th to 18th centuries.
+This controversy led to a series of government acts, culminating in the General Enclosure Act of 1801 which sanctioned large-scale land reform.
+The process of enclosure was largely complete by the end of the 18th century.
+========,3,Development of a national market.
+Markets were widespread by 1500 with about 800 locations in Britain.
+These were regulated and not free.
+The most important development between the 16th century and the mid-19th century was the development of private marketing.
+By the 19th century, marketing was nationwide and the vast majority of agricultural production was for market rather than for the farmer and his family.
+The 16th-century market radius was about 10 miles, which could support a town of 10,000.
+The next stage of development was trading between markets, requiring merchants, credit and forward sales, knowledge of markets and pricing and of supply and demand in different markets.
+Eventually the market evolved into a national one driven by London and other growing cities.
+By 1700, there was a national market for wheat.
+Legislation regulating middlemen required registration, addressed weights and measures, fixing of prices and collection of tolls by the government.
+Market regulations were eased in 1663, when people were allowed some self-regulation to hold inventory, but it was forbidden to withhold commodities from the market in an effort to increase prices.
+In the late 18th century, the idea of self-regulation was gaining acceptance.
+The lack of internal tariffs, customs barriers and feudal tolls made Britain "the largest coherent market in Europe".
+========,3,Transportation infrastructures.
+High wagon transportation costs made it uneconomical to ship commodities very far outside the market radius by road, generally limiting shipment to less than 20 or 30 miles to market or to a navigable waterway.
+Water transport was, and in some cases still is, much more efficient than land transport.
+In the early 19th century it cost as much to transport a ton of freight 32 miles by wagon over an unimproved road as it did to ship it 3000 miles across the Atlantic.
+A horse could pull at most one ton of freight on a Macadam road, which was multi-layer stone covered and crowned, with side drainage.
+But a single horse could pull a barge weighing over 30 tons.
+Commerce was aided by the expansion of roads and inland waterways.
+Road transport capacity grew from threefold to fourfold from 1500 to 1700.
+Railroads would eventually reduce the cost of land transport by over 95%; however they did not become important until after 1850.
+========,3,Land conversion, drainage and reclamation.
+Another way to get more land was to convert some pasture land into arable land and recover fen land and some pastures.
+It is estimated that the amount of arable land in Britain grew by 10–30% through these land conversions.
+The British Agricultural Revolution was aided by land maintenance advancements in Flanders and the Netherlands.
+Due to the large and dense population of Flanders and Holland, farmers there were forced to take maximum advantage of every bit of usable land; the country had become a pioneer in canal building, soil restoration and maintenance, soil drainage, and land reclamation technology.
+Dutch experts like Cornelius Vermuyden brought some of this technology to Britain.
+Water-meadows were utilised in the late 16th to the 20th centuries and allowed earlier pasturing of livestock after they were wintered on hay.
+This increased livestock yields, giving more hides, meat, milk, and manure as well as better hay crops.
+========,3,Rise in capitalist farmers.
+With the development of regional markets and eventually a national market, aided by improved transportation infrastructures, farmers were no longer dependent on their local market and were less subject to having to sell at low prices into an oversupplied local market and not being able to sell their surpluses to distant localities that were experiencing shortages.
+They also became less subject to price fixing regulations.
+Farming became a business rather than solely a means of subsistence.
+Under free market capitalism, farmers had to remain competitive.
+To be successful, farmers had to become effective managers who incorporated the latest farming innovations in order to be low cost producers.
+========,3,Selective breeding of livestock.
+In England, Robert Bakewell and Thomas Coke introduced selective breeding as a scientific practice, mating together two animals with particularly desirable characteristics, and also using inbreeding or the mating of close relatives, such as father and daughter, or brother and sister, to stabilise certain qualities in order to reduce genetic diversity in desirable animals programmes from the mid-18th century.
+Arguably, Bakewell's most important breeding programme was with sheep.
+Using native stock, he was able to quickly select for large, yet fine-boned sheep, with long, lustrous wool.
+The Lincoln Longwool was improved by Bakewell, and in turn the Lincoln was used to develop the subsequent breed, named the New (or Dishley) Leicester.
+It was hornless and had a square, meaty body with straight top lines.
+Bakewell was also the first to breed cattle to be used primarily for beef.
+Previously, cattle were first and foremost kept for pulling ploughs as oxen or for dairy uses, with beef from surplus males as an additional bonus, but he crossed long-horned heifers and a Westmoreland bull to eventually create the Dishley Longhorn.
+As more and more farmers followed his lead, farm animals increased dramatically in size and quality.
+The average weight of a bull sold for slaughter at Smithfield was reported around 1700 as 370 pounds (170 kg), though this is considered a low estimate: by 1786, weights of 840 pounds (380 kg) were reported, though other contemporary indicators suggest an increase of around a quarter over the intervening century.
+========,2,British agriculture 1800–1900.
+New fertilisers, besides the organic fertilisers in manure, were slowly found as massive sodium nitrate (NaNO) deposits found in the Atacama Desert, Chile, were brought under British financiers like John Thomas North and imports were started.
+Chile was happy to allow the exports of these sodium nitrates by allowing the British to use their capital to develop the mining and imposing a hefty export tax to enrich their treasury.
+Massive deposits of sea bird guano (11–16% N, 8–12% phosphate, and 2–3% potash), were found and started to be imported after about 1830.
+Significant imports of potash obtained from the ashes of trees burned in opening new agricultural lands were imported.
+By-products of the British meat industry like bones from the knackers' yards were ground up or crushed and sold as fertiliser.
+By about 1840 about 30,000 tons of bones were being processed (worth about £150,000).
+An unusual alternative to bones was found to be the millions of tons of fossils called coprolites found in South East England.
+When these were dissolved in sulphuric acid they yielded a high phosphate mixture (called "super phosphate") that plants could absorb readily and increased crop yields.
+Mining coprolite and processing it for fertiliser soon developed into a major industry—the first commercial fertiliser.
+Higher yield per acre crops were also planted as potatoes went from about 300,000 acres in 1800 to about 400,000 acres in 1850 with a further increase to about 500,000 in 1900.
+Labour productivity slowly increased at about 0.6% per year.
+With more capital invested, more organic and inorganic fertilisers, and better crop yields increased the food grown at about 0.5%/year—not enough to keep up with population growth.
+Great Britain contained about 10.8 million people in 1801, 20.7 million in 1851 and 37.1 million by 1901.
+This corresponds to an annual population growth rate of 1.3% in 1801-1851 and 1.2% in 1851-1901, twice the rate of agricultural output growth.
+In addition to land for cultivation there was also a demand for pasture land to support more livestock.
+The growth of arable acreage slowed from the 1830s and went into reverse from the 1870s in the face of cheaper grain imports, and wheat acreage nearly halved from 1870 to 1900.
+The recovery of food imports after the Napoleonic Wars (1803–1815) and the resumption of American trade following the War of 1812 (1812–1815) led to the enactment in 1815 of the Corn Laws (protective tariffs) to protect cereal grain producers in Britain against foreign competition.
+These laws were only removed in 1846 after the onset of the Irish Potato Famine in which potato late blight ruined most of the Irish potato crop and brought famine to the Irish people in 1846–50.
+Though the blight also struck Scotland, Wales, England, and much of Europe, its effect there was far less severe since potatoes constituted a much smaller percentage of the diet than in Ireland.
+In addition many Britons could afford to buy specially-imported food from other countries — the famine-stricken Irish were too poor to do this.
+Hundreds of thousands died in the Irish famine and millions more emigrated to England, Wales, Scotland, Canada, Australia, Europe, and the United States, reducing the population from about 8.5 million in 1845 to 4.3 million by 1921.
+Between 1873 and 1879 British agriculture suffered from wet summers that damaged grain crops.
+Cattle farmers were hit by foot-and-mouth disease, and sheep farmers by sheep liver rot.
+The poor harvests, however, masked a greater threat to British agriculture: growing imports of foodstuffs from abroad.
+The development of the steam ship and the development of extensive railway networks in Britain and the USA allowed US farmers with much larger and more productive farms to export hard grain to Britain at a price that undercut the British farmers.
+At the same time, large amounts of cheap corned beef started to arrive from Argentina, and the opening of the Suez Canal in 1869 and the development of refrigerator ships (reefers) in about 1880 opened the British market to cheap meat and wool from Australia, New Zealand, and Argentina.
+The Long Depression was a worldwide economic recession that began in 1873 and ended around 1896.
+It hit the agricultural sector hard and was the most severe in Europe and the United States, which had been experiencing strong economic growth fuelled by the Second Industrial Revolution in the decade following the American Civil War.
+By 1900 half the meat eaten in Britain came from abroad and tropical fruits such as bananas were also being imported on the new refrigerator ships.
+========,3,Seed planting.
+Before the introduction of the seed drill, the common practice was to plant seeds by broadcasting (evenly throwing) them across the ground by hand on the prepared soil and then lightly harrowing the soil to cover the seed.
+Seeds left on top of the ground were eaten by birds, insects, and mice.
+There was no control over spacing and seeds were planted too close together and too far apart.
+Alternately seeds could be laboriously planted one by one using a hoe and/or a shovel.
+Cutting down on wasted seed was important because the yield of seeds harvested to seeds planted at that time was around four or five.
+The seed drill was introduced from China to Italy in the mid-16th century where it was patented by the Venetian Senate.
+Jethro Tull invented an improved seed drill in 1701.
+It was a mechanical seeder which distributed seeds evenly across a plot of land and at the correct depth.
+Tull's seed drill was very expensive and not very reliable and therefore did not have much of an impact.
+Good quality seed drills were not produced until the mid-18th century.
+========,2,Significance.
+The Agricultural Revolution was part of a long process of improvement, but sound advice on farming began to appear in England in the mid-17th century, from writers such as Samuel Hartlib, Walter Blith and others, and the overall agricultural productivity of Britain started to grow significantly only in the period of the Agricultural Revolution.
+It is estimated that total agricultural output grew 2.7-fold between 1700 and 1870 and output per worker at a similar rate.
+Despite its name, the Agricultural Revolution in Britain did not result in overall productivity per hectare of agricultural area as high as in China, where intensive cultivation (including multiple annual cropping in many areas) had been practised for many centuries.
+The Agricultural Revolution in Britain proved to be a major turning point in history, allowing population to far exceed earlier peaks and sustain the country's rise to industrial pre-eminence.
+Towards the end of the 19th century, the substantial gains in British agricultural productivity were rapidly offset by competition from cheaper imports, made possible by the exploitation of new lands and advances in transportation, refrigeration, and other technologies.

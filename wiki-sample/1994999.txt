@@ -1,0 +1,45 @@
+========,1,preface.
+In music cognition and musical analysis, the study of melodic expectation considers the engagement of the brain's predictive mechanisms in response to music.
+For example, if the ascending musical partial octave "do-re-mi-fa-sol-la-ti-..." is heard, listeners familiar with Western music will have a strong expectation to hear or provide one more note, "do", to complete the octave.
+Melodic expectation can be considered at the esthesic level, in which case the focus lies on the listener and its response to music.
+It can be considered at the neutral level, in which case the focus switches to the actual musical content, such as the "printed notes themselves".
+At the neutral level, the observer may consider logical implications projected onto future elements by past elements or derive statistical observations from information theory.
+========,2,A multifaceted concept.
+The notion of melodic expectation has prompted the existence of a corpus of studies in which authors often choose to provide their own terminology in place of using the literature's.
+This results in an important number of different terms that all point towards the phenomenon of musical expectation:
+***LIST***.
+Expectation can also be found mentioned in relation to concepts originating from the field of information theory such as entropy.
+Hybridization of information theory and humanities results in the birth of yet other notions, particularly variations upon the notion of entropy modified for the need of description of musical content.
+Consideration of musical expectation can be sorted into four trends.
+***LIST***.
+========,2,Leonard Meyer.
+Leonard Meyer's "Emotion and Meaning in Music" is the classic text in music expectation.
+Meyer's starting point is the belief that the experience of music (as a listener) is derived from one's emotions and feelings about the music, which themselves are a function of relationships within the music itself.
+Meyer writes that listeners bring with them a vast body of musical experiences that, as one listens to a piece, conditions one's response to that piece as it unfolds.
+Meyer argued that music's evocative power derives from its capacity to generate, suspend, prolongate, or violate these expectations.
+Meyer models listener expectation in two levels.
+On a perceptual level, Meyer draws on Gestalt psychology to explain how listeners build mental representations of auditory phenomena.
+Above this raw perceptual level, Meyer argues that learning shapes (and re-shapes) one's expectations over time.
+========,2,Implication-Realization model.
+Narmour's (1992) Implication-Realization (I-R) Model is a detailed formalization based on Meyer's work on expectation.
+A fundamental difference between Narmour's models and most theories of expectation lies in the author's conviction according to which a genuine theory should be formulated in falsifiable terms.
+According to Narmour, prior knowledge of musical expectation is based too heavily upon percepts, introspection and internalization, which bring insoluble epistemological problems.
+The theory focuses on how "implicative intervals" set up expectations for certain "realizations" to follow.
+The I-R model includes two primary factors: proximity and direction.
+Lerdahl extended the system by developing a tonal pitch space and adding a stability factor (based on Lerdahl's prior work) and a mobility factor.
+========,2,Bimbot and al's System & Contrast model.
+Mainly developed at IRISA since 2011 by Frédéric Bimbot and Emmanuel Deruty, the system & contrast or S&C model of implication derives from the two fundamental hypotheses underlying the I-R model.
+It is rooted in Narmour's conviction according to which any model of expectation should be expressed in logical, falsifiable terms.
+It operates at the neutral level and differs from the I-R model in several regards:
+***LIST***.
+========,2,Margulis's model of melodic expectation.
+Margulis's 2005 model further extends the I-R model.
+First, Margulis added a melodic attraction factor, from some of Lerdahl's work.
+Second, while the I-R model relies on a single (local) interval to establish an implication (an expectation), Margulis attempts to model intervalic (local) expectation as well as more deeply schematic (global) expectation.
+For this, Margulis relies on Lerdahl's and Jackendoff's GTTM to provide a time-span reduction.
+At each hierarchical level (a different time scale) in the reduction, Margulis applies her model.
+These separate levels of analysis are combined through averaging, with each level weighted according to values derived from the time-span reduction.
+Finally, Margulis's model is explicit and realizable, and yields quantitative output.
+The output - melodic expectation at each time instant - is a single function of time.
+Margulis's model describes three distinct types of listener reactions, each derived from listener-experienced "tension":
+***LIST***.

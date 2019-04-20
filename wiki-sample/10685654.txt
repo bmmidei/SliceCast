@@ -1,0 +1,20 @@
+========,1,preface.
+Second sound is a quantum mechanical phenomenon in which heat transfer occurs by wave-like motion, rather than by the more usual mechanism of diffusion.
+Heat takes the place of pressure in normal sound waves.
+This leads to a very high thermal conductivity.
+It is known as "second sound" because the wave motion of heat is similar to the propagation of sound in air.
+Normal sound waves are fluctuations in the density of molecules in a substance; second sound waves are fluctuations in the density of particle-like thermal excitations (rotons and phonons).
+Second sound can be observed in any system in which most phonon-phonon collisions conserve momentum.
+This occurs in superfluids, and also in some dielectric crystals when Umklapp scattering is small.
+========,2,Second sound in helium II.
+Second sound is observed in liquid helium at temperatures below the lambda point, 2.1768 K, where He becomes a superfluid known as helium II.
+Helium II has the highest thermal conductivity of any known material (several hundred times higher than copper).
+Second sound can be observed either as pulses or in a resonant cavity.
+The speed of second sound is close to zero near the lambda point, increasing to approximately 20 m/s around 1.8 K, about ten times slower than normal sound waves.
+At temperatures below 1 K, the speed of second sound in helium II increases as the temperature decreases.
+Second sound is also observed in superfluid helium-3 below its lambda point 2.5 mK.
+========,2,Second sound in other media.
+Second sound has been observed in solid He and He,
+and in some dielectric solids such as Bi in the temperature
+range of 1.2 to 4.0 K with a velocity of (0.78±0.05)×10 m/s,
+or NaF around 10 to 20 K.

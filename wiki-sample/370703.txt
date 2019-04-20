@@ -1,0 +1,144 @@
+========,1,preface.
+The American Locomotive Company, often shortened to ALCO, ALCo or Alco, designed, built and sold steam locomotives, diesel-electric locomotives, diesel engines and generators, specialized forgings, high quality steel, armed tanks and automobiles and produced nuclear energy.
+The American Locomotive Company was formed in 1901 by the merger of Schenectady Locomotive Engine Manufactory of Schenectady, New York with seven smaller locomotive manufacturers.
+The American Locomotive Automobile Company subsidiary designed and manufactured automobiles under the Alco brand from 1905-1913 and produced nuclear energy from 1954-1962.
+The company changed its name to Alco Products, Incorporated in 1955.
+In 1964 the Worthington Corporation acquired the company.
+The company ceased trading in 1969.
+========,2,Foundation and early history.
+The company was created in 1901 from the merger of seven smaller locomotive manufacturers with Schenectady Locomotive Engine Manufactory of Schenectady, New York:
+***LIST***.
+The newly formed company was headquartered in Schenectady, New York.
+Samuel R. Callaway left the presidency of the New York Central Railroad to become president of Alco.
+When Callaway died on June 1, 1904, Albert J. Pitkin succeeded him as president of Alco.
+In 1904, the American Locomotive Company acquired control of the Locomotive and Machine Company of Montreal, Quebec, Canada; this company was eventually renamed the Montreal Locomotive Works.
+In 1905, Alco purchased Rogers Locomotive Works of Paterson, New Jersey, the second largest locomotive manufacturer in the United States behind Baldwin Locomotive Works.
+In the post World War II period, Alco operated manufacturing plants only in Schenectady and Montreal, having closed all the others.
+After the American Locomotive Company ceased locomotive manufacturing in the United States in 1969, Montreal Locomotive Works continued to manufacture locomotives based on Alco designs.
+========,2,Steam locomotives.
+Alco was the second-largest steam locomotive builder in the United States (after Baldwin), producing over 75,000 locomotives (though not all were steam, since, unlike Baldwin, Alco transitioned more readily to Diesel).
+Among these were a large number of well-known locomotives.
+Railroads that favored Alco products included the Delaware & Hudson Railway, the New York, New Haven & Hartford Railroad, the New York Central Railroad, the Union Pacific Railroad and the Southern Pacific.
+Alco was known for its steam locomotives of which the 4-6-4 Hudson, 4-8-2 Mohawk and the 4-8-4 Niagara built for the New York Central and the 4-8-4 FEF and the 4-6-6-4 (Challenger) built for the Union Pacific were fine examples.
+Alco built many of the biggest locomotives ever constructed, including Union Pacific's "Big Boy" (4-8-8-4).
+Alco also built the fastest American locomotives, the Class A Atlantic and Class F7 Hudson streamliners for the Milwaukee Road's "Twin Cities Hiawatha" run.
+Among the ambitious state-of-the-art designs of the late steam era, Alco's Challengers, Big Boys and high speed streamliners stood out for their in-service success.
+Other than the Delaware & Hudson's application of SKF roller bearings to the drivers, main and side rods of their own 4-6-2 locomotives in 1924 (the world's first), Alco built the first production steam locomotive in North America to use roller bearings: Timken 1111, a 4-8-4 commissioned in 1930 by Timken Roller Bearing Company was used for on fifteen major United States railroads before it was purchased in 1933 by the Northern Pacific Railway.
+(The Northern Pacific renumbered the "Four Aces" to No.
+2626 and ran it on the "North Coast Limited", as well as its pool trains between Seattle, Washington, and Portland, Oregon, and excursions, through 1957.)
+During World War II, Alco produced many 2-10-0 Decapods for the USSR.
+Many of these were undelivered at the end of the war, and ten of these were sold to Finland in 1947.
+One, Alco builder's No.
+75214, is preserved at the Finnish Railway Museum.
+Though the dual-service 4-8-4 steam locomotive had shown great promise, 1948 was the last year that steam locomotives were manufactured in Schenectady.
+These were the seven A-2a class 9400-series Pittsburgh & Lake Erie Railroad 2-8-4 "Berkshires."
+Their tenders had to be subcontracted to Lima Locomotive Works, as Alco's tender shop had been closed.
+The building was converted to diesel locomotive manufacture, to compete with locomotives manufactured by the automobile industry.
+Joseph Burroughs Ennis (1879–1955) was a senior vice president between 1917 and 1947 and was responsible for the design of many of the locomotives manufactured.
+========,2,Alco automobiles.
+The company diversified into the automobile business in 1906, producing French Berliet designs under license.
+Production was located at Alco's Rhode Island Locomotive Works in Providence, Rhode Island.
+Two years later, the Berliet license was abandoned, and the company began to produce its own designs instead.
+An Alco racing car won the Vanderbilt Cup in both 1909 and 1910 and competed in the first Indianapolis 500 in 1911, driven on all three occasions by Harry Grant.
+But, ALCO's automotive venture was unprofitable, and they abandoned automobile manufacture in 1913.
+The Alco automobile story is notable chiefly as a step in the automotive career of Walter P. Chrysler, who worked as the plant manager.
+In 1911 he left Alco for Buick in Detroit, Michigan, where he subsequently founded the Chrysler Corporation in 1925.
+========,2,Diesel-electric locomotives.
+Although strongly committed to the steam locomotive, Alco produced the first commercially successful diesel-electric locomotive in 1924 in a consortium with General Electric (electrical equipment) and Ingersoll-Rand (diesel engine).
+This locomotive was sold to the Central Railroad of New Jersey.
+It built additional locomotives for a number of railroads, including the Long Island Rail Road and the Chicago and North Western Railway.
+The company bought an engine manufacturer, McIntosh & Seymour Diesel Engine Company, in 1929 and henceforth produced its own diesel engines.
+Its electrical equipment was always from GE.
+The transition from steam to diesel was largely overseen by Perry T. Egbert, vice president in charge of diesel locomotive sales and later president of the company.
+In the 1930s, Alco was the pre-eminent diesel locomotive builder in the United States, but the General Motors Electro-Motive Division took over that position with aggressive marketing, a ready supply of development capital from its parent company, and the intervention of government demands during the years of World War II.
+During that troubled time, Alco was allocated the construction of diesel switching locomotives, a handful of ALCO DL-109 dual-service engines and its proven steam designs, whereas EMD was allocated the construction of mainline road freight diesels (the production of straight passenger-service engines was prohibited by the War Production Board).
+Alco's revolutionary RS-1 roadswitcher was selected by the United States Army for a vital task.
+Alco ranked 34th among United States corporations in the value of wartime production contracts.
+The Kriegsmarine's capital ships, led by the Tirpitz, and the Luftwaffe were threatening Allied shipping to the Soviet Union at the port of Murmansk from bases in Norway.
+This was, at the time, the Soviet lifeline.
+Thanks to successes in Africa, the U.S. was able to rehabilitate the Trans-Iranian Railway and extend it to the USSR.
+They chose as locomotives the RSD-1, a six-axle, six traction motor variant of the light Alco.
+Not only was the company prevented from selling these locomotives to mainline U.S. railroads, the thirteen RS-1s that had already been built were commandeered for Iranian duty and converted to RSD-1.
+This gave EMD a lead in the diesel locomotive market that could not be overcome.
+Also a factor was that Alco's diesel locomotives were competing with its own steam locomotive products, while EMD had no such overlap.
+In 1940, Alco and GE entered into a partnership to build diesels under the name Alco-GE, an arrangement that lasted until 1953.
+By 1948, Alco controlled 40% of the diesel locomotive market.
+PA and FA-type road units, as well as the ubiquitous S series (660 and 1000 horsepower) switchers and RS series (1000, 1500, and 1600 horsepower) road switchers represented Alco well in those years of motive power transition.
+Much of their success in this period can be tied to their pioneering RS locomotives, representing the first modern road-switcher, a configuration which has long outlasted Alco.
+General Electric was represented in the electrical gear of every locomotive produced by Alco.
+In the complete conversion to diesels, Alco was not able to maintain this production standing.
+The company held the number two position in the market until General Electric, dissatisfied with the results of its partnership with Alco, entered the domestic road diesel locomotive market itself in 1956.
+GE quickly took the number two position from Alco, and eventually eclipsed EMD in overall production.
+Despite continual innovation in its designs (the first AC/DC transmission among others), Alco gradually succumbed to its competition, in which its former ally, General Electric, was becoming an important element.
+A new line of Century locomotives including the 630 (the first AC/DC transmission), the 430 and the 636, the first 3,600 horsepower (2.7 MW) locomotive, failed to keep the enterprise going.
+Third place in the market proved to be an impossible position; Alco products had neither the market position or reputation for reliability of EMD's products, nor the financing muscle and customer support of GE.
+It could not earn enough profits.
+In the late 1960s Alco gradually ceased locomotive production, shipping its last two locomotives, a pair of T-6 switchers to the Newburgh & South Shore Railroad (#1016 and #1017) in January 1969.
+Alco closed its Schenectady locomotive plant later that year, and sold its designs to the Montreal Locomotive Works in Canada.
+========,2,Diversification.
+Alco diversified into areas other than automobiles with greater success.
+During World War II, Alco built munitions for the war effort, in addition to locomotive production; this continued throughout the Korean War.
+After the Korean War, Alco entered the oil production equipment and nuclear power plant markets.
+With the latter, it began to manufacture heat exchangers for nuclear plants.
+In 1955, the company was renamed Alco Products, Incorporated.
+By this stage locomotive production only accounted for 20% of the business.
+========,2,Purchase and division.
+The company was purchased in 1964 by the Worthington Corporation, which merged with the Studebaker corporation in 1967 to form Studebaker-Worthington, Inc. (SWI), Alco remaining a wholly owned subsidiary.
+Former divisions of Alco became semi-independent subsidiaries in 1968.
+After the termination of locomotive production in 1969, the locomotive designs (but not the engine development rights) were transferred to the Montreal Locomotive Works, which continued their manufacture.
+The diesel engine business was sold to White Motor Corporation in 1970, which developed White Industrial Power.
+In 1977 White Industrial Power was sold to the British The General Electric Company plc (GEC) which renamed the unit Alco Power, Inc.
+The business was subsequently sold to the Fairbanks-Morse corporation, which continues to manufacture Alco-designed engines in addition to their own design.
+The heat exchanger business continued as Alco Products, Inc. for a time.
+At some later point, some of the heat exchanger products were manufactured by the Alco Products Division of Smithco Engineering, Inc. in Tulsa, Oklahoma (Smithco).
+In January 1983, certain assets of the Alco Products Division of Smithco, namely double-pipe and hairpin-type heat exchanger products sold under the "Alco Twin" name, mark and style, were sold in an asset sale by Smithco to Bos-Hatten, Inc., a subsidiary of Nitram Energy, Inc. (Nitram).
+Following the sale of these assets, Smithco remained in business, manufacturing other heat exchange products.
+In 1985, the assets acquired from Smithco were assigned by Bos-Hatten, Inc. to its parent, Nitram.
+In 2008, Nitram was acquired by Peerless Mfg.
+In 2015, Peerless sold its heat exchanger business to Koch Heat Transfer Co.
+========,2,Epilogue.
+After the closure of Alco's Schenectady works, locomotives to Alco designs continued to be manufactured in Canada by Montreal Locomotive Works and in Australia by AE Goodwin.
+In addition, Alco-derived locomotives form the major chunk of diesel power on the Indian Railways.
+Many thousands of locomotives with Alco lineage are in regular mainline use everywhere in India, and around 100 new locos are added every year.
+Most of these locomotives are built by the Diesel Locomotive Works (DLW), located at Varanasi, India.
+The Diesel Loco Modernisation Works (DMW) at Patiala, India, do mid-life rebuilding and upgrading the power of these locomotives, typically the WDM-2 to .
+"See also: Indian locomotives."
+A number of Alco and MLW diesel-electric locomotives (models DL500C, DL532B, DL537, DL543, MX627 and MX636) are in daily use hauling freight trains of the Hellenic Railways Organisation (OSE) in Greece.
+The oldest of them (class A.201, DL532B) were delivered to the former Hellenic State Railways (SEK) in 1962.
+In addition to a variety of standard gauge locomotives, the fleet includes 11 metre gauge Alco locomotives, mainly used for departmental trains in the Peloponnese network.
+The MX627 and MX636 locomotives have been extensively rebuilt at Piraeus Central Factory of OSE.
+The remaining Alco locomotives are also being rebuilt, starting with models DL532B and DL537.
+The ALCO 251 diesel engine is still manufactured by Fairbanks-Morse of Beloit, Wisconsin, a company which also manufactured diesel locomotives.
+Additionally, Alco diesel engines are used to power the NASA Crawler Transporter.
+Alco and MLW locomotives still work on many regional and tourist railroads across the United States and Canada, including the Delaware-Lackawanna Railroad in Scranton, Pennsylvania, the Catskill Mountain Railroad in Kingston and Phoenecia; the Livonia, Avon and Lakeville Railroad family of lines based in Lakeville, New York, the Lake Whatcom Railway in Wickersham, Washington and the Middletown & Hummelstown Railroad in Middletown, Pennsylvania.
+The latter owns one of the last true ALCO switchers ever built, #1016.
+The 1016 is a T-6 type switcher engine.
+This and ALCO sister 151 (ex Western Maryland Railway S-6) provide daily service in Middletown.
+Two original Alco RS-2's that were delivered to the Nevada Northern Railway are still in operation.
+ALCO-Cooke 2-8-0 #18, built in 1920, survives in passenger service on the Arcade & Attica Railroad in Arcade, New York.
+It returned to service in May 2009 after a six-year overhaul to bring it into compliance with the FRA's new steam locomotive regulations.
+Great Western 60, a 2-8-0 built in Schenectady in 1937, currently operates in passenger service on the Black River & Western Railroad in Ringoes, NJ.
+Some Alcos survive on Australian networks, as well as in Bangladesh and Pakistan.
+Another fleet of Alco Bombardier locomotives run in rugged terrain on the Sri Lanka railway network.
+Argentina also has a healthy fleet of Alcos DL540 running commuter and cargo trains.
+The Glenbrook Vintage Railway New Zealand, has a 2-4-4-2 articulated compound mallet, built by Alco in 1912.
+Only four mallets with this wheel arrangement were ever built; the other three by Baldwin.
+This unique loco is currently out of service awaiting overhaul.
+During the 1970s, Romania's UCMR Resita made licensed engines from ALCo, putting the engines 6&12R251 into naval gensets and also with the 6R251 in FAUR factory were made locomotives known as LDH 1500 CP.
+(CFR Classes 67/68/70/71 and CFR Class 61).
+They were also exported in Iran and Greece (OSE) Preserved Alco Steam Locomotives While regular production of steam locomotives by Alco ended in the 1950s, Alco-built steam engines have been preserved in locations across North America.
+They can be found on the Nevada Northern Railway in Ely, Nevada; in the Orange Empire Railway Museum in California, on the Lake Whatcom Railway in Washington and on the Durango and Silverton Narrow Gauge Railroad in Colorado.
+Several Alco-built mainline engines are still operational, such as Union Pacific 844, Union Pacific 3985, Milwaukee Road 261, Soo Line 1003, and Soo Line 2719.
+What is probably the most famous Alco steam locomotive ever built, Union Pacific Big Boy 4014, is being restored by the Union Pacific Railroad for excursion service.
+In Portugal an Alco 2-8-2 locomotive built 1945 (Construction number: 73480) is undergoing major restoration to be displayed at the National Railway Museum at Entroncamento.
+========,2,Popular culture.
+In February 2014, in the episode "The Locomotive Manipulation" of the TV series "The Big Bang Theory," takes place on a train pulled by what is described as an "Alcoa FA-4".
+Noted railroad artist, Howard L. Fogg, began his career at Alco.
+Hired in 1946 as Alco’s new company artist, Fogg began painting locomotives in the livery of prospective customers, as well as taking photographs of them.
+At an Alco gala at the Waldorf Astoria Hotel, Lucius Beebe, a noted journalist with the "New York Herald-Tribune," sought out Fogg.
+Beebe was considering leaving New York to pursue writing of railroad books.
+They began a long-term collaboration, with Beebe buying a number of paintings over the years and commissioning new Fogg paintings for use in his books.
+In 1947, Beebe’s book, "Mixed Train Daily," was the first of many to use a Fogg painting on the cover.
+Fogg was also used by many other railroad authors because of his skill at capturing action shots.
+With commissions from individuals, authors, publishers, railroads, and related industrial firms flourishing, in 1957 Fogg ended his formal agreement with Alco.
+He continued to paint periodic commissions for them for a number of years.

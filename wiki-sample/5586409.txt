@@ -1,0 +1,17 @@
+========,1,preface.
+A variational principle in physics is an alternative method for determining the state or dynamics of a physical system, by identifying it as an extremum (minimum, maximum or saddle point) of a function or functional.
+This article describes the historical development of such principles.
+========,2,Variational principles before the Modern Times.
+Variational principles are found among earlier ideas in surveying and optics.
+The rope stretchers of ancient Egypt stretched corded ropes between two points to measure the path which minimized the distance of separation, and Claudius Ptolemy, in his Geographia (Bk 1, Ch 2), emphasized that one must correct for "deviations from a straight course"; in ancient Greece Euclid states in his "Catoptrica" that, for the path of light reflecting from a mirror, the angle of incidence equals the angle of reflection; and Hero of Alexandria later showed that this path was the shortest length and least time.
+This was generalized to refraction by Pierre de Fermat, who, in the 17th century, refined the principle to "light travels between two given points along the path of shortest "time""; now known as the principle of least time or Fermat's principle.
+========,2,Further developments of the extremal-action principle.
+Euler continued to write on the topic; in his "Reflexions sur quelques loix generales de la nature" (1748), he called the quantity "effort".
+His expression corresponds to what we would now call potential energy, so that his statement of least action in statics is equivalent to the principle that a system of bodies at rest will adopt a configuration that minimizes total potential energy.
+The full importance of the principle to mechanics was stated by Joseph Louis Lagrange in 1760 (need ref), although the variational principle was not used to derive the equations of motion until almost 75 years later, when William Rowan Hamilton in 1834 and 1835 applied the variational principle to the function ***formula*** to obtain what are now called the Lagrangian equations of motion.
+========,2,Other formulations of the extremal-action principle.
+In 1842, Carl Gustav Jacobi tackled the problem of whether the variational principle found minima or other extrema (e.g.
+a saddle point); most of his work focused on geodesics on two-dimensional surfaces .
+The first clear general statements were given by Marston Morse in the 1920s and 1930s, leading to what is now known as Morse theory.
+For example, Morse showed that the number of conjugate points in a trajectory equaled the number of negative eigenvalues in the second variation of the Lagrangian.
+Other extremal principles of classical mechanics have been formulated, such as Gauss' principle of least constraint and its corollary, Hertz's principle of least curvature.

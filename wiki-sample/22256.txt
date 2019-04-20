@@ -1,0 +1,237 @@
+========,1,preface.
+Objectivism is a philosophical system developed by Russian-American writer Ayn Rand (1905–1982).
+Rand first expressed Objectivism in her fiction, most notably "The Fountainhead" (1943) and "Atlas Shrugged" (1957), and later in non-fiction essays and books.
+Leonard Peikoff, a professional philosopher and Rand's designated intellectual heir, later gave it a more formal structure.
+Peikoff characterizes Objectivism as a "closed system" that is not subject to change.
+Objectivism's central tenets are that reality exists independently of consciousness, that human beings have direct contact with reality through sense perception, that one can attain objective knowledge from perception through the process of concept formation and inductive logic, that the proper moral purpose of one's life is the pursuit of one's own happiness (rational self-interest), that the only social system consistent with this morality is one that displays full respect for individual rights embodied in "laissez-faire" capitalism, and that the role of art in human life is to transform humans' metaphysical ideas by selective reproduction of reality into a physical form—a work of art—that one can comprehend and to which one can respond emotionally.
+Academic philosophers have mostly ignored or rejected Rand's philosophy.
+Nonetheless, Objectivism has been a significant influence among libertarians and American conservatives.
+The Objectivist movement, which Rand founded, attempts to spread her ideas to the public and in academic settings.
+========,2,Philosophy.
+Rand originally expressed her philosophical ideas in her novels, most notably, "The Fountainhead" and "Atlas Shrugged".
+She further elaborated on them in her periodicals "The Objectivist Newsletter", "The Objectivist", and "The Ayn Rand Letter", and in non-fiction books such as "Introduction to Objectivist Epistemology" and "The Virtue of Selfishness".
+The name "Objectivism" derives from the idea that human knowledge and values are objective: they exist and are determined by the nature of reality, to be discovered by one's mind, and are not created by the thoughts one has.
+Rand stated that she chose the name because her preferred term for a philosophy based on the primacy of existence—"existentialism"—had already been taken.
+Rand characterized Objectivism as "a philosophy for living on earth", grounded in reality, and aimed at defining human nature and the nature of the world in which we live.
+========,3,Metaphysics: objective reality.
+Rand's philosophy begins with three axioms: existence, consciousness, and identity.
+Rand defined an axiom as "a statement that identifies the base of knowledge and of any further statement pertaining to that knowledge, a statement necessarily contained in all others whether any particular speaker chooses to identify it or not.
+An axiom is a proposition that defeats its opponents by the fact that they have to accept it and use it in the process of any attempt to deny it."
+As Objectivist philosopher Leonard Peikoff argued, Rand's argument for axioms "is not a proof that the axioms of existence, consciousness, and identity are true.
+It is proof that they are "axioms", that they are at the base of knowledge and thus inescapable."
+Rand held that "existence" is the perceptually self-evident fact at the base of all other knowledge, i.e., that "existence exists."
+She further held that to be is to be "something", that "existence "is" identity."
+That is, to be is to be "an entity of a specific nature made of specific attributes."
+That which has no nature or attributes does not and cannot exist.
+The axiom of existence is grasped in differentiating something from nothing, while the law of identity is grasped in differentiating one thing from another, i.e., one's first awareness of the law of non-contradiction, another crucial base for the rest of knowledge.
+As Rand wrote, "A leaf ... cannot be all red and green at the same time, it cannot freeze and burn at the same time... A is A."
+Objectivism rejects belief in anything alleged to transcend existence.
+Rand argues that consciousness is "the faculty of perceiving that which exists."
+As she puts it, "to be conscious is to be conscious of "something"", that is consciousness itself cannot be distinguished or grasped except in relation to an independent reality.
+"It cannot be aware only of itself—there is no 'itself' until it is aware of something."
+Thus, Objectivism holds that the mind does not create reality, but rather, it is a means of discovering reality.
+Expressed differently, existence has "primacy" over consciousness, which must conform to it.
+Any other approach Rand termed "the primacy of consciousness", including any variant of metaphysical subjectivism or theism.
+Objectivist philosophy derives its explanations of action and causation from the axiom of identity, calling causation "the law of identity applied to action."
+According to Rand, it is entities that act, and every action is the action of an entity.
+The way entities act is caused by the specific nature (or "identity") of those entities; if they were different they would act differently.
+As with the other axioms, an implicit understanding of causation is derived from one's primary observations of causal connections among entities even before it is verbally identified, and serves as the basis of further knowledge.
+========,3,Epistemology: reason.
+According to Rand, attaining knowledge beyond what is given in perception requires both volition (or the exercise of free will) and adherence to a specific method of validation through observation, concept-formation, and the application of inductive and deductive reasoning.
+For example, a belief in dragons, however sincere, does not mean reality contains any dragons.
+A process of proof identifying the basis in reality of a claimed item of knowledge is necessary to establish its truth.
+Objectivist epistemology begins with the principle that "consciousness is identification".
+This is understood to be a direct consequence of the metaphysical principle that "existence is identity."
+Rand defined "reason" as "the faculty that identifies and integrates the material provided by man's senses."
+Says Rand, "The fundamental concept of method, the one on which all the others depend, is logic.
+The distinguishing characteristic of logic (the art of non-contradictory identification) indicates the nature of the actions (actions of consciousness required to achieve a correct identification) and their goal (knowledge)—while omitting the length, complexity or specific steps of the process of logical inference, as well as the nature of the particular cognitive problem involved in any given instance of using logic."
+According to Rand, consciousness possesses a specific and finite identity, just like everything else that exists; therefore, it must operate by a specific method of validation.
+An item of knowledge cannot be "disqualified" by being arrived at by a specific process in a particular form.
+Thus, for Rand, the fact that consciousness must itself possess identity implies the rejection of both universal skepticism based on the "limits" of consciousness, as well as any claim to revelation, emotion or faith based belief.
+Objectivist epistemology maintains that all knowledge is ultimately based on perception.
+"Percepts, not sensations, are the given, the self-evident."
+Rand considered the validity of the senses to be axiomatic, and claimed that purported arguments to the contrary all commit the fallacy of the "stolen concept" by presupposing the validity of concepts that, in turn, presuppose the validity of the senses.
+She held that perception, being physiologically determined, is incapable of error.
+For example, optical illusions are errors in the conceptual identification of what is seen, not errors in sight itself.
+The validity of sense perception, therefore, is not susceptible to proof (because it is presupposed by all proof as proof is only a matter of adducing sensory evidence) nor should its validity be denied (since the conceptual tools one would have to use to do this are derived from sensory data).
+Perceptual error, therefore, is not possible.
+Rand consequently rejected epistemological skepticism, as she holds that the skeptics' claim to knowledge "distorted" by the form or the means of perception is impossible.
+The Objectivist theory of perception distinguishes between the "form" and "object."
+The form in which an organism perceives is determined by the physiology of its sensory systems.
+Whatever form the organism perceives it in, what it perceives—the object of perception—is reality.
+Rand consequently rejected the Kantian dichotomy between "things as we perceive them" and "things as they are in themselves."
+Says Rand, "The attack on man's consciousness and particularly on his conceptual faculty has rested on the unchallenged premise that any knowledge acquired by a "process" of consciousness is necessarily subjective and cannot correspond to the facts of reality, since it is ""processed" knowledge...[but] all knowledge "is" processed knowledge—whether on the sensory, perceptual or conceptual level.
+An "unprocessed" knowledge would be a knowledge acquired without means of cognition."
+The aspect of epistemology given the most elaboration by Rand is the theory of concept-formation, which she presented in "Introduction to Objectivist Epistemology".
+She argued that concepts are formed by a process of measurement omission.
+Peikoff described her view as follows:
+According to Rand, "[T]he term 'measurements omitted' does not mean, in this context, that measurements are regarded as non-existent; it means that "measurements exist, but are not specified".
+That measurements "must" exist is an essential part of the process.
+The principle is: the relevant measurements must exist in "some" quantity, but may exist in "any" quantity."
+Rand argued that concepts are hierarchically organized.
+Concepts such as 'dog,' which bring together "concretes" available in perception, can be differentiated (into the concepts of 'dachshund,' 'poodle,' etc.)
+or integrated (along with 'cat,' etc., into the concept of 'animal').
+Abstract concepts such as 'animal' can be further integrated, via "abstraction from abstractions", into such concepts as 'living thing.'
+Concepts are formed in the context of knowledge available.
+A young child differentiates dogs from cats and chickens, but need not explicitly differentiate them from deep-sea tube worms, or from other types of animals not yet known to him, to form a concept 'dog.'
+Because of its view of concepts as "open-ended" classifications that go well beyond the characteristics included in their past or current definitions, Objectivist epistemology rejects the analytic-synthetic distinction as a false dichotomy and denies the possibility of "a priori" knowledge.
+Rand rejected "feeling" as sources of knowledge.
+Rand acknowledged the importance of emotion for human beings, but she maintained that emotions are a consequence of the conscious or subconscious ideas that a person already accepts, not a means of achieving awareness of reality.
+"Emotions are not tools of cognition."
+Rand also rejected all forms of faith or mysticism, terms that she used synonymously.
+She defined faith as "the acceptance of allegations without evidence or proof, either apart from or "against" the evidence of one's senses and reason... Mysticism is the claim to some non-sensory, non-rational, non-definable, non-identifiable means of knowledge, such as 'instinct,' 'intuition,' 'revelation,' or any form of 'just knowing.'"
+Reliance on revelation is like reliance on a Ouija board; it bypasses the need to show how it connects its results to reality.
+Faith, for Rand, is not a "short-cut" to knowledge, but a "short-circuit" destroying it.
+Objectivism acknowledges the facts that human beings have limited knowledge, are vulnerable to error, and do not instantly understand all of the implications of their knowledge.
+According to Peikoff, one can be certain of a proposition if all of the available evidence supports it, i.e., it can be logically integrated with the rest of one's knowledge; one is then certain within the context of the evidence.
+Rand rejected the traditional rationalist/empiricist dichotomy, arguing that it embodies a false alternative: conceptually-based knowledge independent of perception (rationalism) versus perceptually-based knowledge independent of concepts (empiricism).
+Rand argued that neither is possible because the senses provide the material of knowledge while conceptual processing is also needed to establish knowable propositions.
+========,4,Criticisms on epistemology.
+The philosopher John Hospers, who was influenced by Rand and shared her moral and political views, disagreed with her over issues of epistemology.
+Some philosophers, such as Tibor Machan, have argued that the Objectivist epistemology is incomplete.
+Psychology professor Robert L. Campbell says the relationship between Objectivist epistemology and cognitive science remains unclear because Rand made claims about human cognition and its development which belong to psychology, yet Rand also argued that philosophy is logically prior to psychology and in no way dependent on it.
+Philosophers Randall Dipert and Roderick Long have argued that Objectivist epistemology conflates the perceptual process by which judgments are formed with the way in which they are to be justified, thereby leaving it unclear how sensory data can validate propositionally structured judgments.
+========,3,Ethics: self-interest.
+Objectivism includes an extensive treatment of ethical concerns.
+Rand wrote on morality in her works "The Virtue of Selfishness," "We the Living," and "Atlas Shrugged".
+Rand defines morality as "a code of values to guide man's choices and actions—the choices and actions that determine the purpose and the course of his life."
+Rand maintained that the first question is not what should the code of values be, the first question is "Does man need values at all—and why?"
+According to Rand, "it is only the concept of 'Life' that makes the concept of 'Value' possible," and, "the fact that a living entity "is", determines what it "ought" to do."
+Rand writes: "there is only one fundamental alternative in the universe: existence or non-existence—and it pertains to a single class of entities: to living organisms.
+The existence of inanimate matter is unconditional, the existence of life is not: it depends on a specific course of action...
+It is only a living organism that faces a constant alternative: the issue of life or death..." Rand argued that the primary focus of man's free will is in the choice: 'to think or not to think'.
+"Thinking is not an automatic function.
+In any hour and issue of his life, man is free to think or to evade that effort.
+Thinking requires a state of full, focused awareness.
+The act of focusing one's consciousness is volitional.
+Man can focus his mind to a full, active, purposefully directed awareness of reality—or he can unfocus it and let himself drift in a semiconscious daze, merely reacting to any chance stimulus of the immediate moment, at the mercy of his undirected sensory-perceptual mechanism and of any random, associational connections it might happen to make."
+According to Rand, therefore, possessing free will, human beings must "choose" their values: one does not "automatically" hold one's own life as his ultimate value.
+Whether in fact a person's actions promote and fulfill his own life or not is a question of fact, as it is with all other organisms, but whether a person will act to promote his well-being is up to him, not hard-wired into his physiology.
+"Man has the power to act as his own destroyer—and that is the way he has acted through most of his history."
+Says Rand, "Man's mind is his basic tool of survival.
+Life is given to him, survival is not.
+His body is given to him, its sustenance is not.
+His mind is given to him, its content is not.
+To remain alive he must act and before he can act he must know the nature and purpose of his action.
+He cannot obtain his food without knowledge of food and of the way to obtain it.
+He cannot dig a ditch—or build a cyclotron—without a knowledge of his aim and the means to achieve it.
+To remain alive, he must think."
+In her novels, "The Fountainhead" and "Atlas Shrugged", she also emphasizes the central importance of productive work, romantic love and art to human happiness, and dramatizes the ethical character of their pursuit.
+The primary virtue in Objectivist ethics is rationality, as Rand meant it "the recognition and acceptance of reason as one's only source of knowledge, one's only judge of values and one's only guide to action."
+The purpose of a moral code, Rand held, is to provide the principles by reference to which man can achieve the values his survival requires.
+Rand summarizes:
+Rand's explanation of values presents the view that an individual's primary moral obligation is to achieve his own well-being—it is for his life and his self-interest that an individual ought to adhere to a moral code.
+Ethical egoism is a corollary of setting man's life as the moral standard.
+Rand believed that rational egoism is the logical consequence of humans following evidence wherever it leads them.
+The only alternative would be that they live without orientation to reality.
+A corollary to Rand's endorsement of self-interest is her rejection of the ethical doctrine of altruism—which she defined in the sense of Auguste Comte's altruism (he coined the term), as a moral obligation to live for the sake of others.
+Rand also rejected subjectivism.
+A "whim-worshiper" or "hedonist," according to Rand, is not motivated by a desire to live his own human life, but by a wish to live on a sub-human level.
+Instead of using "that which promotes my (human) life" as his standard of value, he mistakes "that which I (mindlessly happen to) value" for a standard of value, in contradiction of the fact that, existentially, he is a human and therefore rational organism.
+The "I value" in whim-worship or hedonism can be replaced with "we value," "he values," "they value," or "God values," and still it would remain dissociated from reality.
+Rand repudiated the equation of rational selfishness with hedonistic or whim-worshiping "selfishness-without-a-self."
+She held that the former is good, and the latter evil, and that there is a fundamental difference between them.
+For Rand, all of the principal virtues are applications of the role of reason as man's basic tool of survival: rationality, honesty, justice, independence, integrity, productiveness, and pride—each of which she explains in some detail in "The Objectivist Ethics."
+The essence of Objectivist ethics is summarized by the oath her "Atlas Shrugged" character John Galt adhered to: "I swear—by my life and my love of it—that I will never live for the sake of another man, nor ask another man to live for mine."
+========,4,Criticisms on ethics.
+Many philosophers have criticized Objectivist ethics.
+Philosopher Robert Nozick argues that Rand's foundational argument in ethics is unsound because it does not explain why someone could not rationally prefer dying and having no values.
+He argues that her attempt to defend the morality of selfishness is, therefore, an instance of begging the question.
+Nozick also argues that Rand's solution to David Hume's famous is-ought problem is unsatisfactory.
+In response, philosophers Douglas B. Rasmussen and Douglas Den Uyl have argued that Nozick misstated Rand's case.
+Charles King criticized Rand's example of an indestructible robot to demonstrate the value of life as incorrect and confusing.
+In response, Paul St. F. Blair defended Rand's ethical conclusions, while maintaining that his arguments might not have been approved by Rand.
+========,3,Politics: individual rights and capitalism.
+Rand's defense of individual liberty integrates elements from her entire philosophy.
+Since reason is the means of human knowledge, it is therefore each person's most fundamental means of survival and is necessary to the achievement of values.
+The use or threat of force neutralizes the practical effect of an individual's reason, whether the force originates from the state or from a criminal.
+According to Rand, "man's mind will not function at the point of a gun."
+Therefore, the only type of organized human behavior consistent with the operation of reason is that of voluntary cooperation.
+Persuasion is the method of reason.
+By its nature, the overtly irrational cannot rely on the use of persuasion and must ultimately resort to force to prevail.
+Thus, Rand saw reason and freedom as correlates, just as she saw mysticism and force as corollaries.
+Based on this understanding of the role of reason, Objectivists hold that the initiation of physical force against the will of another is immoral, as are indirect initiations of force through threats, fraud, or breach of contract.
+The use of defensive or retaliatory force, on the other hand, is appropriate.
+Objectivism holds that because the opportunity to use reason without the initiation of force is necessary to achieve moral values, each individual has an inalienable moral right to act as his own judgment directs and to keep the product of his effort.
+Peikoff, explaining the basis of rights, stated, "In content, as the founding fathers recognized, there is one fundamental right, which has several major derivatives.
+The fundamental right is the right to life.
+Its major derivatives are the right to liberty, property, and the pursuit of happiness."
+"A 'right' is a moral principle defining and sanctioning a man's freedom of action in a social context."
+These rights are specifically understood to be rights to action, not to specific results or objects, and the obligations created by rights are negative in nature: each individual must refrain from violating the rights of others.
+Objectivists reject alternative notions of rights, such as positive rights, collective rights, or animal rights.
+Objectivism holds that the only social system which fully recognizes individual rights is capitalism, specifically what Rand described as "full, pure, uncontrolled, unregulated laissez-faire capitalism."
+Objectivism regards capitalism as the social system which is most beneficial to the poor, but that this isn't its primary justification.
+Rather, it is the only moral social system.
+Objectivism maintains that only societies seeking to establish freedom (or free nations) have a right to self-determination.
+Objectivism views government as "the means of placing the retaliatory use of physical force under objective control—i.e., under objectively defined laws;" thus, government is both legitimate and critically important in order to protect individual rights.
+Rand opposed anarchism because she saw putting police and courts on the market as an inherent miscarriage of justice.
+Objectivism holds that the proper functions of a government are ""the police", to protect men from criminals—"the armed services", to protect men from foreign invaders—"the law courts", to settle disputes among men according to objectively defined laws," the executive, and legislatures.
+Furthermore, in protecting individual rights, the government is acting as an agent of its citizens and "has no rights except the rights "delegated" to it by the citizens" and it must act in an impartial manner according to specific, objectively defined laws.
+Prominent Objectivists Peikoff and Yaron Brook have since expressed support for other government functions.
+Rand argued that limited intellectual property monopolies being granted to certain inventors and artists on a first-to-file basis are moral because she viewed all property as fundamentally intellectual.
+Furthermore, the value of a commercial product comes in part from the necessary work of its inventors.
+However, Rand viewed limits on patents and copyrights as important and held that if they were granted in perpetuity, it would necessarily lead to "de facto" collectivism.
+Rand opposed racism and any legal application of racism.
+She considered affirmative action to be an example of legal racism.
+Rand advocated the right to legal abortion.
+Rand believed capital punishment is morally justified as retribution against a murderer, but dangerous due to the risk of mistakenly executing innocent people and opening the door to state murder.
+She therefore said she opposed capital punishment "on epistemological, not moral, grounds."
+She opposed involuntary military conscription, but also thought those who avoided being drafted should be held criminally liable.
+She opposed any form of censorship, including legal restrictions on pornography, opinion or worship, famously quipping; "In the transition to statism, every infringement of human rights has begun with a given right's least attractive practitioners".
+Objectivists have also opposed a number of government activities commonly supported by both liberals and conservatives, including antitrust laws, the minimum wage, public education, and existing child labor laws.
+Objectivists have argued against faith-based initiatives, displaying religious symbols in government facilities, and the teaching of "intelligent design" in public schools.
+Maintaining that it should be phased out gradually, Rand opposed taxation as she considered it theft and an endorsement of force over reason.
+========,3,Aesthetics: metaphysical value-judgments.
+The Objectivist theory of art flows from its epistemology, by way of "psycho-epistemology" (Rand's term for an individual's characteristic mode of functioning in acquiring knowledge).
+Art, according to Objectivism, serves a human cognitive need: it allows human beings to grasp concepts as though they were percepts.
+Objectivism defines "art" as a "selective re-creation of reality according to an artist's metaphysical value-judgments"—that is, according to what the artist believes to be ultimately true and important about the nature of reality and humanity.
+In this respect Objectivism regards art as a way of presenting abstractions concretely, in perceptual form.
+The human need for art, on this view, stems from the need for cognitive economy.
+A concept is already a sort of mental shorthand standing for a large number of concretes, allowing a human being to think indirectly or implicitly of many more such concretes than can be held explicitly in mind.
+But a human being cannot hold indefinitely many concepts explicitly in mind either—and yet, on the Objectivist view, needs a comprehensive conceptual framework to provide guidance in life.
+Art offers a way out of this dilemma by providing a perceptual, easily grasped means of communicating and thinking about a wide range of abstractions, including one's metaphysical value-judgments.
+Objectivism regards art as an effective way to communicate a moral or ethical ideal.
+Objectivism does not, however, regard art as propagandistic: even though art involves moral values and ideals, its purpose is not to educate, only to show or project.
+Moreover, art need not be, and usually is not, the outcome of a full-blown, explicit philosophy.
+Usually it stems from an artist's "sense of life" (which is preconceptual and largely emotional).
+Rand held that Romanticism was the highest school of literary art, noting that Romanticism was "based on the recognition of the principle that man possesses the faculty of volition," absent which, Rand believed, literature is robbed of dramatic power, adding:
+The term "romanticism," however, is often affiliated with emotionalism, to which Objectivism is completely opposed.
+Historically, many romantic artists were philosophically subjectivist.
+Most Objectivists who are also artists subscribe to what they call romantic realism, which is how Rand labeled her own work.
+========,2,Development by other authors.
+Several authors have developed and applied Rand's ideas in their own work.
+Rand described Peikoff's "The Ominous Parallels" (1982), as "the first book by an Objectivist philosopher other than myself."
+In 1991, Peikoff published ', a comprehensive exposition of Rand's philosophy.
+Chris Matthew Sciabarra discusses Rand's ideas and theorizes about their intellectual origins in ' (1995).
+Surveys such as "On Ayn Rand" by Allan Gotthelf (1999), "Ayn Rand" by Tibor R. Machan (2000), and "Objectivism in One Lesson" by Andrew Bernstein (2009) provide briefer introductions to Rand's ideas.
+Some scholars have focused on applying Objectivism in more specific areas.
+Machan has developed Rand's contextual conception of human knowledge (while also drawing on the insights of J. L. Austin and Gilbert Harman) in works such as "Objectivity" (2004), and David Kelley has explicated Rand's epistemological ideas in works such as "The Evidence of the Senses" (1986) and "A Theory of Abstraction" (2001).
+In the field of ethics, Kelley has argued in works such as "Unrugged Individualism" (1996) and "The Contested Legacy of Ayn Rand" (2000) that Objectivists should pay more attention to the virtue of benevolence and place less emphasis on issues of moral sanction.
+Kelley's views have been controversial, and critics Peikoff and Peter Schwartz have argued that he contradicts important principles of Objectivism.
+Kelley has used the term "Open Objectivism" for a version of Objectivism that involves "a commitment to reasoned, non-dogmatic discussion and debate," "the recognition that Objectivism is open to expansion, refinement, and revision," and "a policy of benevolence toward others, including fellow-travelers and critics."
+An author who focuses on Rand's ethics, Tara Smith, stays closer to Rand's original ideas in such works as "Moral Rights and Political Freedom" (1995), "Viable Values" (2000), and "Ayn Rand's Normative Ethics" (2006).
+In collaboration with Peikoff, David Harriman has developed a theory of scientific induction based upon Rand's theory of concepts in "The Logical Leap: Induction in Physics" (2010).
+The political aspects of Rand's philosophy are discussed by Bernstein in "The Capitalist Manifesto" (2005).
+In "Capitalism: A Treatise on Economics" (1996), George Reisman attempts to integrate Objectivist methodology and insights with both Classical and Austrian economics.
+In psychology, Professor Edwin A. Locke and Ellen Kenner have explored Rand's ideas in "The Selfish Path to Romance: How to Love with Passion & Reason".
+Other writers have explored the application of Objectivism to fields ranging from art, as in "What Art Is" by Louis Torres and Michelle Marder Kamhi (2000), to teleology, as in "The Biological Basis of Teleological Concepts" by Harry Binswanger (1990).
+========,2,Intellectual impact.
+Academic philosophers have generally dismissed Objectivism since Rand first presented it.
+Objectivism has been called "fiercely anti-academic" because of Rand's criticism of contemporary intellectuals.
+David Sidorsky, a professor of moral and political philosophy at Columbia University, says Rand's work is "outside the mainstream" and is more of an ideological movement than a well-grounded philosophy.
+British philosopher Ted Honderich notes that he deliberately excluded an article on Rand from "The Oxford Companion to Philosophy" (Rand is, however, mentioned in the article on popular philosophy by Anthony Quinton).
+Rand is the subject of entries in the "Stanford Encyclopedia of Philosophy", "The Dictionary of Modern American Philosophers", the "Internet Encyclopedia of Philosophy", "The Routledge Dictionary of Twentieth-Century Political Thinkers", and "The Penguin Dictionary of Philosophy".
+A listing of Rand also appears in the "Routledge Encyclopedia of Philosophy", featuring the assessment, "The influence of Rand's ideas was strongest among college students in the USA but attracted little attention from academic philosophers.
+Her outspoken defense of capitalism in works like "" (1967), and her characterization of her position as a defence of the 'virtue of selfishness' in her essay collection of the same title published in 1964, also brought notoriety, but kept her out of the intellectual mainstream."
+In recent decades Rand's works are more likely to be encountered in the classroom.
+The Ayn Rand Society, dedicated to fostering the scholarly study of Objectivism, is affiliated with the American Philosophical Association's Eastern Division.
+Aristotle scholar and Objectivist Allan Gotthelf, chairman of the Society, and his colleagues have argued for more academic study of Objectivism, viewing the philosophy as a unique and intellectually interesting defense of classical liberalism that is worth debating.
+In 1999 a refereed "Journal of Ayn Rand Studies" began.
+In 2006 the University of Pittsburgh held a conference focusing on Objectivism.
+Programs and fellowships for the study of Objectivism have been supported at the University of Pittsburgh, University of Texas at Austin and University of North Carolina at Chapel Hill.
+According to one Rand biographer, most people first read Rand's works in their "formative years."
+Rand's former protégé Nathaniel Branden referred to Rand's "especially powerful appeal to the young," while Onkar Ghate of the Ayn Rand Institute said Rand "appeals to the idealism of youth."
+This appeal has alarmed a number of critics of the philosophy.
+Many of these young people later abandon their positive view of Rand and are often said to have "outgrown" her ideas.
+Supporters of Rand's work recognize the phenomenon, but attribute it to the loss of youthful idealism and inability to resist social pressures for intellectual conformity.
+In contrast, historian Jennifer Burns, writing in "Goddess of the Market" (2009), says some critics "dismiss Rand as a shallow thinker appealing only to adolescents," although she thinks the critics "miss her significance" as a "gateway drug" to right-wing politics.

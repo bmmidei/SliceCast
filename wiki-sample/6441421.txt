@@ -1,0 +1,42 @@
+========,1,preface.
+Design B-65 was a class of Super Type A cruisers planned by the Imperial Japanese Navy (IJN) before and during World War II.
+As envisioned by the IJN, the cruisers were to play a key role in the Night Battle Force portion of the "Decisive battle" strategy which Japan hoped, in the event of war, to employ against the United States Navy.
+Begun in 1939, plans were far enough along that tests were conducted with the main armament and against the underwater protection.
+Even though the ships were approved for construction under a 1942 fleet replenishment program, the prioritizing of aircraft carriers and smaller ships due to the war, followed by Japan's defeat, killed any chance of the B-65's construction.
+========,2,Mission and plan.
+The Japanese navy's experience in the Russo-Japanese War of 1904-1905, especially the Battle of Tsushima, strongly influenced the creation of the IJN's "Decisive Battle" doctrine, which guided the development and deployment of the IJN's battle fleet into World War II.
+The Decisive Battle concept was the IJN's primary strategy for defeating the navies of the major Western powers, such as Great Britain or the United States, in the event of war.
+The strategy consisted of four main components: a decisive surface fleet engagement determined by big guns, attrition tactics against a numerically superior enemy, a reliance on quality over quantity in naval weaponry, and the employment of nighttime torpedo attacks.
+After the Washington Naval Treaty of 1922 and the London Naval Treaty of 1930, each of which placed restrictions on the size of the IJN's fleet in comparison with the fleets of the western powers, notably the United States, the decisive battle strategy received increased emphasis within the IJN.
+In 1936, the IJN formed the Night Battle Force (Yasen Butai).
+As designed, the night battle force was to attack the hypothetical enemy's, usually envisioned by the Japanese to be the US Pacific Fleet, outer defense ring of cruisers and destroyers at night.
+After cracking the outer defense ring, IJN cruisers and destroyers were to launch torpedo attacks on the enemy's battleships.
+What remained of the enemy fleet was then to be finished-off by the IJN's main battleship line the following day.
+The IJN assigned one division of fast battleships or battlecruisers to give additional firepower to the nocturnal attacks.
+The were initially assigned to this role and were upgraded to fast battleships over a seven-year period from 1933-1940.
+The IJN planned to eventually replace the four "Kongō" battleships with four heavy, "super" cruisers.
+As envisioned by the IJN in 1936, these ships, the B-65 cruisers, would mount 12-inch guns, carry armor designed to withstand hits from 8-inch shells, and be capable of speeds up to 40 knots.
+They would be designated as "super-A-class cruisers" to signify their greater status than the A-class ships (heavy cruisers).
+The plan for the cruiser class was finalized as part of the IJN's Circle Five and Circle Six warship construction plans of 7 January 1941.
+The plan called for six B-65s to be built in two increments, with the first two to be constructed in Circle 5 with the remainder in Circle 6.
+By this time, Japanese intelligence had learned the specifications for the United States Navy's large cruisers, which had been authorized for creation by the passage of the Two-Ocean Navy Act and ordered on 5 September 1940.
+The Japanese believed that these ships would form part of the American battle fleet's screen in times of war.
+Thus, the B-65s were now intended to counter the threat posed by the "Alaska"-class cruisers.
+========,2,Design.
+Design work on the B-65s began in 1939.
+Preliminary plans for the new class were finished by September 1940, and they were far enough along that tests of the lower protection—the armor intended to counter any shell that fell short but still hit the ship (albeit underwater) and torpedoes—and main armament were conducted from 1940 to 1941.
+These plans called for ships that bore a striking resemblance to the s, with the same "clipper bow, flush-deck construction, and a generally similar superstructure", albeit at a reduced size.
+Primary weapons were to be nine /50 caliber guns in three triple turrets and eight torpedo tubes firing the excellent Type 93 "Long Lance" torpedo.
+Secondary weapons included sixteen /65 caliber Type 98 dual-purpose guns in dual mounts on either side of the superstructure, twelve paired Type 95 anti-aircraft guns, and four 13.2mm Hotchkiss machine guns.
+The weight of the main battery turrets was to be around , with of that devoted to armor; however, no plans of how this latter figure was to have been distributed has survived.
+The cruisers were to be protected by belt armor sloped at ° and deck armor.
+Four geared turbine sets would have generated about 42,500 shp each; for a total of about 167,674 shp, enough to power the ships through the water at , faster than the "fundamental design requirement" of .
+In an attempt to counter the "Alaska"-class cruisers guns, a proposal to increase both the main battery to six and armor protection to resist against the same was put forth.
+However, the increase in displacement (to almost ) and reduction in performance this entailed meant that nothing came of the proposed changes.
+========,2,Final plans and cancellation.
+As war with the United States loomed in 1941, the navy found that it had a more pressing need for aircraft carriers and auxiliary vessels.
+This need, plus a desire to complete the ongoing Circle Three and Four construction programs, delayed initiation of the Circle Five plan.
+Following the Japanese navy's defeat at the Battle of Midway in June 1942, the Circle Five plan was significantly revised and Circle Six was postponed indefinitely.
+The new plan still called for the construction of two ships of Design B-65, which were given the hull numbers 795 and 796 with projected commissioning dates of 1945 and 1946, respectively.
+As the war progressed, however, strategic requirements further delayed the plans for the two cruisers.
+In the end, the B-65s' plans were never finalized and no contracts for their construction were ever placed.

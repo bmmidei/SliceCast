@@ -1,0 +1,281 @@
+========,1,preface.
+Medicare (), in Canada, is the national health care system.
+Canada's publicly funded single-payer system consists of 13 provincial and territorial socialized health insurance plans that provides universal health care coverage to all Canadian citizens.
+It is administered on a provincial or territorial basis, within the guidelines set by the federal government.
+The formal terminology for the insurance system is provided by the "Canada Health Act" and the health insurance legislation of the individual provinces and territories.
+The name is a contraction of "medical" and "care", and was used in the United States for health care programs since at least 1953.
+Under the terms of the Canada Health Act, all "insured persons" (basically, legal residents of Canada, including permanent residents) are entitled to receive "insured services" without copayment.
+Such services are defined as medically necessary services if provided in hospital, or by 'practitioners' (usually physicians).
+Approximately 70% of expenditures for health care in Canada come from public sources, with the rest paid privately (both through private insurance, and through out-of-pocket payments).
+The extent of public financing varies considerably across services.
+For example, approximately 99% of physician services, and 90% of hospital care, are paid by publicly funded sources, whereas almost all dental care is paid for privately.
+Most physicians are self-employed private entities which enjoy coverage under each province's respective healthcare plans.
+Services of non-physicians working within hospitals are covered; but provinces can, but are not forced to, cover services by non-physicians if provided outside hospitals.
+Changing the site of treatment may thus change coverage.
+For example, pharmaceuticals, nursing care, and physical therapy must be covered for inpatients, but there is considerable variation from province to province in the extent to which they are covered for patients discharged to the community (e.g., after day surgery).
+The need to modernize coverage was pointed out in 2002 by both the Romanow Commission and by the Kirby committee of the Canadian Senate (see External links below).
+Similarly, the extent to which non-physician providers of primary care are funded varies; Quebec offers primary health care teams through its CLSC system.
+========,2,History.
+The first implementation of public hospital care in Canada came at the provincial level in Saskatchewan in 1947 and in Alberta in 1950, under provincial governments led by the Co-operative Commonwealth Federation and the Social Credit party respectively.
+The first implementation of nationalized public health care -at the federal level- came about with the Hospital Insurance and Diagnostic Services Act (HIDS), which was passed by the Liberal majority government of Louis St. Laurent in 1957, and was adopted by all provinces by 1961.
+Lester B. Pearson's government subsequently expanded this policy to universal health care with the Medical Care Act in 1966.
+Some have argued that these developments towards public national health care came as a result of the adoption of a publicly funded health plan in 1961-1962 in Saskatchewan government.
+The fight for a publicly funded system was originally led by Premier Tommy Douglas and implemented by Woodrow Stanley Lloyd, who became premier of the province when Douglas resigned to become the leader of the new federal New Democratic Party.
+Although Saskatchewan is often credited with the birth of public health care funding in Canada, the federal legislation itself was actually drafted (and first proposed to parliament) by Allan MacEachen, a Liberal MP from Cape Breton.
+In 1984, the Canada Health Act was passed, amalgamating the 1966 Medical Care Act and the 1957 Hospital Insurance and Diagnostic Services Act.
+The Canada Health Act affirmed and clarified five founding principles: (a) "public administration" on a non-profit basis by a public authority; (b) "comprehensiveness" – provincial health plans must insure all services that are medically necessary; (c) "universality" – a guarantee that all residents in Canada must have access to public healthcare and insured services on uniform terms and conditions; (d) "portability" – residents must be covered while temporarily absent from their province of residence or from Canada; and (e) "accessibility" – insured persons must have reasonable and uniform access to insured health services, free of financial or other barriers.
+These five conditions prevent provinces from radical innovation, but many small differences do exist between the provinces.
+========,2,Eligibility.
+Although in theory all Canadians should qualify for coverage, each province or territory operates its own health insurance program, and provinces and territories have enacted qualification rules which effectively exclude many Canadians from coverage.
+For example, to qualify for enrollment in Ontario, one must, among other requirements, "be physically present in Ontario for 153 days in any 12-month period; and be physically present in Ontario for at least 153 days of the first 183 days immediately after establishing residency in the province."
+While there are exceptions for students studying out of province, and for mobile workers, many Canadians who regularly travel from one province to another for other reasons, as well as those who often travel outside Canada, cannot qualify for enrollment in any province.
+Proof-of-residency provisions requiring presentation of documents such as utility bills and bank statements also operate to exclude migrants.
+========,2,Funding.
+According to Canada's constitution, the provinces have responsibility for health care, education and welfare.
+However, the federal Canada Health Act sets standards for all the provinces.
+The Canada Health Act requires coverage for all medically necessary care provided in hospitals or by physicians; this explicitly includes diagnostic, treatment and preventive services.
+Coverage is universal for qualifying Canadian residents, regardless of income level.
+Funding for the health care is transferred from the general revenues of the Canadian federal government to the 10 provinces and 3 territories through the Canada Health Transfer.
+Some provinces also charge annual health care premiums.
+These are, in effect, taxes (since they are not tied to service use, nor to provincial health expenditures).
+The system is accordingly classified by the OECD as a tax-supported system, as opposed to the social insurance approaches used in many European countries.
+Boards in each province regulate the cost, which is then reimbursed by the federal government.
+Currently, patients do not pay out of pocket costs to visit their doctor.
+========,2,Delivery.
+Canada uses a mix of public and private organizations to deliver health care in what is termed a publicly funded, privately delivered system.
+Hospitals and acute care facilities, including long term complex care, are typically directly funded.
+Health care organizations bill the provincial health authorities, with few exceptions.
+Hospitals are largely non-profit organizations, historically often linked to religious or charitable organizations.
+In some provinces, individual hospital boards have been eliminated and combined into quasi-private regional health authorities, subject to varying degrees of provincial control.
+Private services are provided by diagnostic laboratories, occupational and physical therapy centres, and other allied professionals.
+Non-medically necessary services, such as optional plastic surgery, are also often delivered by for-profit investor-owned corporations.
+In some cases patients pay directly and are reimbursed by the health care system, and in other cases a hospital or physician may order services and seek reimbursement from the provincial government.
+With rare exceptions, medical doctors are small for-profit independent businesses.
+Historically, they have practiced in small solo or group practices and billed the government Canadian Health Care system on a fee for service basis.
+Unlike the practice in fully socialized countries, hospital-based physicians are not all hospital employees, and some directly bill the provincial insurance plans on a fee-for-service basis.
+Since 2000, physicians have been allowed to incorporate for tax reasons (dates of authorization vary province to province).
+Efforts to achieve "primary health care reform" have increasingly encouraged physicians to work in multidisciplinary teams, and be paid through blended funding models, including elements of capitation and other 'alternative funding formulas'.
+Similarly, some hospitals (particularly teaching hospitals and rural/remote hospitals) have also experimented with alternatives to fee-for-service.
+In summary, the system is known as a "public system" due to its public financing, but is not a nationalized system such as the UK's NHS: most health care services are provided privately.
+An additional complexity is that, because health care is deemed to be under provincial jurisdiction, there is not a "Canadian health care system".
+Most providers are private, and may or may not coordinate their care.
+Publicly funded insurance is organized at the level of the province/territory; each manages its own insurance system, including issuing its own healthcare identification cards (a list of the provincial medical care insurance programs is given at the end of this entry).
+Once care moves beyond the services required by the Canada Health Act—for which universal comprehensive coverage applies—there is inconsistency from province to province in the extent of publicly funded coverage, particularly for such items as outpatient drug coverage and rehabilitation, as well as vision care, mental health, and long-term care, with a substantial portion of such services being paid for privately, either through private insurance, or out-of-pocket.
+Eligibility for these additional programs may be based on various combinations of such factors as age (e.g., children, seniors), income, enrollment in a home care program, or diagnosis (e.g., HIV/AIDS, cancer, cystic fibrosis).
+========,3,Drug coverage.
+Unlike a number of other countries with universal health insurance systems, Canada lacks a universal pharmaceutical subsidy scheme, with co-payment, cost ceilings, and special subsidy groups varying by private insurer and by province.
+Each province may provide its own prescription drug benefit plan, although the Canada Health Act requires only coverage for pharmaceuticals delivered to hospital inpatients.
+Provincial prescription drug benefit plans differ across provinces.
+Some provinces cover only those in particular age groups (usually, seniors) and/or those on social assistance.
+Others are more universal.
+Quebec achieves universal coverage through a combination of private and public plans.
+Co-payments also vary.
+Provinces maintain their own provincial formularies, although the Common Drug Review provides evidence-based formulary listing recommendations to the provincial ministries.
+Note that there is ongoing controversy in Canada, as in other countries, about inclusion of expensive drugs and discrepancies in their availability, as well as in what if any provisions are made for allowing medications not yet approved to be administered under "exceptional drug" provisions.
+Drug costs are contentious.
+Their prices are controlled by the Patented Medicine Prices Review Board (PMPRB).
+The PMPRB's pricing formula ensures that Canada pays prices based on the average of those charged to selected countries; they are neither the highest, nor the lowest.
+========,3,Dental care, eye care, and other services.
+Dental care is not required to be covered by the government insurance plans.
+In Quebec, children under the age of 10 receive almost full coverage, and many oral surgeries are covered for everyone.
+Canadians rely on their employers or individual private insurance, pay cash themselves for dental treatments, or receive no care.
+In some jurisdictions, public health units have been involved in providing targeted programs to address the need of the young, the elderly or those who are on welfare.
+The Canadian Association of Public Health Dentistry tracks programs, and has been advocating for extending coverage to those currently unable to receive dental care.
+The range of services for vision care coverage also varies widely among the provinces.
+Generally, "medically required" vision care is covered if provided by physicians (cataract surgery, diabetic vision care, some laser eye surgeries required as a result of disease, but not if the purpose is to replace the need for eyeglasses).
+Similarly, the standard vision test may or may not be covered.
+Some provinces allow a limited number of tests (e.g., no more than once within a two-year period).
+Others, including Ontario, Alberta, Saskatchewan, and British Columbia, do not, although different provisions may apply to particular sub-groups (e.g., diabetics, children).
+Naturopathic services are covered in some cases, but homeopathic services are generally not covered.
+Chiropractic is partially covered in some provinces.
+Cosmetic procedures are not typically covered.
+Psychiatric services (provided by physicians) are covered, fee-for-service psychology services outside of hospitals or community based mental health clinics are usually not.
+Physical therapy, occupational therapy, speech therapy, nursing, and chiropractic services are often not covered unless within hospitals.
+Some provinces, including Ontario include some rehabilitation services for those in the home care program, those recently discharged from hospitals (e.g., after a hip replacement), or those in particular age categories.
+Again, considerable variation exists, and provinces can (and do) alter their coverage decisions.
+========,2,Inter-provincial Imbalances.
+The fact that health insurance plans are administered by the provinces and territories in a country where large numbers of residents of certain provinces work in other provinces may lead to inequitable inter-provincial outcomes with respect to revenues and expenditures.
+For example, many residents of the Atlantic provinces work in the oil and gas industry in the western province of Alberta.
+For most of the year these workers may be contributing significant tax revenue to Alberta (e.g.
+through fuel, tobacco and alcohol taxes) while their health insurance costs are borne by their home province in Atlantic Canada.
+Another considerable inter-provincial imbalance is a person who is insured by Quebec and obtains healthcare in another province or territory.
+Quebec does not have any physician payment agreements with any other provinces or territories of Canada.
+As a result, someone that sees a physician outside Quebec, even in another part of Canada, must either pay the cost themselves and submit a request to the Régie de l'Assurance Maladie du Québec (RAMQ Medicare) for reimbursement (even then, expenses are often denied), or take out a third party insurance plan.
+The same situation also applies to a resident of any other part of Canada visiting Quebec, only they submit any claims to their respective provincial healthplan.
+All provinces and territories of Canada, however, do have reciprocal hospital agreements, so hospital admissions, for example, are covered throughout Canada.
+========,2,Opinions on Canadian Health Care.
+Polling data in the last few years have consistently cited Canadian Health Care as among the most important political issues in the minds of Canadian voters.
+Along with peacekeeping, Canadian Health Care was found, based on a CBC poll, to be among the foremost defining characteristics of Canada.
+It has increasingly become a source of controversy in Canadian politics.
+As a recent report from the Health Council of Canada has noted "Herein lies one of the puzzles of Canadian health care: Canadians increasingly view the health care system as unsustainable and under threat, even as their own experiences with the system are mostly positive."
+As analysts have noted, the root of the concern may be traced to successful cost control efforts in the mid 1990s, where public health expenditure per capita, in inflation-adjusted dollars, actually fell.
+These efforts arose from efforts by the federal government to deal with its deficit through various austerity measures, which led to cuts in their transfers to the provinces, and in turn to squeezing hospital budgets and physician reimbursements.
+The number of physicians being trained was reduced.
+The result was seen in increased wait times, particularly for elective procedures.
+More recently, government has been reinvesting in health care, but public confidence has been slow to recover.
+A number of studies have compared Canada with other countries, and concluded that each system has its own strengths and weaknesses.
+The World Health Organization, ranked Canada in 2000 as 30th worldwide in performance.
+However, the basis for these rankings has been highly contentious.
+As Deber noted, "The measure of "overall healthsystem performance" derives from adjusting "goal attainment" for educational attainment.
+Although goal attainment is in theory based on five measures (level and distribution of health, level and distribution of "responsiveness" and "fairness of financial contribution"), the actual values assigned to most countries, including Canada, were never directly measured.
+The scores do not incorporate any information about the actual workings of the system, other than as reflected in life expectancy.
+The primary reason for Canada's relatively low standing rests on the relatively high educational level of its population, particularly as compared to France, rather than on any features of its health system."
+Other countries had similar complaints, and the WHO has not repeated this ranking.
+========,2,2003 Accord.
+In 2003, the prime minister and the provincial premiers agreed upon priority areas for reinvestment.
+The 2003 First Ministers’ Accord on Health Care Renewal reaffirmed their commitment to the principles of the Canada Health Act.
+They indicated the following principles:
+"Drawing from this foundation, First Ministers view this Accord as a covenant which will help to ensure that:
+***LIST***.
+The accord set the following priority areas: primary health care, home care, catastrophic drug coverage, access to diagnostic/medical equipment and information technology and an electronic health record.
+The extent of progress in meeting reform goals has varied across these areas.
+========,2,Evaluating claims about the system.
+Evaluating the accuracy of claims about the system is hampered by several factors.
+The highly decentralized nature of health care delivery means that good data is not always available.
+It is often difficult to distinguish compelling but atypical anecdotes from systemic problems.
+Considerable effort is being made to develop and implement comparable indicators to allow better assessment of progress.
+However, the Health Council of Canada—with a mandate to monitor and report on health reform—complained in 2007 that progress has stalled.
+The debate about health care has also become heavily ideological.
+The Fraser Institute, a right leaning think tank supporting "competitive market solutions for public policy problems" is a frequent critic of publicaly funded Canadian Health Care.
+It publishes yearly reports about wait times which are then used to argue that the system is both failing and unsustainable.
+Others criticize their methodology, which is based on physician perceptions rather than actual waits.
+Other complaints come from the political left, who object to 'privatization' (by which they usually mean a heavier involvement of for-profit providers).
+(See, for example, the Canadian Health Coalition web page.)
+There are frequent debates in the media and on line between advocates and opponents of Canadian healthcare.
+========,3,Wait times and access.
+Common complaints relate to access, usually to elective surgery (especially hip and knee replacement and cataract surgery) and diagnostic imaging.
+These have been the primary targets of health care reinvestment, and it appears that considerable progress has been made for certain services, although the implications for procedures not on the target list are unclear.
+Canadian physicians have been heavily involved, particularly in developing appropriateness criteria to ensure timely access for necessary care.
+It is estimated to have cost Canada's economy $14.8 billion in 2007 to have patients waiting longer than needed for medical procedures.
+Barua and Esmail completed a study in October 2013, Waiting Your Turn, Wait Times for Health Care in Canada.
+The authors surveyed both private and publicly funded outpatient health care offices and found the amount of wait time between general practitioner and specialists.
+The second segment was determining wait times between consultation and time of procedure.
+They studied each province and found where the longest and shortest wait times were.
+Barua and Esmail found that the wait times for health services have increased 95% from 1993-2013.
+Esmail and Barua also compared the wait times in 2012 to the wait times in 2013.
+A few provinces wait times decreased but mostly provinces wait times increased slightly.
+The number of procedures overall that people in 2013 waited for was 928,120.
+This is a 6.6% increase from 2012.
+========,3,Health human resources.
+A related issue is the volume, and distribution, of health human resources.
+There are ongoing issues about the distribution of physicians, with the pendulum swinging from arguing that there were too many, to arguing that there were too few.
+As Ben Chan found, the major factor driving the drop in physician numbers was changes in training programs.
+Combined with such factors as changes in the hours worked by each physician, and a decrease in the proportion of doctors choosing to go into family practice, there were shortages in some areas, particularly for general practitioners (GP) / family doctors.
+One response has been to encourage 'primary care reform', including greater use of multidisciplinary health care teams.
+There are also ongoing issues regarding nurses.
+(See Nursing Health Services Research Unit, which links to some reports.
+CIHI also gives data about nursing.)
+========,3,Delisting.
+Delisting is the term used in Canada when a province decides that a medical procedure will no longer be covered by the health care system in that province.
+While health care coverage is country wide, and is required to be portable and to have equal access, there are a few differences between what provinces will cover.
+In some cases, this has resulted in lost grants to the provinces; in other cases it has not.
+An example of a delisted service is circumcision in Ontario.
+It is still possible to have a boy circumcised in Ontario by a doctor but the parents must pay the cost.
+The issue of delisting services is becoming increasingly a political battleground in Canadian health care.
+In an effort to save health care money some provinces are delisting some services; however, some delisted services are ones that could be considered "medically necessary".
+For example, except for seniors, children, and diabetics eye exams to check vision are no longer covered in Ontario.
+========,2,Parallel private debate.
+Some politicians and think tanks have proposed removing barriers to the existence of a parallel private healthcare system.
+Others note that such systems act to erode cost control and impede equity.
+Though polling suggests support for such reforms has been increasing, it has yet to be adopted as official policy by any of the main federal political parties.
+Under federal law, private clinics are not legally allowed to charge patients directly for services covered by the Canada Health Act, if they qualify for the public insurance.
+Regardless of this legal issue, many do offer such services.
+There are disputes as to whether surgical procedures can be performed.
+Two related issues have obstructed the growth of such clinics.
+One is regulatory — hospital-based quality assurance often failed to encompass them.
+This gap has been filled in most provinces, but sometimes only after celebrated incidents in which patients died in unregulated clinics, including one physician who performed cosmetic surgery in an Ontario hotel room.
+The second is economic — there may be no way for physicians to recoup the additional costs of running a surgical facility from their fees.
+Here, provinces can choose to offer 'facility fees' to these clinics, but doing so has often been contentious, particularly if hospitals felt that these costs would be better devoted to allowing them to increase their operating room time.
+Note that uninsured persons can pay for care (including medical tourism), and that insured persons can still pay for uninsured services.
+These are both niche markets.
+Opponents of Canadian health care often raise issues such as long wait times, a 'brain-drain' drawing qualified professionals away from Canada to other jurisdictions where working in the health care field is more profitable, and impairment of the Canadian health care system due to budget cuts.
+Fox News ran a story in 2007 reporting that during a period of above average numbers of births, at least 40 Canadian mothers of premature babies had to travel to the U.S. for treatment due to insufficient capacity for premature babies in British Columbia neonatal units.
+Nonetheless, Canada's health care system covered the health care costs of those mothers affected.
+In 2003, the Government in Canada spent $2,998 USD per capita on healthcare as compared to $5,711 USD per capita in the United States, while almost every Canadian citizen is fully covered.
+In the United States, 11.9% of adults lack public or private health coverage, despite higher proportional spending along with large private investment.
+The lack of competition has given healthcare unions a monopoly on essential services, thus ensuring a very strong bargaining position.
+Nova Scotia is currently debating healthcare legislation aimed at removing the threat of striking healthcare workers and replacing it with binding arbitration.
+========,2,Proposed reforms.
+One proposed solution for improving the Canadian healthcare system is to increase funding.
+Proponents of this approach point to the rise of neo-conservative economic policies in Canada and the associated reduction in welfare state expenditure (particularly in the provinces) from the 1980s onwards as the cause of degradation in the system.
+While some say evidence clearly indicate an overall percentage increase on healthcare spending, the net spending has been drastically decreasing on top of inflation.
+Other critics of healthcare state that increased funding will not solve systemic problems in the healthcare system including a rising cost of medical technology, infrastructure, and wages.
+These critics say that Canada's proximity to the United States causes a "brain drain" or migration of Canadian-trained doctors and nurses (as well as other professionals) to the United States, where private hospitals can pay much higher wages and income tax rates are lower (partially because health care is not covered through taxation).
+Some of these critics argue that increased privatization of healthcare would improve Canada's health infrastructure.
+Others argue vehemently against it.
+For example, large resources are required to train and educate doctors.
+Since the number of available doctors is therefore limited, doctors working for a private system would not be working under the public system creating little to no net increase in available services.
+Critics of greater privatization state that healthcare should be kept public, (public in funding only, as most services are provided by the private sector including doctors who in most cases are private corporations) in part because it separates Canadians from Americans by mandating equality and fairness in health care.
+This is in contrast to other states where doctors are on a per capita based salary.
+In this sense the Canadian Healthcare system is merely a publicly funded one where services are provided by a mixture of public and private entities, which most Canadians appreciate and desire.
+Changing the system to eliminate the balance between public and private service providers to a completely public system is one such alternative.
+========,2,Ontario's reform experiments.
+Since the early 1990s, Ontario has implemented several systematic reforms to reduce health care costs.
+Similar reforms have been implemented in other provinces.
+========,3,User premiums.
+Currently in Ontario, people with an annual taxable income above $20,000 must pay an annual health care premium ranging from $60–$900.
+Funding for health care in Ontario also comes in part from a dedicated Employer Health Tax (EHT) that ranges from 0.98%-1.95% of employer payroll.
+Eligible employers are exempted from EHT on the first $400,000 of payroll.
+British Columbia and Quebec charge similar premiums.
+========,3,Medical clinics.
+Ontario has increased the number of 24-hour drop-in medical clinic networks to reduce costs associated with treating off-hours emergencies in hospital emergency rooms.
+Many family doctor practices have created their own clinics, offering 24-hour service for their patients if needed.
+Each doctor in the practice takes a turn at being "on call" on a rotating basis.
+Patients who have family doctors belonging to these practices are able to have a doctor come to their home in extreme situations.
+There is no additional charge for these services as they are billed to the Province, the same as an office visit.
+Hospitals in some major Canadian cities, such as London, Ontario, have restructured their emergency services to share emergency treatment among several hospitals.
+One hospital may provide full emergency room care, while another sees patients who have broken limbs, minor injuries and yet another sees patients suffering cold, flu, etc.
+In 2007, the first nurse practitioner-led office to relieve waiting times caused by a shortage of primary practitioners was opened in Sudbury, Ontario.
+========,3,Alternatives to fee-for-visit or service.
+Ontario has also attempted to move the system away from bill for service or visit and toward preventive and community-based approaches to healthcare.
+The Ontario government in the early 1990s helped develop many community health care centres, often in low-income areas, which provide both medical and social support which combines health care with programs such as collective kitchens, Internet access, anti-poverty groups and groups to help people quit smoking.
+While funding has decreased for these centres, and they have had to cut back, they have had a lower cost than the traditional fee-for-service approach.
+Many of these centres are filled to capacity in terms of general doctors, and there are often fairly long waiting lists and the centres also utilize nurse practitioners, who reduce the workload on the doctors and increase efficiency.
+========,3,Midwives and hospital birthing reforms.
+Ontario and Quebec have recently licensed midwives, providing another option for childbirth which can reduce costs for uncomplicated births.
+Midwives remain close to hospital facilities in case the need for emergency care emerges.
+These births often cost much less than the traditional hospital delivery.
+Hospitals have also reformed their approach to birthing by adding private birthing areas, often with a hot tub (which is good for relieving pain without medication).
+========,3,Privatization.
+Currently, privately owned and operated hospitals that allow patients to pay out-of-pocket for services cannot obtain public funding in Canada, as they contravene the "equal accessibility" tenets of the Canada Health Act.
+Some politicians and medical professionals have proposed allowing public funding for these hospitals.
+Workers' Compensation Boards, the Canadian Forces, the RCMP, federally incarcerated prisoners, and medical care for which an insurance company has liability (e.g., motor vehicle accidents) all pay for health care outside of the public systems in all provinces.
+In Quebec, a recent legal change has allowed this reform to occur.
+In June 2005, the Supreme Court of Canada overturned a Quebec law preventing people from buying private health insurance to pay for medical services available through the publicly funded system and this ruling does not apply outside the province.
+See: Chaoulli v. Quebec (Attorney General).
+In November 2005, the Quebec government announced that it would allow residents to purchase private medical insurance to comply with this ruling.
+Private insurance from companies such as Blue Cross, Green Shield and Manulife have been available for many years to cover services not covered by the Canadian health care system, such as dental care and some eye care.
+Private insurance is provided by many employers as a benefit.
+The Canadian Medical Association (CMA) released a report in July 2007 endorsing private healthcare as a means to improve an ailing healthcare system.
+Dr. Brian Day, who acted as President of the CMA in 2007/2008, is the owner of the largest private healthcare hospital in Canada and a proponent of mixed public and private healthcare in Canada.
+========,3,Canadian Health Practitioner standards.
+It is generally accepted that physicians arriving in Canada from other countries must meet Canadian Health Practitioner standards.
+So there is concern that doctors from other countries are not trained or educated to meet Canadian standards.
+Consequently, doctors who want to practise in Canada must meet the same educational and medical qualifications as Canadian-trained practitioners.
+Others suggest that the Canadian Medical Association, the Ontario Medical Association, and the regulatory bodies (the provincial Colleges of Physicians and Surgeons) have created too much red tape to allow qualified doctors to practise in Canada.
+Canada's health system is ranked 30th in the world, suggesting the logic of the doctor shortage defies the statistics.
+In fact according to a report by Keith Leslie of the Canadian Press in the Chronicle Journal, Nov 21, 2005, over 10,000 trained doctors are working in the United States, a country ranked 37th in the world.
+It would suggest money or the perception of better working conditions, or both, are resulting in an exodus of Canadian doctors (and nurses) to the USA.
+It is important to recognize that many consider the doctor shortage in Canada to be a very severe problem affecting all sectors of health care.
+It may relate in part to the details of how doctors are paid; a detail often misunderstood.
+In Canada, almost all doctors receive a fee per-visit, not per-service.
+It has been suggested that this type of "fee-for-visit" payment system can encourage complexity, volume visits, repeat visits, referrals, and testing.
+One consequence of the shortage in Canada is that a great many patients are left without family doctors, and trained specialists, making early intervention very difficult.
+As the article in the Toronto Star specially isolates, it is not so much a problem of a doctor shortage but of a shortage of 'licensed doctors'.
+Michael Urbanski states that Canada already has a hidden reserve of foreign-trained MDs eager to begin medical practice.
+"However, what's crucial to understanding the issue of doctor shortage in Ontario is that while the Liberal government is planning to go "poaching" for other countries' doctors, there are an estimated 4,000 internationally trained doctors right here in Ontario working at low-wage jobs."
+A CBC report [6](August 21, 2006) on the health care system reports the following:
+Dr. Albert Schumacher, former president of the Canadian Medical Association estimates that 75 per cent of health-care services are delivered privately, but funded publicly.
+"Frontline practitioners whether they're GPs or specialists by and large are not salaried.
+They're small hardware stores.
+Same thing with labs and radiology clinics …The situation we are seeing now are more services around not being funded publicly but people having to pay for them, or their insurance companies.
+We have sort of a passive privatization.
+In a report by Keith Leslie of the Canadian Press in the Chronicle Journal, Nov 21, 2005, commenting on an Ontario Medical Association Report, prepared by the human resources committee states "The year 2005 finds the province in the midst of a deepening physician resources crisis".
+The report continues to report, "the government should make it easier for doctors from other provinces to work in Ontario and ... ".
+Here we have signs of inter-provincial competition affecting the doctor shortage in one province over another.
+Essentially, privatized healthcare is not a choice of interest for lower income Canadians, it is most likely to be unaffordable and unfair to those who suffer on a social standard.
+========,2,Provincial insurance plans.
+Though the Canada Health Act provides national guidelines for healthcare, the provinces have exclusive jurisdiction over health under the constitution and are free to ignore these guidelines, although if they ignore the guidelines, the federal government may deny federal funding for healthcare.
+All provinces currently abide by the Canada Health Act in order to receive this funding; however the Alberta legislature has considered proposals to ignore the Act to allow them to implement reforms not allowed under the Act.
+The federal government has no direct role in the delivery of medicine in the provinces and territories so each province and territory has its own independent public health insurance program.
+Under the Canada Health Act, each province and territory must provide services to members of plans in other provinces and territories.

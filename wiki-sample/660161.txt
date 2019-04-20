@@ -1,0 +1,32 @@
+========,1,preface.
+Pentane is an organic compound with the formula CH—that is, an alkane with five carbon atoms.
+The term may refer to any of three structural isomers, or to a mixture of them: in the IUPAC nomenclature, however, pentane means exclusively the "n"-pentane isomer; the other two are called isopentane (methylbutane) and neopentane (dimethylpropane).
+Cyclopentane is not an isomer of pentane because it has only 10 hydrogen atoms where pentane has 12.
+Pentanes are components of some fuels and are employed as specialty solvents in the laboratory.
+Their properties are very similar to those of butanes and hexanes.
+========,2,Industrial uses.
+Pentanes are some of the primary blowing agents used in the production of polystyrene foam and other foams.
+Usually, a mixture of n-, i-, and increasingly cyclopentane is used for this purpose.
+Because of its low boiling point, low cost, and relative safety, pentanes are used as a working medium in geothermal power stations in some blended refrigerants.
+Pentanes are also an active ingredient in some pesticides.
+========,2,Laboratory use.
+Pentanes are relatively inexpensive and are the most volatile liquid alkanes at room temperature, so they are often used in the laboratory as solvents that can be conveniently and rapidly evaporated.
+However, because of their nonpolarity and lack of functionality, they dissolve only non-polar and alkyl-rich compounds.
+Pentanes are miscible with most common nonpolar solvents such as chlorocarbons, aromatics, and ethers.
+They are often used in liquid chromatography.
+========,2,Physical properties.
+The boiling points of the pentane isomers range from about 9 to 36 °C.
+As is the case for other alkanes, the more thickly branched isomers tend to have lower boiling points.
+The same tends to be true for the melting points of alkane isomers, and that of isopentane is 30 °C lower than that of "n"-pentane.
+However, the melting point of neopentane, the most heavily branched of the three, is 100 °C "higher" than that of isopentane.
+The anomalously high melting point of neopentane has been attributed to the tetrahedral molecules packing more closely in solid form.
+But this explanation is contradicted by the fact that neopentane has a lower density than the other two isomers.
+The branched isomers are more stable (have lower heat of formation and heat of combustion) than n-pentane.
+The difference is 1.8 kcal/mol for isopentane, and 5 kcal/mol for neopentane.
+Rotation about two central single C-C bonds of "n"-pentane produces four different conformations.
+========,2,Reactions.
+Like other alkanes, pentanes are largely unreactive at standard room temperature and conditions - however, with sufficient activation energy (i.e.
+an open flame), they readily oxidize to form carbon dioxide and water:
+Like other alkanes, pentanes undergo free radical chlorination:
+Such reactions are unselective; with "n"-pentane, the result is a mixture of the 1-, 2-, and 3-chloropentanes, as well as more highly chlorinated derivatives.
+Other radical halogenations can also occur.

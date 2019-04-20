@@ -1,0 +1,59 @@
+========,1,preface.
+The black-chinned laughingthrush ("Montecincla cachinnans") is a species of laughingthrush endemic to the high elevation areas of the Nilgiris and adjoining hill ranges in Peninsular India.
+The mosty rufous underparts, olive brown upperparts, a prominent white eyebrow and a black throat make it unmistakable.
+It is easily detected by its loud series of nasal call notes and can be hard to spot when it is hidden away inside a patch of dense vegetation.
+The species has a confusing taxonomic history, leading to a range of names.
+In the past the species was considered to have two subspecies, the nominate form in the Nilgiris (earlier called the Nilgiri laughingthrush or rufous-breasted laughingthrush) and "jerdoni" (which is now treated as a full species, the Banasura laughingthrush) with a grey upper breast and found in the Brahmagiris of Coorg and Banasura range of Wayanad.
+They are omnivorous, feeding on a range of insects, berries and nectar.
+========,2,Taxonomy.
+The species was described by Jerdon in 1839.
+In 1872 he noted further that the form "Trochalopteron jerdoni" that he had discovered on the peak of Banasura [=Banasore] in Wynaad would likely also occur in Coorg.
+He added that they were separated by lower hills despite being only about 50 to 60 miles from the western edge of the Nilgiris.
+The species "jerdoni" included "fairbanki" and "meridionale" (both from south of the Palghat Gap) while "cachinnans" was kept separate.
+This treatment of "jerdoni" and "cachinnans" as species continued until 2005 when Rasmussen and Anderton grouped the black-chinned forms north of the Palghat Gap into one species with "jerdoni" of Coorg-Wynaad treated as a subspecies of "cachinnans".
+The wider distribution of the taxon made the older name of "Nilgiri laughing-thrush" inappropriate.
+The form south of the Palghat gap without a black chin was elevated to a full species, "fairbanki" with "meridionale" as a subspecies, and called the Kerala laughingthrush.
+Stuart Baker in the second edition of the "Fauna of British India" included a subspecies "cinnamomeum" described by William Ruxton Davison from two specimens obtained by Atholl Macgregor, British Resident in Travancore, from an unknown location.
+This is usually not recognized but the description was based on two specimens with the black of the chin and lores replaced by dark brown.
+Stuart Baker used several genera for the south Indian laughingthrushes.
+"Trochalopteron" was said to have the nostril visible and not covered by overhanging bristles as in "Ianthocincla", the genus in which the Wynaad laughingthrush was placed.
+Subsequent revision by Ripley and Ali lumped all the south Indian laughingthrushes into the single genus "Garrulax".
+The genus splits were however been reinstated on the basis of differences in structure leading and the species was included in a previously erected genus "Trochalopteron".
+A detailed phylogenetic study published in 2017 identified that the south Indian species that were included in "Trochalopteron" were best treated as a sister group of a clade that included "Leiothrix", "Minla", "Heterophasia" and "Actinodura" and they were not closely related to members of "Trochalopteron" in the strict sense.
+This led to a need to establish a new genus "Montecincla" (with the type species being the first described species, "Montecincla cachinnans").
+========,2,Description.
+This laughingthrush is about 24 cm long with a rufous underside and a dark olive grey upper body.
+The crown is slaty brown and there is a jagged and broad white supercilium margined with black.
+The throat, lores and a streak behind the eye are black.
+The tail is olive brown.
+The iris is reddish brown and the legs and bill are black.
+The upper breast is grey in the subspecies "jerdoni" and can appear somewhat like "fairbanki" although the throat of the latter is grey and the two do not overlap in range.
+It is unmistakable in plumage although at a quick glance it can be mistaken for an Indian scimitar babbler.
+========,2,Behaviour and ecology.
+This species is found in dense forest patches on the Nilgiri and Wayanad ranges above above sea level.
+It forages along the forest edge singly or in small groups low in the trees and sometimes on the ground.
+They are active in the early morning and late afternoon and are extremely vocal.
+While one bird calls in a series of loud ascending and descending nasal notes, another in a nearby bush produces series of sharp "kek" notes.
+They feed on the nectar of "Lobelia excelsa" and "Rhododendron" in winter.
+When "Strobilanthes" is in bloom, the birds feed on its nectar as well as its petals.
+They feed on the fruits of "Ilex" spp., "Solanum auriculatum", "Eurya japonica", "Rhamnus wightii", "Pyrus baccata", "Rubus" spp., "Mahonia leschenaultii" and "Rhodomyrtus tomentosa" ("hill guava").
+Insects are crushed before swallowing and sometimes battered against a hard substrate.
+Small tree-frogs are sometimes taken.
+Large fruits are sometimes held under their foot and torn apart.
+They tend to forage on the open ground at dawn and dusk and mostly gleaning from vegetation during the rest of the day.
+The black-chinned laughingthrush nests from February to the beginning of June.
+The nest is a cup placed low (1–2 m above the ground) in a clump of dense undergrowth, often close to a stream or marsh in the edge of a shola.
+The male as well as the female build the nest.
+The inside of the cup nest is lined with hair and fine material and nearly 50% of the nest weight is made up of mosses.
+The eggs are laid within a few days of completing the nest construction, which can take from 5 to 18 days (average of 13 days).
+Nests built later in the season tend to be constructed more rapidly.
+The clutch consists of 2 greenish blue eggs with brown blotches and streaks.
+The adults tear up and destroy the nest after the young birds fledge or if the nest is predated.
+The eggs are about long and wide.
+Incubation begins after the second egg is laid and both parents take turns until the chick hatches on the 16th or 17th day.
+If one of the eggs fails to hatch, the egg is left alone and not removed as in some bird species.
+The young are fed with insects during their early stages and berries such as "Rubus" at a later stage.
+The faecal sacs produced by the young are swallowed by the parents.
+The young fledge after 15–18 days but continue to remain nearby for about three weeks.
+Predators of the eggs and young include the Indian jungle crow and the greater coucal.
+The distribution of the species is restricted to a small area which is prone to habitat destruction leading to its status being considered as endangered.

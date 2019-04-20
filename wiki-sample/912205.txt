@@ -1,0 +1,581 @@
+========,1,preface.
+The Nissan Skyline (Japanese: 日産・スカイライン "Nissan Sukairain") is a line of compact cars, sports cars and compact executive cars originally produced by the Prince Motor Company starting in 1957, and then by Nissan after the two companies merged in 1966.
+After the merger, the Skyline and its larger counterpart, the Nissan Gloria, were sold in Japan at dealership sales channels called "Nissan Prince Shop."
+The Skyline was largely designed and engineered by Shinichiro Sakurai from inception, and he remained a chief influence of the car until his death in 2011.
+Skylines are available in either coupé, or sedan body styles, plus station wagon, crossover, convertible and pickup/sedan delivery body styles.
+The later models are most commonly known by their trademark round brake and tail lights (as of 1972).
+While not distributed in the United States until its importation as the Infiniti G, the Skyline's prominence in video games, movies and magazines resulted in many such cars being imported there from 1989 to late 2005.
+The majority of Skyline models are rear-wheel drive, with four-wheel drive being available since the eighth-generation's debut.
+The 11th-generation Skyline (V35) was another major turning point for the nameplate, as it dropped some of the previous generation Skyline's trademark characteristics such as the straight-6 engine (replaced with a V6) and turbocharging, and eventually separated the GT-R into its own line.
+Nissan decided to retain the Skyline for the luxury-sport market, while its platform-mate, the 350Z, revived the Z line of pure sports cars.
+The V35 was the first Skyline made for export to North America, being sold under Nissan's luxury marque Infiniti as the G35.
+The Skyline (V36/J50) is sold in Europe, North America, South Korea, Taiwan, and the Middle East as the Infiniti G37.
+On April 11, 2010 a Guinness Book of Records event took place with 225 Skylines taking part in a parade lap at the ISTS at Silverstone UK, which produced two world records: the most recorded Nissan Skylines at one meet at one time, and Most Nissan Skylines on a track at the same time.
+========,2,Prince Skyline ALSI/BLSI.
+========,3,ALSI-1 series.
+The first Nissan Skyline was introduced April 24 1957, at the Takarazuka Theater, in Hibiya, Tokyo, for the Prince Motor Company, marketed as a luxury car.
+It featured a 1.5 L (1,482 cc) "GA-30" engine (also known as FG4A-30) producing 44 kW (60 hp) at 4,400 rpm, which was previously used in the prototype Subaru 1500, Subaru's first car.
+It used a de Dion tube rear suspension and was capable of .
+The car weighed around .
+Skylines were produced as four-door sedans and five-door station wagons.
+Two models were available: the ALSIS-1 standard and the ALSID-1 Deluxe.
+The ALSI-1's appearance seems to influenced by 1950s American cars (the front end was similar to the 1957 Chevrolet); the car featured rear tail fins, chrome molding and two-tone paint.
+========,4,ALSIS-1.
+The ALSIS-1 standard model featured a grille with a large center bar with 6 vertical slats above it.
+The side strips ran straight from the rear of the car to the front doors, where it dipped into a V-shape, widening and kicked upwards until it hit the front of the car.
+The side badge said "Skyline".
+========,4,ALSID-1 Deluxe.
+The ALSID-1 Deluxe featured a different grille compared to the standard model.
+The large center bar was absent and instead a pair of fog lights are mounted just inside of the front turn signals.
+Between the fog lights "PRINCE" is spelled out in individual gold letters.
+A painted side strip, surrounded by a chrome strip ran horizontally the length of the car, widening from front to back.
+On this side strip was the side badge, which said "Skyline Deluxe".
+The Skyline also spawned the ALPE double cab pickup truck and the ALVE delivery van, both marketed as the Skyway.
+========,3,ALSI-2 series.
+The ALSI-2 series was released in October 1959 and was nearly identical to the ALSI-1 series except for the engine.
+Higher quality fuel allowed for an increase in compression and a power increase to .
+This new engine was designated the FG4A-40 (this engine was also known as the GA-4).
+In February 1960 the ALSI-2-1 series was released.
+The Deluxe, along with the commercial variants, were updated with quad headlights (the standard model retained the twin headlights).
+The side strip design was changed on standard models; the V-shape in the side strip was moved from the front doors to the rear doors.
+On Deluxe models the side strip design remained the same.
+The standard model gained quad headlights in September 1960 with the release of the ALSI-2-2 series.
+========,3,BLSI-3 series.
+In May 1961 the BLSI-3 series was released.
+The 1500 engine used in the ALSID Deluxe was dropped and instead used the 1.9L GB-4 (also known as FG4B-40) OHV four-cylinder engine from the Gloria.
+The BLSI series was otherwise identical to the ALSI series, except for a "1900" badge on the side.
+The standard model received the new engine in October 1961.
+Commercial variants remained available, also equipped with the new engine.
+========,3,S21 series.
+In September 1962 the S21 series was released.
+It was in production until November 1963.
+The front end was redesigned in an attempt to update the look of the car.
+The result was rather unsuccessful as the car now looked like a 1950s body with a 1960s front end.
+The S21 continued to use the 1.9L GB-4 engine.
+The 3-door van was dropped and replaced with a 5-door station wagon; a double cab pickup truck remained available.
+========,4,BLRA-3 Skyline Sport.
+The S21 Deluxe-based Skyline Sport featured hand-built Michelotti bodies in stylish coupe and convertible versions.
+These cars used the 1.9 L "GB-4" engine from the S21D.
+While only a few hundred were built, Prince Motors had a very aggressive product placement group and they can be seen (along the company's mainstream models) in many Toho films of the early 1960s.
+The canted headlights reflected a similar appearance on the late 1950s through early 1960s Lincoln Continental, Buick, and Chrysler 300.
+The appearance is similar to the 1960s Lancia Flavia and Triumph Vitesse as Michelotti did contribute to Lancia vehicles during this time.
+Being the first sports-focused model, the Skyline Sport foreshadowed the Skyline GT-R sub-range.
+========,2,S50/S54/S57.
+========,3,S50.
+In 1961 Fuji Precision Industries changed its name to Prince Motor Company after the 1954 merger.
+Two years later, in September 1963, the S50 Skyline Deluxe series was launched.
+Like its predecessor, it came in sedan and wagon bodystyles.
+This was the second generation car, and became one of the more desirable cars in Japan.
+It was powered by the "G-1" engine, a 68 hp or version of the old GA-4.
+The S50 series were available with a three-speed column shift transmission, or a four-speed floor shift transmission from February 1965 (Deluxe only), either as a four-door sedan (S50) or a five-door wagon (W50).
+A two-speed automatic option was added to the Deluxe in June 1966.
+The lower priced and equipped Standard model was added in April 1964; aiming at taxi operators and others it also lacked bumper overriders, making it 11 cm shorter.
+Three main models of the S50 were built: the S50-1 (1964–1966), the lightly facelifted S50-2 (1967–1968) and the S50-3 (1968).
+These all used the same engine, with the later S57 receiving a more modern unit.
+In Japan its market position was refocused as a competitor to the Datsun Bluebird and the Toyota Corona.
+Externally, the S50-1 was installed with rounded brake lights and integrated tail lights, with a centrally installed turn signal, similar in appearance to the Ford Galaxie of 1960.
+The significant appearance change from the previous generation seems to reflect a similar approach done by German company BMW in 1962, in deciding to build a small, affordable, performance coupe and sedan.
+The S50 was sold in some markets with an A150 designation.
+In European markets (and other export markets), it was also marketed as the PMC-Mikado A150.
+The S50-2 was also sold as the S56SE A190D, which was equipped with the 1.9 liter D-6 OHV diesel engine.
+This model had trim and equipment levels similar to the S50S-2.
+In Europe, period testers commented on the car's compact size (more like a 1.0 than a 1.5) and its sprightly performance, in large part due to the extremely low gearing.
+The car's ample lighting was also noted, offering twin headlights, a bevy of warning lamps, numerous engine room light fittings, etcetera.
+Also lauded were the cars road manners, as evident by the six-cylinder Skyline's competition successes.
+In 1966, Nissan and Prince merged and the S50 also appeared with Nissan Prince Skyline badging.
+This model lasted in production through 1967.
+In October 1966, the S50-2 was introduced.
+This light facelift included a new grille and taillights, as well as changes to the interior, and with the addition of an extraction vent on the C-pillar.
+It was sold as Prince Skyline, Prince A150, or PMC A150, depending on the market.
+All "Prince" dealership locations were added to the existing Nissan/Datsun Japanese dealerships, while retaining the Prince name to become "Nissan Prince Store."
+In August 1967 the S50-3 was introduced.
+The tail lights and front side indicators were changed to a rectangular shape, but otherwise the car remained identical to the S50-2 series.
+The S50-3 was the last Prince model to use the G-1 engine.
+========,3,S54.
+Prince created a racing Skyline GT in May 1964.
+It was based on the S54 and used the "G-7" engine from the Gloria S41, though the car needed a extension to the wheelbase (all forward of the cowl) to provide space in the engine bay for the inline six.
+When it entered the second Japanese Grand Prix they hoped to win the GT-II class.
+Competitive against the Porsche 904, the Skyline managed second through to sixth places.
+It's made only 100 and name S54ー1 Largely due to the success of the race vehicle, the Prince Skyline 2000GT (also called GT-A, GT-B, S54A and S54B) was released to the Japanese market.
+(S54A(B)ー2 ) and the South Australian market (GT-A and GT-B) There were two versions produced:
+***LIST***.
+The B model featured three Weber 40DCOE-18 carburetors, a limited slip differential, five-speed close ratio  strengtheing piston conrod crankshaft and crankmetal manual transmission, and power brakes.
+Both the B and A used front disc brakes with dual pistons and alloy finned drums in the rear.
+The South Australian versions both used the S54B engine, the difference was in the gearbox, the GT-A had a 4 speed gearbox, and the GT-B had the European ZF, 5 speed gearbox.
+========,3,S57.
+In August 1967 Prince released an upmarket version of the S50D-3 called the S57.
+It used a new engine of Prince's (designed before the merger with Nissan), the OHC 1.5 L (1483 cc) G15.
+At , it was the most-powerful engine in the Japanese 1500 cc class.
+The S57D was identical to the S50D-3 except for a "88" badge in the grille (for 88 PS) and an "OHC" badge above the right side reversing light.
+========,2,C10.
+The C10 series of 1968, which began its development under Prince at the company's Ogikubo R&D centre in the suburbs of Tokyo, was marketed with a Nissan badge.
+By the time the C10 went on sale, the Prince nameplate had been completely phased out on cars and trucks.
+The dealer network selling the cars became the Prince channel of Nissan, and the marketing group stayed at the Prince headquarters in Mita instead of moving to Nissan's headquarters in Ginza.
+The C10 Skyline was launched with Prince's 1.5 L OHC "G15" I4 like the S57.
+A 1.8 L "G18" version was also available.
+A station wagon variant, known previously as the Prince Skyway, was offered with this generation.
+A hardtop coupé was introduced in October 1970.
+The brake- and tail-lights were modified to square units, but now included dual units for both the left and right side of the vehicle.
+As the Skyline was now a Nissan product, it was repositioned above the Bluebird as a more sport-oriented sedan and coupe, while the Bluebird remained more economical.
+Its appearance shows some resemblance to the earlier 1961 Fiat 2300, designed by Pininfarina.
+========,3,2000GT-X.
+In September 1971, the KGC10 2000 GT-X received a 2.0 L (1,998 cc) L20SU straight-six engine instead of the Prince G-7 engine.
+The chassis was already designed to fit a straight six, to avoid the S54 extension problem.
+was available from this new engine.
+In March 1972 the lineup was expanded to include a four-door GT-X sedan.
+========,3,GT-R.
+The first GT-R Skyline appeared in February 1969.
+Called the PGC-10 (KPGC-10 for later coupé version) internally and "Hakosuka" (ハコスカ) by fans.
+"Hako" (ハコ) means Box in Japanese, and "suka"（スカ） is short for Skyline (スカイライン; "Sukairain").
+It used the 2.0 L (1998 cc) "S20" I6.
+This new DOHC engine (which was designed by the former Prince engineers) produced 160 hp (118 kW, 180 N m), and was similar to the "GR8" engine used in the Prince R380 racing car.
+The GT-R began as a sedan, but a 2-door coupé version was debuted in October 1970 and introduced in March 1971.
+The cars were stripped of unnecessary equipment to be as light as possible for racing, and performed well at the track.
+The sedan racked up 33 victories in less than two years, and the coupé stretched this to 50 through 1972.
+The C10 raced against many cars including the Toyota Corona 1600GT (RT55), Isuzu Bellett GTR, Mazda Familia (R100) & Capella (RX-2) – even Porsche.
+In late 1971 the new Mazda RX-3 became the GT-R's main rival.
+The GT-R managed a few more victories before the RX-3 ended the GT-R's winning streak.
+***LIST***.
+========,2,C110.
+The C110 generation was produced from 1972 through 1977.
+For export in the 1970s, the C110 and GC110 Skyline was sold as the Datsun K-series, with models such as the Datsun 160K, 180K and Datsun 240K.
+The body styles were, once again, four-door sedan, two-door hardtop coupé, and five-door station wagon.
+The C110 was more fussy in its styling than its predecessor, particularly so in wagon form, where unusually for a wagon design, no windows were fitted between the C and D pillars.
+Its appearance seems to be influenced by the 1970–1975 Citroën SM.
+The C110 was the first version to return to the round rear tail and brake lights introduced in 1963 albeit with dual units from the previous generation, and the appearance has become a traditional Skyline feature.
+The styling also influenced a smaller, more affordable two-door coupe, called the Silvia, introduced in 1975.
+Nissan introduced its emission control technology, primarily consisting of fuel injection on trim packages ending with an "E", using the moniker Nissan NAPS also in 1975.
+The C110 Skyline was better known as the "Ken & Mary" or "Kenmeri" (ケンメリ) Skyline, stemming from the advertisement campaign in Japan at the time which featured a young couple (Ken and Mary) who relaxed and enjoyed the countryside in "Ken and Mary's Skyline" (ケンとメリーのスカイライン).
+The ads were highly successful and perhaps as a result the C110 was sold in very large numbers in Japan.
+It sold just as well in Australia (in a 2.4L 6-cylinder form, badged as "Datsun 240K"), though few survive today.
+There, the 240K was about the same price as a Ford Falcon GT or BMW 5 series, around AUD$5000.
+========,3,GT-R.
+The Nissan Skyline GT-R hardtop arrived in September 1972 but only lasted until March 1973, when Nissan ceased its production.
+The oil crisis saw many people preferring economy cars and high-performance sports cars were looked down upon.
+Nissan pulled out of Motor Racing, so there was no purpose to the GT-R.
+It was not officially exported anywhere, although Nissan contemplated exporting to Australia.
+Only 197 KPGC110 GT-Rs were ever sold in Japan, through specialist Nissan Performance shops (before it was called NISMO).
+This was the last GT-R for 16 years until the BNR32 in 1989.
+***LIST***.
+========,2,C210.
+The succeeding C210/211 and GC210/211 of 1977 continued to split the Skyline range into basic and six-cylinder models, the latter with a longer wheelbase and front end.
+This line continued through 1981.
+A rare variant would be the wagon version, which had a unique styling treatment behind the rear doors, of a much smaller window than usual between the C and D pillars.
+The Skyline received an internal and external facelift in late 1978, which led to a change of the model code from 210 to 211.
+This was also when the Skyline first appeared in several European export markets, such as Germany.
+The GT-EX replaced the discontinued GT-R with a turbocharged engine, the L20ET.
+As installed in the recently renewed Nissan Cedric/Gloria, this had been the first turbo engine to power a Japanese production vehicle.
+One notable aspect of the turbo versions was that they were not intercooled and there was no form of blowoff valve, only an emergency pressure release valve.
+As usual with Japanese cars of this period, there were four- or five-speed manuals and a three-speed automatic, with a column-shifted three-speed manual available on lower end cars and vans.
+The "T" designation on the L16T and L18T does not signify a turbocharger was included; it denotes that those engines came with twin carburetors.
+The L-series engines were all switched to the cross-flow Z-series in late 1978.
+The larger 2.4 litre inline-six was never offered in the domestic Japanese market; having been reserved for export.
+Export engines were rated in DIN horsepower, so while a Japanese-spec L24 promised 130 ponies, European market cars with the same engine only claimed .
+On the other hand, European buyers could also get the fuel injected L24E with DIN, about on par with what the turbocharged GT-EX offered.
+Originally marketed as the Datsun 240K-GT in Europe, the fuel injected version was sold as the Datsun Skyline in most markets where it was available.
+It has a claimed top speed of .
+In June 1980 the two-liter, fuel injected inline-four Z20E engine was added to the lineup, as was the 2.8 liter straight-six GT-Diesel with .
+***LIST***.
+========,2,R30.
+The names were brought into line with the home Japanese and worldwide markets with the launch of the R30 series in August 1981, which was built on a C31 Laurel platform.
+Unlike preceding generations, four- and six-cylinder versions now shared a front end of the same length.
+The R30 was available as a two-door hardtop coupe, a four-door sedan, a five-door hatchback (available only in the R30 generation), or a four-door station wagon.
+In all, there were 26 variations of the R30 Skyline available.
+All versions with the exception of the wagon were usually fitted with the four round tail lights that had become a regular feature to the Skyline's design.
+The wagon had different tail lights, headlights, and no turbo or six-cylinder versions available.
+It more closely resembled a Nissan Sunny than a Skyline.
+The two-door coupé had a hardtop, pillarless design, and featured roll-down quarter windows for the rear seat passengers (a styling feature of the previous C10, C110, and C211 coupes), while four-door versions had a traditional sedan body style with framed windows.
+The crease that appeared over the rear wheels beginning with the second generation, referred to as the "surf line", no longer appeared starting with this generation.
+Nissan Australia launched the R30 sedan in November 1981, with standard air conditioning, AM/FM radio cassette stereo, digital clock, intermittent wipers, five-speed manual or optional three-speed automatic.
+This was fully imported from Japan.
+The hatchbacks were released to the market in August 1982.
+The facelift model launched in Australia during November 1983.
+Notably, configurations of the R30 sold in Australia and New Zealand were missing the traditional hotplate tail lights, instead opting for more conventional styling.
+Export markets also received some larger (albeit less powerful) engines, in the form of 2.4 and a 2.8 liter inline-sixes of or .
+The 2.8 was added in September 1982.
+Various engine configurations were available, initially ranging from the top of the line 103 kW SOHC 6-cylinder turbo "L20ET" to the 4-cylinder Z18S and 6-cylinder LD28 diesel versions at the other end of the scale.
+The all-new 16-valve DOHC "FJ20" engine debuted in late 1981, and was the first four-cylinder engine from any Japanese manufacturer to employ more than two valves per cylinder (see below).
+Some of the top spec models featured adjustable suspension dampers that could be adjusted while driving, this was another first for mass-produced JDM vehicles.
+Nissan Glorias and Laurels also used the L series engines, as well as some diesel (Laurel only) variants.
+The R30 range was facelifted in August 1983 with various changes across the board; for example four-wheel disc brakes were now standard issue, instead of being optional for lower-spec models.
+Trim specifications were revised and the 4-cylinder Z18S engine was replaced with the newer CA18E.
+Features included upgraded interior trim, new front and rear bumpers, door-mounted wing mirrors (replacing the old 'hockey stick' fender mirrors), and smoked tail lights.
+During 1983 the "Paul Newman Version" R30 was released to commemorate the association between Nissan and the actor Paul Newman, who used to appear in promotional material, as well as race for the company during the late-1970s and early-1980s.
+The Newman Skyline was simply a top spec GT-ES turbo with signature embroidery and decals.
+========,3,RS.
+Although making about the same power as the L20ET-powered "GT-ES" models, the version of the Skyline initially known as the "2000RS" was released on October 2, 1981 as more of a stripped-down lightweight racer, without as many luxury extras included (quoted curb weight was only ).
+These were equipped with the naturally aspirated 4-valve-per-cylinder DOHC FJ20E engine generating of power at 6,000 rpm and of torque at 4,800 rpm.
+The official Nissan chassis designation for all FJ20-powered models was DR30.
+In February 1983 the DR30 range received a significant boost in performance with the introduction of the turbocharged FJ20ET engine in the "2000RS-Turbo".
+Front brakes were also significantly upgraded to cope with the power increase.
+Now with of power at 6,400 rpm (measured on a gross basis) and of torque at 4,800 rpm on tap, the FJ20ET enjoyed new-found prestige as the most powerful Japanese production engine of its era.
+Nissan sought to elevate the status of the DR30 Skyline as their new flagship model in light of this success, and it received a generous amount of changes to distinguish it from lesser Skyline models in August 1983.
+Interior equipment was significantly upgraded to now include electric windows, air conditioning and power steering as standard in the new "RS-X" model (for Extra) with an increased curb weight of around it also included a driver's seat with multi-way power lumbar adjustment, anti-skid control, fog lamps, rear deck spoiler and other features such as dimmable instrument cluster lighting; gone were the days of the spartan, stripped-out race interior, although this could still be specified at time of purchase.
+But by far the most striking change to the RS was the new unique front end treatment, nicknamed "Tekkamen" () or Iron Mask by fans for its distinctive look.
+The headlights were considerably slimmer, and instead of a conventional grille the bonnet now sloped down to two narrow slits above a facelifted front bumper and airdam.
+Further enhancements were made for 1984, most notably the addition of an air-to-air intercooler allowing the compression ratio to be increased from 8.0:1 to 8.5:1 with revised turbocharger exhaust housing to the FJ20ET powered model increasing output to of power at 6,400 rpm (gross) and of torque at 4400 rpm.
+The intercooled model was nicknamed the "Turbo C".
+The "Turbo C" formed the basis for the Super Silhouette race car built by GT-R Works and sponsored by Tomica and run in the All Japan Sports Prototype Championship under FIA Group C regulations.
+An automatic transmission option was also added 1984.
+Changes to the "PLASMA Spark" ignition system followed in early 1985 towards the end of R30 production.
+To this day the FJ20-powered R30 Skyline remains a cult car both at home and overseas (there are still dedicated "one make" drag racing events for this model in Japan), and is credited with rejuvenating the Skyline brand in the early 1980s.
+It also paved the way for the eventual re-introduction of the legendary GT-R badge, markedly absent since the end of C110 Skyline production in 1973.
+The DR30 achieved success in Australian touring car racing during the mid-1980s.
+The factory backed Peter Jackson Nissan Team made its Group A debut in the opening round of the 1986 Australian Touring Car Championship, and over the 10 round series, lead driver George Fury would win four of the rounds and it was only unreliability in the first two rounds that cost Fury the title, finishing only 5 points behind the Volvo 240T of Robbie Francevic.
+Fury then went on to finish second to the BMW of Jim Richards in the 1986 Australian Endurance Championship, winning four of the six rounds, though failures to finish in the opening round at Amaroo Park in Sydney, as well as a DNF at the James Hardie 1000 at Bathurst cost him the title.
+Team driver Garry Scott would put the DR30 on pole for the James Hardie 1000 before going on to finish third with young charger Glenn Seton.
+Despite missing out on the drivers title, Nissan would win the 1986 Australian Manufacturers' Championship from BMW.
+Fury finished off 1986 by finishing second to the V8 Holden Commodore of Allan Grice in the Group A support race for the Australian Grand Prix in Adelaide.
+Fury was joined in 1987 Australian Touring Car Championship by Glenn Seton.
+While Fury had a frustrating first half of the championship, Seton would battle it out with the BMW M3 of Richards for the title.
+The series came down to the last race at Sydney's Oran Park Raceway where Richards used the nimble M3 to defeat Seton and win his second ATCC in three years.
+With Fury finishing third in the championship, this saw Nissan sharing victory with BMW in the 1987 Australian Manufacturers' Championship.
+The final competitive race for the Peter Jackson Nissan DR30s came in the Group A support race for the 1987 Australian Grand Prix in Adelaide where Fury again finished second behind the Ford Sierra RS500 of Dick Johnson.
+The DR30 continued to be used by privateer racers in Australian touring car racing until 1989.
+Models: (Japan)
+***LIST***.
+========,2,R31.
+The R31 Skyline of 1986 was a natural evolution on the R30 shape, and also this one was loosely based on the Laurel platform (C32).
+The design was slightly larger and squarer than previous Skylines.
+It was available as a Sedan, Hardtop sedan, Coupé and station wagon.
+Affectionately known as the "Seventhsu" or simply "7th Sukairain" by owners, due to it being the 7th-generation Skyline.
+The R31 Skyline introduced many new technologies and features.
+The HR31 was the first Skyline to be equipped with the new RB-series of engines.
+The HR31 RB engines are often referred to as "Red Top" engines because of the red cam covers.
+There were three variants.
+The earliest series of DOHC, 24-valve, RB engines used the NICS (Nissan Induction Control System) injection system with 12 very small intake runners, and a butterfly system to divide the intake ports in half for better low RPM performance.
+Later versions used ECCS (Electronically Concentrated Control System) engine management, discarded the twelve tiny runners for six much larger ones (though the cylinder heads still retained twelve individual intake ports separated by casting), and received a slightly larger turbocharger.
+Nissan's "RD28", a 2.8 straight-six engine, featured for a diesel option.
+Another technological first for the R31 was the introduction of Nissan's proprietary 4-wheel steering system, dubbed HICAS (High Capacity Active Steering).
+The R31 series were also the only models in the Skyline family to feature a four-door hardtop variation.
+These models were generally badged as the "Passage GT".
+The R31 Skyline was also produced in Australia, with a 3.0 L motor (RB30E) available in sedan or wagon form, as well as a four-cylinder version called the Nissan Pintara.
+The wagon had the same front style as the coupe and sedan—the only difference being that it lacked the four round brake lights that had been a consistent element of Skyline design (except for the R31 series one/two which had rectangular taillights with a solid bar through the centre which was also shared by the Pintara).
+These cars were manufactured in Australia due to the heavy import laws which made it expensive to bring cars into Australia.
+29,305 R31 Skylines were also manufactured and sold in South Africa in four-door sedan form between 1987 and 1992.
+These were the last Skylines seen in South Africa.
+Power came from either the RB30E 3.0 straight-six engine, RB20E 2.0 straight-six, or the CA20S four-cylinder powerplant.
+========,3,GTS-R.
+The ultimate version of the R31 was the RB20DET-R powered HR31 GTS-R Coupe of which 823 units were built to allow homologation for Group A Touring Car racing.
+Introduced in late 1987, it had a reworked version of the normal RB20DET with a much larger turbocharger on a tubular steel exhaust manifold, as well as a much larger front-mounted intercooler boosting power to a factory claimed 210 ps (154 kW), with racing versions making over in Group A trim, though this was still at least less than the leading Group A car of the time, the Ford Sierra RS500 (which had approximately the same weight as the Nissan), and around less than the heavier (by around ) V8 Holden Commodore.
+Jim Richards and Mark Skaife drove a Gibson Motor Sport prepared Skyline GTS-R to win the 1989 Sandown 500 in Australia.
+Richards also used the GTS-R in 6 of the 8 races to win the 1990 Australian Touring Car Championship (he used the R32 GT-R in the final two rounds of the series).
+It was the first Australian Touring Car Championship victory for a Nissan driver after George Fury placed second in 1983 and 1986 and Glenn Seton gained second position in 1987.
+========,2,R32.
+The R32 Skyline debuted in May 1989.
+It was available as either a 2-door coupe or 4-door hardtop sedan, all other bodystyles were dropped.
+The R32 featured several versions of the RB-series straight-6 engines, which had improved heads (the twelve port inlet was gone) and used the ECCS (Electronically Concentrated Control System) injection system.
+Also available was an 1,800 cc 4-cylinder "GXi" model.
+Most models had HICAS four-wheel steering, with the rear wheels being hydraulically linked to the front steering.
+The 2.5-litre GTS-25 became one of the first Japanese production cars to feature a 5-speed automatic transmission.
+The GTS-t came in standard and Type M configurations, with the Type M having larger five-stud 16-inch wheels, four piston front callipers and twin piston rears plus other minor differences.
+ABS was optional (except for the GT-R and GTS-4), mechanical LSD was standard on the GTR and viscous LSD was standard on all turbo models and optional on all but the GXi.
+Nissan also produced 100 Australian models of the R32.
+In addition, there was a 4WD version of the GTS-t Type M, called the GTS-4.
+The station wagon bodystyle was discontinued, and replaced by the smaller, front-wheel drive Nissan Avenir (Primera).
+***LIST***.
+========,3,GT-R.
+The R32 GT-R was first produced in 1988 including prototype cars.
+The first six Nismos were built in 1989.
+The other 554 NISMO GT-Rs were all built in 1990 and were all Gunmetal Grey in color.
+The RB26DETT engine actually produced ~320 PS, but it was unstated due to the Japanese car makers' "gentlemen's agreement" not to exceed 280 PS (276 hp).
+The engine was designed for ~500 hp in racing trim, and then muzzled by the exhaust, boost restriction, and ECU.
+The electronic boost control had a small physical restriction in the control lines.
+It was marked in yellow so the new owner could remove it and enjoy a safe factory boost increase.
+After this increase the car would put out ~310 hp (~230 kW) and could do 0–100 km/h in 4.7 seconds and quarter mile in 12.8 seconds.
+The GT-R had a significantly larger intercooler, larger brakes, and aluminium front guards and bonnet.
+Other distinguishing features include flared front and rear wheel arches.
+More supportive seats were fitted, and the turbo boost gauge and digital clock were removed from inside the instrument cluster.
+The clock was replaced with a torque meter that indicated how much torque was being delivered to the front wheels (0%–50%).
+Oil temp, voltage, and turbo boost gauges were fitted just above the climate control.
+The Porsche 959 was Nissan's target when designing the GT-R.
+The chief engineer, Naganori Ito, intended to use the car for Group A racing, so the design specification was drawn up in conjunction with a copy of the Group A rules.
+The Nordschleife production car record at the time of development was 8'45" – set by a Porsche 944.
+Nissan test driver Hiroyoshi Katoh reset the record with a time of 8'20".
+Best Motoring managed 8'22"38.
+The R32 GT-R dominated Japanese Touring Car Championship (JTCC), winning 29 races from 29 starts, taking the series title every year from 1989 to 1993.
+It took 50 races from 50 starts from 1991 to 1997 (latterly R33) in the N1 Super Taikyu.
+The R32 GT-R was introduced into the Australian Touring Car Championship in 1990 and promptly ended the reign of the previously all-conquering Ford Sierra Cosworth, winning Bathurst 1000 classic in 1991 and 1992.
+This success led to the Australian motoring press nicknaming the car Godzilla due to it being a "monster from Japan".
+As Australia was the first export market for the car the name quickly spread.
+Such was the GT-R's dominance that it was a significant factor in the demise of Group A Touring Car racing, the formula being scrapped soon after.
+JTCC was similarly blighted by the R32 GT-R, and splintered soon after, leading to the switch to the Supertouring category and also indirectly to the GT500 category of today.
+When originally designed, the homologation rulebook mandated 16-inch wheels, so that's what the GT-R got.
+This limited the size of the brakes, and the four-piston calipers used by Nissan were not competitive.
+After the rules changed to allow 17-inch wheels, the GT-R V-spec (for Victory) emerged in February 1993 wearing 17" BBS mesh wheels (225/50/17) covering larger Brembo calipers.
+The clutch actuation changed from a push to a pull system and the car had a standard mechanical rear differential (the electronic rear differential did not show up until the R33 V-Spec).
+A year later, the V-Spec II appeared with a new sticker and wider tires (245/45 17).
+The Nismo Skyline GT-R is a limited (500 street, 60 racing) version of Nissan Skyline with Nissan RB engine with twin ceramic turbochargers rated at 6,800 rpm and at 4,400 rpm, all-wheel steering, electronically controlled four-wheel drive.
+As of August 2014, the R32 Skyline GT-R is eligible for US import under the NHTSA "25 year" rule, that allows vehicles that are 25 years old (to the month) or older to be imported.
+These vehicles, due to their age do not have to comply with federal emissions or with Federal motor vehicle safety standards.
+========,2,R33.
+The R33 Skyline was introduced in August 1993.
+Slightly heavier than the R32, it is available in coupe and sedan bodystyles.
+The R33 was the safest of the models with a rating of 3.8 out of 5.
+5 way airbag system and internal crash bars made this vehicle significantly safer than previous models.
+All models now used a 6-cylinder engine.
+Nissan took the unusual step of down-grading the GTS model to have only the "RB20E", while the twin-cam of the R32 GTS was discontinued along with the 2.0 L turbo "RB20DET".
+Some models came equipped with a new version of the HICAS 4-wheel steering system called Super HICAS.
+This computer controlled system was first used on the R32 GT-R. Super HICAS used electric actuators to steer the rear, as opposed to the hydraulic HICAS.
+This generation was no longer considered a "compact" under Japanese legislation that determined the amount of tax liability based on exterior dimensions.
+As an option, an active limited slip differential was available instead of the standard viscous LSD.
+This new unit locked the rear differential if it detected that traction was lost by one of the wheels.
+A light on the dash also lit up if the LSD engaged.
+Active LSD came standard on all V-Spec R33 GT-R Skylines and was also available on some ECR33 GTS-25t models; these can be identified by the A-LSD and SLIP lights on the tachometer.
+The "RB25DE" and "RB25DET" engines also became equipped with NVCS (variable inlet cam phasing).
+NVCS equipped RBs have a bulge on the front of the cam cover.
+To celebrate their 40th anniversary, Nissan introduced a very rare 4-door GT-R. Two versions of the 4-door GT-R were available from Nissan's subsidiaries: the first was produced by Autech, and the second was a joint Autech/Nismo project.
+A Nissan Laurel C34 based wagon was released in September 1996, called the Stagea.
+It is widely regarded as a compatriot of the Skyline, rather than the Laurel it was based on, owing to drivetrain configurations—Commonly AWD using ATTESA ET-S. A common modification on the Stagea is to fit it with an R34 skyline front, in effect making an R34-lookalike wagon.
+A manual transmission was only available on the RS-Four and RS-Four V models.
+There was also an Autech tuned Stagea, the 260RS; released with full GT-R running gear, including an RB26DETT engine and manual transmission, a unique body kit, 17" BBS style alloys, and GT-R instrumentation.
+***LIST***.
+========,3,1996.
+The R33 Skyline (Spec 2) continued the concepts introduced in the R32.
+Driver and Passenger airbags became standard in 1996.
+As a result, pre-1996 models are barred from being imported into various countries for consumer road use as they do not meet the frontal impact standards.
+(However, in the U.S., there are Federal Laws regarding safety and emissions that require certain documents to be obtained, certain criteria to be met and adhered to, or 25 years to pass, before the sale of this vehicle becomes legal.)
+For the RB25DET engine the ignition system was also changed, with the ignition module no longer located on the cam covers and was instead replaced by smart ignition coils (Ignitor built into coil) and ECU.
+The RB25DET's turbo was also given a nylon compressor wheel to improve response.
+Throughout the time the R33 was produced there were quite a number of different styled lights and bodykits fitted, the actual body/chassis underwent no changes.
+Among the cosmetic changes in the spec 2 were, the headlights which tapered down more towards the grill and were fitted with improved reflectors, the grill (which was longer on the Spec 1), the bonnet which had a re-shaped leading edge to fit the new lights and front bumper changing shape in the smallest amount to match the lower edge of the new headlights.
+Later models of the Spec 2 also had the option of having an Active-LSD fitted.
+The R33 ceased production in February 1998 with the 40th Anniversary R33.
+========,3,GT-R.
+The previous R32 model was a well proven build but the R32 wasn't without faults and suffered with uplift and balance issues.
+Along with that Nissan was as other Japanese companies were under strict restrictions on power gains.
+So Nissan had to combat all these areas so the sophisticated strength Programme was made.Nissan increased the width by about 1 inch on the R33 to the R32 and made it about 4 inches longer.
+This allowed a longer wheelbase and overall gave the R33 and better and lower stance mixed with new technology now from the computer aerodynamic age each line on the R33 was to give the car ultimate aerodynamics and with wider gaps in the bumper and angles of air movement it gave the car better cooling.
+We saw the fuel tank lifted also and the battery moved to the boot/trunk.New rigidity points were added mixed with improvements on the attessa and hicas all now offered the R33 the best aerodynamics and balance and handling.
+Nissan engineers also found other ways to reduce weight, even by a few grams.
+This includes:
+Hollowing out the side door beams.
+Using high tensile steel on body panels.
+Reduction in sound deadening materials.
+Super HICAS becoming electric.
+Hollowing out of rear stabilizer bar.
+Use of high tensile springs front and rear.
+Shrinking the ABS actuator.
+Light aluminum wheels with higher rigidity
+The front and rear axles were made of aluminum (as in the BNR32) but also so were engine mount insulators and brackets
+New plastics were used for : fuel tank, head lamps, super high strength "PP" bumpers, air cleaner, changing the headlining material, changing material of rear spoiler.
+All this put together meant we saw an improved time against the R32 of 21 seconds faster around the nurburgring and 23 seconds faster in V spec trim.
+Still making the R33 the fastest skyline around the nurburgring.
+The BCNR33 GT-R version also had the same "RB26DETT" engine that the BNR32 was equipped with, although torque had been improved, due to changes in the turbo compressor aerodynamics, turbo dump pipe, and intercooler.
+The turbo core changed from a sleeve bearing to a ball bearing, but the turbine itself remained ceramic, except on N1 turbos (steel turbine, sleeve bearing).
+From the R33 onward, all GT-Rs received Brembo brakes.
+In 1995 the GT-R received an improved version of the RB26DETT, the ATTESA-ETS four-wheel-drive system, and Super HICAS 4-wheel steering.
+A limited edition model was created in 1996, called the NISMO 400R, that produced 400 hp (298 kW) from a road-tuned version of Nissan's Le Mans engine.
+A stronger six-speed Getrag gearbox was used.
+An R33 GT-R driven by Dirk Schoysman lapped the Nordschleife in less than 8 minutes.
+Though it was often said to be the first production car to break 8 minutes, the limited run Jaguar XJ220 had already achieved a 7'46" lap.
+Other manufacturers had caught up since the R32 was released, and the R33 never dominated motorsport to the extent of the R32.Also Nissan no longer took part in races outside of Japan a lot of that was down to the victories of the R32 but those victories caused rule changes and stop further Skyline generations taking part.The R33 saw victory in the JGTC GT500 dominating the class and taking victory each year until its final racing year in which it was finally beaten by the Mclaren F1 GTR.
+The R33 saw huge favour in the tuning World with it being a popular model on the wangan and top tuning companies building heavily tuned version from Topsecret ran by Smokey Nagata to Jun etc and later by companies like Sumo.
+Hks GTR would hold a drag series record for several years in there drag series making a record win of 7.671-second pass at Sendai Hi-Land Raceway with Tetsuya Kawasaki behind the wheel and taking it to be the World's fastest awd car.
+***LIST***.
+========,2,R34.
+In May 1998, the HR34, ER34, ENR34, and BNR34 marked the introduction of the more fuel-efficient and environmentally friendly RB25DET NEO engine.
+The RB20E engine was discontinued in the R34 base model (GT), and the RB20DE, after last being used in the R32 Skyline, was reintroduced in updated NEO guise.
+The R34 GT powered by the RB20DE NEO, coupled with a five-speed gearbox, became the most fuel-efficient straight-six Skyline to date (of any shape). "
+The 4-speed automatic transmission available on some models in the previous two shapes were discontinued.
+In its place, Nissan produced a 5-speed manumatic tiptronic transmission for all of the automatic versions (except the 2L models, which featured a 4-speed automatic gearbox).
+The 25GT-T coupe variant (often abbreviated as GT-T) was sold in Singapore, New Zealand and Hong Kong from 1998 to 2000 respectively.
+They were the only three countries besides Japan that sold the R34 25GT-T model Skylines new.
+All Japanese "Nissan Prince Store" locations that sold the Skyline were renamed "Nissan Red Stage".
+Nissan introduced two new models for the base vehicle, the 25GT-X and the 25GT-V.
+The 25GT-X was only available as a sedan and had optional extras over the 25GT and 25GT-T such as tinted rear windows and pop-up LCD display that replaced the triple cluster on the turbo models.
+The 25GT-V was a naturally-aspirated variation that came standard with the upgraded 4-piston front and 2-piston rear Sumitomo calipers and 17" wheels only found on the turbo models.
+In August of 2000, the R34 received a facelift which changed the front bumper to a new, sleek design and Xenon headlights were optional across the entire range.
+For the interior, pedals were changed from rubber to aluminium and the steering wheel and gear shift knob were now made of genuine leather.
+The center console and dials now had an iridium-silver appearance.
+Optional extras for the R34 included exterior aero which consists of redesigned front and rear bumpers, side skirts and a wrap-around spoiler on the rear which was only available for the coupe.
+Optional tuning Nismo parts for the R34 included shock absorbers, exhaust system, intercooler, sway bars, oil cooler, and limited slip differential.
+***LIST***.
+========,3,GT-R.
+The GT-R reappeared in 1999, with a revised chassis and other updates.
+The R34 turbos received a ball bearing core.
+The R34 N1 turbos had a metal exhaust wheel, and ball bearing center section.
+The turbo outlet pipes were changed from cast to formed metal outlets.
+The intercooler outlet side and rear turbo dump pipe had temperature probes fitted in the V-spec models.
+The biggest feature and most significant feature to the R34 GT-R that wasn't seen on any other model skyline was the display unit at the top of the dashboard.
+This display unit was very significant for the car at its time.
+This display showed many of the cars engine stats including boost pressure, oil temp, water temp and more.
+As a 1999 car this kind of technology was very rare and advanced at the time.
+The display was capable of showing the G-force that the car was under when driving and there was also a lap timer that could be started by a button that was located near the gear lever.
+There was a computer jack lead hidden underneath the left passenger side skirt that could be used to transfer driving data from the car to a laptop.
+This could only be done with a Japanese version of Windows and Japanese software, which today is very hard to come by.
+Other features such as the battery being located under the back seat of the car made more room available in the engine bay.
+Models: (all ATTESA E-TS Pro AWD)
+***LIST***.
+========,3,Skyline GT-R M·spec (2001–02).
+The M·spec is a version of Nissan Skyline GT-R with ripple control shock absorbers, M·spec-specific leather seat (front/rear seat, with front seat heater), 3-spoke leather wrapped steering wheel, and choice of four body colours (including Silica Breath (RPM/multi flex colour)).
+The vehicle went on sale on May 8, 2001.
+========,3,Skyline GT-R M·spec Nür, V·spec II Nür (2002).
+The M·spec Nür and V·spec II Nür are limited (1000 units) versions of Nissan Skyline GT-R with Super Taikyu N1 spec engine, for Japanese market.
+It included 300 km/h speedometer, 3d grade name emblem, and addition body colour option (millennium jade (metallic)).
+The vehicles went on sale on February 26, 2002.
+========,3,Production.
+The production of Skyline GT-R type R34 ended in August 2002.
+Since the beginning of Skyline GT-R M·spec Nur and V·spec II Nür sales, 25% of vehicles sold were M・spec Nur, 75 of vehicles sold were V·spec II Nür.
+Millennium Jade, White Pearl, and White body colors have been used on 28%, 22%, 16% of M·spec Nür and V·spec II Nür vehicles respectively.
+========,2,V35/CPV35.
+The 11th-generation (V35) Nissan Skyline, introduced in June 2001, was based on Nissan's FM platform, shared with the Nissan 350Z.
+The Nissan Skyline used a front-midship engine (VQ35DE and others as below), rear-wheel-drive layout (four-wheel drive was available for the sedan) to achieve a 52%/48% weight distribution.
+The V35 was the first Skyline made for export to the United States.
+There it was sold under the company's luxury brand, Infiniti as the Infiniti G35.
+The all-new Skyline was introduced at reorganized Nissan Japanese dealerships called "Nissan Red Stage" in conjunction with the reintroduced Nissan Fairlady Z, sold exclusively at "Nissan Blue Stage" Japanese dealerships.
+The vehicle went on sale on June 18, 2001.
+Early models included the 250GT, 250GTe, and 300GT.
+Early Skyline Driving Helper model includes 250GT.
+The Skyline 250GT FOUR sedan includes ATTESSA E-TS all wheel drive with 50:50 synchro mode, VQ25DD (NEO Di) engine, and a five-speed automatic transmission.
+It went on sale on September 26, 2001.
+The Skyline 250GTm sedan went on sale on January 13, 2002, while the Skyline 350GT-8 sedan went on sale on February 19, 2002.
+Beginning in 2002, the Skyline sedan was also sold in North America, where it was marketed as the Infiniti G35.
+The V35 broke with previous Skyline tradition.
+There was no straight-six engine, no turbo, and no GT-R, a decision which extended to all later Skylines.
+The intention had been for the model to use a different name, a decision reversed by Renault/Nissan CEO Carlos Ghosn.
+who choose to gear the V35 towards the luxury-sport market.
+Billing the 350Z as a pure sports car, Nissan put a slightly more powerful VQ35DE in the 350Z, and while the Skyline and the 350Z shared the same platform, the 350Z had additional bracing, under-body aero parts, and weighed 100 kg less.
+Some fans refer to V35 as the "New Generation Skyline" due to drastic changes between the V35 series and its R34 predecessor.
+Nonetheless, as of 1 July 2001 (two weeks after launch), total domestic Japanese Skyline orders had reached 4200 units.
+Japanese tuners mostly ignored the V35 Skyline, the 2006 Tsukuba Super Lap Battle had not a single V35 entrant.
+Tuners such as Mines, Amuse, Hosaka, Garage Defend, M Speed, Nagisa, MCR, HKS, & Top Secret continued developing R32-R34 GT-Rs as time attack cars.
+Top Secret did tune a V35, but replaced the VQ35DE with a VK45DE V8 Twin Turbo.
+Signal USA entered a V35 in Formula D, replacing the VQ35DE with an SR20DET.
+***LIST***.
+========,3,XVL concept (1999).
+It is a concept car demonstrating the FR L-class platform.
+It includes a 3.0L V6 direct-injection gasoline engine, CVT transmission, sedan body.
+The vehicle was unveiled in 1999 Tokyo Auto Show.
+========,3,Changes.
+For 2003 the design of the radiator grille, headlamp inner panels, and sills were altered.
+The interior and mirrors were altered, while the suspension and braking systems were also refined.
+The Skyline Coupe was introduced as a version of Infiniti G35 Sport Coupe for Japanese market.
+Also, the Skyline 350GT went on sale.
+It is a version of the Infiniti G35 sport sedan with a six-speed manual transmission for the Japanese market, only available with the 3.5 litre engine.
+The Skyline 350GT and Skyline 350GT Premium sedan went on sale on 2003-06-03.
+For 2004 both coupe and sedans were altered, with updated interiors and improved transmissions.
+The five-speed automatic transmission on the 350GT Premium now included synchro rev control, while the 6-speed manual transmission was made to vibrate less.
+For the sedan, the front grill/bumper, foot panel, head lamp, rear bumper, and rear combination lamps were changed.
+The front seats received active head rest, while the rear middle seat now have a three-point seat belt as standard.
+There were also some new wheels and a 19-inch option for the coupé.
+The Skyline's 2005 update again included changes to the head and rear lamps, front bumper, and side sill protectors.
+Also, 19-inch aluminium alloy wheel became standard for automatic transmission cars.
+A "plasma cluster ion" full air conditioner with left/right independent temperature settings, heated door mirrors, head lamp auto levelizer (compliant with new legislation) was made standard equipment.
+========,2,V36/CV36/J50.
+========,3,Initial release.
+The Skyline Sedan went on sale on November 11, 2006, with an update to the Skyline Coupe beginning in fall 2007.
+Early models included the 250GT, 250GT FOUR, and 350GT.
+It was first available only as a 4-door sedan in Japan and was also sold in the USA as the 2007 Infiniti G35.
+On May 13, 2008, Nissan announced that a convertible variant of the Infiniti G37 (US Spec Skyline coupe) would be produced for the 2009 model year.
+The convertible is not available in Japan.
+========,4,Skyline 370GT Coupe (DBA-CKV36, 2007—2014 ).
+Introduced in 2007 for the 2008 model year, it is a Japanese version of the Infiniti G37 coupe.
+Eighteen-inch wheels are used on the base and 370GT Type P cars, while Type S and Type SP cars include 19-inch wheels.
+The Skyline Coupe went on sale on 2007-10-02.
+Early models include 370GT, 370GT Type P, 370GT Type S and 370GT Type SP.
+========,4,250GT sedan (DBA-V36, DBA-NV36).
+The 250GT sedan is a Japanese version of the Infiniti G25 sedan.
+Four-wheel drive is standard on 250GT FOUR models (NV36, where N stands for 4WD).
+The 250GT Type S was introduced for 2008 model year.
+Seventeen-inch wheels are standard for all model ranges, except for the 250GT Type S, which has 18-inch wheels.
+========,4,350GT sedan.
+The 350GT sedan is a Japanese version of the Infiniti G35 sedan.
+Four-wheel active steering is available in Type S and Type SP as option.
+========,4,50th Limited (2007–08).
+The 50th Limited is an option for Skyline Sedan models 250GT Type P, 350GT Type P, 350GT Type SP, and 250GT FOUR Type P, commemorating the 50th anniversary of Nissan Skyline.
+The interior is marked with anniversary red leather seats, and serial-numbered front glass.
+The vehicle was unveiled in 2007 Tokyo Motor Show.
+The 50th Limited models, along with 250GT Type S, went on sale from November 27, 2007 until March 31, 2008.
+========,4,Skyline Coupe Aero-Sports Concept, Skyline Aero Package Concept (2008).
+Skyline Aero Package Concept is a version of Skyline Sedan 350GT Type SP with dynamic front and rear spoilers, re-designed sporty front grill and chromed alloy wheels.
+Skyline Coupe Aero-Sports Concept is a version of Skyline Coupe 370GT Type SP with new exterior and interior looks with new aero parts and seat materials.
+The vehicles were unveiled in 2008 Tokyo Auto Salon, followed by 2008 Nissan Customize Car Show.
+========,4,Production.
+As of November 28, 2006, sales of the Nissan Skyline sedan reached 4144 units.
+As of December 18, 2006, sales of the Nissan Skyline sedan reached 6612 units.
+As of October 16, 2007, sales of the Nissan Skyline coupe reached 1562 units.
+========,4,Marketing.
+As part of the Nissan Skyline's 50th anniversary, information on Nissan Skyline could be found in the PlayStation 3 version of the "Gran Turismo" video game.
+As part of the Nissan Skyline's launch event, a Touch&Feel - New SKYLINE event began in Nissan Gallery.
+As part of the Nissan Skyline's 50th anniversary, a Grand Touring Japan event took place starting on March 10, 2007.
+Following the event, the Grand Touring ~ Legend&Future event was staged at Tokyo Midtown, showcasing 12 generations of the Nissan Skyline.
+The event continued in Nissan Gallery at Ginza with a chance of winning a Skyline postcard.
+As part of the Nissan Skyline's 50th anniversary, Warner Music Japan published "Skyline 50th Anniversary CD", featuring music from Nissan Skyline commercials.
+Skyline model cars had also been produced.
+As part of the Nissan Skyline Coupe launch, a series of 15 accessories under the SKYLINE collection label, including wallet, card case, key ring (leather, engine cover, and 370GT), intelligent key case, Zippo lighter, Skyline Coupe T-shirt (grey), SKYLINE COUPE pins (in vibrant red, brilliant silver, strafia blue, white pearl, super black, fountain blue, and lunar mare silver) went on sale at Nissan online shop beginning October 2007.
+========,3,2008 update.
+Sedan changes include:
+***LIST***.
+Coupe changes include:
+***LIST***.
+The vehicles went on sale on December 2, 2008.
+Early Sedan models include the 250GT, 250GT FOUR, and 370GT.
+Early Coupe models include the 370GT.
+========,4,370GT sedan (DBA-KV36).
+Introduced in 2008 for the 2009 model year, the 370GT sedan is a Japanese version of the Infiniti G37 sedan.
+It replaced the 350GT sedan.
+Eighteen-inch wheels are standard for all model ranges, except for the 370GT Type P, which has 17-inch wheels.
+========,4,Skyline Crossover (DBA-J50, DBA-NJ50).
+Introduced in 2009, the Skyline Crossover is based on the Infiniti EX37, for Japan market.
+The vehicle was unveiled at Nissan Galleries nationwide beginning on April 18, 2009, and later with all seven body colour variants at Nissan Galleries.
+Sales of the Skyline Crossover began on July 13, 2009.
+Early models include the 370GT (Type P) and 370GT FOUR (Type P).
+Four-wheel drive is standard on 370GT FOUR models.
+18-inch wheels are standard for all model ranges.
+========,3,2010 update.
+========,4,Skyline Sedan, Coupe (2010-).
+Changes include:
+***LIST***.
+The revised Skyline Sedan and Coupe went on sale on January 6, 2010.
+========,4,Skyline Coupe, Crossover (2010–).
+Coupe changes include:
+***LIST***.
+Crossover changes include:
+***LIST***.
+The revised Skyline Sedan and Crossover went on sale on November 15, 2010.
+========,4,Skyline 55th Limited Edition (2011–2013).
+The sedan version of 55th Limited is a limited (555 units) edition of Skyline sedan, commemorating 55th anniversary of Nissan Skyline.
+Changes include anniversary edition red leather seats with front seat heater, 55th anniversary embroidering at front seats, black interior and garnet black (pearl) exterior.
+Sedan version, covering the 250GT Type P, 250GT FOUR Type P, and 370GT Type SP, went on sale between December 19, 2011 and April 30, 2013 for ¥3,990,000, ¥4,221,000, and ¥4,515,000, respectively.
+The Coupe version is a limited (55 units) edition of Skyline 370GT coupe, commemorating 55th anniversary of Nissan Skyline.
+Changes are the same as the 55th Limited Edition Skyline Sedan.
+Covering 370GT Type P and 370GT Type SP, the Coupe version went on sale between February 10, 2012 and April 30, 2013.
+A customized version of Skyline Sedan (with high intensity LEDs and S-tune items, wide, low-center-of-gravity optional parts) was unveiled in 2012 Tokyo Auto Salon.
+========,4,Skyline Crossover (2012–).
+Changes include: intelligent cruise control, lane departure prevention, lane departure warning, forward collision warning, front seat emergency brake sensing pre-crash seat belt, intelligent brake assist, steering wheel switches (audio navigation, voice command, hands-free phone, intelligent cruise control, lane departure prevention) become standard equipment.
+The revised Skyline Crossover, covering 370GT (Type P) and 370GT FOUR (Type P), went on sale on October 25, 2012.
+========,4,Marketing.
+Nissan Motor Co., Ltd. and Minami Kanto Regional Office, Japan Post Network Co., Ltd. announced the sales of original frame stamps titled History of Cars "Nissan (Skyline)" (5000 units) and History of Cars "Nissan (Electric Vehicles)" (1000 units).
+The designs of these original frame stamps are based on Nissan's successive Skylines and electric vehicles.
+The frame stamps went on sale from February 1 to August 31, 2010.
+King Records published Nissan Skyline CM collection, featuring a compilation of Nissan Skyline commercials.
+As part of 55th anniversary of Nissan Skyline, a draw of 500 "Skyline meets Eizin Suzuki 2013" calendars were distributed in December 2012.
+========,3,2014 update.
+========,4,Skyline Crossover (2014-2016).
+Changes include standard electric glass sunroof and roof rail as standard equipment, eliminated body colour choice franboise red (2-coat pearl) for total of 4 colours.
+Japan models went on sale in 2014-07-22.
+Early models included 370GT, 370GT Type P, 370GT FOUR Type P, 370GT FOUR.
+========,2,HV37/HNV37/YV37/ZV37.
+========,3,Skyline sedan (2014-).
+The design was of the Infiniti Q50 sedan, with Infiniti logo emblem at front grille.
+Other major changes were the debut of the electric-petrol hybrid powertrain in the range and the revival of the turbocharged models.
+Japan models were set to go on sale in February 2014.
+Early models include 350GT HYBRID, 350GT HYBRID Type P, 350GT HYBRID Type SP, 350GT FOUR HYBRID, 350GT FOUR HYBRID Type P, 350GT FOUR HYBRID Type SP.
+200GT-t, 200GT-t Type P, 200GT-t Type SP went on sale on June 5, 2014 through Nissan dealers.
+========,3,Skyline Cool Exclusive (2015-).
+Based on Skyline sedan models 200GT-t Type P, 200GT-t Type SP, 350GT HYBRID Type P, 350GT HYBRID Type SP, 350GT FOUR HYBRID Type P, and 350GT FOUR HYBRID Type SP, it included Stone White high contrast interior (Stone White leather seats, Cool Exclusive door trim in high contrast colour, Cool Exclusive console lid in Stone White), aluminium finisher, Midnight Black grille, BOSE audio system.
+Japan models went on sale in 2015-12-21.
+========,3,Skyline 60th Limited (2016-).
+It is a version of Skyline sedan commemorating 60th anniversary of Nissan Skyline.
+Available for models 200GT-t Type SP, 350GT HYBRID Type SP, 350GT FOUR HYBRID Type SP, it included semi-aniline leather upholstery in all seats, optional BOSE Performance Series sound system (new tweeters at rear doors, 16 speakers, new front door tweeter), aurora flare blue pearl (2-coat pearl) body colour option for total 9 colour choices.
+Japan models went on sale in 2016-11-07.
+========,3,Production.
+Skyline sedan was built in Tochigi Plant (Kaminokawa-machi, Kawachi-gun, Tochigi prefecture).
+The turbo engine and automatic transmission used by Skyline 200GT-t sedan were built by Daimler.
+11,673 Skyline sedans were recalled due to faulty direct adaptive steering program leading to steering wheel fail to return to neutral position, which can be triggered by steering a parked vehicle when starting engine.
+========,3,Marketing.
+The Skyline sedan was targeted towards males over the age of 40.
+Also, the Nissan branding was not used on this generation Skyline, therefore, it is neither referred to as a Nissan or an Infiniti, but simply "Skyline."
+In 2015-08-06, Japan Post released a personalized stamp set based on Nissan Skyline 2000GT-R (Type KPGC10), including 10 stamps and a model car for the featured vehicle.
+In 2016-03-01, Japan Post released a personalized stamp set based on Nissan Skyline 2000GT-R (Type KPGC110), including 10 stamps and a model car for the featured vehicle.

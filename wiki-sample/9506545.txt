@@ -1,0 +1,27 @@
+========,1,preface.
+JGroups is a library for reliable one-to-one or one-to-many communication written in the Java language.
+It can be used to create groups of processes whose members send messages to each other.
+JGroups enables developers to create reliable multipoint (multicast) applications where reliability is a deployment issue.
+JGroups also relieves the application developer from implementing this logic themselves.
+This saves significant development time and allows for the application to be deployed in different environments without having to change code.
+========,2,Code sample.
+This code below shows how a simple chat application could be written using JGroups:
+In start(), a JChannel is created from an XML configuration (e.g.
+udp.xml).
+The channel is the endpoint for joining a cluster.
+Next, the Receiver is set, which means that 2 callbacks are going to be invoked:
+***LIST***.
+Then, the channel joins cluster "ChatCluster".
+From now, messages can be sent and received, plus a new view (including this member) will be installed in all cluster members (including the newly joined member).
+Anything typed in the main loop results in the creation of a Message that's sent to all cluster members, including the sender.
+Instances of the chat application can be run in the same process, on the same box, on different hosts in the local network, on hosts in different networks, or in the cloud.
+The code remains the same; the only thing that needs to be changed is the configuration.
+For example, in a local network, IP multicasting might be used.
+When IP multicasting is disabled, TCP can be used as transport.
+When run in the cloud, TCP plus a cloud discovery protocol would be used and so on...
+========,2,Flexible Protocol Stack.
+The most powerful feature of JGroups is its flexible protocol stack, which allows developers to adapt it to exactly match their application requirements and network characteristics.
+The benefit of this is that you only pay for what you use.
+By mixing and matching protocols, various differing application requirements can be satisfied.
+JGroups comes with a number of protocols (but anyone can write their own), for example 
+***LIST***.
