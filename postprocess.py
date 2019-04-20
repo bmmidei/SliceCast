@@ -3,7 +3,8 @@ import numpy as np
 import re
 import objectpath
 import json
-from gensim.summarization import summarize, keywords
+import pke
+
 
 def getSummaries(doc, labels):
     summaries = np.empty(shape=labels.count(1), dtype=(str, []))
@@ -12,14 +13,20 @@ def getSummaries(doc, labels):
     k = 0
     for i, sent in enumerate(doc):
         if labels[i] and segment != '':
-            summaries[k] = (summarize(segment, ratio=1/numSent), keywords(segment, words = 3, lemmatize=True, split=True))
+            extractor = pke.unsupervised.TopicRank(input=segment, language='en')
+            extractor.candidate_selection()
+            extractor.candidate_weighting()
+            summaries[k] = extractor.get_n_best(n=1)
             k = k+1
             segment = sent
             numSent = 1
         else:
             segment = segment + " " + sent
             numSent = numSent + 1
-    summaries[k] = (summarize(segment, ratio=1/numSent), keywords(segment, words = 3, lemmatize=True, split=True))
+    extractor = pke.unsupervised.TopicRank(input=segment, language='en')
+    extractor.candidate_selection()
+    extractor.candidate_weighting()
+    summaries[k] = extractor.get_n_best(n=1)
     return summaries
 
 def getTimeStamps(doc, pathJSON, labels):
