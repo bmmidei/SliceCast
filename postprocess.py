@@ -1,5 +1,27 @@
 import numpy as np
 import h5py
+from netUtils import getTestSet
+import keras
+
+class pkHistory(keras.callbacks.Callback):
+    def __init__(self, test_file, num_samples, k=10):
+        self.test_file = test_file
+        self.num_samples = num_samples
+        self.k = k
+        
+    def on_train_begin(self, logs={}):
+        self.pk = []
+ 
+    def on_train_end(self, logs={}):
+        return self.pk
+ 
+    def on_epoch_end(self, epoch, logs={}):
+        X_test, y_test = getTestSet(self.test_file, self.num_samples)
+        preds = self.model.predict(X_test)
+        score = pkmetric(y_test, preds, k=self.k)
+        self.pk.append(score)
+        print('PK Score for epoch {} is {:0.4f}'.format(epoch+1, score))
+        
 
 def pkmetric(ytrue, ypred, k=10):
     """Calculate the pk score for a minibatch.
@@ -55,4 +77,4 @@ def pkscore(labels, preds, k=10):
         # Check for agreement between labels and preds
         if (label_diff and pred_diff) or (not label_diff and not pred_diff):
             correct += 1
-    return correct/(num_windows)
+    return 1-(correct/(num_windows))
