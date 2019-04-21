@@ -9,7 +9,7 @@ import numpy as np
 
 class Pipeline(object):
 
-    def __init__(self, dataPath, ex_per_batch, ex_per_file, wiki=True):
+    def __init__(self, dataPath, ex_per_batch, ex_per_file, min_segs=3, wiki=True):
         self.wiki = wiki # We preprocess slightly differently based on wiki or podcast
         self.mainPath = Path(dataPath)
         if wiki:
@@ -20,7 +20,7 @@ class Pipeline(object):
         self.ex_per_batch = ex_per_batch
         self.ex_per_file = ex_per_file
         self.nlp = createSpacyPipe()
-
+        self.min_segs = min_segs
         print('\nUsing spacy pipeline components:')
         for name, proc in self.nlp.pipeline:
             print(name, proc)
@@ -28,7 +28,7 @@ class Pipeline(object):
     def processDirectory(self, dataPath, max_examples=None):
         # Get the file paths for every txt file in the directory
         self.getFilePaths(dataPath)
-        self.hdf5Path = Path(dataPath).joinpath('hdf5')
+        self.hdf5Path = Path(dataPath).joinpath('hdf5_noIntro')
 
         print('There are {} documents in this directory'.format(self.num_examples))
 
@@ -38,8 +38,9 @@ class Pipeline(object):
 
         # Determine number of batches to process
         self.num_batches = math.ceil(self.num_examples/self.ex_per_batch)
+        print('There are {} batches'.format(self.num_batches))
 
-        # Process files in batches to reduce memory impact
+        #Process files in batches to reduce memory impact
         for batchIdx in range(self.num_batches):
             # Initialize docs at beginning of each batch
             docs = []
@@ -51,10 +52,11 @@ class Pipeline(object):
             else:
                 stopIdx = startIdx + self.ex_per_batch
             # Run spacy nlp on each document
+            print(len(self.files))
             for file in self.files[startIdx:stopIdx]:
                 try:
                     doc = self.nlp(file.read_text(encoding='utf-8'))
-                    if len(doc.user_data['labels']) > 0:
+                    if len(doc.user_data['labels']) > 0 and sum(doc.user_data['labels'])>=self.min_segs:
                         docs.append(doc)
                 except Exception as e:
                     print(file)
