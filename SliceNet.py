@@ -8,7 +8,8 @@ print(tf.__version__)
 
 import tensorflow_hub as hub
 import numpy as np 
-from netUtils import batchGen, getTestSet
+from netUtils import batchGen, getTestSet, customCatLoss
+from postprocess import pkHistory
 
 from keras.layers import Layer, Dense, Input, Lambda, Dropout,\
     Bidirectional, LSTM, Activation, TimeDistributed, Concatenate
@@ -22,31 +23,7 @@ import matplotlib.pyplot as plt
 
 print('importing hub')
 url = "https://tfhub.dev/google/universal-sentence-encoder-large/3"
-embed = hub.Module(url)
-
-
-# Credit: https://github.com/keras-team/keras/issues/3653
-def customCatLoss(onehot_labels, logits):
-    """Custom categorical loss function incorporating class weights
-    Args:
-        onehot_labels: onehot encoded labels - shape = [batch x doclength x numclasses]
-        logits: logits from predictions from network
-    Yields:
-        loss: average loss for the mini-batch
-    """
-    class_weights = [1.0, 10.0, 0.2]
-    # computer weights based on onehot labels
-    weights = tf.reduce_sum(class_weights * onehot_labels, axis=-1)
-
-    # compute (unweighted) softmax cross entropy loss
-    unweighted_losses = tf.nn.softmax_cross_entropy_with_logits_v2(labels=onehot_labels, logits=logits)
-
-    # apply the weights, relying on broadcasting of the multiplication
-    weighted_losses = unweighted_losses * weights
-
-    # average to get final loss
-    loss = tf.reduce_mean(weighted_losses)
-    return loss
+embed = hub.Module(url, trainable=True)
 
 class SliceNet():
     def __init__(self, classification=True, pretrain=False, weights_path=None):
@@ -85,8 +62,6 @@ class SliceNet():
         output = TimeDistributed(Dense(256, activation='relu'))(output)
         output = Dropout(0.2)(output)
         output = TimeDistributed(Dense(64, activation='relu'))(output)
-        output = Dropout(0.2)(output)
-        
         # Final output is different for classification and regression models
         if self.classification:
             preds = TimeDistributed(Dense(3, activation='softmax'))(output)
@@ -103,7 +78,7 @@ class SliceNet():
         # Define batch generator
         trainGen = batchGen(train_files, batch_size, maxlen, classification=self.classification)
         valGen = batchGen(val_files, 4, maxlen, classification=self.classification)
-        
+        test_file = '/home/bmmidei/SliceCast/data/podcasts/hdf5_noIntro/batch0_0.hdf5'
         self.model.summary()
         
         print('Starting Training')
@@ -114,8 +89,10 @@ class SliceNet():
             sess.run(initOp)
             
             
-            cb = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
+            save_weights = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
                                          save_weights_only=True, period=2)
+            
+            pkscores = pkHistory(test_file=test_file, num_samples=8, k=25)
             
             history = self.model.fit_generator(trainGen,
                                           steps_per_epoch=steps_per_epoch,
@@ -123,16 +100,14 @@ class SliceNet():
                                           verbose=1,
                                           validation_data=valGen,
                                           validation_steps=10,
-                                          callbacks=[cb])
-            
-            #consider updating loss function from accuracy to precision recall or MSE
-            
+                                          callbacks=[save_weights, pkscores])
+                        
             if save:
                 # Serialize weights to HDF5
                 self.model.save_weights('./models/weights_final.h5')
                 print("Saved weights to disk")
                 
-        return history
+        return history, pkscores
 
     def predict(self, test_file, num_samples, weights_path):
         # Get test data and test labels
