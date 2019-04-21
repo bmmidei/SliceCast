@@ -1,0 +1,600 @@
+========,9,title.
+Jim, welcome to the show.
+
+I’m really happy to be here. I’m hoping that you wouldn’t mind if I start by exercising a bit of my own curiosity just to ask you some questions to begin our conversation.
+
+I would love to jump into it any way that you would like. I’m game for questions.
+
+I’m dying to ask what did you do your Princeton senior thesis on?
+
+My senior thesis, which took some extra time to complete, was on the phonetic and semantic acquisition of Chinese characters by native English speakers. It was looking at language acquisition, but specifically what most people in the West would consider ideograms. There are a few different layers of meaning or context for each character that one might acquire so the thesis was about the different approaches, the pros and cons of various methods for acquiring these characters.
+
+What is language acquisition? It’s a major I’ve never quite heard of and I’d be curious what its essence is.
+
+So within the East Asian studies department you had to pick a primary language. I chose Japanese because I had spent a year in high school in Japan going to a Japanese school as an exchange student but I ended up taking primarily Chinese classes because my Japanese level was already decently high. Within the context of that department, language acquisition would be focusing on — and this is a very good question because the way that I look at language is really acquiring concepts and almost an operating system for thinking that is associated with a different culture.
+
+That would generally in, say a language like Chinese and most languages, start with the phonemes, the sounds themselves. In the case of something tonal like Mandarin, you’re actually going to be doing a lot of training. It’s almost like going to the gym and lifting weights because to produce a sound or a word like Yexu, which is maybe, or if you wanted to ask with a retroflexive tongue, Nà shì shénme dongxi? like, what is that thing? You really need to develop musculature that you have not developed before as a native English speaker.
+
+Then after you’ve developed the basic phonetics and pronunciation, verbally you would move into the writing. The writing tells you a lot about the thinking of a given culture. I think of culture as sort of a collection of shared beliefs and habits. Some are purely phonetic, like we have our Romanized alphabet and then others have multiple layers like Chinese where you have a character that’s composed of radicals, each of which has a particular connotation in terms of meaning and the etymology. So all of that, those would all comprise ingredients in the recipe that is language acquisition.
+========,9,title.
+And forgive me for asking you a follow up question on that. I’m curious just because you’ve clearly come from both a love of language but also a study of language. How much do you think the language in which you are operating, whether that be mathematics or whether it be Japanese or Chinese or English either constrains or enhances the concepts that we develop?
+
+I would say almost completely. I can’t remember who was — Wittgenstein or-
+
+Wittgenstein, yep.
+
+He said, what is it, “The limits of our language are the limits of our world.” There’s something to that effect. I really feel like language and thinking are inseparable and therefore part of the appeal to me in acquiring other languages, studying other languages, even if I only use them temporarily like I did when I visited Turkey or Greece, these places. I still study the languages very intensely because it gives you, in my experience a different lens through which to process the world and to absorb stimuli and to react to things differently.
+
+So in my experience, you can very often tell a lot about someone by not just the language they speak but the particular dialect within that language that they choose. That can apply to English and the particular nuances or predilection someone has in their own say, grammar vernacular even in a given family, but it can also apply to coding  — and then within coding you have different coding languages. They tend to reflect in many instances different personalities and different value systems, different priorities. So that’s how I would think about that.
+
+You mentioned Wittgenstein, I am no expert on Wittgenstein. I had a quarter in college, which the main focus of the work I was learning in was in Wittgenstein and I remember the professor saying to me, “Well, what’s marvelous about Wittgenstein,” is he said something along the lines of, “He lays out very clinically what we can meaningfully talk about.” Then the professor adds, “And of course then there’s the great punchline, which is that most of what’s really important we can’t talk about.” Because the words can’t go to the mystical. So very, very interesting.
+
+I’ve often thought about this when I wrestle with concepts as I’m wrestling in my own research. One of the first questions I ask people, I often ask people, I say, “How do you develop a concept or how do you decide to come at something that would allow you to articulate something you’re seeing through the lens of say the Level 5 hierarchy or preserve the course, stimulate progress, duality or whatever?” The first question I always ask myself is, “What’s the conceptual vessel?” Right, because to get a concept there’s different kinds of concepts.
+
+You’ve got dialectics, you’ve got hierarchies, you have stages, you have equations, you have categories. One of the first, most important things to do is to say well, if you’re looking at something, “What’s the best kind of conceptual vessel?” Then from there you develop the concept. Now just one thing on language. It’s not really about language per se, it’s about the really hard world of writing. 
+========,9,title.
+As I was looking about your background, Tim, I noted if I read it right that you had crossed paths with one of our great nonfiction writers John McPhee, is that right?
+
+That is correct. I was very, very lucky and got to take a class called The Literature of Fact, which was a seminar that McPhee used to teach. I don’t know if he still teaches it. I did have a chance to spend some time with the incredible McPhee.
+
+Yeah, just before we launch into our broad conversation I — what was it like to have a class from McPhee? I have never met McPhee, but I’ve been a huge, almost student of how he writes. Of course, and I love the most recent work, I think it was called Draft No. 4, where he describes to all of us who struggle with words the struggle of writing, but he’s got those great books from years ago. A Sense of Where You Are about Bill Bradley, and he has the Archdruid book and he has The Control of Nature, which recently, with all of the fires and so forth happening in California, I actually went back to read to kind of remind myself how McPhee was writing about these things before.
+
+He had just such a marvelous way of being able to use words to really exercise his curiosity and see things and then put them in these marvelous forms. I’ve often thought, “Boy, if you could learn from him how to write.” As a proxy for that, what would you — as those of us who write, we all know how hard writing is. Nobody would ever say writing is fun. What did you take from McPhee being able to really learn directly from him?
+
+I never get tired of talking about McPhee, although I worry about invoking his name in a sense because I feel like I am such a shameful repetitive writer full of all sorts of fluff compared to his tight prose.
+
+His prose is tight. I mean, he’s the consummate version of that Twain line about the difference between almost the right word and the right word is the difference between a lightning bug and a lightning bolt.
+
+Right, so with the preface that I in no way compare myself to McPhee or claim to have had all of his magic rub off on me, the class was absolutely — this is me looking for the right word, looking for the lightning and not the lightning bug. I don’t use this expression much, but it was really paradigm shifting for me in many respects when it came to writing and thinking. I’ll mention a few things before I directly answer your question. Number one is I’ve carried my notes from that class with me everywhere, meaning in every place I have lived since I took the class, which would have been in ’98 or ’99. So I’ve been carrying these notes for 20 years now. So that should tell you about how highly I value them.
+
+The second is I remember very clearly when we had our first round of feedback on some initial writing task that we had been assigned, we had three, I think it was three to five page writing assignments each week. We would have a seminar with all the students together and then we would have one-on-one sessions with McPhee. I remember the first time he handed out in class the red-lined versions of our assignments. The printouts with his red ink on them. In almost every case he led into it by saying, “I just want you to know before I hand these back that you are all good writers. I don’t want you to take this the wrong way,” or something like that. There was more red ink on the page than black ink.
+
+Over time it was remarkable how quickly you could hone your observation to identify superfluous words, to identify the fat on the sentences that you’re putting on the page. What ended up happening, I should say that’s on the micro level. On the macro level, and we can come back to this and I do have questions about your conceptual vessel comment earlier, it was structure. It was thinking about structure visually that really changed the game for me with respect to all types of writing. For those people who do like to get into the weeds I think that Draft No. 4 gives plenty of examples of how intricately he thinks about structure.
+
+He did a number of interviews with The Paris Review on nonfiction writing, which are also really worth reading, but my grades in every other class went up. Yes, it’s multifactorial. There are all sorts of other things that could have contributed, but the correlation between starting that class and all of my other grades improving in all of my other classes was really uncanny. I think that is very specifically because it was tightening up my thinking and it was forcing me to, on a weekly basis, justify the use of specific words. McPhee is a real stickler for the right word. If you use something that is vague, that seems like a lazy backup option that you tend to default to a lot, he will spot that very, very quickly.
+
+It was a wonderful, wonderful class. He is a very entertaining teacher as well. It’s not like having a clinical autopsy done of your work each week, although he is also very dispassionate and certainly not trying to just make you feel good with his feedback, but he over the years has developed a very entertaining style. I remember at one point he was riffing on the various ways that one can convey he said or she said. He brought up the very real example of when people say, “She ejaculated,” then he just went on this riff about how unnecessary that was and it got a good chuckle out of the students of course because there was a lot of heavy lifting to come 20 minutes later when we were actually going to jump into some type of task.
+
+So long answer, but McPhee is along with a handful of other people I can point to very specifically one of the people who has had the biggest impact on my writing, but more importantly, on my thinking and how I think about structured thought. I want to say one thing about Wittgenstein really quickly before I forget. That is a surprising number of the people I respect for clear thinking have an affinity for Wittgenstein. Reid Hoffman the co-founder of LinkedIn would be another example of that. I think that’s worth mentioning just because I think philosophy, there are certain categories or labels of fields of study that sometimes get pushed to the wayside as impractical. I think the study of language and the concepts that language represent is extremely, extremely valuable. It’s kind of one step above consciousness if we’re looking at the foundational layers upon which everything else is built. So let me ask a question if I may.
+
+Yeah, please. Thank you for letting me start with exercising my curiosity. It’s wonderful to have a chance to begin with questions but questions working both directions.
+
+For sure. I have so many questions but I’m going to try to prioritize them a bit. 
+========,9,title.
+The conceptual vessel term that you used, or phrase I should say, could you give an example of choosing the right conceptual vessel?
+
+Yeah. So maybe I’ll use a couple but let me start with one. So back when we were working on the research for what became Good to Great, a little bit of a story of what was happening. When we went into the Good to Great research, and everything we do has a research base to it. I had really given the research team the instruction that I didn’t really want to have a leadership answer. The reason for that is because I was always skeptical, especially from the Built to Last research, which had come before of placing too much emphasis on having a single leader. Number one, if you’re going to build something truly enduring, it has to transcend the leader. They all go away. They all die. You can’t have a system based on a single leader.
+
+The second is you can go around in a big circle where you can say, “Hey, if that company was successful, it must have been a great leader.” Then if it’s not successful you say, “They weren’t a good leader after all.” You’re just in a big circle, you’re not learning. I said to the research team, “I don’t want to study. I don’t want to have a leadership answer.” My research team, which is usually composed of somewhat I would say highly irreverent, smart people who just work really hard, they love to challenge me. And we had these what we call “recharge chimposiums” because Curious George is kind of our mascot of curiosity. We would have chimposiums.
+
+So we would be talking about the research and one day the research team kind of essentially joined hands when I came in. I said, “What’s up?” They said, “We’re going to tell you today that you’re wrong.” I said, “Well, what about?” They said, “About this anti-leadership bias that you have. Each of us, we’re responsible for studying the Good to Great journey, the inflection of these companies that were average that made that leap. We see that at that point of inflection, the leader played a huge role. To ignore that is to ignore the evidence. You always tell us Jim, ‘Pay attention to the evidence.’ We invoke that here today. You’re wrong.”
+
+I responded to the team by saying, “Well, let me ask you a question. You remember your high school algebra?” They all of course did. I said, “And remember if you have the same variable in the numerator as the denominator, the variable goes away,” so as a relevant differentiator. I went to the whiteboard and I put a little line up there for the numerator and the denominator and I put “good to great companies” in the numerator and “comparison companies in the denominator.” Now our research method, this all gets to the conceptual vessel, but I kind of have to sort of know how we get there. So our research is always based on a method that developed with a great mentor of mine.
+
+One of the themes by the way I think that’s going to come up in our conversation is what I see as the incredible that who luck, the luck of the right people that intersect your life plays in the journey. I had great who luck in a research mentor named Jerry Porras at Stanford when we were doing Built to Last together. Jerry pushed us to develop this method where he said, “Look, if you study successful companies or companies that achieve certain things but you only study the successes, you’re going to find they all have buildings. Does that mean having buildings will make you a successful company?”
+
+Right, right.
+
+So he said, “What we have to have is a comparison set,” and we developed this historical method where you study the entire history of two evenly matched companies at the start of the journey that are in the same place, same time, same resources, same potential and then one breaks out to a totally different level than the other and holds it long enough that you can have confidence in it. The other that was a virtually identical twin at that time does not. At the birth of any industry for example you have an explosion of new entrants, so all the early semiconductor companies and in there you’re going to find a twin pair of companies that are virtually the same, but one of them becomes Intel and the other one doesn’t. Why?
+
+So he said, “You always have to ask what’s really different? Compared to what?” It adds huge amounts to the work, just the magnitude of work you have to do to do the comparison because it basically more than doubles everything you do, but that’s how you see. Of course you find all the comparisons also have buildings. So buildings can’t be the answer. So I went to the whiteboard and I said, “Okay, so we have the good to great companies, have these remarkable people that led them through the transition. Let’s look at the comparison companies,” and started ticking through the list and found, sure enough, the comparison companies had some remarkable leaders and some of them were even really extraordinary leaders.
+
+Jack Eckerd, who had built Eckerd, and Stanley Gault at Rubbermaid, these were really, really good leaders. I wrote leadership in the numerator and I wrote leadership in the denominator and I said, “Guess what? The variable drops out. We have it in both. It doesn’t really matter as a variable. Now let’s go back to work and do something useful.” The team, that’s the wonderful thing about smart, irreverent young people, they sort of closed ranks on me. They said, “We knew you would do that to us. So we came prepared.” This is when the team — this is the value of having a great research team — saw something that then led to this notion of what eventually became the Level Five idea and the conceptual vessel for it.
+========,9,title.
+The team said, “Jim, you’re right. Both sets of companies, the good to greats and the comparisons at the critical moment in time had leaders and there’s no evidence that the leaders were any less exceptional in terms of their pure leadership ability, but there’s something different about the good to great leaders. They’re cut from a different cloth. It’s not about their personality. Many of them were shy and reserved and soft spoken, never drew attention to themselves.” So it wasn’t about that. There’s something different about them. That became interesting.
+
+Essentially what happened then was the question was: what’s the difference between these leaders? It wasn’t leadership, because they were both leaders who did leadership. There was something different about the leaders. So there was this signature of their humility, and then their fierce will on behalf of something that’s not about them. They were able to subsume their ego into the company and that blend of humility and will is what stood out. That was different from the comparisons. That was interesting. So you kind of step back and you say, “Okay, now how do we capture that conceptually?” I went out onto my porch and I started thinking, “Okay, is this just an idea? They’re just humble leaders?” No, that’s not quite it. There’s something about this duality. “Is it a dialectic?” didn’t seem to be quite right.
+
+I started playing around with different things and I had this flash that went through my mind of “It’s a hierarchy. It’s a pyramid of capabilities and you kind of climb up this hierarchy.” It was sort of almost like a Maslow’s Hierarchy, except it was of leadership and there were levels to it. I thought, “This is a hierarchy of levels. Level one would be individual capabilities. That would be at the base of the pyramid, and then you go from individual capabilities to level two, which is you get really good at playing well with others. Good team skills. Level three, you would learn how to manage.
+
+By the way, as an aside, never denigrate great management. Anybody who’s had a poor manager knows how awful that is to work for one and how great it is to work for a great manager. Then above level three becomes level four. You go from managing to learning to lead. Then there was a higher level. That higher level was the Level 5. The Level 5, well you could be a leader as a level four. To be a Level 5 leader you had to go to the next level of the hierarchy and add in this ambition for some things bigger than yourself with humility and with will.
+
+When you stand back and you looked at that, you could look at it and say the right way to convey this idea is as a hierarchy that you grow through as distinct from some other way. I had to kind of find the way of capturing and then the critical thing is: it’s not leading, it’s are you a five or a four? Here’s sort of the overall pyramid. Just to illustrate, let me just invoke somebody who wrote their Princeton thesis on what became a Level 5 journey. One of the great leaders that I’ve gotten to know is Wendy Kopp, the founder of Teach for America.
+
+Sure, Teach for America.
+
+She wrote her senior thesis on it, which is why I’m always curious. Jack Bogle wrote his senior thesis on mutual funds and ended up creating an amazing thing. Wendy Kopp wrote hers on what became Teach for America.
+
+Yeah.
+
+But if you look at Wendy Kopp, if you were to ask the question, “Where is she on that?” She went through all the levels, but she’s not just a leader. She has that extra dimension where she’s got that genuine personal humility and an absolutely ferocious resolve for the overall cause that is not about her. If anybody that’s met Wendy or seen her, you would never think, “This is about Wendy Kopp.” You would never think — but if you ever doubted her resolve, there’s that image of her sitting there trying to get her first funding for Teach for America where her image is “I put glue stick on the bottom of my pants and I would not leave the chair until I got a $25,000 check.” Just sheer will. And will for, ultimately, the kids and how the kids’ lives could be changed. And yet, genuine humility. So she went to the top of the hierarchy. So when I stand back, I look at it and say, “That’s the right conceptual vessel for this journey of what we had seen.” Other concepts-
+
+May I jump in for one second?
+
+Yes, sure, please.
+========,9,title.
+The question was genuine humility. How do you identify genuine humility? What are the characteristics and how do you separate it from false humility or what someone presents as humility? I guess I’m wondering how you-
+
+How we imputed that from the research data?
+
+Correct.
+
+Yeah, that’s a great question. So first of all, in all of our work we start not surprisingly with a question of curiosity. It always has to be something; I just am really curious enough to go through the years of suffering to get some insights. Then you translate that into the research method, the comparison method, the historical method and so forth. Then you collect vast amounts of information. And the key is you’re not looking for anything in particular. You’re looking for patterns of difference.
+
+Why did one set of companies, what was different about them versus the others as you walk through time and/or what kinds of decisions they made and so forth, always going to that difference question. So what we began to notice is that the good to great leaders — what’s fascinating, that number one, you can do what’s called event analysis. So you can do something like say, let’s call an event the number of times in speeches you use the vertical pronoun versus you don’t over the course of a career. That’s something you can count. So you can look at it and say, “Let’s take the good to great CEOs and let’s take the comparison CEOs and look at every letter they wrote that you can get hold of. Let’s look at every speech they ever gave. Every interview they ever gave.”
+
+I mean, you’ve got mountains and mountains of information. “Now let’s go through and literally count how many times they tend to take credit themselves, how many times they give the credit to others, how many times they don’t use the vertical pronoun I, how many times they do.” Later of course, if somebody had read Level Five, they could try to pretend to be Level 5. I’ll never forget when somebody sent me an email that says, “Help.” I open it up and it says, “Dear Jim, our CEO just walked in and announced he’s Level 5. What do we do?” Have him reread the chapter. But these are people that, they were just doing what they were doing.
+
+They weren’t trying to show themselves one way or another. That’s the thing of looking over the course of an entire history or career. You can count things. How many times did they allow themselves to be on the cover of a magazine? How many times when they’re in discussions about things that did not go well, you can look at window and mirror events. Things that did not go well. One approach is when something does not go well you can point out the window and subtly or not so subtly attribute the reason it didn’t go well, the factor is outside yourself. The economy or somebody let you down or a partner didn’t come through or whatever it happens to be, but somehow it’s not you.
+
+Or there’s the window approach, which is your kind of natural tendency is, “All that might be true. It doesn’t change the fact that I’m responsible and I’m owning this and this is the mistake I made,” and so on and so forth. You can look, and again, it’s comparative. What did the comparison CEOs do? You can count a lot of events of some version of pointing out the window. What did the good to great CEOs do? You can count a lot of versions of pointing in the mirror. So you begin to add all this up, and over the course of decades — because we look sometimes over 50, 60 years — some CEOs were in harness for multiple decades and since they’re all publicly traded companies people often ask, “Well why do you only study publicly traded companies?” My answer is, “Because that’s where the data is,” right?
+
+Right.
+
+Because that’s the beauty. They all have to report the same way. They all have annual reports. They all have earnings calls. They all have all of these things over time that you can then use as data sets. I’m not really a business author; I just happen to have used companies as the method to study human systems because there’s great data. So that’s where the data is, and if you do that — and we have 6,000 years of combined corporate history in the research database — pretty soon you can start counting a lot of things. Then you can begin to say there’s a substantial amount of quantitative evidence that adds up to a greater level of humility in these than those and that’s how you get there.
+========,9,title.
+May I ask you a question about counting?
+
+Yeah.
+
+All right, so we have a number of books we could talk about and we are going to talk about some of them, but Build to Last has a subtitle, Successful Habits of Visionary Companies.
+
+Yeah.
+
+I’m very fascinated by what might be the successful habits of Jim Collins. This is a question about counting. In the course of doing some of the homework for this conversation, I have come across different ways that you seem to measure your time and your days. I’d love to explore that for just a little bit.
+
+Sure.
+
+So the first was I read that you had, and this may have evolved or changed by this point, but a stopwatch with three timers in your pocket.
+
+Mm-hmm (affirmative).
+
+And that it was sort of indicative of creative teaching and other.
+
+Yes.
+
+Could you explain that habit, please, for people who are not familiar?
+
+Sure. So actually let me tell you the story of how it began, what the three were about, and then how it’s evolved into something a little simpler and a little more powerful and what I do with it every single day.
+
+Perfect.
+
+So I don’t want to pretend that I’m normal. Okay, so what I’m going to describe is not normal behavior, but this is it. So when I was 36 years old, I made the decision, and we can come back to this later if you want to talk about big bets and doing scary things, such as betting our career, betting our lives. Joanne and I on an entrepreneurial path. Let me just kind of step back and kind of share the origins of this.
+
+Yeah.
+
+So I was teaching at Stanford and it was a marvelous journey and of course I had great mentors and learned how to do my research there. That’s where Jerry and I did Built to Last. But I had another mentor who encouraged me to think about whether I wanted to do a self-directed path or not. And I used to say to my students, because I taught entrepreneurship and small business, I always said to my students, “Why don’t you go do something on your own? Why give over all your creative energies for somebody else’s thing?” I would at least challenge them to think about that.
+
+And I would say, if you’re really interested in business, you don’t have to go to work for IBM to be in business. You can do your own. So my students, and this is the wonderful thing about great students, they hold you to account, right?
+
+Right.
+
+They say, “Well what are you doing that’s entrepreneurial? This doesn’t look like a very entrepreneurial thing — teaching these classes and being here.” And so I started thinking a minute and a realized something about myself, which is I like the independent path and I like betting on myself. So I had this idea, “Well gee, if you don’t have to be at IBM to be in business, why do I have to be at a university to be a professor?” So I said to Joanne, I said, “You know I think I have this idea of I’d like to be a self-employed professor to endow my own chair and to grant myself tenure.”
+
+So Joanne — who, we’ve done these things together through life — she went on with this idea. And the idea was to try to pursue really big questions that wouldn’t be constrained by things you could do in only a year. And the first big bet on that was the research in Built to Last and it was coming out. And I said, “Let’s just bet everything; let’s go.” And so we launched this huge bet. We bet everything on that book. Didn’t know if it would work, we were down to less than $10,000. We were actually really scared. We call it our Thelma and Louise moment. We were launching off the cliff together, except we wanted to get to the other side.
+
+But it was a huge bet and we didn’t know if it would work. But I was very clear about one thing. I did not want to have a half life of qualify in the work. And one of the wonderful things about working on Built to Last with Jerry back at Stanford, no one knew who I was. No one called, no one paid any attention. So for six years of working on that research project, I could just go into the cave and work and work and work. And that kind of deep work, you have to go deep into the data, deep into the research, deep into the thinking, the long cycles of reflection, that’s how you get the ideas. And that’s how you do good stuff.
+
+And what I was worried that what would happen is if I went from being invisible to being visible, and that if I was fortunate enough to have a success, that I might wake up in five or six or seven years and have not gone back to the wellspring of the deep, quiet solitude of work. And then your second book is half as good. Right? And then the next book after that is only half as good again. I wanted the quality to always get better. And so I thought well you know, what’s interesting is a professor, or a university is a place that really encourages that because it’s sort of designed to allow you to spend your life in that tranquility.
+
+And so I went to some faculty members who I greatly respect and I said, “How do the people in the academy that you most respect in yourself spend their time?” And I got a consistent answer: 50, 30, 20. 50 percent of your time in new, intellectual, creative work. 30 percent of your time in teaching. And 20 percent of your time in other stuff that just has to get done — serving on committees, whatever it happens to be that you have to do. And so I thought, “That sounds good. I’m just going to start doing that.” So I started — as I was heading out on the Thelma and Louise leap — counting my hours every day. And I would count how many hours in the day were creative, new, intellectual. And the goal was that had to be above 50 percent.
+
+Then how many hours would be in teaching, and how many hours would be in other stuff like, somebody’s got to balance the QuickBooks, right? And so I started counting and that’s where the triple stopwatch came in. I found this wonderful triple stopwatch where I could constantly go back and forth and at the end of the day I would have the total. Later I came to the realization that what really mattered was the first bucket, the creative work. And so I eventually simplified it. There’s a concept in Great by Choice called the 20 mile march. And so I kind of had a 20 mile march, I just didn’t know that concept yet. And the idea of it being something that you just do really consistently over time that imposes a very high level of discipline that accumulates to results.
+
+And so I simplified it and I just simply said, “Can I just simply count the number of creative hours I get every day and then hold myself to an account?” So at the end of every single day, I open a spreadsheet and that spreadsheet has three cells on a line; that’s for the day. The first thing is just a simple accounting of what happened that day. Where did my time go? What did I do? etc.
+========,9,title.
+Can you give — sorry to interrupt, but I would love…this is the stuff I love. What might a description for the day look like? Is it three sentences, four sentences, what might it look like?
+
+It sort of depends on — actually the very best days don’t have much in it at all. They are: “Got up early, two hours of really great creative work, breakfast with Joanne, five hours creative work, work out, nap, three hours of creative work, enjoyed dinner with Joanne, bed.” That’s like a great day. But other days are full of lots of other choppy things. And so what I tend to do is try to capture a bit of what happened this week, what happened with the main tasks of the day. If there were some really interesting conversations that happened or something that hit in those. I’ll notes those. They’re markers so that I can always go back and I’ll just share with you how I use those in a minute because I actually do these correlations with all of that.
+
+And then the second cell is the number of creative hours I got that day. Now there’s no rule about how many you get in a day. Sometimes there’s zero and sometimes they can be nine or 10, which would be a huge number. But then it calculates back over the last 365 days. And the march, which I don’t think I’ve missed for well over 30 years, and I hope to hit for a lot longer now is every single 365 days cycle, every single one, every single day, if you calculate back the last 365 days, the total number of creative hours must exceed 1,000. No matter what.
+
+It doesn’t matter if you’re sick. It doesn’t matter if there’s other stuff you’d like — 1,000 creative hours a year as a minimum baseline. Now you can be above that, that’s fine. But never once, there can’t be a single day in any 365-day cycle, January two to January two, July 22 to July 22, September nine to September nine, it doesn’t matter. Always has to be above 1,000 creative hours. And you watch it — and I put on the whiteboard here at the lab — the three-month pace. So you take the last three months multiply it times four, the six month pace. And then the current 365. And that is a way to kind of monitor. If I start seeing those numbers start to go down, I’ll change my behavior. And sometimes I have a big buffer and sometimes I don’t.
+
+And the idea is, if you stay with that, eventually you’re going to have work. Now there’s a third cell that I put in there that most people don’t know as much about because people know about the hours thing somewhat. But all of us have dark times, difficult times. All of us have good times, right? But here’s an interesting thing I noticed, which is that if you’re kind of going through a funk, it colors your whole life. And you tend to think your whole life is a funk because you’re looking through that lens.
+
+And so I thought, “But actually I feel like my life is really pretty good.” But when you’re in that other place, it doesn’t feel that way, right? And so what I started to do is I started creating a code, which is plus two, plus one, zero minus one, minus two. And the other thing I put in — and the key on all this by the way is you have to do it every day in real time. You can’t five days later look back and say, “How did I feel that day?” And what this is, is a totally subjective “How quality was the day?” A plus two is a super positive day.
+
+This is emotionally speaking?
+
+Exactly. Just like: “Was it a great day?” A plus two is just a great day. Doesn’t mean it wasn’t — there might not have been a really difficult day. It might’ve been a day of a really hard rock climb. It might’ve been a day of really hard writing. But it felt really good, right? It might’ve been a day of an intense conversation, but really meaningful with a friend or something. But what it adds up to is a plus two. Plus one is another positive day. Zero is meh. Minus one is kind of a net tone negative. And minus two is, those are bad days, right? And you put it in before you go to bed because if you try to remember, if I were to ask you Tim, right now, 17 days ago, or even five days ago to give the score, you’re going to be distorted by how you’re feeling today.
+========,9,title.
+Oh for sure. Yeah, memory, if you ask people what they ate two days ago, they’re going to be off by 40 percent, 50 percent calories for sure. Yeah.
+
+Exactly. So I write it down, and now I start to have — I’ve got the creative hours marked, which is, it’s kind of discipline in service of creativity. And it’s relentless, right? It just stays with me constantly. You never get a break from it. You can take breaks, but you can never get a break from the thousandth floor. But that other has proved to be incredibly useful for me because now what you can do is sort the spreadsheet. And you can say, over the last five years, what’s going on in all the plus two days? Oh, and over the last five years …
+
+Ah, that’s where the descriptions come in.
+
+Yeah, exactly. And over the last five years, what’s going on in the minus two days? And now as I navigate, it’s kind of like the Simplex Method in operations research where you find optimal by never really knowing that optimal is ahead of time. You do it by a series of iterative steps of the next best step.
+
+Hold on, could you explain that? I’m from Long Island, so sometimes it takes me a minute. Could you explain what that was one more time?
+
+Yeah, sure. So my undergraduate was a thing called mathematical sciences with a heavy dose of philosophy. And math science was pure mathematics, computer science, statistics, and operations research. And in operations research there’s a method developed by a guy named George Dantzig called the Simplex Method. And essentially the idea is that if you’re really trying to find the optimal answer to a multi-variant problem where there’s lots and lots of variables, even the biggest computers couldn’t basically do a giant spreadsheet and sort. There are just too many permutations. And what he showed was under certain conditions, all you have to do is find the local optimum — what’s the best next step?
+
+Right.
+
+And then you reset and then what’s the next best step? And that he showed that under certain conditions that is mathematically guaranteed to navigate you to the optimal end point. And that was the Simplex Method as I understand it. It was 30, 40 years ago when I was in the class. So I’ve always had that idea in mind. So you kind of navigate step by step. And so I think about it as in navigating life, I want more of the things that create the plus twos, and less of the things that create the minus twos. But the difference that’s helped me is I know what they are.
+
+Yeah.
+
+And I can start — it’s not that life is never perfect, but you can do a simple more of this, less of that. And more of this, less of that. If that makes any sense.
+
+It makes perfect sense. What are some of the patterns that you found for either the do more column or the do less column for yourself?
+
+Yeah. So when I look at those patterns, I would say on the plus twos there are almost two contradictory components. And not contradictory, but they’re just really different flavors. One is the solitude of really hard work. And sometimes one of my favorite days will be I get up, I never leave the house. And I basically get to just lose myself in the research or in the writing or in the making sense of things. It’s a very incredible simplicity of the day. I’m 61 now and I think about what comes next. And I tend to keep creating. I want to stay in some version of that march for a really long time. My role models have all done that.
+
+But I think about life as having three things at least that I think are really important, and one of them is increasing simplicity. Just sheer simplicity. Two is time in flow state. And flow state’s not easy. And the third is time with people I love. And so when I look at those plus twos, a lot of the days would be days of high simplicity, not much happened. There were very few moving parts. But a lot of deep hard work in flow state. I might’ve been writing or doing a concept or creating something. Just you’re lost in the work.
+
+Or rock climbing probably.
+
+Or rock climbing, exactly. Exactly. It’s arduous but you’re lost in it. Those are great. The other though, for me, is the time with people I love. And the other dimension, while I wouldn’t describe myself as a highly social type person — I love the solitude of the hard work — the other side is the people in my life and there are many; I have great friends. Really great friends that many decade friends. Friends back to third grade, seventh grade, all my college roommates, my personal band of brothers. I have friends. And my wife, we’ve been married 38 years. Got engaged four days after our first date.
+
+What? Four days after your first date?
+
+Yes, that’s true.
+
+Wow, okay. We might come back to that.
+
+We might, but the thing is, when you have those days where you’re really present and engaged with people you really love, those are plus two days. You may not have accomplished anything, or in the case of climbing it might that I went out climbing with one of my best friends, and I don’t even necessarily remember the climb. It was with a friend. And so my plus two days are either very solitude or very connected. But connected to people that have these long, enduring really, really wonderful relationships in life. And those make plus twos.
+
+I love it. You at some point in life need to meet my friend, Josh Waitzkin, who you and he have very similar heuristics. He was the basis for the book and the movie Searching for Bobby Fischer. So his first life was in chess. But I won’t take us too far off track but at some point, I think you guys would really, really get along. Okay, let me dive into a couple of clarifying questions if I may.
+
+Yes. Sure.
+
+Because this is so juicy, I can’t — I don’t want to just move on to the next thing.
+
+We can have all these people now creating spreadsheets.
+
+I was going to say, if this writing thing doesn’t work out for you, you should create — you have a spreadsheet company, you have a journaling company available to you.
+
+Right.
+========,9,title.
+Creative: this is a word that means different things to different people. What are the main activities or what are some of the activities that are squarely in the creative bucket for you? And the reason I’m asking is I’m thinking about how I spend my own time. And you have a team — I suspect a much smaller team — but for instance if you are working on a book that requires interviews, would spending time scheduling those interviews count as creative or is there a cutoff? Even if it’s in service of a larger creative project where you have admin and then you have creative. So for you, what counts towards the hours marked creative?
+
+So you’ve hit upon exactly where the gray zone is on this. And in general, in order to — again, I have to go back to what’s the overall objective? The overall objective is that over time there’s quality work. And so I can’t start calling things “creative” that in the end wouldn’t lead to some kind of creative output. And by the way, sometimes that creative output ends up in a drawer because it just doesn’t make it to the world. But you have to just keep working. And I think of it like being an artist in a studio. And so, is getting the paintbrushes ready to paint part of the creative? I would say yes. I would say that organizing the tools and maybe even ordering paint, because it’s in direct service to the creation of what ultimately might be on a canvas.
+
+Whether the world sees it or not, I define creative as any activity that has a reasonably direct link to the creation of something that is new and potentially replicable or durable.
+
+Oh, I like that. Yeah, please expand on that.
+
+So for example, if we have in this conversation, right, there’s already elements that will count as somewhat creative because just even you start thinking about if an idea pops into my head. And then that leads to supporting some other concept or piece of work that I’m working on. Because a lot of times — I’m sure you find this too — is there’s a seed of an insight that’s lurking in the back of your brain. And then in the process of conversation or in the process of trying to articulate something, or in some other mechanism, it gets jarred out of your brain and all of a sudden you see it bounce on the table.
+
+And then you go, “Oh, I need to put that in the bag and not forget it,” right?
+
+Right.
+
+Right? And sometimes that happens. I’ll give you an example of how something that turns out to be a kind of a creative moment, I wasn’t anticipating as a creative moment. I was meeting with a — I can’t say who it is, but  — it was a very towering, super charismatic, super genius founder who is sort of, to his world, the way say Walt Disney might have been to his world. Just truly a once in a generation. But unlike Disney, this person never really started thinking about the systems that would allow him to build a company that could really ultimately go beyond him. And there were challenges with that. And so we were talking about, I was trying to figure out “How do I get through to this?”
+
+And there are other people on the team who didn’t really want to step up into certain roles. And a whole bunch of other stuff. And so he could kind of picture that as I’m challenging, I’m trying to teach them, set the stage for making a Built to Last company. And so you could you view that as “Well, what’s creative in that? You’re just kind of wrestling with these people.” And all of a sudden in the middle of the conversation, I remember I just turned and I looked at him. I said, “Here’s the problem. You, sir, are a genius. So let’s just start. There’s the problem. You are a genius. And what you have is 1,000 helpers.
+
+Now so long as you’re still a genius, and so long as all these helpers want to help you, being a genius with a thousand helpers, that’s going to work really well until either A, someday you’re not a genius, or B, you’re gone. In which case, this company just hollows out, there’s nothing left. There is no company. All this is, is a genius with a thousand helpers in sort of a vessel called a company. It’s nothing more.” Well right then, that was when this thing came out of my head, bounced on the table. I had never used that phrase before. And I immediately, I made a note on my notepad. And I went back, and if you look in Good to Great, there’s a section when I’m trying to describe the comparison CEOs in contrast to the good to great CEOs where I talk about the genius with a thousand helpers.
+
+And I contrast how the Level 5 leaders come at it as that’s the last thing they’d want to be, right? And how they’d want to build a culture and a company and ultimately be the architect of a great system versus being the genius with a thousand helpers. And there’s a flowchart in there that’s hard to describe, it’s a different set up. That came out of that conversation. So I got to count that conversation as creative even though when I went into it I didn’t know that that would happen. So I wouldn’t have counted it normally. There’s other times where sure, I was doing some research on K12 education recently and the process of really deciding who I wanted to interview, that would count.
+
+That was like assembling the paintbrushes. If I’m balancing the QuickBooks account because I have to do that or I’m I don’t know — there are things that just sort of clearly fall outside of it. And I don’t count it. I try to be a hard counter so that I stay on the march.
+
+This is super helpful. And it also made me think about how if someone were to — and I was thinking about this earlier as well, how the 50 percent creative, 30 percent teaching, 20 percent other in some respects have a — well, we will get to this. Maybe it’s not —
+
+Yeah, go ahead.
+
+No, I wasn’t going to say maybe it’s not flywheel exactly, but the creativity can lead into teaching. The teaching then can lead back into the creativity because it forces you in some respects or at least catalyzes you to express things in ways that you might not otherwise. And also points out things that are unclearly formed if you then try to convey them to somebody else.
+
+And in fact it’s interesting, in preparing for today, and I love to prepare for a conversation by thinking clearly what we might chat about. But then it’s not a script, it’s like having different plays you can have in a football game. What might happen in a game, and then that’s conversation. Even when, if I get together with a really good friend, I usually will write down three things I’d love to chat about today. We may or may not get to them, but one of the things I did for today was I thought, “I wonder if Tim will ask me what’s my own flywheel?” And so I actually took account of writing it down; if we come back to that later I’d be happy to.
+
+Yeah, we will absolutely come back to that. And I have a path there.
+
+Yeah.
+========,9,title.
+So you mentioned a while back — actually before, I just have to check this box or it’s going to bug me.
+
+Yeah.
+
+Sleep tracking. So you mentioned sleep.
+
+Yes.
+
+How do you note or modify or have you modified your sleep? Can you talk to us about — I think most people would agree, it’s important. But how have you monitored and modified your sleep?
+
+Well again, I’m not normal, okay?
+
+That’s precisely why I’m asking you these questions.
+
+No, but one of the things that struck me a number of years ago is that we spend so much time thinking about time management. And I’m not really a — even though I describe this counting and stuff, I’m not really a time management sort of person. I’m a — I don’t have kind of — I have to organize my time a certain way or whatever. That 1,000 creative hours, as long as I stay there, there’s millions of ways I can get there, right? So it’s like a constraint within which now I can have a ton of freedom, right? So I’m not overly regimented, I’m just disciplined. And there’s a big difference. And so when I was thinking, “Well, wait a minute. If a third of our lives approximately are spent related to sleep, why don’t we put as much thought into time management of sleep as we do into the rest of our day?”
+
+It’s just ignoring a huge piece of it. So one of the things I did was, without to my knowledge having a sleep issue, and my insurance wouldn’t pay for this or anything, I just was curious. There’s a sleep center at I think it’s the National Jewish Hospital here in Denver. They have a sleep lab where they’ll do sleep tests and stuff. And I just said, “Hey, can I come and get sleep tested?” And so I went down there and just scheduled myself in and spent the night and had them put the electrodes on and I kind of feel like I’m my own rat in life. My own lab rat where I’m always studying myself somehow, right?
+
+And I used to have a little book called the bug book, where I’m the bug and I’m studying the bug called Jim. That’s how I figured out where I was going to go in life. And so anyway, so I went down to the sleep lab and I said, “I’m going to study—” I didn’t. To study sleep is too strong of a word. “I’m going to be a student of the science of sleep. And so because it’s a third of my life, why don’t I understand it?” So I got the sleep test and I found out I didn’t have any serious sleep pathologies. I learned about the different aspects of sleep.
+
+And what the big takeaway I got about sleep was we tend to think of this idea of seven hours a day or eight hours a day. And what I learned from this little journey, and again, I want to underscore, it’s not like I’m a sleep expert or anything. I was just trying to figure it out for myself. It’s actually the number of hours that you get over say a 10-day cycle. So if you go up and you do a big climb, like when Tommy and I did our climb at El Capitan together and do it in a day, that means 24 hours. You’re going to be awake for 36 hours.
+
+And so if you’re basically like, “Oh I couldn’t do it without sleep,” well you’re never going to do it. You could perform at really high levels with zero sleep over a day. You wouldn’t want to do it over 10 days though. And so I started thinking is what really matters is the amount of quality sleep I get over, say, a 10-day cycle. So early on after all this I actually started counting and I would count naps and I would count to just try to keep again, very much like the 20-mile march of the creative hours. As long as I was staying above 70 over a 10-day cycle, however I got there, that was fine.
+
+I’ve since found that what really — I probably still hit that number, but having counted it for about a decade meant that I ingrained the patterns of how to come at it. And what I’ve learned is I guess two or three things specifically about the sleep process for me. This is just personal. One, the 20-minute rule. If you wake up in the middle of the night and you check the time — first of all, it’s also by the way fun to see if you can guess what time it is, right? But then check the time. And then if you’re not back to sleep in 20 minutes, get up.
+
+And go — and then I love, I’ll sometimes go lose myself in again — back to the simple work, whatever. There’s something really quiet, I get up at three or four in the morning and you’re just there with the creative stuff you’re doing. That’s a great time. Sometimes you wake up at three, sometimes you wake up at seven. 
+========,9,title.
+The second is, for me I’m really, really lucky. I have the genetic ability to nap in any situation. I took a nap, I woke up eight minutes before our conversation today. I’m serious.
+
+No, I know you are.
+
+And so for me, my little secret extra capability that I just was born with was I can nap pretty much anywhere under any conditions and I can dream. You give me 12 minutes, I’ll dream. Give me 55 minutes, I’ll dream. And I can wake up and boom, be fine. It’s just genetic. But naps are my sort of saving — they give me this sense of like “Oh, whatever happens, I’ll be fine because I can always close my eyes.”
+
+When do you nap?
+
+I can nap sitting up.
+
+When do you choose to nap?
+
+Well I have two favorite times of napping. Three favorite times of napping. One is airplanes are great for napping. So I never eat anything on a plane or do any of that. I’m either trying to do something creative or sleep. And I have a sleeping kit, which includes Bose noise canceling headphones, and eye covers, and a donut pillow that the headphone can go in. So it’s actually really like kind of creating a micro environment so you can sleep on an airplane or wherever you happen to be. The second place if I’m not traveling, which I try not to do too much anymore, afternoons are great for a nap because you have a really good morning and then you get that wonderful afternoon glow of creative time.
+
+Sometimes if you took a nap from say two to three or three to four, and then you have that marvelous four to seven in the evening. And it somehow coincides with the end of the day. It’s like a second morning. But my favorite absolute sleeping pattern is — so when Joanne’s doing one of her bike rides across the country, and she’s gone for six or seven weeks doing it — I’ll fall into a pattern where on a lot of days I’ll go to bed and 11 and get up at three. I’ll roll out of bed and then I’ll do the creative work stuff usually. Creative or preparing teaching from say three until seven.
+
+You don’t eat anything, you don’t drink anything, you don’t have a cup of coffee, just go roll right in. And then you go back to sleep from seven or eight until 10 or 11. And if you’ve ever been under general anesthetic, that second sleep is like general anesthetic. You blink and it’s just like that deep, dark bang and all of a sudden three hours are gone. And then I get a second morning because mornings are the best. I get a second morning when I get up and then you have breakfast, and then you get this really great energetic day. That for me is a perfect sleep day.
+
+Wow. I have these things that I’m dying to get to, but then you keep bringing up interesting things, which I’ve —
+
+Well, go ahead.
+========,9,title.
+No, no, I squarely blame you for that, but I’m glad you’re doing it. The bug book.
+
+Yes.
+
+You mentioned it in passing: what is the bug book? Can you please elaborate on the bug book?
+
+On the bug book. I think a lot of us, and I certainly was one of them, have a — we struggle in our 20s to get clarity about how to deploy ourselves in the world. Because everything up until you finish high school, or college, or graduate school, or whatever, it’s structured. You don’t really have to think about it. It’s like, “Oh, I gotta figure out how to do these math problems,” or whatever. But life isn’t really like that. And then all of a sudden, you hit life and life is much more ambiguous. And so, you’re trying to navigate through it. So I, like a lot of people, was trying to figure out how to best to deploy myself in my 20s. And I had multiple things that helped me do that. But one of them …
+
+Let me just introduce a concept, okay? And then, I’ll tie it into the bug book. Because this is how I challenge young people to think about it. There’s a concept in Good to Great called the Hedgehog Concept. And the idea of the Hedgehog Concept is to simply down — we found it by studying companies. We found that when they really focus on one or a few really big things, and made very disciplined decisions over time, those would accumulate and begin to build some real results. And eventually what would become the Flywheel Effect, which we’ll chat about a little bit later. And the Hedgehog Concept is the intersection of three circles. For a company, it’s doing what you’re deeply passionate about, because if you’re not passionate about it, you can’t endure long enough to really, really do something exceptional.
+
+The second circle is what you can be the best in the world at. And if you can’t be the best in the world at it, leave it to others. So, for example — it doesn’t mean being big. Right? You could have a truly great local restaurant. It’s never going to be big, but it’s the absolute best in the world at a particular thing that it does in its specific community. And no large company could come in and be better than them at that. That’s very Hedgehog, even though it’s not big. And then the third is that you have an economic engine, and you know how it works. And so, if you have the intersection of those three, our energy is going to go into things that we’re passionate about, and we can be the best in the world at, and that drive our economic engine, you’re in your Hedgehog. Now there’s a personal analogy to the Hedgehog, and this gets back to the bug book.
+
+I’m not a big believer in thinking of traditional careers, I’m a big believer in thinking of finding your Hedgehog, and then really building flywheel momentum with that over time. And so the personal version of the Hedgehog is, again, doing circle one, what you’re passionate about and love to do. The kinds of stuff that when you do it, you say, “I sure hope I get a long life, because I really love doing this.” The second circle isn’t best in the world, because if you said, “Well, if I can’t be the best orthopedic surgeon, I won’t do it,” well, then we’d only have one. Right? That’s not good. So it’s what you are encoded for. And what you are encoded for is different than what you’re good at. So when I went to college, I thought I was going to be a mathematician. Because I was one of those kids that was good at math. That’s why I majored in math sciences.
+
+But then I met, at Stanford, the people who are genetically encoded for math. They were not me. I was good at math, they were encoded for math. It’s like being an athlete where you thought you were a good athlete until you met the incredible, naturally gifted athlete, and you realized, “I could never see to spin to the basket like he did.” Or, “I could never see to put the ball there running down the field, playing soccer, in the way she did, I just wouldn’t have seen it.” There’s a gift. That’s the encoding. And so you have to find what you’re encoded for as distinct from just what you’re good at. And then the third is, you have an economic engine. And you can fund your goals, your objectives, the things you are trying to get done. When you have all three of those, I’m passionate about it, I’m encoded for it, and I have an economic engine in it, now you’re in your Hedgehog.
+
+Now, when you’re in your 20s, there’s all these paint-by-numbers kits approach to life. Right? You can be a professor. You can be a businessman, you can be a lawyer, you can be whatever, right? And the nice thing about a paint-by-numbers kit is you actually don’t have to think about it that much. Because as long as you stay in the lines and you paint, you’re going to and up with a nice picture at the end. But the only way to paint a masterpiece is to start with a blank canvas. And that is from figuring out those three circles, and then making your own unique series of decisions consistent with the Hedgehog of those three circles. And they may or may not fall into a traditional bucket. And so I was trying to find my way.
+========,9,title.
+And I started this little book, and it was inspired by a mentor named Rochelle Myers, who suggested that what I do is I study myself like a bug. And imagine with dispassionate objectivity as you’re going through life, you’re making notes where you’re observing the bug called Jim. But very scientifically, clinically. And so I remember, I was working at HP for a couple years out of graduate school. Great company at the time, for sure. But I wasn’t really constructed to be in a large company. But I was trying to navigate my way. And one day, I had to give a presentation on how network computers work. And this was back in the 1980s, when it was early on in that. And I had to figure out how to communicate to everyone, really, the essence — and on our team — of how network computering was going to work and how it fit together. And I had to sort of conceptualize it. And then I had to teach it.
+
+And all of a sudden, I had this day where it was like, “Wow, that was really fun, to figure it out, to figure out how to conceptualize it, to figure out how to put it in concepts everybody could understand, to share it with everyone, to teaching it.” My bug book, what I’m then writing, “The bug Jim really loves making sense of something difficult, breaking it down into understandable pieces, and teaching it to others.” It was an observation in the journal. The other thing might be something like, “The bug Jim would really languish if he had to spend a lot of time in senseless meetings. This is not good.” And constantly observing, and then eventually that allowed me to — it was that sort of observation, clinical, that allowed me to eventually head back to teaching at Stanford when I was 30, which then became really the start of the real journey of what happened.
+
+With the bug book, did you write things in the bug book each evening, did you do it — keep it in your back pocket, and when there was an outlying, impactful, or emotional notable event you’d write in it? What was the structure to how you used it, if there was any?
+
+At that time, and I’m more now just kind of in the coding we described earlier, because I’m one of those really lucky people that I found this stuff early. And I remember the moment I hit the classroom at Stanford, first teaching a small business and entrepreneurship class, I just knew, “I’m home. I’m in the three circles. I know what’s going to guide, in some version, some permeation of this, probably for the rest of my life.” And I just knew it. But until then, I had to kind of get to where I could see that. And so, for those years, I would say — I bet if I went back and looked at it, and I haven’t done that, they’re in my basement — I’ll bet you that probably five out of seven days there’s reasonably thorough entries in there.
+
+And those entries would also be things like noting, sort of projecting out — and a lot of it was often what I would describe as pattern recognition. Where you’d be noting things, but I would also always be scanning for people that — I could see them — people much older than me. And the question is, I could somehow picture that some version of what they do, somehow resonated. And I would note that. What was it about it that resonated? Why did I look up to that person? I’d spent a lot of it not just on my own experiences, but also very much on people that I admired. Not people from afar, people I knew and observed. Not their achievements, but something about the quality if what they were. And that was also a big part of that observation process.
+========,9,title.
+Okay. This is the perfect lay up segue, so thank you for what you just said, to a follow on to you mentioning that you’re 61 years old …
+
+Yep.
+
+And I read in a piece in The Irish Times, and you can feel free to fact check this, but you were quoted as saying, “The big years are 60 to 90, to me. I want to dwarf what happened before this with what comes next.” And in between — that quote was broken up in two pieces. It says, “He adds, pointing out that when he first met Peter Drucker, then aged 86, the Vienna-born sage still had 10 books left in him.” So what McPhee is to you, in a way, wanting to know what it was like to study under him, Peter Drucker is to me. So I have a copy of The Effective Executive, and I’ve read it more times than I can count. I’m fascinated by this man, but I’ve never actually spoken to anyone who has spent any time with him. Would you mind just explaining who he is, for people who don’t know, and then, just talking about your history with Drucker?
+
+Well, first of all, on The Effective Executive, I was very honored to have the opportunity to write the foreward to the 50th anniversary edition.
+
+No kidding!
+
+Yep. Yep. And you might want to look it up, because I stood back and I essentially said, “I’m going to distill 10 things I learned from Peter Drucker” in that foreward, some of which tie into The Effective Executive, but some were sort of broader than that. And it was very interesting to sit down and sort of think about some of those things I learned from Peter. So let’s just sort of intersect a little bit with Peter. And Peter was — boy. So, let’s talk about who luck, okay, as an intro to that. I have been so who lucky. And it didn’t start that way, because I didn’t really have a great relationship with my dad, and he died young. And so I kind of decided I would create my own father by reading biographies and people that I really looked up to.
+
+And I formed a personal board of directors, came up with that idea in the 1980s. And started putting people on it. And they’re often people who I just admired for their character more than their accomplishments. And I would let them shape me. And I hope a little bit later we might have a chance to talk about one really amazing person in that, a fellow named Bill Lazier, one of my mentors I learned from. But Peter was a person who I just — if somebody said to me — well, somebody did say to me. A fellow named Tom Brown, from IndustryWeek magazine, way, way back when — I don’t even think we published Built to Last yet. Did an interview with me and Jerry at Stanford, and he said, “Who was most of a role model for you, that you most looked up to?” And I said Peter Drucker. He said, “Why?” And I said, “Well, because he really asks big questions.”
+
+And so, Tom, unbeknownst to me, had previously interviewed Peter for something. And he calls up Peter and he says, “There’s this guy, he’s maybe going to take his own path. He really admires you. He’s 35 years old. He’s up there teaching at Stanford. Would you be willing to spend some time with him?” So out of the blue, I get this voicemail.
+
+Oh my god.
+
+I get this voicemail, and I hesitate to try to mimic the Austrian accent, because it just sounds terrible, but it was something long the lines of, “This is Peter Drucker.” It’s coming through my voicemail. And he says, “Would you please give me a call, I would love for you to meet with me.” Okay. So he’s almost exactly 50 years older than me at this point. I’m heading to 36, he’s heading to 86. And I call him back from the Seattle airport. And I call him up, and I said, “Mr. Drucker, this is Jim Collins,” and he yells into the phone, “Speak up, I’m not young anymore!” And so I’m yelling into the phone. We arrange this day, and I think it was December 10, 1994, if I recall correctly. And I get on a plane and I go down to Claremont.
+========,9,title.
+And by the way, this was — let me just pause here for something, for anybody, you, anyone that’s listening. If somebody is willing to give you mentor time like that, you owe it to them — and to you — to go prepared and then to do a lot of writing after. So I put an entire couple, three days, into preparing for being able to meet with Peter. And then when I came home, I still probably have, I’m sure, my notes. I mean, I sat down, and I just processed, and wrote, and wrote, and wrote everything I gleaned from that meeting, and there were other interactions later, but that meeting. And that notion of you owe them the respect of going prepared. It’s not like, “Hey, I want to hang out, let’s network,” it’s not like that. Like you need to go. And then you need to process, and then you need to make good on it.
+
+And I, last year went — I had the great privilege of being able to spend a day with Jack Bogle. And that’s an interesting story how that came about. But I spent two weeks preparing. And then probably three days codifying all my notes after, of what you learned from this great man, who only had, it turned out, one year left to live. And so, if you get that — you need to do it. Because that’s how you get the return on the who luck, and it’s also how you honor them, that you’re not taking their time; you have to make good on what the time they spend with you. So I went down there, and I knocked on the door, and he lived in this modest house. You gotta picture it. It’s this modest house in Claremont. And there’s a little bit of paint needed on the door.
+
+And I knock on the door, and nothing happens. And then, finally, he sort of yells, wants me to be patient, he’s kind of curmudgeonly, and the door flings open, and there’s Peter. And he grabs my hand, in two of his. And he says, “I’m so very pleased to meet you. Please come inside.” And we went and we sat, and I have, still, this image of myself of, this is the model I still have in my mind, of the next 30 years. In many ways, just to pattern after, that way he had some sense of grace, but also the simplicity. He sat in a wicker chair. And a few years ago, they had — when they turned his house into a museum, they had the first ever wicker chair lecture, where you get to sit in Peter’s wicker chair and get a lecture. And I got to give the inaugural wicker chair lecture.
+
+That’s amazing.
+
+Which was — well, and the chair felt really big, by the way. It was Peter’s chair. And he was asking, “Why do you want to do this work? Why do you want to pursue these questions?” And I kept trying to ask him questions, but he kept asking me questions. And then finally we got to go to lunch. And I got a chance to start asking questions. And I asked him at that lunch which of his 26 books he was most proud of. “The next one!” He did write 10 more. He was 86. And years later, when I, again a great privilege, had the chance to keynote the Drucker centennial —
+
+He died at 92, and Claremont asked me to come and give a keynote talk at his inaugural. I mean, at his centennial of his birth. He was born in 1909. And it’s actually — I think this is on YouTube, they put it up on YouTube, I went — I said, “I want to go see the shelf.” And the shelf was all of Peter’s books put out chronologically based on when he wrote them, first editions. And I said, “Where on the shelf is he aged 65?” And the answer was, when you pointed to it, 1/3 of the way across the shelf.
+
+Oh my god. That’s amazing.
+
+Isn’t it? And after that, they were so kind. They sent me a photograph of the shelf, this kind of a long version photograph, it kind of goes all the way across. I have it above my writing desk. And I look at it, and I picture a little note, that I’m not to 65 yet, right? I picture a little note which is, “You are here.” And it’s about 25 percent of the way across. And I don’t know if I’ll ever be as prolific as Peter was. But I’ll share with you what I think was — there’s so many things that were great about Peter. But here’s what I think was really great. People think he was a management thinker.
+
+And he was. He was the greatest management thinker of all time. But as I stood back and looked at all of his work, and tried to think about what he was really doing, I think he was in pursuit of a giant question. And the best way you can articulate that question is, “How do you make society both more productive and more humane?” If you think about it, that is one of the great social questions. How do you make our society both, simultaneously, more productive and more humane? And I think when you look across the arc of his life, it was guided by a gigantic, beautiful, beautiful question.
+
+Thank you so much for that story. I’m just envisioning you seeing him sitting in that chair, and then later sitting in the chair, and how surreal that must have felt.
+
+It was surreal. And in a way, it almost felt, no, this is Peter’s chair. Although I recently have started this thing around here where, what I describe as wicker chair meetings. I don’t have a wicker chair, but I’ll just sometimes meet with people that just — there’s something, we’ve crossed paths, and it’s just like, “Oh, we’re going to sit down and have tea for a little while.” I think of those as wicker chair conversations.
+
+Well, I could spend the next hour on more questions about your experience with Peter, experiences, I should say, but I will go read the foreward, because I must have an older edition. I will go find the foreward with some of the lessons learned. Could you give us one of the things that — whatever comes to mind, that you learned from Peter, if you wouldn’t mind sharing that. And then —
+
+I’ll share with you two.
+
+Perfect.
+
+Actually — there are so many, because I had 10 of them, but won’t do all 10. One is: don’t make a hundred decisions when one will do. And the idea of that is that Peter believed that you tend to think that you’re making a lot of different decisions. But then actually, if you kind of strip it away, you can begin to realize that a whole lot of decisions that look like different decisions are really part of the same category of a decision. And that what you want to do is to then be able to say, “No, I’m going to make one big decision” that will be replicated many, many times. Because it kind of conceptually captures — for example, one version might be — in my own case, you get — and I’m sure you encounter this too.
+
+You get lots of wonderful, interesting invitations. Things to go do this, or to go do that, or to speak at this, or whatever. They’re wonderful. Never be ungrateful for those opportunities. But you have to be very selective about what you do. And so as I was struggling with how do you decide which to do when you’ve got to say no to most of them, they all can look like a series of individual decisions, but then, actually no, there’s actually a couple of really big decisions. Is it a great teaching moment, potentially? And will you learn something? Okay, that’s like a meta decision.
+
+And now you can sort of strip away — is almost like, actually the question is, “Is it a great teaching moment possibility? Or is it not?” is very different than “Should I go to Austin and do this event?” Right? Or “Should I meet with this person?” They look individual, but they’re really part of a whole. That’s one. And you can think of that as the simple thing, like what you wear. You can make a thousand different decisions, or you can make one big decision and wear the same thing all the time, I suppose. The second is, the one that — and I’ve shared this with some others, but it’s so powerful. At the end of that day with Peter, I asked him how I could pay him back.
+
+And he said, first, I had already paid him back, because he had learned. And then he — and you gotta remember this was when we were doing a Thelma and Louise thing. We were really scared, right? We didn’t know if this was going to work. And I was launching out to try to do this self directed path. And genuinely scared. And Peter said to me, he said, “But I do have a request. That you change your question a little bit. It seems to me you spend a lot of time trying — worrying about if you’re going to survive. Well, you’ll probably survive. And you spend too much time thinking about if you’ll be successful. It’s the wrong question. The question is, “how to be useful?” And that was the last thing he said that day. He just got out of the car, and closed the door, and walked away.
+
+That was the Peter Drucker mic drop.
+
+Yeah. It was. It was. But you know, I find that I go back to that over, and over, and over again.
+
+We have many, many avenues that we can go down. Hopefully this is not the first and last time that we have a chance to have a conversation like this, but I want to define a term that’s come up a few times already now.
+
+Mm-hmm (affirmative).
+
+And that is, flywheel.
+
+Yep.
+
+And you have a monograph, a new monograph which is out, Turning the Flywheel, subtitle Monograph to Accompany Good to Great, but let’s start with the term flywheel itself. What is a flywheel?
+
+Yeah. And also, describe why I chose to put creative hours into this, because there was lots of other things that are in the pipeline still. And things that haven’t gotten at. Why flywheel extension? Since the flywheel chapter already exists in Good to Great, Why would I then write a monograph? So the idea behind the flywheel, we were looking at — let’s go back to Good to Great. We’re looking at — the question was, “Why do some companies make the leap from good to great, and others who are the same, in the comparison set, of situation, moment in time, resources, industry, customers, did not?” So it’s always the difference. And we went into it. I had this bias towards believing that a dramatic transformation would happen in a dramatic way.
+
+And sort of thinking that there would be an aha moment, a miracle moment, a point of breakthrough. You can really sort of see — there was this grand thing that happened. And that was an assumption. I don’t know if I had it so explicit, but it was kind of in my mind. And then when we started interviewing, we were very lucky because we got to interview all the key executives, many of whom are no longer with us, that were still alive. That had been on those teams when they made those leaps. So what was it like when you were there? What was happening when you were there? We coded all the research, and so forth. And one of the questions was something along the lines of, “How did you know? What was the point of breakthrough?”
+
+And repeatedly, we kept getting a response which was, “I don’t get the question. That’s a stupid question. There was no miracle moment. There was no moment of breakthrough. I don’t think it was a dramatic as it sounds. It was more of a gradual process. It was like an awakening that kind of happened in steps.” We just got this over and over again. It began to dawn on me that the way something really dramatic appears to those looking in from the outside is different than the way it feels to those doing it on the inside. And so it’s like if you’re watching an egg, and nothing’s happening, it just looks like an egg is just sitting there. And then, all of a sudden it cracks open and out jumps a chicken.
+
+Well, you could have a big thing. Radical transformation of egg into chicken. And visionary leader transforms egg into chicken. But what it’s look like from the chicken’s point of view? It’s just kind of one more step after a whole bunch of stuff that’s been happening inside the egg that you couldn’t see until it cracks open. So observing that the way it looked and the way it felt were different. And the way it really happened on the inside, even though you could see the inflection on the outside, the best analogy I could come up with was a series of good decisions, supremely well executed, taken with disciplined thought, that added up one upon another over a very long period of time to produce a great result.
+
+And so I had this image of pushing a giant, heavy flywheel. And you start pushing it in this intelligent and consistent direction. You start pushing on the flywheel, and after a lot of work, you get one giant, slow creaky turn. And then, you don’t stop. You keep pushing in the direction of those three circles we talked about earlier, what you’re passionate about, what you can be best at, what drives your economic engine, so it’s not random pushing. And you eventually get two turns. And then you keep pushing. And eventually you get four. They start to add upon each other. And then eight, and 16, and 31, and 64, and a hundred, and a thousand, and then 10 thousand, and then a hundred thousand. And then, at some point, all that cumulative momentum, all that, sort of like this —
+
+There’s a breakthrough that happens, but how did it happen? “What was the one big push that made it go?” is a nonsense question. It would be like asking, “What was the one investment that made Warren Buffett Warren Buffett?” Doesn’t make sense, right? So it’s a cumulative effect. And then we observed in the comparison companies that they bought into the idea of these dramatic moments, or radical transformations, or cultural revolutions, or whatever — savior CEOs. Anything. They were trying to jump to breakthrough in one big step, rather than the building of the flywheel. And that was the doom loop. And so we wrote this chapter called The Flywheel and the Doom Loop, which was chapter eight of Good to Great. And it really captured —
+========,9,title.
+It was a really neat chapter because it, for me, turned it on its head about how it actually happens. And it came from the research. It was all from the research. So then, after publishing Good to Great, it changed our lives. And I’m very grateful for how many people it reached, but right around the time of its publication, in 2001 — it was published in September/October of 2001, I was invited up to Amazon. And the flywheel principle was embedded in Good to Great, it’s a fundamental principle of how great companies get built over time, ones that last, and so forth. And I knew the principle. And I was there with executives in Amazon, and all I did was teach.
+
+I just taught them the principles in Good to Great, and particularly the flywheel. Coming out of the dot com. It was like, “Don’t respond to this as an event; respond and build a flywheel.” And great students often take things and make them even better. And what they did was they took the flywheel and then made it their own. And what they did was to say, “We’re going to harness the flywheel principle that came from Good to Great, but we’re going to do it by getting clear on ‘What is our flywheel?’” And so, to really harness the flywheel, then you have to be able to say, “Okay, that’s great. The flywheel principle is the principle, but how do you then turn that into your own flywheel?” What is the flywheel?
+
+And what the Amazon people did, kind of in a more simplistic form, and I’ll just grab it here, essentially they had this reinforcing loop. If you lower prices on more offerings, well, then you almost can’t help but go down to the next step in the flywheel. Picture a circle going around to increase customer visits. And if you increase customer visits, well, then you almost can’t help but get more third-party sellers. And if you get more third-party sellers, well, then you almost can’t help but expand the store and expand distribution. And if you do that, you can’t help but grow revenues for fixed costs. And if you do that, you can’t help but be able to lower prices on more offerings, which is going to attract more customer visits, which is going to attract third-party sellers, which is going to expand the store and extend distribution, and you can eventually buy Whole Foods and all the other stuff. You’re going to grow revenues for fixed costs and then, boom, lower prices on more stuff, etc., etc.
+
+Now the beauty of that was that they got very specific. And what I came to understand was the flywheel principle best comes to life when you can really capture it. But here’s the key: people talk about flywheels. We have a flywheel, whatever. And what I came to see is that people didn’t necessarily really have a flywheel, because they didn’t understand something deeply important about what a flywheel really is. A flywheel is an underlying, compelling logic of momentum. It’s not a list of steps. Drawn as a circle, called the flywheel. Rather, there’s an inevitability built in. If you do A, you almost can’t help but do B. And if you do B, you almost can’t help but do C. And if you do C, you almost can’t help but do D. And around and around. And it’s driven around because there’s an underlying connection. There’s a logical sequence that builds dynamic momentum, because A drives B drives C drives D and around back to the top of the loop. Then, if you can kind of stand back and then say, “We need to engage in the very hard thinking of figuring out exactly how our flywheel turns. What is our flywheel?” In a way that truly has that inexorable driving momentum within it. Different organizations will have different flywheels, different people will have different flywheels. You have a flywheel, right?
+
+Then, the key is you build it over a long period of time. The power of a flywheel is that it’s an underlying logic, it’s an underlying architecture. It’s not a single business, it’s something that can be extended. You can then extend it into new things as you experiment and find new things that will drive the flywheel even further, whether it be going from military bombers to commercial jetliners, in the case of Boeing, but the same underlying architecture. Going from memory chips to microprocessors, in the case of Intel, but the same underlying architecture.
+
+What the Flywheel monograph is about is basically after — I like to say to people, “Just because you’re the one who articulated the principle, as we did in Good to Great, we uncovered it, we articulated it, and it’s right, but it doesn’t mean you yet fully understand it, even if you’re the one to bring it forth.” After 15, 17 years of really reflecting on it, I realized that my understanding of the flywheel, back in Good to Great, was right but primitive.
+
+This notion of really, really thinking through the specifics of a flywheel became something that I really wanted to share with people, because I felt that people were talking about it a lot, but not really understanding it. That’s what that’s about.
+
+Just for people who may be wondering, when you say monograph, one way to think of this would be as a short book. It’s, I think, 46 pages.
+
+About 40 — yeah, yeah.
+========,9,title.
+Yeah, 40 to 46 pages. In that, you also talk about — you give other examples and walk through Vanguard, Cleveland Clinic. You did mention earlier, and I don’t know if this is in the monograph as well, but possibly asking you about what your flywheel is.
+
+I thought knowing you that you might ask, so in my kind of drive for being prepared, I put a little thought into that so I’d be happy to chat about it. Let me just share one thing though about the different examples that are in there. They cover such a wide range, and we have an elementary school where a school principal uses it to create results for kids basically. You’ve got healthcare and you’ve got startups and whatever, but why a monograph? McPhee, I hope, would like this idea.
+
+A piece of writing has a natural length. A symphony has a length. “Gimme Shelter” by the Stones has a length. You wouldn’t say, “Well we should make ‘Gimme Shelter’ a 72-minute piece.” It’s the wrong length for “Gimme Shelter,” and writing is like music. It has an appropriate length for what the music is trying to do, to be. What I realized back in 2005 was sometimes you could have something that is a powerful extension idea or an ideal, it really shouldn’t be a book. It’s not enough to be a book.
+
+Yeah, 100 percent agreed.
+
+Yeah, but it shouldn’t be just an article because that’s ephemeral if it’s doable — so we were really struggling. We wrote this thing called Good to Great in the Social Sectors, which was another monograph. I was like, “What are we going to do with this? If we make it an article, it’s too perishable and too short. If we make it a book, it’s too long.” Then, well do you make it a chapter in the back of Good To Great? The problem with that is then all the millions of people who bought Good to Great need to buy another copy of Good to Great. That’s not right.
+
+Joanne, my strategic brain, said, “Well why don’t we create a monograph and publish that and start a thing about remember Common Sense?” Think of the impact of Common Sense by Thomas Paine. it didn’t have to be big. It was the right size. I thought, “Well why don’t we bring back the genre — the monograph size?” and so we wrote Good to Great in the Social Sectors.
+
+I remember printing 50,000 copies and thinking, “I don’t have 50,000 friends to give it to; it won’t sell,” and then it ended up reaching lots of people. We decided to do one on the flywheel here. My own flywheel, if you want to chat about that, I’d be happy to take a cut at describing it.
+
+Yes, please.
+
+When you do a flywheel, you need to first ask: “Where’s the flywheel going to start?” In the case of Amazon, it’s an economic flywheel that ultimately brings stuff to more customers and so forth. It starts with lower prices on more stuff, right? The Cleveland Clinic begins with getting the right medical professionals that can fit in their culture. Giro Sport Design and Intel start with great innovative products. The start of the flywheel is a key question, and in my case, it’s curiosity-fed big questions.
+
+That’s where my flywheel starts. It all starts with what am I curious about? That has to be at the beginning of everything. If I’m really curious about something, well then I can’t help but want to learn about it and do research on it. That will throw me into the research. If I do the research right and really, really throw ourselves into it and stand those creative hours of the research, well then I can’t help but have ideas and insights, concepts that come out of that research. Then, if I have those, then I can’t help but want to write them and teach them and share them. That means going through the suffering of writing, as you know. Right?
+
+Yeah.
+
+To write them well and to wrap them well and to get the concepts and the right vessel, I can’t help but want to do that. If I do that, well then I can’t help but have at least some impact on the world if it’s well done. That’s the power of writing. You never know where it goes. If you have impact and reach in the world, well then you can’t help but have funding that comes from that, meaning there’s some economics that comes that allows you to do what?
+
+Fund and feed your next curiosity big questions, which then leads to the research, which then leads to the chaos to concepts, which then leads to writing and teaching, which then leads to impact on the world, which then generates funding, which then allows me to fund the next question. Then, it’s perpetual.
+
+Is it also the case that, in some cases, well I’m struggling with how to ask this question because it just occurred to me, but I suppose it is that are there as many — or is it as true that there are negative flywheels as there are positive? These vicious cycles that are reinforcing within companies that people should be aware of. Or is the flywheel, as you use it, a virtuous cycle? Should people be also looking at disabling flywheels that they might have in their lives personally or organizationally?
+
+It’s a great question. Actually, I think it could be really interesting to think about dysfunctional flywheels, right? Really think about those. I’ll offer two things. The first is that if a flywheel doesn’t seem to be working, you have to kind of get the diagnosis right. It could be that the flywheel is just — you haven’t got the flywheel right. Or it could be that the flywheel’s fine, but think about the inexorable logic. Imagine you could score each of the five or six components on how well you’re doing it, say one to 10.
+
+Suppose your scores are eight, nine, 10, nine, three, nine. The very nature of the flywheel, the fact that it’s the reinforcing logic that builds incredible momentum over time has a downside, which is that that three stops the whole flywheel. You have to be able to say, “Well maybe we have a flywheel that’s working. It’s a great flywheel, but the problem is we’re not executing on this piece of the flywheel. Therefore, the entire flywheel stalls or stops.” That’s an important thing for people to think about.
+
+If you do 5/6th of the flywheel well, you don’t get 5/6th of the momentum. You get none. That’s sort of the downside of the flywheel, because you’ve got to execute on all of it. Now going to this other question, in Good to Great, this concept came from Good to Great, which is why we go back to it a lot. There are all the other books, Built to Last, Great by Choice, and so forth. In Good to Great, and then later we explored it further in How the Mighty Fall, which is studying how great companies fall, we described this other pattern we saw in the comparison companies or in the companies that fell, which is a doom loop.
+
+You have the flywheel on one hand, and you have the doom loop on the other side. Yes, and the doom loop though tends to have the following pattern. You are grasping for some sort of salvation, a new savior, a new program, a new strategy, a new direction, a new right because things aren’t working. Because it really doesn’t have underlying flywheel logic to it, it doesn’t really get any traction. There’s a burst of hope and, well, gosh maybe this will really work. Then, that’s false hopes dashed by events.
+
+Then that produces kind of a reaction without really understanding what really worked, which then leads to another grasp for salvation. What happens is you drive yourself further and further down in that grasping for salvation, which is stage four of five stages of when great companies fall. That eventually leads to companies really going to the bottom. While you can have actually — because that’s, again, you always have the comparisons, the good to greats and the comparisons, Built to Last and the comparisons. The comparisons often, in fact, double down on the doom loop and drive themselves into the ground.
+
+Thank you for clarifying that. I have just a few more questions. Are you okay to go for another five to 10?
+
+Sure. You may want to zoom out on something else out of just sheer curiosity.
+========,9,title.
+Oh yes, that’s exactly where I’m going. I’ve observed you to be in the research for this, in your writing, also in this conversation, very data driven, very methodical, someone who trusts in the data, trusts in the data. There are two things that I’d love for you to put in context or explain for me, which at least, at first glance, don’t seem to fit. It could be that I’m misperceiving who you are, or it could be that I’m misperceiving how things transpired.
+
+The first is, well, there are two that jumped out, the first is you having mentioned that you got engaged four days after your first date. The second was around 35, 36, your Thelma and Louise moment where you had less than $10,000 in the bank. You kind of threw this Hail Mary.
+
+Yeah.
+
+Those both seem very out of character. Is it that you looked at the downsides, decided you could survive, and you ran some type of calculus? How did these two things happen? Given that you seem to be encoded to be very data driven, to think through the contingencies, to test the assumptions, and so on and so forth.
+
+I think those are related but very different situations. I think one of them is consistent with one of our principles, and one of them I don’t know where to put it. One of the key principles from all of our work is the notion that life, great things build by disciplined people, disciplined thought, disciplined action and building it to last. Then, you multiply times return on luck, luck, L-U-C-K. By the way, the evidence is very clear. The big winners are not luckier. We were able to establish that by quantifying luck and studying it.
+
+The big winners get a higher return on their luck than the comparisons, but they don’t get more luck per se. Now, and I’ve mentioned this notion of who luck all the way through our conversation and lessons from great mentors, one of the key things we’ve learned in our work, everything starts with people, disciplined people, but also just people. I don’t know how you quantify certain aspects of just things about people. I mentioned earlier friends and my marriage and just time with people you love, meaningful work with people you love and respect.
+
+With Joanne, we found each other. We both came from families that were clearly not Built to Last families. We met in Boulder very briefly, but we really met in college at Stanford. Our first date was a run. I wasn’t really a runner, but I really wanted to be around Joanne. I was too shy really to ask her out. She eventually said to me — I said to her, “So you still running?” She said, “Yes.” I said, “Well I’m thinking of upping my mileage,” which was true. I had just thought of it. She said, “Would you like to go for a run?” I said, “Sure.” I went over to her dorm room and she took me out on an eight-mile run.
+
+Oh, you want to run, do you?
+
+Yeah, you want to run? Anybody who knows the Stanford campus knows that if you go out towards Page Mill Road, you go immediately uphill out of campus. We went three miles uphill. Then, about the three mile mark, it became very clear to her I wasn’t really that much of a runner. We walked five of the eight miles back. We got to know each other really well, and that was my senior year and her junior year. By Thursday, we had simply decided to throw our lives in together.
+
+I don’t know where the data comes from that. I don’t know the evidence. I just had the sense, and I think Joanne did too, of this incredible stroke of luck that these two people had — I mean we found each other, and it was just an instinctive thing. We just did it. It’s funny because Joanne later was the Nike athlete. She won the Ironman in 1985. She was in the original Just Do It campaign, so maybe she was already thinking, “Just do it, right? We’re going to get married.”
+========,9,title.
+Anyways, we got married about six months later. I can’t say where the evidence comes on that but it’s, hands down, the best decision I ever made. Then, the key is the commitment to make it work. Relationships are about, I mean, the unwavering “We will not fail at this marriage no matter what.” You have to have some place in your life — in Good to Great, I wrote in the acknowledgements one of my favorite paragraphs I’ve ever written.
+
+It’s at the end of the acknowledgements. I was going to write about Joanne. I wrote a line which is along the lines of, “Success in the end for me is that my spouse likes and respects me ever more as the years go by. I hope, by that measure, to be as successful as she is.” I don’t know where that comes from.
+
+Yeah. You said at the very beginning of this conversation — or maybe you were quoting Wittgenstein; I can’t recall — many of the most important things transcend the capabilities of language, right?
+
+Yeah.
+
+This certainly seems to fall into that category in some respects.
+
+Yeah. One of the things that we learned in Great by Choice with my co-author Morten Hansen — another great stroke of who luck in my life. He’s a genius research methodologist and a great, great partner in Great by Choice. One of the things that we struggled with was the role of big bets and the role of new directions and innovation and so forth. One of the things that we found is the importance of empirical validation, which is really different than pure analysis and it’s a principle we called Fire Bullets, Then Fire Cannonballs.
+
+The idea being you have a certain amount of gunpowder, and you have a ship bearing down on you. Imagine you take all that gunpowder and you put it in a big cannonball. You fire at that ship, and it misses. You turn and you look back and you’re out of gunpowder. Now you’re in real trouble. Imagine if instead what you did was you fired bullets. You fired your first bullet and it’s 30 degrees off. Then, you take another bit of gunpowder and you fire a second bullet. It shoots out there, and now you’re only 10 degrees off.
+
+You take a third bullet and you fire and it hits the side of the ship. Ping. You know you have a calibrated line of sight. Now, you take your gunpowder, whatever you have, and you put it in a cannonball. You fire it on the calibrated line of sight. What we learned is that, and I’ll tie this into the Thelma and Louise moment, because what we learned in our research is that one way you extend a flywheel is you’re firing bullets.
+
+Then, every once in a while, you get calibration and then you fire a big cannonball on a calibrated line of sight, which then adds a big burst of momentum into a whole new — not necessarily new direction, because the flywheel is turning. It gives you an empirically validated big bet that can give you massive momentum.
+
+The key there is, notice though, it’s empirical validation. That empirical validation are the bullets. If we go back to the Thelma and Louise moment, there is the moment of “Gulp!” when you fire the cannonball, right? I mean you can’t just sit there, only fire bullets. There comes a point when you’ve got to fire the cannonball. In that case, I was really scared because if the cannonball didn’t hit, I didn’t know what was going to happen. We really felt out there.
+
+There were also six or seven years of bullets that had been the research we had done, the teaching in the classroom and, also, some early response to Built to Last. There was no guarantees yet, but early response and people really resonating with the ideas, right? It wasn’t like it just came out of the blue. There were bullet, bullet, bullet. There was enough calibration that this was not crazy. The question was: would we have the guts, at that moment then, to take all of our gunpowder, put it into one big cannonball, and to go?
+
+There’s a critical lesson I got from one of my mentors, another stroke of who luck at Stanford, two great professors that were there with me when I was teaching, Bill Lazier, who taught me about the importance of relationships first in life, and there was this guy named Irv Grousbeck. I asked Irv, “Do you think I should keep enough capital alive here at Stanford that if this doesn’t work out, I could come back?” Irv said to me, “An option to come back has negative value.” I said, “I thought options always have positive value.” He said, “No. Not on a creative path.”
+
+Oh that’s such an important point, yeah.
+
+Exactly. He said, “If you have the option to come back, it will change your behavior. You’re doing a low odds game, which means you have to put all in, 100 percent, full cannonball, go off that cliff. Otherwise, you’re going to hold something in reserve. When it gets really scary, you’re going to pull back. Option is not in your interest.” We took all the gunpowder and fired it out, and there was no retreat. Then, when you’re making the decisions, you’re out there like, “How are we going to get the car to the other side in the Thelma and Louise jump?” There’s no tether back; you have to make it.
+
+The good news is you’ve done a hell of a lot of calibration over six to seven years.
+
+Exactly, yeah.
+
+Just to underscore for people out there, like, “I’m quitting my job this moment.” It’s like, “Well wait, hold on.”
+
+Correct. It was calibrated.
+
+There is a burning the ships aspect to it, but it was very calibrated.
+
+Very calibrated. I don’t know about the four days, but the rest was calibrated.
+
+That was calibrated, just perhaps not with your prefrontal cortex as much.
+
+Right.
+
+There’s a lot, lot — well anyway, we could talk about, dive into that another time. I mean there’s thinking fast, thinking slow, there’s a lot to decision making, only part of which we’re able to express with language. What a story. Jim, this has been so much fun. I highly encourage people to read all of your work, but the newest, and I think this is a very, very — well, I don’t think. I mean it is a very important concept, the flywheel and the expansion upon that, so Turning the Flywheel. People can find that everywhere books are sold.
+
+They can certainly find you at jimcollins.com. Many more questions I’d love to ask some time, but I think this is a very solid session for me to reflect on. I have tons of notes sitting here in front of me. 
+========,9,title.
+I’ve been trying to take my notes quietly, but is there anything else you’d like to say, ask of people, suggest? Any parting words before we wrap up this conversation for now?
+
+If I were to kind of step way back on everything, there’s a line that Joanne uses a lot which is life is people. We’ve talked about who luck and great mentors and personal boards of directors and getting married after four days and great friendships and being on really great Level 5 teams and whatever. We get so wrapped up in all these things we’re doing or things we’re trying to get done, but life is really short.
+
+I mean you know that. You’ve named your company after the guy who wrote Shortness of Life. When you add it all up, the one thing I — with everything we’ve talked about in this, I still think it all goes back to the first who, life is people. Life, at its best, is about doing meaningful things with people you love.
+
+Hear, hear. Time with loved ones, high simplicity, time flow state, but ultimately it’s the people. Jim, is there anywhere online, besides jimcollins.com, where people might learn more about what you’re up to or say hello? Are you on this amazing, yet sometimes dreadful, technology sometimes referred to as social media?
+
+I’m firing bullets. I fired a few bullets. I’m going to fire some at this point. I haven’t done a lot with it. I’m kind of in the calibration stage. The question I go back to on that with the social media is I’ve been struggling. Remember I said earlier, “Don’t make a thousand decisions where one will do.” What I have been struggling with is “How, if I were to use that tool, do I make it great teaching moments?”
+
+For me, if I can kind of bullet to cannonball to that, then I’ll probably do more with it. If I can’t, well, I’ve been fine without doing a lot.
+
+Mm-hmm (affirmative). Where are you currently firing bullets? I have some thoughts, but is it on Twitter? Is it elsewhere?
+
+We have a Twitter account, which I think it’s called Level 5 Leaders.
+
+It is, @level5leaders.
+
+Yeah, Level 5 Leaders. We have a Jim Collins Facebook page where Amy, on my team, helps me think about some postings. We haven’t put up a lot, so I wouldn’t encourage that there’s necessarily a ton there at the moment. We’ll be firing bullets, stay tuned. Our website, jimcollins.com, everything there is designed to share and teach the ideas. It’s all really built around the ideas. When you go there, it’s an ideas driven website. We’ve taken a lot of care to try to make it a place where students of the work can come and have a almost like cyber office hours, if you will, and really learn. That’s what it’s designed to do.
+
+I will say just a few things related to social media.
+
+Yeah.
+
+The first is I’ve seen some incredible thinkers who have done a lot of deep work go down in flames after tapping the vein of social media. I would say caution is warranted. That would be my first observation. You have a history of saying no so well.
+
+Yeah.
+
+You have so many policies that have served you in providing the space for the joyful solitude of deep work. I would just say be very careful. I was going to say, when you were talking about burning your bridges, that someone had said to me, “There are three addictions that are the most dangerous addictions of all: heroin, alcohol, and a monthly salary.” I would add to that, social media. There are, however, some examples, and I’ll just give you one, of people who I think do an exceptional job of teaching using short form.
+
+There’s one person on Twitter, there are many, but I’ll point to one who is a close friend of mine. His name is Naval Ravikant. His handle is @naval, N-A-V-A-L, like Naval Academy but @naval. He might be someone to check out. People can follow you at Level 5 Leaders. We will link to, for people listening, all of these various sites, all of the work including, of course, Turning the Flywheel in the show notes as always at tim.blog/podcast. You can just search Jim Collins and this episode and all of its notes will pop right up.
+
+Jim, this has been such a pleasure and has given me so much to think about. I’m so, so grateful for having spent the last two hours with you.
+
+I’m actually very grateful as well. You’re right, I don’t actually say yes to very much at all. I’ve only fired bullets in this genre. This was one that was like, “I’m going to commit to really preparing and having a good conversation with you.” Part of it is because what I really learned about you is the care and depth of your preparation, and the fact that then you come into it with the idea of really wanting to have a conversation where you are present and engage with ideas and with thoughts. That notion of prepared curiosity, I think, is a great strength and to be able to join you in that, for me, is a real pleasure. We’re going to count at least half of this as creative hours.

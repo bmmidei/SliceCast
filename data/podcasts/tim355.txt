@@ -1,0 +1,624 @@
+========,9,title.
+Hello, boys and girls, ladies and germs, this is Tim Ferriss and welcome to another episode of The Tim Ferriss Show. My guest today is Greg McKeown. That is spelled M-C-K-E-O-W-N.
+
+Greg is the author of The New York Times Best Seller Essentialism, subtitled, The Disciplined Pursuit of Less, and the founder of McKeown Inc., a company with a mission to teach Essentialism to millions of people around the world. Their clients include Adobe, Apple, Airbnb, Cisco, Google, Facebook – you may have recognized a few of these – Pixar, Salesforce.com, Symantec, Twitter, VMware, Yahoo, and many others.
+
+McKeown is an accomplished public speaker and has spoken to hundreds of audiences around the world and in 2012, he was named a Young Global Leader by the World Economic Forum. Originally from London, England, McKeown now lives in Silicon Valley with his wife and their four children. He can be found @GregoryMcKeown on Twitter and at gregmckeown.com.
+
+Greg, welcome to the show.
+
+It’s so great to be with you, Tim.
+
+And I am looking here at a table in front of me with many, many pieces of paper spread out. They consist of printed out highlights from your book. Your book is one of the most highlighted books that I have on my Kindle. I wanted to first and foremost thank you for writing it because I found it tremendously helpful personally and it has become one of the few books that I revisit on a regular basis. So first off, I just wanted to express gratitude for you having written the book.
+
+Well, that’s awfully nice of you to say that. That’s very humbling. Here I was thinking we were going to have a bad conversation. Now I feel like we might go somewhere. That’s nice of you, Tim.
+
+Well, you know, the secret to happiness, low expectations. So it’s nowhere to go but up from here. It’s also a book I mentioned in that way because I don’t want to create the illusion that I have some type of set it and forget it solution, where the setting of priority or priorities is not an ongoing project at all times or at least very frequently something that needs to be revisited. I’m looking forward to digging into a number of different topics and portions of the book, as well as many things that are not in the book.
+
+Perhaps for those people who don’t know, could you just tell a little bit about the genesis of Essentialism, whether that is the concept or the focus itself or the book?
+
+Well, one of the initiating moments was when I received an email from my colleague at the time saying, “Friday between 1:00 and 2:00 would be a very bad time for your wife to have a baby because I need you to be at this client meeting.” Especially in hindsight, I’m sure they were joking or at least half-joking about that, but somehow, I was enough stressed in that moment or at that time between all the different competing expectations and responsibilities that as we go into the hospital, it’s Thursday night. Our daughter is born in the middle of the night.
+
+Friday comes along and I am still feeling torn. I am still feeling, “I probably ought to go. How can I go? How can I keep everybody happy? How can I do both?” So to my shame, I went to the meeting. I remember afterwards being told, “Look, the client will respect you for the choice you just made.” I don’t know that they did. Yeah. I didn’t know they did feel that. The look on their faces didn’t emit that sort of confidence to me.
+
+But even if they had, it’s obvious to you, to me, to everybody listening that I made a fool’s bargain. I violated something more important – more essential – for something less important but less essential. What I learned from that was the simplest of lessons, which is: if you don’t prioritize your life, someone else will.
+
+So that gave me fire for the deed to really dig into the subject to try and understand better why it is that we make these kinds of prioritization decisions and what we can do to be, perhaps, better at it and to actually live our life according to the themes that we’ve identified as mattering most.
+========,9,title.
+And at that time on that Friday when you took that meeting, what type of work were you doing? What was your profession?
+
+I’d spent 20 years in this field generally. So it’s leadership development. It’s writing. It’s research. I was working with Silicon Valley companies at the time. So there was a secondary part to this story, which is that I was already working with these companies and noticed a predictable pattern there at a professional level, which is that these companies in the early days would be very focused on, “This is what we’re trying to do.” It’s sort of a phase of clarity. Their clarity would lead to success.
+
+There was real alignment between if you know exactly what you were trying to do at the right time, then you could generate success. I noticed that success bred lots of options and opportunities for these companies. Well, that sounds like the right problem to have, but it does, in fact, turn out to be a problem if it leads to what Jim Collins has called “the undisciplined pursuit of more.” If these companies – and they often would – fell into the undisciplined pursuit of more, it would lead them to make decisions in such a way that they would plateau in their progress or even start to fail altogether. So I named that the Success Paradox.
+
+So it was absolutely the combination of observing this phenomenon inside of these organizations and then suddenly observing it in my own life that I realized, “Oh, this isn’t a business phenomenon. It’s a human phenomenon.” There’s a pattern here I think – especially now that I’ve put these pieces together – I can see that it’s highly relevant for people who are otherwise successful people because the very nature of success is that you will have this basic problem.
+
+You’ll be stretched too thin at work, at home, and beyond. You’ll feel often busy but not productive. You will feel many different pursuits hijacking your agenda each day. You’ll just have more than you want to do that you can do. So that’s, in fact, the normal scenario for successful people. But I felt like it was an underserved problem because most of the literature on success is how to become successful in the first place.
+
+But for many, many people, the real problem is what to do once you are – even if you don’t feel very successful, as soon as you have more options and opportunity that you can pursue, you need a new way of handling it than being in a scenario where you have no options at all. So this is where I see the book came into its own is it’s really one of the few books connected to the subject of success that’s about what to do once you are successful.
+========,9,title.
+I want to underscore at least my interpretation of that, which is by saying successful, you don’t necessarily mean someone who’s making $1 million a year or a company that’s generating $1 billion in turnover a year, but in the simplest terms, it’s someone who has more options than they can execute on in their totality. If we think about power on some level being having options, there comes a point when you have more options than you can possibly metabolize and use across the board. So you have to start to winnow that down. In that case, this is where principles of, say, Essentialism are very helpful.
+
+I thought that we might explore a little bit one of the reframes that I think is very clever and very effective, which relates to the Endowment Effect. Could you talk – certainly, I have it right in front of me if you’d like me to jump in as a reminder –
+
+If you’re more familiar with Essentialism than I am.
+
+Well, just in case.
+
+It is a possibility.
+
+I write very long-winded books and I’ve done them over a long period of time. So every once in a while, I get quoted and I feel lost. So if that happens, let me know. I have everything in front of me. Could you talk about the Endowment Effect and how you turn around questions people might ask themselves about certain things, whether that is something they own or an opportunity that gets presented to them? I think this is really important.
+
+Well, let’s use a metaphor to get to the Endowment Effect. Our closet is a pretty good metaphor for the problem and what to do about it. So for a lot of people listening, even, as you say, they don’t feel incredibly successful financially, incredibly successful in all the things in their life. Right. They probably still have more things in their closet than they actually can use usefully. It’s a bit cluttered. Maybe it’s a lot more than a bit cluttered.
+
+I talked to somebody not too long ago and they said, “Oh, Greg, my closet – you’ve identified the pain point.” They said, “I have my closet organized by decade.” So they had organized it. I said, “You don’t have a closet, you have a museum.” They have the ‘70s and the ‘80s. She’s not using any of these things. She just has them. That’s an organized version of the problem, which is we just have so much stuff. Now that is true in the physical stuff. It’s literally true in the closet. But in the closet of our lives, it is equally true.
+
+Now just staying with this metaphor for a moment, almost everybody has had a moment where they said, “I’ve had enough. I’m going to organize my closet.” They begin the process and they take an item off the shelf, off the floor, and they say, “It’s time to just get rid of this item.”
+
+In the moment of picking it up and reflecting on it, as if to give it away, something mysterious, almost magical seems to happen to many of us, which is that in that moment, we think, “I’m not sure I want to get rid of it. I can use it some time in the future. So-and-so give it to me.” Something somehow in the act of giving it away, it’s harder to give it away than it was before we picked it up to give it away.
+
+So what’s going on? It turns out there’s a heuristic, a brain heuristic pre-disposition that we have to all physical objects in our life and also all of the opportunities that we have in our life too. It is this – we value things more because we have them. That’s a good thing in certain situations. That’s why essentially owning a home is generally a good thing. People look after the home better.
+
+It explains the phenomenon of why nobody in the history of the whole world has washed their own rental car. It’s a positive phenomenon until and unless we over-value something that we really ought not to have in the closet at all. It ought to go. It is actually not useful to us. It’s not valuable to us, but we are overvaluing it and therefore keeping it. So it’s over-valuing because we own it or it’s endowed to us.
+
+So in our life, that is an incredibly real problem. I’ll give you an illustration. It’s not in the book but it’s something that happened to me that really hit a chord. It happened when I was staring at myself in the mirror dressed from head to toe in a stormtrooper outfit.
+
+Where all good epiphanies start.
+
+And I’m looking at myself and I realize two things. I realize that I have been thinking of this moment in some small degree for 30 years. This is true. I’m standing there staring. I’m in the Halloween store. This is not a cheap suit that I’m trying on. I remember that this goes back to like when I’m 10 years old. Maybe Return of the Jedi had come out or one of the Star Wars movies.
+
+One of my older brothers had said to me in passing but with quite a lot of enthusiasm, “Wouldn’t it be a great to own a stormtrooper outfit just like from the movies, like the real thing?” Somehow, that got lodged in me, “That’s an idea. That’s something you should pursue. That would be so cool. My older brother thinks so, so it must be so.”
+
+Somehow in the back of my mind, there it lives unquestioned for 30 years. Finally, I’m in the store thinking about whether to buy this. In that moment, I actually did have a eureka moment, which was: “There is no part of me that wants this. It’s stayed with me, but my 40-year old self doesn’t need this. This is ridiculous. Why are you in this suit right now?” I was able to sort of separate myself from the moment. That’s exactly what I’m advocating here.
+
+I’m saying that for a lot of us, we have a lot of – it became a shortcut phrase. My wife will say it sometimes to me now: “Is that a stormtrooper that you’re pursuing? Is that a stormtrooper opportunity?” You used to think this was the thing, but you’re pursuing it because you caught on to it. You feel a sense of this Endowment Effect, this sense of, “It’s my opportunity. It’s my thing. It’s my goal. It’s not serving me anymore.”
+
+I think a lot of people have a lot of stormtroopers in their life. So it’s not about the closet. It’s not about the stormtrooper outfit. It’s about the stuff that really we need to get past and let go so that we can pursue the right things now, not just the things we are pursuing because at one time, we wanted to pursue them or one time, they came into our life.
+
+And it seems like there are a number of ways to identify these, whether they’re stormtroopers or items, opportunities that we are endowing with greater value because we have them. We either own them or are being presented with them, right? You can take let’s just say that sweater from Aunt Mildred or whatever it is. Rather than asking, “How much do I value this item?” You turn it around and ask, “If I did not own this item, how much would I pay to obtain it?” That turnaround seems really important to me.
+
+Or in the case of opportunities – and I’m quoting directly from you here – “How will I feel if I miss out on this opportunity?” instead of that, “If I did not have this opportunity, how much would I be willing to sacrifice in order to obtain it?” That strikes me as a very powerful reframe. I think it was Andy Grove at Intel who also used this. There are many other business examples, but, “If we were not already in this line of business, how much would we pay to pursue it or would we pursue it in the first place?” as a way of pruning activities and conserving resources so they could be applied to the most important things.
+
+Yes. The idea is to trick your brain, putting it in the position where you don’t own the thing, where you don’t have the opportunity. You have to reflect on it fresh. You have to say, “Starting now, do I want this thing now? How hard would I go after this now if I didn’t own it, if I didn’t have it.” It helps us to evaluate things without this inflation of the fact that we own it, which is, of course, the Endowment Effect.
+========,9,title.
+You co-created, as I understand it, a class at Stanford GSB, at the business school.
+
+Yeah.
+
+Could you describe that class and the curriculum? I know nothing about this. It was just mentioned very briefly in passing in some of the reading I was doing in preparation for this. But could you describe the class and the intent and curriculum of that class?
+
+Yeah. It was co-created at the Design School at Stanford. The intent of it was, “Look, would people be interested in really coming together to design their life not just using design principles – which design thinking has enormous application and value to our lives – but particularly design thinking with an essentialist lens?” So if you had to come together and you had to design your life – we did it in design pairs or even in design threes, where you would be designing for each other a life around the most important things, the essentially things.
+
+If we haven’t made it clear, it ought to be made clear that this is what Essentialism is. It’s to figure out what is essential. It is to eliminate what is not essential. It is to then build a system that makes execution as effortless as possible. That’s exactly what we were doing in that class.
+
+So people would come and they would work together to get greater clarity about what really mattered versus what was just good in their life, what those very few highest values are, highest value projects, most important contributions, and then together to work out how can you start to trade off the things that are of least value that still play a role in your life, stormtroopers still taking up energy, resources, attention that aren’t really the right things. This is what we were doing. We had a variety of exercises for trying to get to that.
+
+Could you walk us through any of those exercises or describe them? One of the topics I was going to get to, of course, was how to answer the question, “Am I investing in the right activities?” or how to determine that. There are cases, let’s just say, in a sales organization, where you have very clear measurables, very clear deliverables and it’s, perhaps, rather straightforward. Then you have solopreneurs or early-stage entrepreneurs, where they’re wearing 17 different hats at a given time. They might actually have some trouble identifying the answer to this. Could you walk us through any exercises that you use with the students?
+
+Yes. I would love to do that. I would love to do that in a different way. Rather than to talk about it in the abstract or even tell a story about someone, let’s do it, if you’re game, I’ll go through an exercise that grew out of those experiences, but with you right now. Are you game?
+
+Let’s do it.
+
+Okay. This is simple.
+
+At the risk of embarrassing myself, I will agree.
+
+I don’t think you will. Anybody listening doesn’t have to overthink any of these questions. This is really simple, but it cuts away all of the concepts it gets moving. So Tim, just in your life right now for real, think of something, tell me something that is essential to you, very important to you that you feel you’re under-investing in right now. It really matters, but you know you’re not really putting the resources you wish you were behind it. Go.
+
+Okay. I would say – I’m investing in it pretty well, but probably not as much as I should or feel that I should – it would be experimenting with and researching different modalities for addressing psycho-emotional trauma, things that I have not addressed in previous books, the emotional component of life that subconsciously very often drives so many of our behaviors and patterns. It would be doing personal experiments related to that. I’ve already done that over the last four or five years, but really investing in organizing all of that.
+
+Just clarifying – it sounded to me like there’s a future book here.
+
+Potentially. It’s something I didn’t think I was going to write for probably a few decades.
+
+Yes.
+
+I’ve put it on a closer burner. It’s not on the back-burner. It’s still on a burner, but it’s been pushed from the back-burner to a front-burner.
+
+Yeah. Interesting. You can see that if you could identify the tools, really, the concrete ways of handling this kind of deeper trauma that I’m reading into this now, that you’ve experienced, that you know other people have experienced, that that could be incredibly valuable to people because it’s actually so much more universal than is obvious. It’s not talked about a lot, but it’s really universal challenge that we’ve gone through traumas and we don’t know – we don’t have the skills and the tools to know what to do with that.
+
+That’s right.
+
+It produces suffering.
+
+That’s right. In fact, many of the books that I’ve written, while I think very effective for helping people to build businesses, focus on physical performance or improve physical performance and appearance and so on, can those same objectives be used as salves  – as numbing agents – to avoid the root psychological or emotional traumas that are causing self-destructive behaviors, if that makes any sense?
+
+It makes total sense. We should go there for a moment. As a friend of mine once said to me, “Success traps are often harder to get out of than failure traps.”
+
+Yeah. I agree.
+
+So what you’re saying makes perfect sense to me. Even a deliberate, intense pursuit of good objectives to be successful could, in fact, as you’re saying, they could be a form of being stuck in a different, more positive-looking coping mechanism.
+
+Yeah. I should say also I’ll let you pick where we want to go. That would be one area I’m not investing enough in, potentially. The other would be rehabilitation of a sacroiliac injury that I have in my hip. Those are two options. We can go whichever direction you want.
+
+I don’t know. I’m kind of looking to you as to which one is more important.
+
+The first one, I think.
+
+Then let’s stay with that, then. What I’m exploring a little with you here, just to be transparent on the process, is why does it matter so much to you? You said it’s essential. You said this thing matters. We ought to identify then, really, why. Maybe we’re as far as we need to go on that. I sense in you it’s a pretty deep why for you. Whether we have words for it or not, maybe it’s like this – all of the books I’ve done before are really preparing for this.
+
+Those have all given a platform. This is millions of people, literally. Well done. You’ve built this extraordinary platform to be able to reach people to make a difference. Now what? What is the highest or deepest contribution that could then be made? As you’re doing it, there’s a sort of – there’s that quote, “That which is most personal is most universal.” There’s something about that here, which is if we get really honest and raw, we find that there is a lot of unresolved trauma.
+
+Now, we’re riffing here a little bit beyond the process, but this is something that’s very – this is important to me, the subject that we’re on too. I can relate to it in this way. One of the things that I’ve begun doing research about is intergenerational trauma and how even if in our own lives, we go, “I think my life has been pretty good and life has worked out,” and so on. What you find is that there can be multiple generations of unresolved issues that manifest wordlessly in our own lives because no one talked about them.
+
+So the ramifications are real, but we don’t have language. That’s the worst scenario to be in, to have the problem without any ability to even talk about it, to address it, to even know that it’s really there until we have language things that are not even that real.
+
+Or the ability to feel that something is off and an inability to identify what it is.
+
+Exactly.
+
+Even in the absence of words. What I would put together would be, from my perspective, or from my experience a comprehensive description of my personal journey, but also the tools that I’ve found to be most effective not only for myself but for other people. So yes, that’s very, very important to me.
+
+Okay. Let me ask you another question, which is: what is success for you? I don’t mean success like, “Okay, the book is this or that.” That’s not even necessarily the thing at this point. You could go down this journey and conclude, “Okay, no, this isn’t the right time for it,” and so on. But what is your daily amount of time that you would need to invest in this for you to say to me, “I now feel like I’m not underinvesting anymore. I now feel…”
+
+So what’s the delta between where you are right now in a daily amount and where you say, “I’m not perfect. It’s not like I feel amazing about how much I’ve done, necessarily, but I feel good about it. It’s not underinvested anymore.”
+
+This is a really good question. I want to explain why I struggle, perhaps, a bit to answer it. I think this will also be a struggle that applies to other people. This is a project where I don’t yet feel I have gathered enough research to proceed to the writing and synthesis phase, even though I’ve collected notes for almost five years. So there’s the question of, “Am I ready?” or, “Am I not ready?” or, “Am I simply putting off the next step because I am fearful of something?”
+
+I would say once I get into synthesis phase – and I am doing a lot of experiments and have for the last four or five years. I would be putting in four to five hours a day, minimum, on this to feel fully vested. I find it very difficult to put together prose in any fashion or attempt to put it together for more than three or four hours a day – so, probably three to five hours per day, but I would be thinking about it –
+
+All the time.
+
+All day, every day. It would be running in the background. Right.
+
+Seinfeld was asked recently how many hours he spent working on the recent one-hour special that he did for Netflix. How many hours did it take for him to do it? He said, “That’s like asking God how long it takes to grow an oak tree.” He’s like, “All the time. That’s what he’s doing all the time, growing trees.” He said, “That’s what I’m doing. It’s not five hours or 10 hours. My whole life, that’s what I’m doing.”
+
+Yeah.
+
+I understand that from what you’re saying. That’s interesting. Of the two, you said two interesting things, though. You said, “I don’t know what it is that’s really keeping me back from doing it.” There’s a question mark here around, “Do I spend time on more research per day or do I shift?” You’ve got a gathering of research phase and then there’s, “I’m going to consciously be applying it and writing about my applications.” It’s sort of a two-phase process that you’re following, overlapping, but still distinct. To answer my question about how much time you need to spend, you have to know which phase you’re in.
+========,9,title.
+I would also say if this is something that’s useful fodder – the fear may be as simple as fucking it up because I’ve built this book up in my mind for the last five years as almost certainly the most important book I will have written to date and may ever write and there is a clear fear of fumbling the ball when I’ve been given a fantastic opportunity to do some good. I think there’s that as well – there’s a fear of fucking it up.
+
+Absolutely. I completely relate to that. I’ve just barely begun an early process of working on a book. My mantra to myself for quite a while with this has been, “Don’t write a rubbish book.”
+
+Yeah.
+
+Actually, just recently, I think I was sharing that with my wife. She’s like, “Yeah, you might want to come up with another mantra.”
+
+Right.
+
+She’s right. I thought it was kind of funny, kind of cute, me saying, “I don’t want to write a rubbish book.” It’s not cute inside. It’s a real fear. When something is important and, frankly, from my point of view, it’s the easiest thing in the world to write a bad book. That’s what happens, in fact. Often, after a book has been successful, the next book is very hard for people to write. That alone is a fear, but then you’ve got this double-whammy fear because you’re going, “It matters so much. I cannot get this wrong. I cannot mess this up.”
+
+Yeah.
+
+I’m putting words in your mouth, but I think you can sense that that may be just an obstacle that’s keeping you back, but it isn’t really real. You’re not going to write a rubbish book, but you’re worried that you are and that worry is holding you back. Does that sound right? What are your thoughts?
+
+That sounds right to me. It’s helpful just to talk through, frankly. This is valuable for me. Your mention of the mantra replacement that your wife suggested made me think about something I was told. I can’t recall the attribution. So someone can find this, certainly, but, “Worrying is like praying for what you don’t want.”
+
+That’s brilliant.
+
+So in a sense, I have the wrong – like the antecedent framing that I have right now is preventing me from taking the most essential next actions. Okay. I accept and I agree that that’s probably a phantom worry. If I wrote a book I felt was rubbish, I also wouldn’t publish it.
+
+You wouldn’t publish it. That fear isn’t real.
+
+Yeah.
+
+What’s the better mantra for you?
+
+What is a better mantra for me? The first thing that came to mind is, “Good now is better than perfect later,” since there is a lot of suffering in the world. Not that I’m playing savior or anything like that, but I’ve experienced a lot of pain myself and found things that worked. So there’s an argument to be made that the compounding of suffering over time would mean that if I put out a book that is 80 percent of what it could be in 10 years, it’s still better that I put it out now. That may not be the right mantra, but just as an enabling belief, that could be one assumption.
+
+I like that. I’m curious about whether it’s perfectionism that is the barrier.
+
+Yes, I think that’s absolutely one.
+
+You think it is? It’s perfectionism.
+
+Well, I cut short your multiple-choice question.
+
+That’s all right. It feels like that is definitely an element. The second element is is it just the very subject itself that’s just like – I guess that is a form of perfectionism still, isn’t it? “It matters so much. It can really make a difference, but if I don’t get it right…” What? If you don’t get it right, what? What happens then? Let’s say you didn’t get it right. What’s the fear, really?
+
+What’s the fear, really? That I let people down, that I receive widespread criticism because I didn’t do enough due diligence to cover all the basis and test the different modalities that I should.
+
+Part of the big challenge in this particular arena for me, this subject matter which is so broad is that unlike physical performance, where you have many measurables, unlike in the realm of startups, where you have key metrics and so on, which are measurables, a lot of this emotional terrain is very squishy. There’s a lot of bullshit and a lot of charlatans and a lot of, I would say, imprecise thinking and faulty logic that needs to be sifted through. So it’s been a very challenging realm in which to do testing and research, if that makes sense.
+
+Oh, yeah. It makes perfect sense. We’re like in the germ theory era of emotional traumas.
+
+Yeah. Exactly.
+
+It’s a wild, wild west in comparison to what eventually we’ll know and we’ll learn about the subject. Okay. So let’s say – this is too bombastic a way of saying it – but let’s say you’ve kind of been a little bit hiding behind this concern, this fear, and we’re going to now shift towards phase two of the project, where, “Okay, I don’t have it all. Of course, I don’t have it all. There is no such thing as that. 80 percent is going to be good enough. My mantra, if it’s 80 percent good, I’m going to be able to move forward.”
+
+So let’s say you do move to the second thing. You’ve identified three to five hours. Is that additional three to five hours from where you’ve been before, are you spending some time on it now, so now you have to add another two hours?
+========,9,title.
+The way I’ve been working on it – my apologies for folks if this does not immediately seemingly apply to what you’re doing, but hopefully this is helpful to hear the two of us work through this process-wise – the research phase for me is very chunky, if that makes sense.
+
+It’s two weeks of 24/7 and then four weeks of trying to figure out what the fuck just happened. It’s not a daily slow and steady process, whereas if I were to say, “Enough is enough. Tim, you could always do more research. This is a defense mechanism you’re using to put off starting the composition of the book. Start the composition of the book,” then I would get it into a phase where I’m looking at that three to five hours a day on a regular, consistent basis.
+
+So I would say I’m effectively starting at zero because I’m in phase one, where, for instance, ending about a week ago, I was two weeks off the grid doing pure experimentation and research and gathering notes. So I have that, but then for the last week, I have effectively spent zero time on it because I am in the down shifted phase without an active experiment.
+
+Okay. Before we can move on, everything we’ve done is really covering the first phase. They’re not equal phases. But phase one of applying Essentialism is, “What is essential?” That includes, “Why does it matter? What does success look like? What is the thing you want to shift to?” and so on.
+
+I always want to emphasize this small side point, which is sometimes when people – even when they read Essentialism or certainly if they’ve heard about it at the peripheral level, they think I’ve written a book about saying no. That is part of it, but I didn’t write a book called “No-ism.” It’s about Essentialism. So that’s why the thrust of this conversation has to be there because we’ve got to get clear what’s essential, what do we have to actually change that is highly important to us. That’s what gives drive to everything else.
+
+So before moving on to the tradeoff phase, I think I can identify my core question before with a multiple choice. I don’t feel like I gave the multiple choice properly. Is the primary thing the perfectionism or is the primary thing just a personal pain, not of writing a book – that’s its own kind of pain.
+
+For sure.
+
+That’s its own kind of heavy lifting, for sure. There’s that. But there’s just this particular subject, the very nature of it is riskier – riskier to put it out there, riskier to be vulnerable, riskier to explore these things at that kind of a level, riskier to be criticized when it’s something that is so personally vulnerable. Go.
+
+That’s a very fair question. I think it’s perfectionism. I’ve spent the last handful of years coming to terms with the risks inherent in writing a book like this and the inescapable barrage of criticism that I will get. I’m really trying to, in gathering the notes, focus on or have the base assumption that it’s not how many people don’t get it that matters – it’s how many people do get it.
+
+Yeah.
+
+I heard recently in this documentary which was very entertaining called The Price of Everything – I’m paraphrasing here – but there are three categories of people – those who see, those who can see when shown, and those who will never see. I’m really, in the context of a book like this, trying to focus on the first two categories. So I’ve accepted the risks, I think, come to terms with most of them. It’s perfectionism, I think, that is the hurdle I’m not clearing at the moment, at least one of them.
+
+Yeah. I still want to be on this for a moment. I just want to support you in the process. The idea of a kind of Tools of Titans applied to this pain point just seems totally relevant. It just seems as anxiety has become the number one-diagnosed condition, beating our depression now, there’s stuff going on. There’s stuff going on. There are more traumas going on in a variety of ways, I think, is fair to say. But also, there’s more openness to talking about traumas. So all this backlog of things not discussed is suddenly being able to be discussed.
+
+And there’s just too much going on in the cloud of noise out there in social media and a variety of ways that I think people feel unsettled inside. We’ve always known there are things out there that could hurt us. We had the Cold War. There are always risks in the world. But recently, I feel like the risks feel more within people than they used to. I think it’s so relevant. I think the way that you would approach it, there are obviously people that will need it just the way you do it, weaknesses and all.
+
+Yeah.
+
+Warts and all. So that’s it. There’s phase one.
+
+Thank you.
+========,9,title.
+So let’s move now to phase two, which is what are you willing to give up to do this. Let me ask it slightly differently, which is something non-essential that you’re over-investing in currently?
+
+That’s a great question. I’ve already categorically in the last six months cut out certain things, certainly any type of book blurbs, which necessitate reading books. Those are all gone. Speaking engagements are all gone with very rare exception unless they happen to be within a 15-minute walk of where I live, which doesn’t happen very often, and so on.
+
+Your email bounce-back is just classic. It’s classic. I’ve never seen anybody that’s done this ever. Your email bounce-back has a Word attachment to it. Am I making this up? I think this is what I seem to recall.
+
+It might. It has evolved over time. It’s very clear on the things that I do not do.
+
+It is. It lists them like one after another after another, like, “None of this stuff – if you are reaching out to me for any of this stuff, there is no point. There is no point.”
+
+I do, when possible, try to point people to other helpful resources.
+
+You do.
+
+Which for whatever reason, people really don’t want to read. They want me to regurgitate it in a half-assed manner to them one-on-one, rather than just pointing them to a resource, but that’s a whole separate conversation. There are things that I’ve categorically decided to say no to because I do not do moderation well with those…
+
+With those items.
+
+Right. I don’t do moderation well.
+
+Nobody does moderation well. That’s my opinion of this. People don’t do moderation well. I decided to go off sugar a year ago, almost a year ago. New Year’s Eve, I was talking to somebody. I’d been thinking about doing it for a while. They’d been off sugar for 12 years and I’m like, “Okay, if you can do 12 years, I can do a year. I’m going to make this decision.”
+
+If I had gone 95 percent off sugar, oh, no, I’m out before I begin. Everything is an exception, “Well, that’s amazing cake. I’ve got to eat that. Oh, this is a holiday. I’ve got to eat that. It’s the weekend. I’m going out on a date with my wife, I’ve got to eat it now. She’s eating it. I’ve got to.” Everything is an exception.
+
+I think there’s a variety of things in life that are much easier to go 100 percent than it is to go 95 percent, because what you’re doing is you’re taking out the decision process. It’s done. We are not doing sugar. Now, I don’t have to think every time – and by the way, there’s a crazy amount of sugar in this world. I don’t have to think about it every time. The decision is already made. Anyway, I get it. There are a lot of things you’ve cut out. What is something –
+
+I’ll tell you. I have one.
+
+Go.
+
+So first, I want to just mention that one of the concepts in Essentialism that I really appreciated is trying to find the one decision that removes a thousand decisions, such as the elimination of sugar that you mentioned as just one example. I will tell you where I struggle. I think I’m better than maybe average Joe or Jane at saying no to things. I’m quite good.
+
+But one of the great ironies of writing a book called, say, Essentialism or The 4-Hour Workweek is that if those concepts hit and the books do well, you suddenly have a flood, a torrent of inbound requests and all sorts of new categories of things to contend with. I find myself struggling to say no to people who probably land on the spectrum of good acquaintance to reasonably good friend who asks for help with various things.
+
+There are certain things that I feel very comfortable saying no to, like the book blurbs. But I have hundreds of requests – those aren’t all from friends – but dozens for promotion of their books on social. It’s usually book-related because people want their books to sell – being on the podcast, you name it. I feel like friends who do not fully think of the ramifications of their request, often times when it’s last-minute, where they wouldn’t ever go to The New York Times the day before they have something come out and ask to have everything reshuffled for their benefit, that is what ends up happening to me on a regular basis.
+
+I think I allocate too much time to trying to explain myself to those people or placate those people in some way. I would love to hear your thoughts on best practices or heuristics related to that specifically because I don’t view myself as a people-pleaser. But nonetheless, with this particular subset of people, I do find it really challenging.
+
+There are times when people I would like to maintain a good relationship with who come to me last-minute for help that I cannot deliver without massively inconveniencing my entire team and reshuffling get very pissed in a way or they take it very personally. Maybe that’s okay. I tend to think that it is. I’m going a little long here, but I think it’s a challenge that a lot of people face. What are your thoughts?
+========,9,title.
+Let’s just agree on the problem, first of all. As a CEO friend of mine once told me, he said, “I take every time and resource estimate that’s given to me now and I multiply it by pi.”
+
+Okay.
+
+So he’s saying – I thought he was exaggerating at first – but he’s saying people so massively underestimate everything. There is another heuristic for this called the Planning Fallacy. The Planning Fallacy is saying we as humans underestimate almost all the time how long things will take.
+
+We do that even with things we have done ourselves before. Driving from Point A to Point B takes us 15 minutes, but if we are in the middle of writing an email, we will convince ourselves we can do it in five minutes this time. We’ll get all green lights. Everything is going to work out. Somehow, it will be done in five minutes. Of course, it doesn’t take that long. It takes 15 minutes and we’re late for the meeting. We want to con ourselves into it. What you’re describing, I think, has two pieces to it. The first is this piece and the second is the relationship impact of how to handle this.
+
+What you’re describing is a problem where somebody is really underestimating what their request is. They’re saying in their head, “This is a two-minute favor, Tim. It’s not hard. All you have to do is put out a tweet. How hard can it be?” or whatever. So in their head, their ask is very small. The reality is that their ask is much bigger.
+
+Right. They also don’t think about the reputational risk or anything like that of endorsing something that I don’t have time to read, for instance.
+
+That’s exactly so. So I think that there is something around this. Again, before we get to the relationship impact of – maybe you already did it, but of actually creating one page where you’ve got the email bounce-back document, having a page that says, “This is the real cost, the total cost of ownership of me saying yes to this.”
+
+And maybe there’s even – once it’s created, it can be used in a variety of ways. One is reactively when the request comes in, “Okay, I need you to read this first. I need you to understand.” But maybe there’s a proactive approach, which is like, “Look, I’m just putting this out there. This is what this actually costs.” Even what you just said, reputational costs – people aren’t thinking about that. They’re just thinking about getting their thing achieved.
+
+So being able to try and calculate all of that, the total cost of ownership, that’s what you have to do with the Planning Fallacy is we have to consider the total cost so that we don’t start projects that we don’t complete. In fact, The New York Times just ran a piece about exactly this that I’m aware of because it was quoting Essentialism in trying to address the problem, but of all these projects we start we don’t finish, this is just a version of that problem. They maybe are being thoughtless, maybe. They don’t think they’re being thoughtless. They just think it’s not a big deal for you. They don’t understand the full-range of impact.
+========,9,title.
+So I think writing this out almost like it’s a recipe. This is the cost. In that, in the helpful side of it, you could say, “So in the future, if you want to be considered, this is the process you would need to go through.” So again, what’s happening is that you’ve got to help other people’s problems be their problem.
+
+Right.
+
+There’s a story that I came across for the book that I really like on this principle. I think it’s a true story. I can’t remember now. It’s by Dr. Cloud. It’s talking about meeting with a couple, a husband and wife, parents. They come to see him and they say, “Look, our son – we have so many problems with our son. He’s on drugs. He’s drinking all the time. He’s living with us now. He’s not got a job. Everything is such a mess. It’s such a concern.” He says, “Okay. I understand. Where is he, though? You have an appointment here to deal with this. Where is your son?” They said, “He doesn’t really see that he has a problem.”
+
+Dr. Cloud says, “Well, I think he’s right.” They’re shocked at that. “What do you mean that he’s right? We just described all the problems.” He says, “Listen, if you look outside your window in the morning and your sprinkler head on your lawn is faulty and it’s spraying on your neighbor’s grass and your neighbor’s grass is green and your grass is dying, who has the problem? You’ve got the problem. Your grass is dying. Your neighbor doesn’t have a problem. Their grass is fine.”
+
+“Your son doesn’t have a problem because he’s comfortable at home with you. He gets to do whatever he wants. He’s looked over. Life is fine. He doesn’t have a problem. You have a problem. Your job now is to help your son to have a problem. Let your son have his problem. You’re well-intended, but you’ve got it all wrong. You’ve got to let him own it. If he doesn’t have a problem, if everything is taken care of for him, he can’t move forward. He can’t get better.”
+
+So now, obviously, it’s a bit strong to use that example with the example that you’ve led this conversation with, but it is a similar principle. There has to be a boundary and there has to be an education of going, “You’ve made this problem my problem right now. Let me lay this out so that you can own the problem so in the future, you can do this perhaps in a better way.”
+
+Yeah. It makes perfect sense. I was told something not too terribly long ago, maybe two years ago, which was along the lines of a line you could use with such people, although you probably dress it up a little bit, which is, “Your lack of planning does not constitute my emergency.”
+
+Right.
+========,9,title.
+Which, I suppose, in theory makes a lot of sense. But it sometimes falls by the wayside in practice due to fear of social repercussions, which we can get to in a second. I’ve had some awful experiences. I don’t want to turn this into a 100 percent Tim Ferriss therapy session, but just so people know – for those people out there who may be like, “Oh, yeah, that Tim Ferriss, he never agreed to X,” or whatever it is – I’ve had instances where journalists from mainstream publications have reached out for book blurbs or help with their own projects.
+
+I’ve very politely declined because I’ve been unable to help them in the capacity they’ve required and they’ve gone on to write hit pieces or hatchet pieces or slam pieces about me out of spite. It’s like that kind of shit happens. I think I’m a little once bitten, twice shy from a lot of those experiences, but ultimately, does any of that prevent me from doing the essential project that we discussed? Not really.
+
+That right there is, of course, exactly the point. Let’s take the opposite argument for a moment. I’ll just play non-essentialist in the conversation, which is yes, Tim, you’re getting it wrong. You’re thinking about yourself too much and every single request that someone from media or any friend or any acquaintance, anything that they want from you, you should be saying yes because you got help by lots of people, therefore, you’re under total obligation to do it for everybody else. You’ve got this wrong. Is that argument right, Tim? Is it really right? It could be right. Is it right?
+
+I don’t think it’s right. Even if it were right, it’s not sustainable.
+
+Yeah, but if something is unsustainable, that’s like foundationally clear that it can’t be right. By definition, if something is not sustainable, it will not continue. It cannot continue. So what you just said, which is awesome is, “Well, it’s correct other than it’s impossible.”
+
+Right.
+
+But you’ve just done for us a favor, which is you’ve helped us to understand the basic, foundational error with non-Essentialism. The problem with non-Essentialism is that it happens – it’s the only problem – happens to be a lie. It’s just got that inconvenience associated with it. You can’t actually do everything. You can’t actually get this next book that we’ve just identified what it is, why it matters, deeply why it matters, launched, living, and out into the universe and also do everything that people think is reasonable for you to do. You cannot do both of those things.
+
+Now, as soon as you come to terms with that, you say, “Okay, well, good. That’s not a solution I can have. That actually isn’t – you said not sustainable. That means it can’t be done. You can pretend you can be doing it for a little while. Then the book doesn’t get written. Then those people, the ones that aren’t probably asking anything from you, but they’re still in pain but you can still do something to be useful for them, provide them some helpful insights you’ve gained, you can do that or you can keep helping the people that are asking for things that really disrupt that whole process. So which do you want – which problem, Tim, do you want?
+
+The former.
+
+Right. Now, you’re right. It doesn’t make the problem go away that you suddenly go away, that you suddenly feel bad and there could be other hit jobs or other misunderstandings. That’s true. What we do is separated the decision from the relationship. You’ve got to think of the decisions into separate buckets. We’ve just done that. You understand the decision. Then of course, you say, “Well, there is still going to be relationship impact.”
+
+That is true and I don’t think you should pretend that isn’t true. Somehow, in some airy-fairy essentialist land, you can have it all. That would be violating the whole idea, which is that essentialists embrace the reality of tradeoffs. Of course, there are tradeoffs. Of course, there will be people that are frustrated. They want a piece. But just think about somebody – Oprah – how many requests are going that she can’t possibly answer? How many people send her books? Can you imagine how many books were being sent to her at the height of the Oprah show and everything? It’s just insane.
+
+Warehouses full, had to be.
+
+Warehouses full are going that way. She had to get somehow, we assume, to get to a level of peace with going, “Look, there’s no way I can touch any of that stuff. I’ve got to be truer to this voice within me of clarity about what my mission is and my essential mission and not all of this other stuff.” It’s not being unhelpful to the world. For you to say no to something that’s less important is not being unhelpful or selfish in the world. I don’t buy that.
+
+I agree.
+
+Your obligation is to the highest point of contribution you can make. I think what happens a lot is that people get caught up in the idea that, “Can I do this thing?” They pretend there’s nothing else going on in their life. The request comes in and they go, “Can I do this? Well, yes, I can do this. I know how to do this. I can make this happen.” That’s not life. That’s non-essentialist junk. That’s just rubbish. The question is, “If I do this thing, what doesn’t get done? What else gets pushed out?”
+
+Now I’m not saying don’t be helpful to people that come requesting things. There can be ways of helping people. I want to help people. But if it’s at the cost of something that’s actually more important that makes a higher contribution, we have an obligation not to do it. Now there’s one more piece here which is important, which is you don’t want to hurt these relationships. That’s where the concern really comes from.
+
+So the question is how you can deal with this in a way that minimizes the damage to you through some media outlet stuff, doing some hit piece, or help people to understand the context behind it. I think that still comes back to, at least for yourself, writing this all out.
+
+Yeah.
+
+“This is what I am trying to do and why it matters.” In a way, it’s having the conversation we’ve just had but written out so that it can be expressed again, and again, and again – the why behind this answer. The why is the thing that we miss out on. So let’s in fact move to step three. So step one was “What is essential?” Step two is, “What is non-essential?” Step three is, “How do you create a system that makes executing what’s essential as effortless as possible?”
+
+It’s a perfect way to get there at this point because having this written out document – how you’ll use it, I’m not sure about that in my own head, but if you have it clearly written out, “This is what I’m doing. This is why. This is the cost of disrupting that. This is what it does. This is who will lose out if I don’t stay focused on this now.” All of that becomes like a communication core for yourself, a place to pivot to when the request comes in and you go, “Maybe I can change everything today to make that possible.” And you go, “Hold on, let’s go back to the document.”
+========,9,title.
+My assistant was away for a while, a couple of weeks. The amount of damage I managed to do in those couple of weeks was ridiculous. The number of things I managed to commit to – actually, she was gone for a month. I’m remembering now. It was for her honeymoon. She comes back. I was very positive. I wasn’t saying, “Oh, I messed everything up.” I said, “Let me tell you all the things that have happened in the month you’ve been gone.”
+
+There was just kind of a little silence at the end of it all because – she didn’t say it, but this is what’s in the silence – it’s like, “What’s wrong with you? How are you thinking that you can take on all of those projects and all of those ideas? You aren’t thinking fully about the cost of doing all those things.”
+
+She was dead right. What grew out of that was we came up with three rules of things that I would and wouldn’t do. One of the rules was no personalization. I don’t do any personalization. So if I’m doing keynotes, workshops, whatever, I’ll listen. I’ll understand what the company or the client or conference needs, but I’m not going to redo, rethink, re-change – I’m not changing the slides.
+
+I’m not changing – there are subtle things you can do in the moment, but I’m not redoing stuff because if you personalize everything, as I had a want to do, it’s like you’re rewriting a book every time. So you have to rethink everything. That was one rule. We had two other rules. So those are so helpful.
+
+Are you willing to share the other two rules?
+
+I should know what they are if I say there are three rules and they were really useful to me.
+
+If they come up, they come up. We can also wait for them to surface.
+
+Yeah. So actually, one was don’t overcorrect based on a negative feedback. That’s a little more vulnerable to share that one, but I think everybody suffers with that. That’s why that which is most personal is most universal. So do an event, do a conference, get good feedback. One of the people in the comments says X and I think, “Jeez, they’re absolutely right. That is a valid criticism. Let’s change it. Let’s redo how we’re doing this to address that concern.” It’s the same sort of thing. It’s overreacting to it.
+
+Frankly, when you overreact to this kind of feedback, you really cause a problem for other people giving feedback. I, in hindsight, can see how that’s been in my life. Somebody who’s trying to be helpful, they’re trying to be honest. They’re giving the feedback and I’m multiplying the effect of it. So that was number two.
+
+I think number three might have been something like no new projects beyond what we’ve identified, like we’ve already identified a couple of big things I want to go after. It was like no new projects outside of that. It might have been specifically no workshop business, which is there’s always a demand for it with Essentialism. There’s always been interest in it.
+
+I always feel an obligation because one, there’s a need, people are interested, and two, I think, “Yeah, there’s a full business here and it can easily be or have been a successful business.” Those things keep pulling me into it. Whenever I start working on it, I’m like – if you’ve been in a supermarket, you see a kid on the floor, not throwing a tantrum. They’re just lying on the floor, like legs spread out, arms spread out, just like they have no energy to even get up off the floor. This is how much passion they feel for being in the supermarket on this day. They’re just like, “Nothing here is interesting. Not one part of me wants to be getting up and doing this.”
+
+That’s how I feel in that business. It is not what I’m supposed to be doing. My poor assistant has had to hear me say that in one way or another say that so many times, “Okay, I know, I should do this. Okay, let’s do this. We’re going to make it happen.” Finally, she’s like, “Look, there’s no part of you that wants to do this. Why are you doing this?” So I think those are the three rules we got there.
+
+So instead of stormtrooper, you could use floor angel as a short answer to that one, doing floor angels.
+
+Floor angel projects. That’s exactly what it is. So we’ve identified only a little bit here of building a system for you. I don’t want to short-change this too much. We need to do a little more, which is you’ve identified now something that is essentially to you. You’ve identified something that’s non-essential, but all good for you, that’s risky for you that you could give up.
+
+So there’s a tradeoff now. So we have an essential tradeoff. But that’s not enough. As soon as we finish those conversations, all of those dynamics that have been there before still are there. There is a system in place that keeps you away from getting on with this next book. It keeps you saying yes to requests and feeling really fearful about pushing back. We’ve identified one thing certain you can do to build a system, which is writing this all out so that you have it there so that you can either say in person or put in email or express clearly the why – why this cannot simply be an easy yes, why this is a costly yes.
+========,9,title.
+This makes me just think for a moment about this simple idea, which is that to every request, whether the request comes from somebody else or from within ourselves, which is where a lot of the non-essentialist stuff comes from, there are only three options. You can say yes, you can say no, or you can negotiate. That’s it. I think what happens is that people default yes because they’re so fearful of the rude no and its effects.
+
+So they forget that there is a negotiate part of this. There is an educate part of this. That’s what I think this document can help with is reminding yourself, getting yourself clear and then you can educate other people too because they just don’t know. They don’t understand what their request really means and what the cost really is. So that’s one thing.
+
+But there’s got to be more. We ought to do something else that will actually help you make the shift. Let me just ask one more time – do you want to make the shift? Do you want to make this tradeoff?
+
+Yes, I do.
+========,9,title.
+So what would help do it? You’ve got masses of ideas yourself already of hacks and tools and tricks to be able to help you to execute when you otherwise wouldn’t. You can definitely help co-design this – that’s how we began, the Design School at Stanford – to help actually design a system that’s weighted in your favor. We know when we’ll get there. We’ll know when we’ve achieved it because on the day you don’t want to make the tradeoff, you’ll still make it.
+
+Right.
+
+On a day that you don’t want to make the tradeoff, you’ll still make it. That’s when you’ve got a system working on your side.
+
+Yeah. I should also note for people listening – it applies to diet, applies to exercise, applies to just about anything where a system can be designed that is weighted in your favor in such a way that it’s unlikely to fail.
+========,9,title.
+So one question/topic that would be very helpful to hear you talk about – I’ve thought about it quite a lot, but I’d love to hear your thoughts – it will give me also an excuse to read something from your book that I enjoy – is determining what a fair, well-reasoned, polite decline looks like and recognizing that I only have control over the delivery of that message, not how people emotionally respond to it and really just leaving it at that. I have delivered my message in a fair, even-handed manner and it’s up to the recipient as to how they want to respond and if they overreact in some negative way, that is their problem, not my problem.
+
+On a meta-level, I just want to mention one line that I highlighted in your book. I’ll mention two. The first is: “Make your peace with the fact that saying no often requires trading popularity for respect.” I’ll just read this part here. “Yes, saying no respectfully, reasonably, and gracefully can come at a short-term social cost, but part of living the way of the essentialist is realizing respect is far more valuable than popularity in the long-run.”
+
+This gives me an excuse to just read – I don’t think I would use this exact text, but Peter Drucker, who is one of my favorite authors, his extremely boringly titled book, The Effective Executive, remains one of my repeat reads, but his response – you may have to help me with the last name here – is it Csikszentmihalyi? Is that the professor he’s replying to? He’s replying to a request.
+
+His polite decline goes as follows. “I’m greatly flattered by your kind letter of February 14th, for I have admired you and your work for many years and I have learned much for it. But, my dear Professor C.,” I’ll just abbreviate, “I’m afraid I’ll have to disappoint you. I am told I am creative. I don’t know what that means. I just keep plotting. I hope you will not think me presumptuous or rude if I say that one of the secrets of productivity, whereas I do not believe in creativity, is to have a VERY BIG wastepaper basket to care of ALL invitations such as yours. Productivity, in my experience, consists of NOT doing anything that helps the work of other people, but to spend all one’s time on the work the good lord has fitted one to do and to do it well.”
+
+That’s very clear and very direct. Do you have any suggestions for templates or favorite ways of saying no to requests from people you know that you simply cannot or do not want to comply with?
+
+Let’s just pause for a second on that story. How do we have the text? Why do we know that’s how he responded? We know because it got published in the book on creativity, positively saying this is one of the keys to creativity. I reached out to him and he showed me this and I learned something in the process, which is that highly creative people are willing to block out space to do the work that they are built to do and want to do and aren’t just doing everything that everybody else is doing or everybody asks of them.
+
+So what it helps us to identify is that there is such a situation as being able to push back, say no, and there to be a promising result come from it. I liked your email bounce-back. This was positive to me. I learned things from it myself. There is such a thing – often, we’re such novices at no.
+
+We’re just so fearful of it, we don’t learn how to do it, and we don’t do it. So we just assume that bad things are going to come. Sometimes they do, but I think that we have to do like reverse pilots sometimes, where we try not doing something and saying no to something or just not doing it at all and seeing what the effects are and learning from it, in a way.
+
+In terms of a template, I’ve explored lots of templates and lots of things. An example that came up recently I really liked that illustrates one way to do this is from Warren Buffett. Warren Buffett – respected? Yes. Quoted all the time, arguably the most respected investor ever – he’s constructed a system in his life that allows him to communicate and give back to people through his annual conference, for example, but that doesn’t mean that he’s saying yes to every request along the way.
+
+In fact, there’s an interesting story – Tony Robbins tells a story in his book on finance about Warren Buffett in which he basically failed to get Warren Buffett to ever be interviewed for his book. He’s getting all the big top investors and he’s priding himself on being able to access these people. He’s using all of those names, people, and those relationships to go after Warren Buffett and keep tapping him for an interview. Still, he’s not getting anything.
+
+Then they’re at some media event together. He’s leaving and Tony is going on to be interviewed. He catches him for a second and he says, “I’m doing this book. So-and-so is reaching out to you and I’d love to have you in this.” His response was, “Oh, I think I just said everything I can say on that subject. I don’t think there’s anything else I could add to what’s already out there.” That’s his polite no. The people that are best at it I don’t think are saying no.
+
+I don’t even think they have to be, as Peter Drucker was – that was a particularly explicit way of dealing with it, right? I don’t think that’s necessary either. I think you can be very quiet, happily, gently, “I just don’t think I can add anything for that project. Thanks for thinking of me. I just don’t think I’d be the right person for that. I just think I’ve done everything I can do on that.”
+
+It’s so important. Warren Buffett – I cannot find the original citation of this that it’s him, but he’s quoted as having said that the difference between successful people and very successful people is that very successful people say no to almost everything. That’s what he’s doing. I think what I’m trying to say is sometimes you can simply say no. It does depend on the relationship and the request. But also, I think sometimes it’s just the best no is a yes. It’s saying, “Look, yes, I’m doing this. So I couldn’t do anything beyond this.”
+
+You’re requested to be interviewed for something, “Yeah, I’m working on this book. This really important project. It’s high-risk for me. I think it can make a huge difference but it’s consuming all of my energies and creativity right now to do this right. I just can’t get this wrong. That’s what I can do.” I think it’s starting with the yes. I think the best no is really saying the yes that we’re committed to, saying what we’re doing.
+
+And you’re right, sometimes people are going to react badly. But if we’ve been useful within the parameters that we’ve identified – for example, if you can actually do a favor for someone in five minutes, if you really have a system that allows it to be five minutes, fine, five-minute favor. I can be a believer in that. Disciplined giving – I’m a believer in that. But within that context you’ve made, if then somebody is upset, takes the victim approach, it’s basically throwing a tantrum. That’s no fun for anybody.
+
+But that’s not a good enough reason to have said yes to it, as every great leader has ever dealt with and every great parent has dealt with almost on a daily basis. Every great parent dealing with a situation wants something and they may throw some sort of tantrum. There’s no major tantrum because they didn’t get the thing they wanted, of course. We just have to be adult about it and mature about it and recognize you’re not going to keep everybody happy all the time. What a con.
+
+Yeah. Definitely. You have – is it four kids?
+
+Yeah, not very essentialist of me.
+========,9,title.
+But you’ve had a fair amount of practice with the tantrum mitigating or at least accepting of those possible consequences. I’d love to chat for a second, if we can – this gives me an option to read also something that stuck with me from your book, which was – I’ll just read the excerpts. This is a case study of a gentleman named Geoff. It talks about his progressive burnout, effectively, but he ultimately “paid a high price to learn a simple, yet essential, lesson and that is protect the asset.”
+
+Then I thought this was worth mentioning for people who are Type A personalities, achievers who are very good at getting things done or pride themselves on that. The quote is as follows. “In the many hours Geoff spent resting, he came to see an interesting paradox,” resting after he burned out. “…Interesting paradox in his addiction to achievement – for a Type A personality, it is not hard to push one’s self hard. Pushing one’s self to the limit is easy. The real challenge for the person who thrives on challenges is not to work hard.”
+
+He explains to any overachievers, “If you think you are so tough, you can do anything, I have a challenge for you. If you really want to do something hard, say no to an opportunity so you can take a nap.” 
+========,9,title.
+I thought this might be a good place to explore the quarterly offsite, which I don’t recall as being explored very much in the book, but I heard it mentioned in some interviews that you’ve done. Could you, perhaps, elaborate on what the personal quarterly offsite is?
+
+It’s creating space for you to actually think long-term about what really matters in the greater scheme of things. It’s the same as any executive team. They have a quarterly offsite, an annual offsite. Why do they do it? They know if they don’t, they’re going to get buried in reacting to approximate issues instead of seeing strategically where they need to be headed and what tradeoffs they need to get there. It’s the same at the individual level.
+
+My wife and I started doing quarterly offsites two or three years ago. In fact, one of the things I did to construct a system to make sure we followed through is I did it where we had a few people come together and I was sort of leading the process, but underneath it, one of the important intents of it was so that Anna could actually have a full day once every quarter away from everything else to think about the long-term goals.
+
+What are you doing in that process? You are saying, “Okay, what’s happened over the last…” Big picture, you could say, “What’s happened in my life? What’s the long-term perspective here? Where am I? Where have I been? What’s been going on?” So you’re trying to get a clear view of your life, what’s been going on with it. Then you say, “Okay, going forward, long-term perspective, what would I like to be achieving? What feels important?” Again, it’s not just success. It’s not just goal-setting. You can set the wrong goals. It’s, “What’s essential to me? What feels like my mission to pursue?”
+
+I remember in that very first official session that we did, Anna, as she was going through the process, had identified a few things that were really important. I could tell they had been within her, but they just sort of came to the surface. One of them was – I don’t know, it might sound funny to people – but it was like horses. That’s a weird thing to say, isn’t it? That’s not what you expected me to say.
+
+She said, “I just had this vision of having a place with horses.” It’s not necessarily even that we were on the horses. It wasn’t necessarily that. We don’t have any horse background. It’s not like we’re horse people, nothing like that, but it was a sense of if we were to achieve what that means, our children would grow up in a certain kind of environment. It was like a symbol of a certain type of childhood. Our children at the time were sort of in the golden years, which means the years before they’re driving and after they’re out of diapers.
+
+So it’s like a magical period because you can do things. You can make memories together. You can do it. We weren’t living in a place at the time. We were in the middle of Silicon Valley, which is terrific in lots of ways, but you’re not going to end up with horses. You have to think differently. That single insight in that quarterly offsite shifted a whole sense of intent. We realized if we want to do this while our children are still in those golden years, we’re going to have to move sooner rather than later in order to achieve this dream, otherwise we’re going to achieve it after at least the eldest is out of the house and then what’s the point?
+
+So it was an insight, a strategic insight, that has had profound influence – it’s one decision that makes a thousand. There’s a whole series of things we had to do to put in process, to be prepared, to organize it, to find such a place and so on, and it took a while to do it. It took a couple of years, maybe, maybe as much as that. Now, we live in a community that you’re required to have space for horses. You don’t have to have them, but you have to have space for them.
+
+That single criteria influences change. You’re going to be around a lot of nature. Even the kind of people, in some ways, that you’re around, a certain value system they care about, all those kinds of things. That’s sort of a personal example of why to hold personal quarterly offsites. It shifts the whole direction you’re going in. It tilts and bends your narrative as you go forward.
+========,9,title.
+Do you have any recommendations for other format best practices or any best practices for personal offsites. Is it an afternoon? Is it a day? Is it two days? Is it in your living room? Is it offsite, etc.?
+
+Here’s what I think. I think it’s offsite. I think it’s in nature or thereabout. It’s somewhere that’s quiet, uninterrupted. I’ve never done this, but I know of someone that has a second phone and their second phone is like one of these credit card-sized phones and there are only two people in the world that have the number to this phone. So when they go, it means they can be reached for emergency, but that’s it. So they are just gone so that they can have an uninterrupted space, which is very hard to have these days.
+
+You want to be in an uninterrupted environment. You want to not have text and email and all of that available. I recommend you either do it on your own or maybe with one other person, a design partner that you can really go through the process. I think that the longer the perspective is, the better.
+========,9,title.
+The one I was referring to, we actually started prior to our life. We started at great grandparents, in fact – great grandparents, parents, your own life, and then going forward to the end of your life, if you have kids, grandkids, great grandchildren, or if you don’t have children, it’s just the people that you had influenced generations from now. It’s that kind of huge vision, that kind of level of perspective that helps to draw up within you an unexpected insight, something that you already know but somehow is being buried because you’re thinking about life in reactive ways.
+
+What questions do you ask or might you ask related to, say, your grandparents or great grandparents in that portion of the session?
+
+The things that include – well, first of all, write down anything you know about them. It won’t take long.
+
+Right.
+
+It’s its own kind of lesson, actually. What do you know about them? Most people, I think less than five percent of people, not scientifically, but thousands of people, many thousands of people I’ve asked this question to now, cannot name the first and last names of each of their great grandparents, right? They cannot name the first and last name of all eight. We cannot even name the first and last names of the people that made us everything we are? It’s extraordinary. It’s its own lesson.
+
+Where we live, the country we live, the language we speak – everything was determined by them or largely influenced by these people. We don’t even know their names – amazing. But we know something about them. If we know anything about them, we should gather it. What has lasted? What decisions have they made that still affect us? Even if we don’t know anything about them – we don’t know their names, but we know they moved to this country, they moved to this place, anything that we know, they’ve impacted us.
+
+So what lasted, for good or ill, what has lasted? If you get to your grandparents – people know a lot more about their grandparents in general. You’re asking, “Okay, what positive things did they do that are still with you? How did they shape you in ways that you would want to pass on to others? What challenges did they bring in to the table?”
+
+Meaning to or almost always not meaning to, you’ve been impacted by decisions they made. It’s true for almost everybody. Very rarely, you have all positives from your ancestors, right? That would be fantastic. Sometimes people do get pretty close to that. For most us, it’s pretty dysfunctional family history once you get back a little way. Same for parents – so, you’re really trying to understand what their impact is.
+
+What have their decisions been impact on me positively and negatively? What am I grateful for? I’m a big believer in the idea that if we’re going to blame people, we’ve got to blame them intelligently. I’ve watched somebody talking about this one time and it had an impact on me, which is if you’re going to blame your parents and grandparents for something, you can blame them for everything, meaning I blame you for this bad decision, but I also blame you for giving me my life.
+
+Right.
+
+I also blame you for having messed this thing up that’s always made this particular thing hard for me or for my mother/father, but I also blame you for the fact that they turned that around and became strong and I’ve always benefitted from that strength. You blame intelligently. You see the good and the bad, you blame intelligently, you’re looking at the whole picture, so that you can see a life from some sort of perspective.
+
+This is something I’ve learned – the design school at Stanford, I didn’t know it then. I was still thinking birth until death, thinking. I thought, “That’s a pretty long-term perspective. If you’re getting people to think about your whole life from birth until death, you’re doing a good thing. I think it probably was a good thing.” It’s certainly far more long-term than most people think on a daily basis, but it’s so insufficient. It’s necessary, but insufficient. What a self-centered perspective.
+
+I couldn’t believe it, actually, when I realized how blind of a perspective I was suggesting. Like my story begins, like the story of my life is really about me, what a weird thing to think that it’s about my birth, my death, and what’s happened in between, the narrative is so much richer than that. I’ve got to tap into that. So as I then move into the future, I’m also doing the same thing.
+
+So in these personal quarterly offsites, it’s pushing yourself beyond that. You’re saying, “Okay, what do I want my children, grandchildren, generations, especially this idea – the generation that has forgotten me, what impact do I want to have on them?” If it’s true that we can’t even name our great grandparents, then it’s going to be true that our great grandchildren won’t be able to name us. It might not be true or it might be true. But the impact doesn’t change, just the memory changes. Impact outlasts memory.
+
+So this perspective, this helps to reveal for us the difference between good things and essential things. That’s the whole shift. Essentialism is different to every other productivity system that I’m familiar with in this primary way. It’s not about getting more stuff done. It’s about getting more of the right things done. It’s not about efficiently doing what’s on the to-do list. It’s realizing that the most important thing isn’t even on the to-do list. That’s the insight. That’s what the personal quarterly offsite can do.
+========,9,title.
+Could you chat a little bit – this is very helpful – about what makes a good design partner and what that might look like, how you help each other? Design thinking came up a little bit earlier. Maybe you can define that for folks, since it came in the context of the d-school at Stanford. What is design thinking and what makes a good design partner and what might they ask you or do in a quarterly offsite?
+
+ Okay. Let’s start with what makes a bad design partner.
+
+Perfect.
+
+A bad design partner, a bad friend, bad relationship is one that eats the heart out, if you’re successful, and has some sort of pleasure if you’re unsuccessful. That’s like a bad relationship. Unfortunately, I think because of our human weakness, that is often what we’re offering. That’s often what we’re offered. You’ve got to find that person who is celebrating your success. When you’re successful, they don’t go, “Oh, jeez. I’m now jealous. What’s wrong with me?” They just are delighted.
+
+I say this not in a small way. I am fortunate that my design partner is my wife. Anna is this and has been the whole time I’ve ever known her and it’s been really amazing. I think often about how different my life would have been without her being that design partner. I’m not making some cheap comment or cheap praise. Me without her is not to have written Essentialism. No way. I might have wanted to. I might have thought about it. But the idea of executing on it, the idea of completing it, the key breakthrough moments, it’s not that she’s done it. It’s that she’s believed in me as I’ve tried to do these things. I read somewhere that all you need is one person to believe in you for the rest of your life.
+
+To have somebody believe in you, affirm you – the weaker version of that is don’t talk them down. Don’t, “Why are you doing that? That seems weird. Why would you want to achieve that?” Just to have somebody who isn’t doing that is something. That has been incredibly useful to me with Anna. A design partner, that’s what you’re trying to at least approximate. A design partner, it doesn’t have to be a spouse. It could be a friend, a colleague, a parent, anybody, but as long as these are the rules of the road.
+
+The only other thing I want to say about the design partner is one shouldn’t expect the conversations to all be easy, especially if you’re choosing somebody who knows you well. Just because they’re a supporter of you doesn’t mean they’re going to say easy things to you. The idea of having a close relationship with someone – I’m talking marriage now, for some reason and reflecting on that – the idea that you can have a relationship without having conflict is absurd. There is conflict in all of life.
+
+So having conflict about what is important is really to be expected and to figure out together, to have even what is sometimes painful conversations – what is most important to us? Is it this thing or that thing? What is the tradeoff? How much of this are we going to have in our life? This is hard work. It’s not one more thing to do. It’s the very work of life. With the design partner, you’re willing to engage now in something over time that can be quite tough, especially if you’re living together with the output of the decisions. Those are some of the things I’ve learned, I’ve thought about. I do think having a design partner or two can be a good idea.
+
+One other comment about it – maybe I’m being a little idealistic to say it in some way – but having people who can powerfully listen has got to be a key element of success with a design partner. To be a powerful listener is also pretty rare. People that aren’t – the second you say, “Well, I’ve been thinking about this…” jumping in with their opinion, reading their autobiography into your life. You’ve got to have space.
+
+I think it would be better to go on a personal quarterly offsite on your own than it would be to go with somebody who’s just going to jump in immediately and interrupt your thinking and tell you about what they think. The whole idea is to create space to be able to discern that voice – people have lots of names for it, but the voice, your unconscious, your own sense of direction, and to be able to listen to that so that you can discern, again, between all these good things, all these different pools and so on, and really, what it is that you feel what you came here to do.
+========,9,title.
+That’s the point of it. If there’s no one who can help with that process, go on your own. If you’ve got somebody who you can do it together with and you’re doing it for them to – it’s not one way. You’re being a listener for them, not just to what they’re saying but to try and get deeper and to hear what they’re not saying in pursuit of – the Quakers have a process that’s very powerful – you can put a link to this in the podcast notes or whatever – called the Clarity – it’s not the Clarity Council, but it’s something like that [Ed Note: Clearness Committee].
+
+They have these two rules, which is that you’re not allowed to give any opinion and you’re not allowed to give any advice. You can only ask honest questions in pursuit of helping someone to find clarity. So your goal is not to persuade them to do something or persuade them not to do something. It is to ask them questions so they can feel and get clear on what they feel right to do. Again, I know I’m talking high standards. I know these are aspirational things. That’s really what you’re trying to get to.
+========,9,title.
+One of the things that I do – I certainly meditate. I pray. I pray when I’m on these offsites so that I can feel that sense of direction. I’ll bring literature with me that gets me centered.
+
+What type of literature? Any examples?
+
+Beyond scripture, which I do bring and do read, it can be – it’s classic literature. What it’s not is what’s as important as what it is. It’s not rubbish. It’s not just thought of the day, latest reactive thing. It’s as far away from the latest news update I could get. I just finished reading John Adams’ biography by David McCullough. I loved that. That’s a long biography. By the end of it, I just loved John Adams and loved what he was trying to do.
+
+It inspired me to no end to what I want to be able to do with my son. I have a son and he’s a namesake just like John Adams has John Quincy Adams. It’s just inspiring. John Adams, he was reading Latin, Greek, all of these classic texts, not just classic texts in English, in their original Greek and Latin. It puts me without excuse. Suddenly, I think, “I need to give up this junk, gossipy news that is easy to get dragged into multiple times a day.”
+
+Everything is breaking news now. Everything is breaking – breaking news, “This is the most important thing that’s ever happened.” When you click on the bait, what you find is somebody is now talking about someone who was tweeting about somebody else who was tweeting and that’s the breaking news. This is gossip. This is just nonsense. At least that’s how I feel about it. That’s an example of a kind of book I would want to be ready, something that can ground me in principles that are longer term than hopefully my own life. That’s what I want to be connected to.
+========,9,title.
+Let’s come back, if you’re willing to, prayer for just a second – do you have any prayers or types of prayers that you return to more often than others?
+
+So prayer for me, what it is characterized by is not being rote.
+
+Not being rote.
+
+Rote. So when it’s great, it has a single test point, which is already kind of mentioned, which is that you can feel that voice of clarity. You can actually center yourself in, “Okay, I can now feel the difference between all these voices around me.” In my office, I have a picture by James Christensen. It’s called The Listener.
+
+In the picture, there’s a young man and around him, he’s got all these people. It’s a very colorful picture. He’s sitting there almost in a Buddhist seated position, his eyes closed, to represent that he’s trying to listen to his voice of conscience instead of all these other people around him. Some of them are laughing. Some of them are yelling. Shakespeare is in there. I think his mother-in-law was in there. He’s got all these different people and he’s trying to listen not to all of that, but to the voice within.
+
+That’s when I know that prayer is working, so to speak, is that it’s not just one way. I’m not going through the motions. I go through the motions, but when I go to the motions, it’s not changing. I don’t feel different afterwards. If you and I got on the phone and every time I got on the phone with you, I said exactly the same things thoughtlessly, our relationship would get very real. This would get very interesting fast.
+
+So for me, it’s about the realness. I certainly subscribe to the idea, to the principle, that the state of my heart before God that matters at any given moment, it’s not what I did yesterday, it’s not what I did 10 years ago, good or bad. It is this moment. Of course, that’s true in every moment – this moment, your condition. Am I willing to admit my vulnerabilities?
+
+That’s what I’m trying to do in prayer, “This is what’s going on. This is what’s a struggle for me. This is what’s a trouble.” If I can hear the voice of clarity, I commit right now, I will do it. If I’m in that state, it becomes clear, what to do and what not to do, especially on something like a personal quarterly offsite, but also true in this ongoing journey of trying to discern not just between, as you could frame it, good and evil – maybe it is that still in some way – but really, for me, I don’t think about it like that. I’m trying to discern between essential and good. I’m trying to say it’s all good. I’ve got a long list of things I can do today.
+
+There’s nothing on this list that’s bad. I don’t personally struggle with, “I want to do something bad in my life.” I don’t feel that. I want to know between the essential and the good. I don’t have time to get all the good and all the essential things done. I don’t have that time. I don’t think, actually, any of us do. I think, really, we have enough essential things to fill the rest of our life. That is precisely what it’s so jugular important to me to figure that out because every time I’m not doing what’s essential, I am giving up something that is essential.
+
+That’s a great way to put it. We could talk for many, many hours. I may have to at some point ask for a round two. This is incredibly enjoyable and helpful. I thought I would start to wrap up just by reading a few other highlights on these many pages in front of me and we can start to put a close to things. The first is, “To embrace the essence of Essentialism requires we replace these false assumptions,” which previously come up in the book, “With three core truths – number one, I choose to, number two, only a few things really matter, and three, I can do anything but not everything.”
+========,9,title.
+Then the two highlights later on are, “The ability to choose cannot be taken away or even given away. It can only be forgotten.” I think that’s really important. Then, “To become an essentialist requires a heightened awareness of our ability to choose.” So I wanted to open the door if you wanted to elaborate on that at all, but then also to ask you, metaphorically speaking, if you can put one question, one line, word, quote, whatever it might be, on a gigantic billboard to reach billions of people, what that might be.
+
+That will probably be my last question. But the ability to choose and how often we forget that we do have choices. We may not love our choices, but nonetheless, we do have choices. Why is it that we so often feel we do not have choices or forget that we have choices?
+
+We’re creatures of habit. So we get pulled into a whole set of things as if – eventually, those habits are acting on us. So we really start to believe, “I don’t have a choice.” We say it that way. We say we have to. We say there’s nothing else that could be done. “I have to,” means there is no agency involved. There’s no choice involved.
+
+I had a great little experience with this where a son threw a funny and welcome sort of wager that I did, a friendly, silly wager with a friend of mine. He said if I won the wager, then he would take my son to baseball for the whole season. If I lost, I had to take him to baseball for the whole season, which seemed like that was a major in my favor. But it was really unlikely that I was going to win the wager, at least he thought so. So as it turns out, he lost the wager, so he’s now doing this. So this is all fun and games.
+
+Then as the season began, we realized that we, of course, had been conned in our own thinking, Planning Fallacy – of course, there are still requirements for us. We’ve still got to get him all the equipment and we’ve still got to get him ready every single time and we’ve still got to go and take him to – it’s not going to literally be zero impact just because someone else is taking them to the practices and so on.
+
+So right as it came, there was enough going on in our life, it just felt like definitely one more thing and quite a big one more thing. But here we are. We could have said, “We have to do it. We don’t want to, but we have to.” We almost did make that mistake. Then we changed the language and said – and this is important – “I choose to have our son in baseball because…” and we had to fill in the blank, “Because if we don’t, he’s going to be really disappointed.”
+
+By framing it like that – if you say, “I have to,” it’s the end of your reasoning, end of your thinking. You can’t prosecute the hypothesis. You can’t do anything. There’s no hypothesis. It’s the end of story. By saying, “I am choosing to do this because he’ll be upset,” now, we can test it. He could have been upset. We didn’t know. So we could test it.
+
+“Jack, come in here.” He comes in. “Son, we’re thinking about this baseball season. We’re thinking it might just be one more thing and we’re wondering what your thoughts are about this if we did it, didn’t do it?” Instant reaction, “Oh, that would be fine. It would be fine if we didn’t do it.” “Oh, well, that was easy. That’s eight months of work.” It was no love lost for him at all. That’s why we get caught into this. We think we have to. We don’t take responsibility. It’s a choice. It’s a choice because I don’t want this output. Now, let’s go and find out what that output really is and what would happen.
+
+So I think that’s kind of where we get into it. In some ways, you could say, “What’s the big deal?” It’s a huge deal. At the core of it, what we are is our ability to choose. That’s who we are. That’s what makes us human. When we remove that, when we forget about it, we’re removing what makes us most human.
+
+So that’s when we start living in kind of non-human ways, machine ways, robotic ways, disconnected ways, disconnected relationships. We’re not choosing anymore. We are, but we’re not doing it consciously, we’re doing it compulsively. That’s exactly the shift I would be advocating for. I rarely advocate explicitly for what I think is essential or non-essential. There’s some for those that are paying attention in the book, some of my values are in there. But it’s not explicit.
+
+I’m not saying you should value this thing over that thing. But I am advocating that people should be conscious about the value they are choosing. Not compulsive – this is the environment in which we don’t know we’re choosing. We’re not conscious of it. So we become a function of everybody else’s choices and what everyone else is doing and whatever last thought in our heads kind of a thing.
+
+Which is a choice in and of itself, right? If you think you’re not making a choice or you abdicate yourself from making a choice, that is, in fact, a choice.
+
+Right.
+
+You are just putting fate in the hands of other people, other forces, your subconscious as opposed to exerting agency over your set of circumstances.
+
+And it’s easier to do that in the short-term. It feels easier, “Oh, I don’t have a choice, see? I’m not responsible. I’m not on the hook for this. I’m the victim of everything.” In the sense, we don’t have to worry as much, “I don’t like this, but this is what it is.” That’s all fine if everybody around us making the right choices and society is going in the right direction and culture is supporting the highest values and our best contribution that we can make in life, fine. But of course, that’s not the case.
+
+And so, in a world where it can be tilted in all sorts of directions, all sorts of negative themes and influencers, if you just go with the flow, “I don’t have a choice,” you can end up living a life so differently from the one you really intended to live. Again, yes, I have a choice. I’ve got to make a choice. It might be the wrong choice. I’m going to make it. I’m going to lean into that reality. The one choice you can’t make is to get rid of your ability to choose. It cannot be done, not theoretically, not practically possible.
+
+Whatever has happened, I can make a different choice going forward. Whatever has happened to me intergenerationally – it’s full-circle to this new work you’re going to start working on in a new way from this moment on to forever – is that we don’t have to do what happened to us. We don’t have to repeat what happened to our mother, father, grandparent, great grandparent. Bad stuff did happen. I’m almost certain. But we can be a transition person.
+
+We can say, “I have a new choice and I choose differently.” It’s so powerful. The moment somebody discovers that, has an awakening around that, they’re able to move forward and change everything that comes after that, “We didn’t talk about it in my family.” “Well, I’m going to talk about it in my family.”
+
+“This was a black box and we didn’t deal with it, but we’re going to deal with it. It’s not going to be easy, but we’re dealing with it now so that it doesn’t get passed on to the next, where my great grandkids are still struggling with this stuff. I’m going to shift it.” “We had alcoholism in our family, but I can choose not to drink alcohol. I can choose not to pass this on.” This is tremendously, to me, empowering, inspiring change in perspective.
+
+Hugely. Like you said, you do have the option to flip the switch, to switch the track, to redirect the train. You can be that transition point for yourself and for the people around you and people that come after you.
+========,9,title.
+Well, Greg, this has been such a wonderful conversation for me. I hope it was somewhat stimulating or fun for you to be a part of. Perhaps we can just close on the billboard question. Does anything come to mind, a question, a line, a quote, anything that you would put on a billboard as a message to convey to millions or billions of people?
+
+Light, just that word.
+
+L-I-G-H-T.
+
+That’s it, light. Every moment in our lives, in whatever capacity we’re in, there is always this choice in this moment to step towards light or to step toward darkness. I don’t mean grandiose, as I said before, massive good versus massive evil. It’s not that. But each moment, we have a choice – do I step towards the light? Do I step towards some dark version of this moment? Do I get irritated with my kids or do I be patient? Do I listen to the voice of conscience in this moment or do I just go after what my ego would want to go after?
+
+My experience with this – and I’m just beginning my own journey of it, of course – is that if I pursue what is light, it will bring more light. That light grows brighter and brighter. Maybe it carries on forever until the perfect day, but that’s the idea. Wherever anybody is at, they can do that, whatever choices they have made before.
+
+All of us have made mistakes, right? All of us have chosen in those moments, “Oh, I went down… It was a dark choice.” I don’t mean the dark side like some Star Wars thing where you go over to the dark side, but in this moment, I chose the impatient path. I chose the negative path. I chose the self-interested path. I just choose the light.
+
+In my experience, wherever anybody is on this journey between light to dark, let’s say, wherever they are on that continuum, the people that are the most full of light aren’t the people who have done all the best things in their life, necessarily, it’s which direction they’re headed in. It’s which direction they just made. That’s why it’s so powerful. It’s not getting all burdened about whatever the past has been. It’s in this moment, “Am I leaning into the light or leaning out of it?” That, to me, is like the whole of light in one single rule. That would be my answer for that at least today, light.
+========,9,title.
+I like it. Thank you so much, Greg. People can find you online, gregmckeown.com. They can say hello, give a wave on social @GregoryMcKeown on Twitter and probably elsewhere. The book Essentialism, I highly recommend it. I don’t say that much about many books. It is a very useful book. I’ve found it personally useful. It’s something I revisit. Is there anything that you would like to say in closing remarks, anything else you’d like to add for people listening? Any ask you’d like to make of them?
+
+No. I don’t have any ask for them, but I do want to say, Tim, I really appreciate this conversation. I feel like I’ve found it more than a normal podcast conversation. That’s a credit to you. I appreciate that you’ve brought so much to the conversation and helped it to be what at least for me has felt rich and meaningful and real. So thank you to you.
+
+Thanks so much, Greg. This is a conversation I think I will certainly listen to again. I’ll be revisiting the book. I think that’s a good starting point for my next quarterly offsite. For people listening, I will include links to everything we’ve discussed, of course everything that Greg is up to, the Quaker process – I’ve taken notes on things to follow up on – the piece of artwork you’ve mentioned as your reference point, all of that will be in the show notes, which you can find at tim.blog/podcast. Just search “essentialism” or Greg’s name and it will pop right up.
+
+I want to mention one more quote before we close and this is also from the book. It is a quote of Lao Tzu and it goes as follows: “To attain knowledge, add things every day. To attain wisdom. Subtract things every day.” So until next time, folks, thank you for listening.
