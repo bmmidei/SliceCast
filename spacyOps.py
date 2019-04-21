@@ -54,9 +54,15 @@ def customLabeler(doc):
     # Remove split lines/short segments and corresponding labels
     sents = [x for i,x in enumerate(sents) if labels[i]!=-1]
     labels = [x for x in labels if x!=-1]
-
-    data = {'sents':sents,
-            'labels':labels}
+    
+    # Get index for the start of the second segment (remove summary)
+    idx = [i for i, x in enumerate(labels) if x==1]
+    if len(idx)>1:
+        idx = idx[1]
+    else:
+        idx = 0
+    data = {'sents':sents[idx:],
+            'labels':labels[idx:]}
     doc.user_data = data
     
     return doc
