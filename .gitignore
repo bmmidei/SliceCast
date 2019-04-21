@@ -118,3 +118,6 @@ scratch.py
 
 # old code files
 old/
+
+# vscode jupyter notebook
+EDA.py
