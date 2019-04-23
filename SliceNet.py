@@ -30,7 +30,7 @@ class SliceNet():
         self.pretrain = pretrain # Not implemented
         self.classification = classification
         if self.pretrain:
-            self.weights_path = weights_path # Not implemented
+            self.weights_path = weights_path
             
         self.model = self._defineModel()
     
@@ -87,7 +87,9 @@ class SliceNet():
             initOp = [tf.global_variables_initializer(),
                       tf.initializers.tables_initializer()]
             sess.run(initOp)
-            
+            if self.pretrain:
+                self.model.load_weights(self.weights_path)
+
             
             save_weights = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
                                          save_weights_only=True, period=2)
@@ -129,7 +131,6 @@ class SliceNet():
         return preds, y_test
     
     def singlePredict(self, X_test, weights_path):
-        
         print('Starting Testing')
         with tf.Session() as sess:
             K.set_session(sess)

@@ -19,6 +19,17 @@ def createSpacyPipe():
 
     return nlp
 
+def createInferencePipe():
+    # Load baseline Spacy pipeline
+    nlp = spacy.load('en')
+
+    # Add sentencizer and custom labeler
+    sentencizer = nlp.create_pipe('sentencizer')
+    nlp.add_pipe(sentencizer, first=True)
+    nlp.add_pipe(baseLabeler)
+        
+    return nlp
+
 def customLabeler(doc):
     # Custom slicecast pipeline component to add to spacy pipeline
     sents = [sent.text.strip() for sent in doc.sents] # Remove whitespace
@@ -67,10 +78,11 @@ def customLabeler(doc):
     
     return doc
 
-def edaLabeler(doc):
-    """Custome SliceCast pipeline component to add to spacy pipeline.
+def baseLabeler(doc):
+    """Base SliceCast pipeline component to add to spacy pipeline.
     In contrast with the "customLabeler" component, this component does not
-    remove short segments. It is intended for exploratory data analysis only
+    remove short segments. It is intended for exploratory data analysis and
+    inference as it does not modify the sentences of the original document.
     """
     sents = [sent.text.strip() for sent in doc.sents] # Remove whitespace
     sents = [sent for sent in sents if sent] # Remove empty strings

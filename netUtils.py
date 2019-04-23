@@ -1,4 +1,6 @@
 import h5py
+from pathlib import Path
+from spacyOps import createInferencePipe, createSpacyPipe
 import numpy as np
 import tensorflow as tf
 from keras.utils import Sequence, to_categorical
@@ -106,7 +108,7 @@ def customCatLoss(onehot_labels, logits):
     Yields:
         loss: average loss for the mini-batch
     """
-    class_weights = [1.0, 10.0, 0.2]
+    class_weights = [1.0, 9.0, 0.2]
     # computer weights based on onehot labels
     weights = tf.reduce_sum(class_weights * onehot_labels, axis=-1)
 
@@ -119,3 +121,23 @@ def customCatLoss(onehot_labels, logits):
     # average to get final loss
     loss = tf.reduce_mean(weighted_losses)
     return loss
+
+def getSingleExample(fname, is_labeled=True):
+    """Retrieve array of sentences and labels (if applicable)
+    for a single text file to be used in inference"""
+    # Run NLP pipeline on the single text file
+    fo = Path(fname)
+    nlp = createInferencePipe()
+    doc = nlp(fo.read_text(encoding='utf-8'))
+    
+    # Extract sentences and labels from tokenized document
+    sents = doc.user_data['sents']
+    if is_labeled:
+        labels = doc.user_data['labels']
+    else:
+        labels = None
+        
+    assert len(sents)>0, 'Document length is 0'
+    
+    sents = np.array(sents, dtype='object')
+    return sents, labels
