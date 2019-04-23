@@ -73,12 +73,11 @@ class SliceNet():
             model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mae'])
         return model
 
-    def train(self, train_files, val_files, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True):
+    def train(self, train_files, val_files, test_file, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True):
         
         # Define batch generator
         trainGen = batchGen(train_files, batch_size, maxlen, classification=self.classification)
         valGen = batchGen(val_files, 4, maxlen, classification=self.classification)
-        test_file = '/home/bmmidei/SliceCast/data/podcasts/hdf5_noIntro/batch0_0.hdf5'
         self.model.summary()
         
         print('Starting Training')
