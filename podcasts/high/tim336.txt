@@ -1,0 +1,674 @@
+========,9,title.
+Scott, welcome to the show.
+
+Thanks, Tim.
+
+Here we are at the kitchen table. I didn’t think we would have a chapter two today. We met earlier for some oysters and beverages and caught up. And I was picking your brain on a number of different things. And we were trading stories. And I realized that you have, and you’re going to know what I’m referring to, how many Evernote notes?
+
+Well, a lot of Evernote notes, in particular –
+
+But specific to what we’ll be talking about?
+
+Yeah. I think it started at like maybe 830 or so a couple of years ago, when I started trimming it down.
+
+And you’ve been capturing lessons learned, maxims, mantras for yourself, in the process of developing this career. And I hope this doesn’t come off the wrong way, but you’ve worn so many hats, it isn’t a single career. It seems like you’ve lived many different lives. And people have already heard the bio that I read, in the intro. But perhaps you could indicate the roles that you’ve had in the companies that you’ve been a part of because they are so varied. And I just want to underscore how eclectic it is.
+
+Yeah, eclectic, for better or for worse. But I was an entrepreneur back in 2005 starting a very small, almost a lifestyle business, at that point, to help organize the creative world, a company called Behance. Five years of bootstrapping as a small team, valuing resourcefulness over the resources we didn’t have. A few near-death experiences in that process. Then, became a venture backed company, which is a little bit more of a traditional Silicon Valley like story, being venture-backed for a few years, growing really fast, when through an acquisition, I found myself working in a very big company as a vice president, given what I came in with, as well as a few other projects. And a few new muscles there, navigating a big, corporate experience. Then, I decided, I’ve been a seed investor for a while.
+
+I like this. People are telling me I should be an investor. I jumped in and became a general partner at a venture capital firm. Total context switch, learned a lot of things, some the hard way. Then, realized I miss building. I wanted to get back to it. And now, I’m an executive at a big, public company. Adobe, the same company that acquired us, but totally new position. And I would say that whenever I think about best practices, if there was ever such a thing, I actually realize that they all conflict, based on whatever context you’re in. And the things that I thought were super important as a startup and were the rules of the road, if you will, actually maybe the exact wrong playbook to play at a later stage company or than at a public company or in a venture capital firm.
+
+And it, in some ways, makes you kind of throw everything you accept as conventional wisdom out the door because you realize that everything kind of conflicts, and it’s really based on the context. But, in some ways, there are also some patterns and some lessons learned from the clashes of wisdom.
+
+And the different positions that you’ve had, the different roles you have played, are also of interest to me because you’ve ended up filling the seats on both sides of the table, in different relationships and different transactions, right? Entrepreneur, investor, startup founder, and potential acquirer. You’re in a position yourself now where your younger self could have been, in some capacity, talking to you.
+
+Yes.
+========,9,title.
+And you’ve collected these notes over time. So I thought what the hell. And we talked about this, maybe or maybe not after a few glasses of wine a bit earlier today, we should just record a podcast. So, here we are, late night at Chez Ferriss, and we’re going to record this episode, half of which may occur inside a very, very hot truth barrel, i.e., barrel sauna, TBD. But we’re just going to wing it. So let’s start exploring some of these maxims on some of these notes, and you can tell us the story behind it. And we’re just going to riff. So let’s do it.
+
+Sure. Well, I have to say, it was actually on a plane a couple of years ago, I was going through this file of about 800 and something notes. And I realized that, first of all, if this plane goes down, they’re all gone. And second of all, this is really disorganized. Should I start to kind of organize them, based on some theme. And, ultimately, it came down to three things. One was endurance. How do you navigate the endless self-doubt, uncertainty, ambiguity, extraordinary volatility in whether it’s a new venture of a turn around of something or a bold creative project? I feel like a lot of them, that was the theme. How do you just stick with it long enough to figure it out? How do you have the persistence and the patience and everything related to endurance?
+
+The second theme that came out, which is a pretty broad theme, I would say, and maybe I was cheating a little bit, is optimization. How do you make the product better? How do you make the team better? And also, how are you constantly, in some ways, maybe testing the way you work and making yourself better? Obviously, books can be written on that. But that was my second theme. The third theme, which is a bit more narrow, I called the final mile. I found that whether it was entrepreneurs I’ve worked with over the years that involve me in their acquisition process or writers that I know right before their book comes out, people in the final mile of something being done or almost being done, there’s a lot of interesting stuff that happens. Some self-sabotage, new doubts.
+
+You think you know what you’re doing because you got that far, and then, you realize, oh shit, I don’t know what I’m doing. So those are the three themes. And I was like okay, for starters, let me just start to break them into themes. And that’s where it all began.
+========,9,title.
+So you got the buckets. Let’s dig into some examples.
+
+Sure. So, I think that, if we go in that order, and you think about endurance, one of the – there were a number of different observations around, and especially from my own experience, building and sort of bootstrapping for five years and keeping people, when we actually weren’t really making any money. We didn’t really have customers. No one really cared about or knew about what we were doing.
+
+And you said organizing the creative world I think may have been the wording you used. What does that mean in practice? What were you trying to sell?
+
+Yeah. For Behance, the insight was that the creative world, meaning any sort of design, photographer, architect, illustrator in the world of creative production, these are some of the most interesting people in the world. They make our lives interesting. It’s also the most disorganized community on the planet. There’s very little attribution about who did what. These folks, often time, feel like their career is at the mercy of circumstance. And the idea behind Behance, which was my startup back in the day, was to help organize these people. In some ways, build a LinkedIn for the creative world, you could describe it that way, and some of the products to help them get organized. But we didn’t really know what we were doing.
+
+It was a bit of a team of misfits in the sense that all of us had roles we weren’t necessarily qualified for, when we were building this team, in the early days. And what I learned very quickly was that the idea that we wanted to come together for that thing that motivated us to, in some cases, quit our jobs or take a huge risk or start incurring more debt in our lives, that was enough to get us to get started. That wasn’t enough to keep us engaged on a daily basis for years.
+========,9,title.
+And I think that’s one of those myths that, if the vision for what you want to achieve in the long term is great enough, you can just keep persisting and keep at it. In fact, you need to short circuit your reward system, in some ways. And I remember there was a conference we had a number of years ago for Behance where Fred Wilson, a venture capitalist in New York, spoke.
+
+And he talked about two great addictions in life, heroin and a weekly salary. And his point was, when you unplug from either one, it’s very difficult. And if you think about, from birth, we’re almost branded towards short-term rewards, checks on the tests, grades in the courses, salary, bonus, whatever. And when you embark on something very long term, and you unplug from that, maybe you have to supplement it with something else. That is a creative endeavor, when you’re leading a team. For us, there were a few fun things we did. For starters, we had a name for our company called Behance, which didn’t mean anything, didn’t exist. And so every time you typed it in Google, it said, “Do you mean enhance? Do you mean enhance?” And so, short-term reward number one was maybe we won’t be a mistake someday.
+
+Let’s get enough people to put portfolios up there. Let’s get enough blog posts and link backs and whatever else. And we would always search Behance and see if we actually showed up. It felt like a more achievable way to keep us oriented. And soon enough, we actually did suddenly show up as a legitimate result. And I kid you not, six months later, Beyoncé became super popular. We lost that for a little bit, but then, we got it back. There were all kinds of fun things like that. We made bets all of the time about things that people would have to do, if we got to a certain milestone. And those became this new reward system that governed and actually kept us together. And we, remarkably, didn’t really lose many people, at least voluntarily, for a number of years.
+========,9,title.
+What else do you attribute that to? And for people who are listening, and they might have a small team, and they’re in that position of realizing perhaps that the initial irrational exuberance of the big vision and the grand unveiling of this world- changing company is actually going to take quite a few years, and that people are starting to – I’m not going to say founder but realize – the gravity of that reality is beginning to hit them, and the CEO, maybe sole founder, maybe co-founder, is thinking “Oh, shit, I need to whip up some shorter term incentives or motivating goals or anything to keep this team together, so there isn’t some form of mutiny or people start dropping off.” Do you have any recommendations for that person?
+
+A few different things. In some ways, I use the analogy of driving your team in a car with the windows blacked out, so no one knows where they are and how far they are in the journey. And that is sort of what a startup experience is like, by the way. You don’t know where those milestones actually are. You don’t necessarily even know where you’re going and how far along you are. The only thing that makes that more comforting or tolerable is a great narrative during the journey. Okay, we just crossed the state line. There’s this on the right. There’s this on the left. Even if it’s not necessarily answering the question of how far are we and where exactly are we going, there’s something about being talked through it. And I think that’s one of the jobs of someone at the helm is to build that narrative.
+========,9,title.
+And part of that is a creative endeavor because you don’t necessarily know what to say, but you have to say something. And I think that’s one of those maybe less discussed muscles of a leader of a startup is to build that narrative and keep kind of walking people through. One of the things that I would oftentimes do is play out best and worst case scenarios with different dimensions.
+
+You mean play out for yourself or in front of employees?
+
+In front of the team.
+
+What would be an example of that?
+
+A few things. One is we had a few different products we were kind of pursuing, or a few different angles rather. And I would, oftentimes, play out, hey, if this doesn’t work, maybe we can reuse the technology for this. Or if this business model doesn’t work, we’ll try that. And you know what? If this doesn’t work, look at what we will have learned over the next three years. We are going to be so marketable. This is going to be one of the best experiential educations any of us has ever had. And we’re going to be able to get salaries at X instead of Y. And that was also part of the – I would remember people feeling a little more comfortable when, in fact, the reality is we were working in, again, complete ambiguity and uncertainty and a little lost.
+========,9,title.
+This is, I think, having observed some excellent, great, good, mediocre, passable, and not so good CEOs over the last whatever it is, 20 years now, Jesus I’m getting fucking old; anyway, this is, I think, one of the most under-discussed and valued sales functions of the CEO. Right? They think of selling investors. They think of selling employees, but for the hiring of those employees. But to retain a team and, in the early days, this is so, so important.
+
+It’s merchandising. Think about the amount of capital that is spent on billboards and advertising that compels us to take action and do things every day. It’s obviously powerful. Yet why don’t we use those same mechanisms to get our team to do things, to get ourselves to do things. It’s an important muscle. You’re also trying to help your team accept the burden of uncertainty. And it’s just so much easier, when the stuff is around you.
+========,9,title.
+So, you also use, dare I say, I do dare, strange incentives for yourself. And I was thumbing through some things that you’ve sent to me in the past, in terms of answers to questions and so on. I don’t know if you still do this, but you have your Scooby snacks and deep work rewards. Do you still do that?
+
+I still do that.
+
+Can you tell people just briefly what that is? Because I’m sure a lot of people are listening who are perhaps solopreneurs or freelancers who might be, for a lot of the day, by themselves. So, they have to talk to themselves the way that you were talking to employees.
+
+Yeah.
+
+So if you could just describe this for people.
+
+Sure. Well, I guess it’s short-circuiting my own reward system. I find the process of writing, for example, pretty painful. I have a writing playlist that I only allow myself to listen to, if I’m writing.
+
+Can you listen to it from the get go, or do you have to –
+
+I have to be in the zone. And when I find myself going to social media or checking email or whatever, I make myself stop it. And I am not allowed to start it again until I’m back in the writing zone.
+
+What are some of those tracks? Do you remember some of the artists?
+
+Yeah. There’s a couple great melodies that I kind of love. One is this piano melody by a woman named Carly Comando that I discovered once. There are just a few other things that I love that I think I can work with that I didn’t want to burn out. But I also just wanted it to be like that reward like when I’m back in the writing zone, I’m feeling it. And the snacks.
+
+And the snacks. So what are the snacks, and when are you allowed to have the snacks?
+
+Man, you know these really nice, flaky, buttery things that are dipped in chocolate that they sell? I don’t even know what you call them. Those.
+
+Delicious snacks.
+
+The chocolate Flake bars that I get from London whenever I’m there. Only something I can have when I’m in the zone writing, in this case.
+
+So, in the zone now, as a little piglet myself, I might be inclined to be like oh, man, just nailed my first paragraph. Let me have some chocolate. So, what’s the bar for in the zone?
+
+It’s when I get a material chunk done. When I feel like I – as I talk about it, this sounds ridiculous, but it’s not, right? Why don’t we take more active roles in governing ourselves and merchandising and playing sales tactics with ourselves, with our teams, just like we do with customers and the rest of the world? Yes, it works for me. Chocolate, good music, sometimes, that’s enough to get me doing what I’m supposed to be doing.
+========,9,title.
+Okay. So, we’ve talked about reward systems. Are there any other guidelines or suggestions you would make to a founder who finds themselves in that very kind of embryonic stage where they’re realizing wow, I thought, in my mind, I had the excitement of a sprint, but this is not a sprint, this is going to take some time? Any other recommendations for keeping a team motivated or examples?
+
+There’s a lot of tough moments in that middle. There are a lot of meetings that don’t have answers at the end. There’s a lot of periods, again, of that ambiguity, where you’re kind of going in circles. There’s rework. You launch something, and you realize that it was built on the wrong text stack or that it was totally to the wrong type of customer, and you have to redo it again. And leaving your team constantly with energy, even after those very difficult bouts. I remember one guy I worked with, a guy named David Wadhwani who is now the CO of AppDynamics, a company in Silicon Valley. But I remember, every time I was in a meeting with him, and they could be like just the most depressing meetings. He would always kind of end with a recap that would, again, spin it around towards “We got this.”
+
+We got the right people. These are the open questions. This is the plan to solve them. And everyone would kind of end in an up. And it’s another one of those tactics to keep people engaged, enduring.
+========,9,title.
+Well, one that we talked about, which isn’t necessarily a reward system, but it reminds people why they’re doing what they’re doing and why they’ve made this gear shift into entrepreneurship. You gave me an example earlier, when we were hanging out, that was related to your, I guess, suppressed memories during the five years of bootstrapping, when you went back to look at photos from that period to see what was going on like, “Wow, I really can’t remember much from that period.” What did you find? And this is something that comes up, when I talk to people like Derek Sivers or others when they want to allow people working on the products to see what?
+
+Well, and it goes back to that reward thing, I think, as well. I went back in my phone to that five years because I was actually surprised by how much I had forgotten. And I was wondering, did I forget it because I wanted to? Was there just nothing that is worth remembering? And so, yeah, I flipped back really quickly in my phone back to those years. And what did I find? I found tons of screenshots. I found a few – I remembered how many late nights. I was always trying to find the flaws of our product and send them to our team. This kind of never feeling done sense. I also found a lot of random screenshots of people saying nice things about the product. And then, I remembered, gosh, I used to always try, in a regular rhythm, to send those around. We didn’t have Slack, at the time, but you would post them on Slack now, I guess.
+
+Those are, again, those little jolts of reward that are keeping the team feeling that this is – it’s the narrative. But it doesn’t happen naturally. And you have to look for it. You have to merchandize it. Yeah, I was surprised by how much of that five years was just kind of this, gosh, late nights because you can also see the timestamps on screenshots. It’s like, gosh, I was lying in bed at 2:00 a.m. looking at typos and stuff and sitting around. But that is a big part of it.
+========,9,title.
+And, once again, you can use this for yourself. Anybody who has listened to this podcast long enough or read any number of the last few books that I’ve written knows that I’ve had bouts with depression. It runs in the family. And I seem to have, and I’m working on it, but a selective lens for looking – for searching for what is wrong, right. And I think that, at some point, I had it stuck in my head, this was taught, this was definitely nurture not nature, not by my parents, by other teachers and coaches, that the good stuff takes care of itself. Let me tell you what you need to get better at. And so I just developed this habit of always looking for what is wrong. And when you do that, it can put you, or it can put me at least, into perhaps a productive space, but a funk that follows that productivity, at times.
+
+And so, I will take screenshots of, occasionally, really meaningful letters or comments from fans, and I will favorite it on my phone, so that I have a few things. This is actually something that I picked up from comedian Whitney Cummings, sort of the screen of zens. I have photographs of my dog, photographs of some of my best friends, and my family. And then, I’ll have a handful of these to remember like, oh, yeah, that’s why I slog through the fucking neighborhood of the internet where half of the people are throwing potted plants at your head out of the windows and deal with all of the sacrifices is ultimately for this. Where what we do touches somebody else.
+
+And it’s so easy, even now for me, to get kind of mired in various details that are an important piece of the whole. But to kind of forget when the whole is put out into the world what it can do. It doesn’t always do it, but what it can do.
+
+And that’s like the positive part that helps you keep going. I think there’s also, though, the other discipline belief that, first of all, you just have to sometimes just do your fucking job.
+
+Right. I think that was your answer in Tribe of Mentors to what do you do, when you feel, what was it, scattered or overwhelmed. I whisper to myself, “Scott, do your fucking job.”
+
+I do, especially in moments where I’ve had to make a difficult move, fire somebody, make a difficult call, have a difficult meeting, there is that sometimes whisper of, hey, yes, I could try to find other ways to make me feel good about this. Or I’m just going to tell myself that this is what it takes.
+========,9,title.
+What I’ve never asked someone because, in many cases, these are people I’ve never spoken to before that I’m interviewing, but we’ve spent a lot of time together. Is there an emotion that you returned to a lot that was disabling in the five years, when you were bootstrapping, or afterwards? Some people have a default emotion that crops up in certain periods of stress. Mine was, for a long time, I think I’m a lot better now, anger. Some people, it’s guilt or depression or sadness or a feeling of being hurt. It can be any number of things.
+
+Yeah, for me, it’s probably two things. I think that it is the realization that I’m not my best self, when things are going the best or when things are going really badly. When things are going really, really well, I’m not my best self because my ego can get in the way. And when things are going really badly, I’m not my best self because my fear is getting in the way. And so, when it comes to that question around self-awareness, I think that was, actually, a big breakthrough, at least personally for me, was, gosh, it’s when things are going really well that you start to say, “Hey, we don’t have to pay attention to competition anymore,” taking our eye off the ball. Hey, we must have actually – it’s the false attribution problem. “We must have done everything right, so we’re going to keep doing that stuff.” And then, again –
+========,9,title.
+Rewarding good outcome without looking at process.
+
+That hurts. And that can be a fatal flaw. And when things are not going well, and it’s suddenly fear driving you, then, you can start paying too much attention to competition and start looking like them.
+
+So that’s something you did, at the time?
+
+Oh, yeah. And then, I think, throughout my journey, I did both.
+
+Did you notice that because you were taking notes on your own responses to things? Or was it just a realization one day that those were patterns?
+
+Well, I think it’s probably a little bit of both. On the fear, for example, there were the early days of Behance, there was another product out there called Dribbble that was doing little, 400-pixel snapshots of people’s work. And, by the way, that always looks better than the full project because you can pick which little, 400-pixel by 400 snapshot you take and get a nice, little, beautiful drop shadow, and that will always look great. And we were just sort of bewildered by this. It was like wow, it’s taking off so fast. It’s, obviously, a real differentiation from our product. And the fear of that made us suddenly shift – I can hear the tea.
+
+I’m sure other people can, too. Fortunately, these mics are very directional. So we should be okay. That is water boiling, folks.
+
+If you hear it, that is water not my stomach. But and, you know what, we made a mistake. We took our eye off the ball. We spent a few major cycles of our business trying to make our own version of the small, little snapshot thing. And then we realized it actually distracted from the core part of the product that made Behance good. And it was, again, bad judgment out of fear. And I didn’t have that self-awareness, at the time, to realize that I was skewing our entire product roadmap and convictions that the team had out of my being at a low point in that example. So I think that’s one of those examples where it was more in retrospect. I think, at the time though, I just try to ask myself why I react to things in certain ways.
+
+Why did that meeting make me feel unsettled? What was it? Was it something that someone said? And if I can trace it back, why does that either make me afraid or make me feel like – I think you have to be kind of propping those questions.
+========,9,title.
+What do you do with it, once you have identified a reason? And you can answer either of these, but say you realize that you overreacted to competition, in the case of Dribbble, and ended up misspending a lot of resources as a result. How do you ensure that doesn’t happen again? Or how did you? Or you could talk – I think they’re so interrelated. You come out of a meeting, and you’re like, “Why did that unsettle me? Is it fear? Is it something else? Is it something else? It’s fear. What is it fear of? It’s fear of this.” What do you then do with that? Because I think the hardest advice to take is often the advice you have given yourself or already realize that you need to do. I mean, not to incant the Mr. Derek Sivers again, although we’ve been talking about him. So, all good things, Derek.
+
+But I think he is the one who said, in one of our conversations, that if more information were the answer, we’d all be billionaires with six pack abs. We all have a very good idea of a lot of things that need fixing or improving. So, what then? You figured it out. And I’m asking selfishly because I’ve got tons of stuff to work on. What do you do?
+
+Well, I’m still figuring it out as well. But I would say this is where the team comes in. I have, and have always had, people on my team that were really different.
+
+Well, sorry to interject. This is really your yerba mate can be my scapegoat. But let’s take the meeting example. You don’t have to identify any people, but let’s get super granular. Is there something, it doesn’t have to be a meeting, that unsettled you? Walk us through what, hypothetical or real, kind of an example, and then what you would do after that. How that would inform future behavior.
+
+Well, I’m thinking of a few recent examples. And one is when – there was a meeting I was in recently where I came in with a number of priorities that I’m focused on, which, ultimately, means I want them resourced, I want to invest in these. These are things I want to put my chips on. And I felt pretty committed and felt like I did a lot of diligence. And then, the question was: “How could you say that all of these should be resourced? How could you not come in and really just talk about one?”
+
+Okay. So, that was the response from the other side?
+
+No. The response from the other side threw me off. I was like, “One? I’ve got lots of products and lots of things going on. And every business is dynamic. One thing? That sounds crazy.” And it really threw me off. And then, I started to think, “Gosh, maybe I am doing what I always tell people not to. Maybe I’m spreading myself too thin. I’m not having enough conviction on the one thing that matters. Am I a good manager? Am I a good leader? Am I being informed properly? Do I have enough data?” You start having all of those kind of self-doubts arise. And then, I think, in this particular situation, I did a few things. One is I started to play out some scenarios in my head. I don’t know. Is there one thing that’s disproportionately likely to make an impact more than everything else?
+
+And, actually, I felt, out of the list of 10 or so things, there were probably a couple that I would say, “Yeah, if I had to pick one or two, I think that those have an outsized proportion or likely to be making an impact. So why wouldn’t I just go all in?” And then I started to realize it’s because I have some doubts on those. And I want to hedge myself.
+========,9,title.
+Are you doing those in your head in your office as a post mortem? Are you doing it on paper, typing it out?
+
+Usually, I’m doing it on planes. I benefit from the disconnected period where you’re just kind of letting things churn. It definitely does not happen in a meeting because, in a meeting, you’re defensive. You feel like you have to have a view, you have to have an opinion, you have to have an answer, especially if you’re a leader. But it’s really outside, when you’re just disconnected, and you’re kind of letting it run through your head. And if you have – but what you have to be doing is starting from the belief that you’re wrong. If you start from the belief that you’re right, and everyone else is like what do they mean, these are my 10 things, and I know that these are all important, it’s not going to get you anywhere.
+
+Right. And it sounds like you don’t have to necessarily believe that you’re wrong, but you have to, as an exercise, assume like, “What if?”
+
+You do. And it’s provocative. And you have to be provocative in your thinking. So, when I caught myself on the fact that it was actually sort of about hedging, then, it’s like well, what are my doubts about those one or two things? And maybe I should just spend a cycle of my time on just those. And that actually, in this case, impacted a number of meetings I set up and conversations I had and some data that I requested and whatever. And I remember, after that whole process, being like okay, that was a good cycle of leadership right there.
+
+This is a great example. I appreciate you playing along. So, on the plane, when the announcement comes over the intercom, and they say, “We’re so sorry you misspent another $12.00” that your Wi-Fi is not working, everyone else is cursing, and you’re like, “Sweet, I’m going to get so much self-development done.” Are you doing this in your head, same question, on paper, on a computer, offline? How are you running through these “what if” scenarios?
+
+I usually start in my head. And then, I start getting a little anxious because I’m like oh, this is going to cause a chain of actions that I have to take, in which case, I have also, in Evernote, an action tracking list where it’s like the things that – if there’s one thing I want to look at every day that I’m sort of tracking that requires some action or thinking through or whatever, deep churning, and I immediately kind of added it to the list. And then, I think that’s when it starts to become more of a process and less of a provocative inner monologue.
+========,9,title.
+Awesome. That was great. Let’s dig back in, speaking of Evernote.
+
+Well, I think that one of those little notes that made it to the finish line for me was this question around suspending disbelief, as another tactic towards endurance. I remember my father, as an orthopedic surgeon, but when he was a resident, he was working in one of those crazy, New York City hospitals where people would come in with like overdoses and shooting wounds and stuff like that. And he was telling me that the most often kind of prescribed, especially on the psychiatric stuff that came in, was 100cc of Obecalp, which is, of course, placebo spelled backwards. And how as soon as someone would be like Obecalp, stat, 100cc, that would, suddenly, switch something in a lot of these patients’ minds, in terms of where they felt they were in their hope. And that always stuck with me.
+========,9,title.
+And I was always kind of wondering, “How do I prescribe that to myself?” And I think there are many different tactics there. One that I’ve heard from a number of folks who have worked at Google over the years and have been in meetings with Larry Page where he’ll say, “Great! Good plan. How do you do 100 times that?” And that jolt to the system suddenly throws the current project plan out the door. Like all of the kind of near-term doubts you had don’t matter anymore. It’s like, 100 times that, we have to be doing something completely different. And in some ways, it’s sort of the same effect because, first of all, the disbeliefs you had in your more reserved plan are suddenly out the door because that sounds easy suddenly because this new thing, I don’t even know where I’d start.
+========,9,title.
+And I think that there’s some – there are ways we can make sure that we just have exponentially more belief in ourselves, at times. Now, part of it also, is also taking pride in how naïve you are, in certain areas. I remember talking to the Airbnb guys and a few other teams that talked about how they didn’t even know the terminology of the industry they were trying to compete in and how that actually was a very empowering thing because, had they known that, they would have realized that some of their numbers didn’t match up early on. And they would have certainly abandoned the project before it actually became a business. So, I think that, sometimes, hiring people that think differently or don’t have the traditional expertise that you think you’re needing to hire, I think you sometimes have to recognize the benefits in not knowing too much.
+
+Right. The constraints of an industry, which may already have been obsolete or expired in some way. Who knows? It’s like I really want to know the story of why we had to wait until whatever it was, 20 years ago, to have wheels on luggage. What was it? What was the inertia or lack of movement that made it take so long? It’s incredible. I digress. I don’t know the answer.
+
+I don’t either.
+========,9,title.
+What other tools do you use, when you are talking to someone else because they then could be telling themselves perhaps something similar later as self-talk? When you meet a founder who is just getting crushed under the weight of their own self-doubt, or maybe they just had to lay off half of the company, but let’s just assume, for the time being, that there is product market fit. It is solving a problem, but they’re just like, “I’m not a good CEO. I’m not a good…” fill in the blank. “I don’t know if I can do it.” They’re down. What do you say to people like that when they’re in those circumstances?
+
+Well, I usually start by reminding the founders that one of the greatest competitive advantages is simply sticking together long enough to figure it out. And how they shouldn’t necessarily beat themselves up about the daily volatility because it’s, basically, just a series of ups and downs in which you hope you have a positive slope, at the end of the day. And you hope that the next level is a little higher than the one before it. And if you can just have a team stick together long enough, and if you have continued conviction in the end state, then, it’s a fight against time. And I really believe that. Some people might say, “Oh, no, no, no. You can keep at it forever.” A labor of love has a way of paying off, just not how you’d expect.
+========,9,title.
+And what, of course, you do have to – and when founders feel really low, sometimes, they’ll say, “How do I know whether I should quit or not?”
+
+Well, that’s one of the most common questions that surfaces through the ether from listeners of this podcast and readers of mine is: “How do I know when to persist?” Because you always hear, you even said yourself, “We had multiple near-death experiences.”
+
+Right.
+
+And if you’re bootstrapping, my God, often times, there’s a survivorship bias in, say, media coverage where it’s like, “Oh, so and so took out a 14th mortgage and sold his left kidney. And now, he runs Alibaba or whatever.” That’s not a real story, guys. I’m making that up. But you hear these remarkable tales of throwing caution to the wind. But you don’t get to see the bodies littered on the side of the street. So a question that I get from people who are trying to do the responsible thing is: “How do I know when to cut my losses and stop a project or just put RIP on a headstone for my company and move on versus persist through these very difficult times?”
+
+Well, I think, to me, the answer is pretty simple. First of all, you recognize the fact that everyone’s kind of messy middle journey is, at times, hopeless. And that self-doubt is a real thing. And so you’re not alone. However, if you start to lose conviction in what initially set you off on this journey, that’s a serious thing. However, if you have as much, if not more conviction for the problem you’re trying to solve, then you have to stick with it. And that’s actually what I typically will ask teams when they’re having that question.
+========,9,title.
+How do you assess conviction?
+
+To me, conviction is really about knowing that the world is going to be a certain way based on all of the work and research and experiences that you’re having. And I don’t care what the company is, what the product or service is that you’re trying to make. As you go about it day by day, you learn more. And you start to realize where you were right and where you were wrong. And you’re always wrong a little bit. That’s the whole point about pursuing a product market fit. However, a lot of teams will realize wait, people actually don’t need to do blah, blah, blah. They don’t want to have laundry done within a three-hour thing. And that’s not a real opportunity. But, since we raised $2 million, and we’ve got a team working, we’re just going to stick with it. I actually think they should quit.
+
+However, if the answer is, “Oh, my God, this is even more inevitable than we ever thought. This is more important. This problem is actually going to be bigger than we realized, and we just have so much more conviction, even though shit is hitting the fan right now, and gosh, our product is completely wrong, and we have to start all over again!” That team, I would say you guys have to stick with it. You’re in that classic kind of mode of whoever sticks with it long enough is going to figure this out. So that to me is really where the decision point comes down to.
+
+I was going to throw out a tough case, which you see sometimes. Let’s say Odeo way back in the day, although, ultimately, it transmogrified in some fashion into Twitter. But they’re pursuing what one could argue had become the now ubiquitous podcasting and things of that sort. But they paddled for the wave really early. I guess, sometimes, it’s a case, not to throw some investing quotes in here, but I will, since I’m all caffeinated. I don’t know the attribution. I really wish I did. It might be Templeton. But the markets can remain irrational longer than you can remain solvent. Something like that.
+========,9,title.
+Right. Well, timing is a bitch, first of all. And investing is really less about the future, and it’s more about the present.
+
+In what way?
+
+In the sense that you can have the greatest idea for 10 years from now, but, again, time is the enemy of every bold endeavor. It’s just super hard to keep people engaged long enough and keep, of course, capital and everything else you need to stay alive long enough until the planets align and the timing is right. And I think that – and so, that’s why I would say that so much of investing is really about just knowing what’s right around the corner or already there and making your product and team bets based on that knowledge.
+
+Rather than 10 years in the future or something like that.
+
+Yeah. Where a lot of investors get stuck because it’s easy to be a visionary. Know that someday, yes, we will have flying cars. It does not mean that we need to be making flying parking lots at this moment.
+========,9,title.
+What else do you have?
+
+One last thing, on that front, I would say is something I’ve seen from a number of founders. I know Ben Silbermann, co-founder of Pinterest, is one person who really thinks this way. We were talking about that kind of long journey, multi-years, and the merchandising and whatever. And this idea of breaking it down into chapters. When he talks about Pinterest, he’ll talk about the fact that after product market fit, then there was the year of internationalization. And everything in the company was geared around “Let’s go global. Let’s stop these clones.” And then there was a year around monetization. “Let’s figure out how are we going to have a business here.” And each year has been like a chapter. And that’s how he frames prioritization.
+
+I like that.
+
+And I guess it kind of goes back to that drive with no sight out the windows. How do you keep the team engaged? But I think it’s a crucial point. And it’s part of the endurance question.
+
+You used the metaphor of the kidnap car with the blacked out windows. One that I’ve also heard, not applied to startups but to novels, actually, writing novels that I like quite a lot, and I do not remember the attribution on this either, but it definitely wasn’t me, which is writing a novel is a bit like driving across the country with your headlights on.
+
+Oh, yeah, Anne Lamott, I think.
+
+It very well could have been Anne Lamott because Bird by Bird is one of my absolute favorite books, and I gift it to everybody, which I should probably also give to startup founders, quite frankly. A lot of the lessons are the same. But you can get to your destination, even though you can only see 20 feet in front of you.
+
+I think that’s part of it. The other part about it is how you build patience into the way your team is built. If you look at a company like Amazon, I think they kind of have a cultural set up for patience. This notion of being willing to be misunderstood for a very long period of time. It’s very embedded in the culture. And you hear lots of ways that that’s perpetuated. And then, you take a company like Google where I think, actually, they’ve tried to also build patience in but not as much cultural, more structural. So this notion of Alphabet and all of these little companies that are able to kind of exist on their own as if they were in a VC portfolio versus subject to the quarterly cadence of a large public company. So I think it’s breaking those down in the chapters. Yes, it’s the –
+
+Sorry to interrupt. But the being misunderstood for long period of time, is that as a company or as a person within the company?
+
+Well, I think it’s both. Obviously –
+
+And they do have their whatever it is, not 10 commandments, but like the 10 tenets of Amazon or something up on Amazon somewhere. I don’t recall exactly what they’re referred to as.
+
+They also have their original shareholder letter that they attach to every new shareholder letter. And it’s sort of a Bible within the company that also is all about that. It’s basically, saying, “We’re going to do what’s right for the customer at the expense of a lot of other near-term opportunities to generate profit.” And that becomes a cultural tenet that, obviously, impacts the decisions that leaders make across their businesses. And I think that’s why something like AWS became such a large part of their business.
+
+Amazon Web Services.
+
+Yes. And you see other parts of their business become huge businesses on their own because they’re just willing to invest that way. You have to have a way though because I think the realization here is that we are all impatient. Part of my belief is that it’s just biological. I don’t know what our life expectancy was hundreds and hundreds, if not thousands of years ago. But it was a hell of a lot shorter than it is today. And so the notion of committing 10 years of your life to something was just insane and very unwise. And so, when we do that, we are –
+
+Get out there and procreate now.
+
+We’re going against our biological tendencies. And so you have to have hacks. You have to have those short-term reward system hacks. You have to have things like the cultural mechanisms or the structural mechanisms that push patience, the chapters, the merchandizing.
+========,9,title.
+Since I’m going with stream of consciousness for a minute and certainly going off script, you mentioned Amazon. I’m fascinated by Amazon. Stratechery’s blog has some fantastic articles on Amazon. And one recently, or not so recently, a few months ago on the acquisition of Whole Foods that I thought was really astute. I was introduced to it by Naval Ravikant. Thank you, Naval. What do you read, when it comes to investing, entrepreneurship, or other? Are there any newsletters, main Twitter accounts, anything that you can mention that you find really thought provoking?
+
+Well, Ben Thompson who you just mentioned, Stratechery, is, certainly, one of the greatest thinkers, I think, on what’s happening every day and always has a unique spin and has a lot of like actual helpful self-references because he’ll pull up things he wrote three years ago, not only to take a victory lap, but also, actually, it’s a very helpful reference because helps you kind of understand how some of these things could have been predicted and what the strategy is behind a lot of these moves. I think there are a lot of different investors that I follow or subscribe to newsletters for because I want to hear their view. And I’m trying to think of others.
+
+Yeah. Anyone who comes to mind recognizing this is not an exhaustive or complete list. But folks who you –
+
+Like Tren Griffin, a guy who has been at Microsoft for a long time, close to Bill Gates, and has sort of observed the software industry evolve and has a lot of insights around what’s going on with all of the mayhem these days with valuations and certain companies that are exploding without concrete business models. And he always kind of boils it down to things like cost and requisition, lifetime value of a customer. But it’s just, again, I like people who come from a vantage point with an extreme bias, in his case, towards those fundamentals, trying to make sense of everything else that’s crazy in the world. That’s helpful.
+
+Tren Griffin?
+
+His name is Tren Griffin, right. Josh Wolfe, who is a great investor in New York of a firm called Lux Capital, he’s actually been an extreme skeptic of Tesla for a very long time calling out, from his vantage point, around some of the fundamentals. And also, I think he’s used to entrepreneurs that have very wild personalities for future narratives. And he pokes holes, for a living, in that. And so he has some perspective on what he thinks may be happening on the Tesla front, which is always interesting. So he’s another example of someone who just kind of grounds what you’re reading on the headlines with some different perspective.
+========,9,title.
+Thematically, if you look at the non-investment reading that you do, if you looked at the pie chart, is there anything, in particular, that you’re consuming a good amount of these days or over the last year or two?
+
+I think that there are some biographies, the Doris Kearns Goodwin type stuff, the Walter Isaacson classic biographies. I recently read Shackleton’s Endurance story.
+
+Appropriate.
+========,9,title.
+Yes. Which, obviously, relates to my thinking these days, which is just a phenomenal story. And there’s so many interesting leadership lessons of counterintuitive things that he did that help you understand difficult decisions that have to be made.
+
+And does anything come to mind? I’m asking a lot, I know.
+
+Yeah. I know, but one actually thing that stuck with me was, I forget the exact scenario, but the crew had a choice of going back and getting all of this food from the ship that was sinking. And everyone was like, “Of course, we have to get it. And we might be out here for years. We need as many supplies as possible,” but he didn’t let them. And it was like, “What do you mean. You’re the leader. How could you put your team at risk?” But he realized that, by allowing that to happen, he would be sending a message to his team that, “Yes, we will, in fact, maybe be stuck out here for years.” And he knew that would be almost like a death sentence to morale and to everything else. And so he just kind of artificially constrained their lifeline, to some extent, to make sure that the team knew that we just had to win.
+
+We had to survive. We had to move faster. That’s an example. So, wow, what are the constraints that you should inflict on your team to make sure that performance is at a certain level?
+
+Wow. You have to be thinking quite quickly to play through the different scenarios in your head and make that judgment call.
+
+And be willing to be unpopular.
+
+Yes.
+
+And take a risk. That’s a risk, right?
+
+So, I think we can maybe look at one of the other legs of the stool. We have sort of three buckets. What would be one example? And I’m thinking, actually, this would be a good place to pause, put on our most fashionable swimwear, and move into the truth barrel, if you’re open to that.
+
+I’m ready.
+========,9,title.
+Okay. Pause. So, here we are in my winey sauna, with a submarine light. You guys can look it up. Very old timey. It looks like perhaps even a torture device in Rambo attached to the quills of a mattress of some type. But we are sitting in a barrel sauna, the specs of which were given to me by Rick Rubin. Thank you, Rick. This is the second time, out of 360 plus episodes, that I have attempted to do a podcast in a sauna. So thanks for being part of this experiment.
+
+Proud to be the second.
+========,9,title.
+And the acoustics might be a little weird, so bear with me, dear listeners. And I thought I would segue by selfishly focusing on myself and a problem challenge that I ran into a mere 30 minutes before you got to my house because we were talking, in the indoor section, about, at one point, the importance of post mortems and asking yourself why you responded the way you did to certain things and how you do that work on planes. And it has led to insights and behavioral change. You seem to be, and this will foreshadow maybe the emotion that I suffered from and still suffer from right now, as we sit here, having this conversation. You strike me as a very even-keeled guy. I don’t think I’ve ever seen you angry, not that I’ve done anything to anger you, I don’t think.
+
+But my default, in many situations, for reasons now known, some I’m sure unknown, has been anger. And it’s been a very valuable tool. It’s been a very useful fuel in some instances, for endurance even, to get things done. But I think that, in many, many circumstances, it has misplaced and outlived its usefulness. And it’s just corrosive for me. So, here’s what happened. For the last few months, I have been interacting with this nonprofit to do volunteer work for them both to serve and to help but also to learn a lot on the job, so to speak, volunteering for them. It turns out volunteering for them is pretty popular. Quite a few people want to volunteer. So it’s not perhaps as straightforward as you might think. And I invested a lot of time in emailing back and forth with these folks for what I would consider an extended period of time.
+
+And I sort of, in the back of my mind, we’ll get to that, but I think about opportunity cost quite a lot, as it relates to time, in particular. This nonrenewable resource that we have. So, I put a ton of time in, which I hoped would end up in some type of solution for both sides. It would allow me to get a bunch of valuable experience. So, we agreed to a certain format like, let’s just call it three or four sessions of volunteering in a very particular capacity, and set in motion all of these plans. I said, “Are we confirmed? Because I’m going to be expending a lot of money and planning and logistics, $20,000.00, something like that to actually get to you to do this properly.” And they’re like, “Yes, absolutely, no problem.” So, I received, finally, after tons of back and forth, the schedule for my volunteering on none of the days we discussed for capacities that I do not match up with what we had planned.
+
+And I’ve already irrevocably spent this money. And I’m just like, “What the fuck?” And so I was just trying to kind of talk myself into some level of something resembling calm before you got here. I’m just like, “I can’t let this ruin my whole night. That’s ridiculous and infantile. So let me throw on some music. Let me have some tea. Let me play with the dog. Let me do A, B, and C,” which worked. I’m enjoying hanging out, and it’s not possessing me like a demon. But I do fear because this is my pattern that, as soon as you leave, now for the weekend –
+
+It’s going to fester.
+
+I’m going to be thinking about this, which will not have any resolution. If it’s going to have any resolution, which it might not, it’s not going to happen until next week, Monday onward. So, what would you do in this circumstance? If you were in my shoes –
+
+As my even-keeled self.
+
+As your even-keeled self, right. Or how would you think about this, in my shoes?
+
+Yeah.
+
+Or work on it. And just for people listening, I wanted to take us in this direction just for the first portion of this part deux in the sauna because this is, in fact, the type of thing I would ask you about. You’re a friend. And I get asked all of the time. We’ve heard that you’re the average of the five people you associate with most. Who do you associate with most and why? And you would be an example I would give. I’d be like, “I aspire to develop these characteristics, which I think are exemplified in Scott that I have not yet developed.” And so you are even-keeled. I think by normal standards, I’m pretty even-keeled. But I can turn into the Hulk, also. And that is something that I would come to you with and say, “Scott, you seem to know something I don’t know or have developed something I haven’t developed. What would you do?”
+
+If you were to have given me the story you just gave me in a sauna late one evening, and I was trying to give you advice, what would I say? I think that, first of all, I always ask myself, when I’m angry about something, which I do get, on occasion: “Is this in my influence or out of my influence?” Like, “Is this something that I can directly end or shift? Or is this just like the universe is against me, at this moment, and I’m just going to have to roll with it? And how much of my energy am I going to give to it if I have no influence over it?” Because then it kind of boils down to math for me. It’s like, this sucks, but this sunk cost thing is oftentimes the wild card in this notion of righteousness that a lot of us have, I think.
+
+Yeah. And if it helps at all, I would say that when something is obviously outside of my control, a crisis situation, a death in the family, a car accident, something like that, I don’t get upset. Or I can grieve, in the case of a death. But I can handle it very, very well. Sunk cost fallacy as it relates to money doesn’t really apply, for me at least. If I make a bad bet, I’m not going to follow up good money after bad if it’s not working out. But with time, yeah, different story. I do get that righteous indignation, which I recognize almost always is a huge misexpenditure of additional energy and time.
+
+Listen, I’m with you. And I think I feel this a lot, oftentimes, when I am stuck in a phone tree. It’s like, this is so expensive for me in the sense of how I value my time. My gosh, it’s frustrating. The other question is that I often time ask myself, when I have anger towards someone or something, is how much can I expect people to be changed?
+
+And that’s a great one.
+
+Particular people, particular industries, companies, nonprofits, in a certain stage with a certain caliber of talent, with whatever else. What can I expect? And what’s reasonable and what’s not? Because, listen, I think there’s a part of us that believes that everyone can and should change. And so, if there’s an in-law or a parent or whatever, and they just are always aggravating us, it’s like, shame on them. They should change, and that can actually be where the anger comes out. And that whole kind of notion of teaching old dogs new tricks. I do say that to myself quite often. I’m like, “Is this person really going to change?” As a leader of a team, too, there’s only so much you can develop people into. And, at some point, there’s just certain limitations that I think people have.
+
+And I feel like I’m getting too pragmatic here. And, of course, I believe in the potential of people, and I believe in change. But when it comes to managing anger, I think it’s also like, “Hey, what is in my influence, what is out? How much can I expect this person, org, industry, or whatever to change?” And then you have to become a fierce protector of extraneous energy.
+========,9,title.
+How do you then, in a case like this, where I do actually want to volunteer, ideally, in the original capacity that we, at least in my view, agreed to, how would you then explore resolution or next steps, in your own head?
+
+Well, the hack that I would use is that what I’m enduring, in this case, putting up with, and what I’m tolerating is part of my contribution. So when I go to nonprofit board meetings and that sort of thing that I find, generally speaking, much less productive than other organizations I’m involved in, or certainly startups, where it’s all about what needs to get done, let’s get out of here, let’s do everything scrum, and it’s a standing meeting. It’s obviously very different. I do sometimes tell myself this is part of the condition that I committed myself to work under. I’m reminded of a great piece of advice that John Maeda, one of my mentors, once gave me. I think I may have shared it with you.
+
+Just for people who don’t know him, who is that?
+
+John is just a brilliant designer and thinker. He was the president of Rhode Island School of Design. Before that, he was head of MIT Media Lab. He spans both technology and design. He also wrote a book about simplicity. But in my life, he’s like my personal Yoda. The stuff that he tells me has to kind of roll around in my head a little bit to reveal its truth. But then it always kind of hits me. And, in this case, I was at my first ever board meeting for the Cooper Hewitt National Design Museum, a Smithsonian institution, with people with famous names on the board and a very kind of old institution. And it just moves slowly, in some ways, because that’s how it has sustained for so long. Of course, it hasn’t gone through radical change. That’s what makes it, in some ways, sustainable.
+
+And I walked out of this meeting, and I said to John, at the time, he was still president at Rhode Island School of Design, and I said, “Gosh, how do you manage such an unproductive meeting?” I think we heard a lot of people speak. We celebrated certain people for doing things. I don’t think we got anything really done. I don’t know what is actionable. And he looks at me kind of shaking his head like, “Oh, young Skywalker.” He sort of looked me and said, “You know, Scott, all of these cool startups and things that you’re so excited about doing and building and founding, they won’t be around in 100 years. But this will, and it has been. And sometimes in life you find something where all you can do is add a brick. And that has an incredible impact to something that will be around forever.”
+
+And what I heard him saying in that is that adding a brick in a startup is pathetic. It’s nothing. It won’t get you anywhere. So, in some ways, you have to change your expectations and have a greater tolerance for a different level of, in some ways, performance for impact. And I think what you were describing is like this extra debt or extra cost, rather, you didn’t think you were signing up for. That is one way, at least for me, that I would excuse and be able to manage it.
+
+Okay. So, that gives me a cooler head.
+
+Even in the hot sauna.
+
+Even in the hot sauna without my wool hat, professional Russian style, we’ll cover that in another episode, especially important for both heads, by the way. But another time. 
+========,9,title.
+So now I have a cooler head for the email or phone call. How do you think about that?
+
+Is the question how do you now keep a cooler head?
+
+Well, the options to me, I’m sure, are many. But the ones that come to mind are I can accept what they’ve suggested, which is in no way representative of what I –
+
+That wouldn’t be you, from the person I know.
+
+Yeah. It would not be me. Agreed to or particularly want to do. And it actually has some conflicts. So, it’s not really an option to accept it.
+
+So it’s practical.
+
+Yeah. Number two is to ask for something completely different, which is, in fact, what we agreed to, in the beginning. But they’ve already slotted all of the other volunteers. So it may or may not be possible. Or something in the middle? Or I don’t do it at all.
+
+The Tim that I would know, by default, in my opinion, having known you for years, is you would say, “I’m out. You guys, this is not what we agreed on. Time above all else. I want to be with high performers, work with things that are on point. This is just going south.”
+
+That is my instinct. But I really – there’s the other part of me that’s like, “Maybe you just need to wait for your testosterone to decrease over time, old man, and you should try a different approach,” because there are times when I have cut off my nose to spite my face out of principle would be the justification. And in retrospect, it’s just like, “What the fuck? Really?”
+
+I’m all for principles, but principles tend to ignore nuances and other practicalities, again, the limitations of some people in organizations and constructs and industries and situations. Maybe the exercise is to go back and say, “Hey, this is not what we agreed on. And this is what will work for me. Can we still make this work for me?” And give them one more chance/olive branch and see where it goes. I also, on the counterpoint, believe that this sort of thing tends to be a repeatable pattern. And you probably know what you’re in for.
+
+We’ll see. This surprised me, so maybe their response to the next one will equally surprise me.
+
+But this post mortem, this process, this is what develops muscle memory. This is what develops our judgment.
+
+And honestly, even though there’s no clear resolution, I feel better about it just having walked through the practical tactical next steps. So, I don’t have to, hopefully, pace around kind of shaking my fist at the sky for the weekend, which would be absolutely wasteful because, even if I have the time this weekend, I have no intention because I’m fixated on this and suppurating, that’s a waste.
+========,9,title.
+And I think it’s a Holy Grail type of thing that this notion of can we compartmentalize our uncertainty, our fear, our anger in situations and somehow be able to allow the other 90 percent of our brain to operate as if it weren’t there. That’s the gold standard. And I remember being on my honeymoon two years into the start of my startup and thinking, “Gosh, how irresponsible am I? I’m here in Thailand and my team is back grudging through it.” And we’re this many months out of not making payroll and whatever else. And yes, there was this part of me that was like, “But this is your friggin’ honeymoon, and you get this once, hopefully. And you’ve got to at least be present for part of it.” And I remember that was the beginning of my education on trying to compartmentalize that stuff. It’s fucking hard.
+========,9,title.
+Do you think that, in retrospect, having had all of your experiences since then, has it worked well for you? Would you recommend it? And what does that really mean on a cognitive level, or not necessarily mechanistically, but for someone who says, “Wow, Belsky sounds like a super chill, at-peace guy? There’s this compartmentalizing thing that he first saw the light on his honeymoon. I should try that.” What do they try?
+
+Sure. I think it’s – my attitude is that I actually admire people on both ends of the spectrum here. And I have less admiration for those in the middle, probably myself. On one side of the spectrum, you have those true pros that are able to just have all this going on. And remember that story about Barack Obama right as they were killing Osama bin Laden, and he was at an event that night cracking jokes and whatever knowing this was going on in the back. And you look at that, and you’re like, “That guy must be a pro. How did he do that?” And then, the other end of the spectrum, I admire people that are just like truly with their emotions and authentic. And they’re like, “These weren’t the dates we agreed on. Sorry, deal off. Don’t call me again.”
+
+There’s actually something about that that I admire from a truth and emotionally connected governed way of living. It’s in the middle where you’re kind of – and I’m actually wondering now if it’s sort of like the blackjack rule. You either always hit on 16, or you always stay on 16, but don’t do it based on your emotions.
+
+Be consistent.
+
+Right. Don’t be inconsistent. I definitely aspire to be more on the pro side and that kind of goes back to the “Do your fucking job” thing I tell myself in my head sometimes, when I am feeling like I am going to sleep with this compartmentalized uncertainty or fear or anger or whatever. And it’s just like hey, if you’re a pro, you should be able to do this. And that’s kind of what I tell myself.
+========,9,title.
+Yeah. Well, it also reminds me, and by that I mean your comment related to this is part of your contribution, is like the suffering through might be too melodramatic, but tolerating things that move more slowly, things that are a little more disorganized. That’s part of your contribution with group X or person Y. And it makes me think of something that I haven’t thought of in a while that Robert Rodriguez, the filmmaker, said, when I was chatting with him on the podcast. And that was like, I’m paraphrasing here, of course, so Robert, forgive me if I get it somewhat off. But filmmakers come up to him all of the time, and they’re like, “Yeah, I was working on my film, and I was doing this. But this went wrong, and the lights blew out.
+
+“And we hadn’t rented XYZ for the right period of time, even though I told them we were supposed to do it,” and then, this and this and this. And they list off this litany of complaints. And Robert just says, or he said to me, “They don’t realize that is the job. If you sign up to be a filmmaker, your job is that nothing is going to go right.”
+
+And that is what you do. And it’s almost like, when you build a, not to bring everything back to product management, but when you build a plan, you either multiply it by 1.1, 1.2, 1.3 based on what the team is, how part of the project is, how many unknowns there are, and that is your timeline. And I would argue that, when you work with certain types of organizations, or you undertake certain commitments, you have to multiply it by 1.2. You’re going to have a few misunderstandings and back and forths and one date change. And if you actually went into this knowing that that was the status quo, you wouldn’t have been as upset.
+========,9,title.
+Yeah, absolutely right. All right. So, let’s talk about the second bucket, optimize.
+
+Now that we made it through the first. And I have to say, endurance is not sexy. But it’s just we have to know we’re not alone. These are important things to think about.
+
+Definitely. So, how that we’re half-naked and sitting in a sauna sweating together, let’s get sexy. Where would you like to start?
+
+Where would I like to start? For me, all of these insights that I kind of catalogued into the optimization side fell in these camps of team, self-product, and I would just start on some of the team stuff. And this could be whether you’re just getting a few people to work with you, you’re starting something as a solo entrepreneur, or you’re actually leading a team. I think 1) I would just start with the fact that we all know how important it is to be resourceful and not just rely on more and more resources to solve problems. I think it’s pretty common knowledge that, if you’re constrained, it’s a form of creativity, and there’s a million stories about that. I like to think about, especially in the startup world, resources are like carbs. Resourcefulness is like muscle. When you develop it, it actually stays with you and impacts everything you do going forward.
+
+I think when you’re bootstrapped for a period of time and forced to develop that muscle, that serves you forever. And, of course, the stories of people raising way too much out of the gate and never developing that muscle, typically, actually don’t end quite well. So when it comes to thinking about that, a couple of thoughts. And one story is, when I first hired our first operations leader, a guy named Will Allen, he worked at TED Conferences prior to that, and he came on board to kind of kick some operational prowess into how we were working as a company. And I remember, every time teams would go to him saying “Hey, we’re growing, we need a bigger budget for storage space; we need more people for this, for that function,” whatever, Will would always say – he had this mantra of refactor, refactor, then hire.
+
+And he just believed, fundamentally, that every team can go through one or two refactoring cycles.
+========,9,title.
+What do you mean by that?
+
+And what that means is, first of all, if it’s a human heads perspective, it’s like, well, each person oversees one part of the product. Could they oversee two instead? Are there any benefits to that? Should we cut some of the crust? Are there people we should shift around? Should we actually pick the feature that people are using the least and just kill it and take those resources and put it on this new thing? Those conversations, inherently, don’t happen, when you have resources at your disposal. When you don’t, they have to happen,. But when you have to choose between the two, it has to be forced, I guess is my point.
+
+And that has become a real actual principle for me as a manager and as a board member and as an advisor is constantly challenging teams to find creative ways they can refactor, and also, making the case, even if they have the resources as to why that benefits them.
+
+I was just going to say that one of the most valuable things that I’ve done in the last few years, which I should have started a lot earlier, that I think I’m better at than perhaps the avoidance of emotional reactivities or at least to anger, certainly, is journaling on hypothetical questions that can strain your resources, even if you have them. So if you have a year for, say, a given project, a book, a competition, a campaign, all right we have it scheduled for whatever it might be, a year, three months. What if we had to finish this, and it might mean that the metrics change, in one week? What if we had to finish this, and we couldn’t, personally as a team, touch it? You had to outsource all of it. Would that simplify the specs? Would that simplify what you submit? And then, does that end up being usable by the team?
+
+And I apply it to time, any currency I can think of. Head count. If one person had to do this, how would the description of the project need to change? If we had to do it with X amount of dollars, which is one-tenth what we’re budgeting, we absolutely had to, and write down how that would change the implementation without fail has made every project I’ve applied that to dramatically better.
+========,9,title.
+By the way, it’s true on the individual level, on a small team level. There’s also a company called Skybox that was started by four Stanford students. They decided that their goal was to build a satellite with off-the-shelf parts, at a time when satellites cost hundreds of millions of dollars. And they were like off-the-shelf parts. That is the ultimate constraint. And that was the fuel of innovation. They ended up building satellites between $2 to $5 million, which is a fraction of what satellites were being built for. And then, a year or two later, Google acquired them because of their innovation in the space of economically and resourcefully building something that was otherwise out of touch.
+
+Yeah. That’s a great story.
+
+Yeah.
+
+For people who want to hear or read a great story of resourcefulness, this just reminded me, and somebody else is going to have to look this up, but there was a robotics competition. You might have heard of this or seen it. A feature film was made out of the story. And I will put it in the show notes, guys. But a feature film was made depicting this telling this story of these low-income, at-risk youth who were encouraged to join a robotics team, and I want to say it was in Los Angeles, by this incredible professor. And I don’t want to spoil the story, but the narrative and the journey is really the pay off, not the end, which is easy enough to figure out. But they were competing against these very well-heeled, upper-class, perfectly educated teams, and they had to scrape by with essentially no budget to learn and build robotics to compete underwater.
+========,9,title.
+And it’s just such an amazing story. And I also remember Jack Ma of Alibaba, at one point, and I might get the order slightly wrong, but he said, “We had a number of advantages when we began. We had no strategy, no money, no experience.”
+
+It’s a common story. It is counterintuitive. And even if you benefit from that, you actually still start to operate differently, when you start having the resources at your disposal. The same thing, by the way, goes for hiring. Another thing that I’ve observed, in many instances, is initiative being more important than experience. And you’re hiring people. And when you have the resources, you tend to become a resume snob. And you’re like, “Oh, I’m going to have the VP of this from Google” or whatever. But when you don’t have the resources, you actually have to hire for something else because you can’t afford to hire those people. And so you start to measure people based on, “Well, are they the type of person that takes initiative on anything they’re working on? What’s their history of doing that, and will they continue to do that here?”
+
+What does initiative mean, in this case? I have an image, in my mind, because that’s something I look for.
+
+To me, initiative is really when you’re genuinely interested in something. Do you take relentless, persistent, and continuous action? Is it something that you hold your eyes up at night to do more of versus are you confining yourself to the job description? I always like to say that I feel like so much of the future is done by people doing work they didn’t have to do. And if that’s true, it’s really about people who take initiative over what they believe their job is, which, basically, comes from having a lot of experience. You start to become a little bit more confined because you’ve been down this road before. You’ve seen it 10 times. Let me do my thing.
+
+“And, by the way, I had three assistants at Google. Which three assistants are you going to hire for me?”
+
+“I haven’t written code in a while.”
+========,9,title.
+Yeah. But what jumps out to me, and I’ve hired far fewer people than you have, but looking for deep examination of the tasks they’re given has proven really valuable, which displays a lot of qualities at once. So if I give them something really quickly because I’m in a rush, but it’s important, and I say, “All right, off the cuff, I imagine we’re going to do A, B, and C. And then, as the final step, you’re going to have to choose between one, two, three.” And if someone comes back and says, “I looked into all of that, but I think the better option is number four, and I actually tested this out. And although you didn’t ask me to do this, on my own time, I did this.” It’s like, okay, that displays initiative. It also displays an understanding for the circumstances I was experiencing, buried under, suffering from when I gave the order.
+
+They’re always asking “What is the outcome, and is this actually the best route to that outcome?” And by observing that in other people, I’ve become better at it myself, which has been a huge key learning for me. And this is meandering quite a bit, but that is my way. That also means, by observing other people, you can improve those qualities in yourself, if you really pay attention, and if you’re reviewing what they’ve done and vice versa. You have to lead by example. So, hopefully, you’re doing the same thing.
+
+And similarly, when we’re talking about anger and these other emotions, I realize that when I’m having difficulty with a particular emotion myself, if I can step out of my inward focus, the me, me, me focus and try to help someone else with a challenging emotion, ideally a similar emotion, it gives me the observer status, the objectivity, to help them. And I’m like, I never would have come up with that if I were thinking about my own problem because I’d be too wrapped up.
+========,9,title.
+Yes. And what’s the Carl Jung, quote, understanding the darkness in others is – or understanding the darkness in you and others, it’s like transferrable, all of these insights we get. And I think the other piece here is just that don’t measure initiative based on stuff within the field you’re hiring the person for. Recognize that initiative is transferable. Past initiative is the best indicator of future initiative. And be a little liberal with how directly applied it is. A couple of the things on the assembling the crew front that I was kind of struck by that kind of made it to the cut, at the end of these insights, one of them is hiring people who endured some form of adversity. And another one is hiring people with whom every conversation you have with them is a step function more interesting than the one before it.
+
+On the adversity front, super quickly, Tristan Walker, who is an entrepreneur who started Walker Brands and has built a real business, he talks about how he had a tough upbringing. And he feels like one of the things that he really carried from his upbringing was courage. And he feels like he wanted to make that a true value of their company. And I asked him, “Why is that – it sounds nice, but what does that really mean?” And he said, “Only with courage can you practice the same values consistently.”
+
+So true.
+
+Yes.
+
+It’s like the meta pre req.
+
+Sure. Because, otherwise, you’re always making exceptions, you’re always deviating. But if you have courage, you will take on and be consistent. And so I was like, “How do you hire for that?” And he was like, “I look for people who went through shit like I did.” And it was interesting. That lens into why adversity actually is important, when it comes to building a great culture and actually a product and brand and everything that’s consistent. 
+========,9,title.
+The other one brings me back to the story of working with the Periscope team. So this is a team that was building a live streaming application back in the day, when, actually, there were Snapchat and other products that were more about facials and whatever. Not facials.
+
+That’s a different – photographs.
+
+Yes, selfies. It’s the heat, I’m telling you.
+
+It is the heat. It’s hot here. It’s so hot that my thermometer has been broken for the last –
+
+And this mic I can barely handle anymore. But so, when I met with that team, and they were doing some things kind of different. They were saying, “Even though every real-time video thing is more about selfies and showing what you’re doing to others, we believe it’s actually about seeing the world through someone else’s eyes.” They had a lot of things like that. But what really drew me to them was every time I had this conversation with Kayvon and his co-founder Joe, it was always like a step function more interesting than the one before it. And I remember juxtaposing that with most conversations I have that are sort of replays.
+
+By step function, you mean dramatic improvement, in this case?
+
+Yes. Dramatic improvement, difference, and every conversation being like new level, new plane, new plane, new plane. And then, now, having gone through that investment from the whole period of seed through product through acquisition by Twitter, I think one of my beliefs is that it was that chemistry with them that actually kept me engaged. And it also kept their team engaged with them. It was just one of those traits, again, that I actually tried to look for. So, I actually try to meet candidates for senior roles twice. And I try to do a delta comparison between the first conversation and the second. And oftentimes, it’s the same. People are like, “Why am I here again?”
+
+I answered these already, and I haven’t done any additional digging.
+
+But sometimes, it just goes in a completely new direction. And you’re like, “You know what? Everyone that works with this person is going to want to keep working with them. And so will I.”
+========,9,title.
+So in the interest of keeping you working with me as a friend, I think we will take a cool-off break, and we will be back. And here we are back in the wining cylinder in the truth barrel. And I thought we might chat about, now that we’ve lowered our core temperature just a wee bit, since we’ve been, I think, incorporating a discussion of self in the discussion of team quite a bit that we maybe segue into some self-specific points meaning a point or two. And then, what a lot of people would love to hear about because you’re so known for it is product. And then, we can move from there and see where the wind takes us.
+
+Yeah. You have to optimize how your team works. And there’s process improvements and blah, blah, blah. There’s also though the harder challenge in a bold venture or journey of optimizing the way you work and think and react and everything else, which we’ve talked about a little bit, I think. And one of the little insights that I thought quite a bit about was the fact that your true blind spot is how you appear to others. And I think that part of that is understanding that we react, obviously, for all different sorts of reasons, to things. We react based on the confidence we have from the financial security we may or may not have. We react based on all sorts of other factors, when it comes to just an altercation at work or a decision that we make or whatever else.
+
+And knowing that, then, of course, everyone else interprets us as sometimes irrational to their context of where they’re reacting from and what their background is and whatever else. And this is about surfacing. What are the things that we’re doing that we don’t even realize that other people see and scratch their heads kind of thinking about? I remember this experience I had in high school where I lived on a farm in Vermont for six months in one of those programs you apply to. And it was 45 kids on a farm self-sustaining. And it was more about community than the farm, frankly, learning how to co-exist within a small group and govern yourselves and that sort of thing. Kind of like Lord of the Flies; it was high school.
+
+How old were you again?
+
+Junior year of high school.
+
+Were you Piggy? I’m kidding.
+========,9,title.
+Potentially. And super thin, but yes. And one of the most intense exercises that we did towards the end that I will never forget is this thing called the mirror exercise where you paired up with somebody, and they would tell you what they saw. Of course, from their experience, having lived with you 24/7 in a farm in Vermont. And it wasn’t a physical thing. It was like, “I see you afraid,” or “I see you” – you’re supposed to use verbs. “I see you sometimes wondering if you are in the right place or if you have the right to speak.” There were just all of these different – and I remember it hit me like a ton of bricks. I actually wish I remembered exactly what the feedback was that I got. What I would think it was was that I had a lot of insecurity.
+
+And to pause, just so I understand the format, did you have one person who would give you five examples? Was it a line, and you have one person or each person give you one item? What did it look like?
+
+Yeah. So, you paired up with a few different people, and you got 10 minutes, and you were doing it for each other. And the challenge was to not – it wasn’t out of judgment. It was like you were supposed to see what you were just kind of – you were supposed to share what you were seeing without really imposing so much judgment around it, which is hard because some things sound judgy. But I think it was a heartfelt exercise. And what it did is it – what I do remember taking out of it was gosh, people see things that I didn’t realize I either showed or knew or didn’t even know about myself. And so, from that, I started to, in my professional experiences and in my personal experiences, I would often ask the question of people I’m with, “If you were me, what would you do?”
+
+I would try to kind of get someone else’s take on a situation from a different set of, again, those things that are the context of our decisions, the background struggles, the issues with your parents, all of the other stuff. Assuming everyone has a different thing, if you ask that question of other people, and you see a delta between your reaction or your thought and theirs, then you actually at least know there’s something to explore there. It’s almost like a canary in the fact that, okay, hey, there’s some projection going on here. There’s some blind spot that I am not fully aware of that is interesting.
+
+Right. Yeah. You’re looking in the mirror. But like you said, the blind spot very literally, like a car, where there’s just this empty pocket that you cannot see.
+
+And then, the question is like, how do you fish it out? It’s super hard because it’s literally not in your mirror.
+
+Well, a few questions related to that. First, to the exercise, is there anything, and it’s a long time ago, I realize, that the counselors or leaders of the group said to everyone, so that they would receive without becoming defensive, which would be the natural response for a lot of people, myself included probably.
+
+That’s a good question. And I think that it reminds me of one part of it that I omitted, which was that we were also instructed to really only, at the end of the day, think about the ones we heard more than once.
+
+Could you pass me your water now that I’ve extinguished mine, and I will selfishly put my self-preservation ahead of yours. Please continue.
+
+Yeah. I was in your casa. Do you know what that direction did? First of all, it made people realize that, if I tell someone this because I’m judging them, and they don’t hear it from others, I’m going to look like an idiot. So, it had a preventative measure, in that sense. It also helped the recipients discount anything that they heard once. Maybe psychology is still hard to do it.
+
+That’s very helpful.
+
+It was a very interesting trek.
+========,9,title.
+Have you ever experienced a 360 interview?
+
+No.
+
+Okay.
+
+Reviews you mean, right?
+
+Yes, 360 review. Sorry. Now, it’s my turn to my brain into scrambled eggs. And for those people who don’t know, this is something a number of my friends have experienced, which I didn’t realize, until I did it myself and felt like a broken human being and was hit so hard that I wanted to confess that to close friends. And they’re like, “Oh, my God, yeah, man, you’re telling me.” And I don’t want to mention names. They’re people you would view as maybe not immune to criticism but, certainly, these stalwarts of strength. These monolithic pillars of resilience. And what a 360 review entails, for people wondering, it’s something I would recommend to everyone, actually.
+
+And there are ways that you can do it outside of a business context. But what it generally entails is someone wants to figure out these blind spots, figure out how they’re being viewed, figure out what their better behaviors are, what their lesser behaviors are, etc. And you will select, with the person who will be doing the interviews, it’s not you, say peers, people you report to, people who report to you, and so on and so forth, maybe suppliers, distributors, who knows. People you interact with a fair amount. And it can be a very sophisticated process. You can do this – I actually did a very early version of this. It was really truncated in high school because I read a book called Mental Toughness Training for Sports by Jim Loehr who has, in the last two years, become a friend, which is crazy and awesome.
+
+A really fantastic guy, works with a lot of athletes. But it has an inventory that you’re supposed to give to coaches, peers, teammates, people who know you really well. And it made a huge difference in my success as a wrestler. It was really remarkable just to see from the day of receiving answers, which I received myself, to next day. It was really astonishing how much things change. And with the 360 interview though, just to come back to this, only pay attention if it comes up more than once. It’s a very hard exercise, even if you prepare yourself, at least in my experience and the experience of some of my friends, to take because you’re seeing these ugly truths, especially the ones that come up more than once. You’re like, all right. And the answers are anonymized, which gives people another layer of permission to be particularly direct.
+
+And one thing that came up for me, and it’s actually the only thing that I remember because I literally could not read this document. I went through it once, and I was like, “I can’t actually psychologically digest all of this right now.” But I did pay attention to a few things. And one that came up a lot, and then, I want to come straight back to you, but this may be helpful for other people, if they choose to implement something like this, even with their friends and they know that they’re doing it. Just look up 360 review, and you’ll find all sorts of resources. I’ve never seen Tim fully celebrate anything. And it relates back to what I mentioned earlier. Always looking for what’s wrong. The good stuff takes care of itself. We’re only doing our jobs. I’m only doing my job. Why would I pat myself on the back for doing something that I signed up to do?
+
+It would be a disappointment not to do it. I don’t get extra credit for completing something. And that became so severe and maybe it relates to a lot of other stuff that I’ll talk about another time. But feeling damaged or in some way flawed or undeserving of that. But, in retrospect, very painful pill to swallow. But they were absolutely right. It’s crazy to think, but, at a certain point, and I don’t expect anyone to cry me a river on this stuff, but it does belie some type of real psychological issue that I had to address. But I remember the last two times I’ve had a book do very well on the best seller lists, like the first time it happened, game changing, collapsed against the wall, fell on the floor, I can’t believe it, dazed for the rest of the day, maybe the rest of the week, on Cloud Nine.
+
+And, at this point, I feel like it’s the expectation that my books will do that. Certainly, it’s the expectation of the publishers. And it’s just relief that I didn’t fail. And maybe I’ll have one drink, and then, it’s like, “All right, on to whatever you should be doing next.” That’s awful.
+
+It may be good, obviously, most great product people are perpetually dissatisfied with their product. But first of all, yeah, it’s not good for your own psyche. But for people around you, they can start to see that as also a form of arrogance. In some ways, you’re getting gratification that most people will never be able to get. And then they’re seeing you not acknowledge it. It’s interesting. Again, back to that mirror exercise, unexpected things you might see that people see.
+========,9,title.
+Yeah, for sure. And also, at least in my own reflection, the voice in my head that has been in my head that we assume to be us is very often, for me, not my voice at all. It’s the maybe hypercritical voice of other people I was around and have adopted. But I’m playing their soundtrack. I did not decide to have that voice. And also realizing that how I talk to myself, even silently, is very often how, even indirectly, I end up communicating with other people, even if it’s just through body language or implied. And you can help other people to help yourself, or you can help yourself to help other people. But super, super valuable. So I’m glad you brought up the exercise. And I’m going to publicly, on the podcast first, I’m going to suggest that we tap out and go sit outside where it’s cooler.
+
+Thank God, man.
+========,9,title.
+So, we are going to segue.
+
+I don’t have the physique of Tim for those who can’t see me.
+
+It doesn’t seem to help with my heat tolerance. So we’re going to keep recording and just walk out. It would be helpful to have a temperature gauge of some sort, which we do not have. And now, we’re outside, so you’ll get to listen to the wildlife in the middle of the night in the countryside, which is nice.
+
+The stars.
+
+Stars, firepit, so we can –
+
+This will be the third setting.
+
+This will be the third setting. We’re doing a lot of costume changes and a lot of scenery shifts.
+
+This is good, this is good.
+
+I think that crickets, insects, and birds at night is a perfect setting for product talk.
+
+My favorite topic.
+
+Where shall be begin?
+
+I think that product – and when I use product, I mean any kind of customer experience or crafting, whether it’s a service, in store experience, if you’re a retail store owner or a digital product. And I think that there’s some big counterintuitive and strange ironies in how we craft products and experiences for people. First of all, we have way too much faith in people unearthing the value of what we’re building. And what I always like to remind myself and teams that I work with is that, in the first 30 seconds of any experience of a new product, service, experience, whatever, every customer is lazy, vain, and selfish. They’re lazy in the sense that they don’t want to read anything. They don’t want to watch videos. They don’t want to try to figure out how something works. They’re vain in the sense that, let’s all admit, we all have ego.
+
+We all want to feel good about ourselves. And something that makes us look better to ourselves and to others feeds that. And I don’t think any of us are immune from feeling that to some degree. And selfish in the sense that, “Hey, I have so little capacity, and I want to achieve a lot very quickly.” An example on the selfish side is products like Stripe or Trulioo or others that kind of appeal to developers with, hey, two lines of code as a way of adopting that technology because it was just like, it’s selfish. I’m going to get this done quickly. I don’t even care if it’s as good as the homegrown solution. And vanity comes across in every consumer product you see with those ego analytics, those hearts, those things that tell you that, “Oh, wow, it’s working. I want to do this more.” And of course, laziness you see with every onboarding of every product we go through. And so, with that –
+
+Onboarding meaning the signup process.
+
+Exactly. The signup process or walking to the store, knowing when you go into any product experience, why are you there, where do you go next, what’s possible. Now, the pushback I get from a lot of great companies and teams and whatever is, “Hey, I have more faith in people. They’re going to figure out why this product is great. I can appeal to them with this long-term value of what they have to contribute.” You look at a product like Pinterest, again, which was really, ultimately, a network of discovery. But their appeal, in the early stages of their business, was just make a quick collection that’s visual, as opposed to del.icio.us, which was just links. And so they appealed to that immediate need of “I want a collection for myself before recognizing the value of other people’s content.”
+
+And there’s so many examples of teams. Another product thing I think a lot about is back to that kind of onboarding first-time user experience is should you make a video of how to use your product? Should you walk people through and tell them, make them read something? Or should you just do it for them? And a lot of products that really do succeed quickly actually give you a template. They just like actually do it for you. They make you seem so much better than you are with stock content or whatever it is. So, those are just like a few examples around the edges. But to me, it’s a product principle that makes the case that we have to spend a ton of time on crafting that first-mile experience for our customers.
+========,9,title.
+How do you stress test say a first design, assuming the team is accepted those commandments or those realities, and they think they’ve designed for it? How do you stress test it?
+
+Well, there’s, first of all, the classic metrics of “Are people getting their way through? What’s catching them up?” I remember, in the Behance days, we had a terminology for the creative field that you’re in called realms. And we realized people didn’t understand what that meant. And so that was an insight in the first-mile experience that drastically improved conversion. The little things like that. But I think that it really comes down to empathy with the newest user.
+
+Are you bringing people in and watching them on a computer? Or are you using a contracted service, some type of online service to record? Craigslist? What are you doing?
+
+Yeah, all of the above. I think great teams, first of all, don’t outsource this completely. They recognize that only being shoulder to shoulder with their newest customers, and I’ll get to the newest customer, why I keep saying that, in a second, is crucial because you’re kind of feeling the anxiety and the pain. Where a report or some graph will never really tell you. 
+========,9,title.
+And yeah, I think that there is a lot of mechanisms to measure the effectiveness of first-mile. The thing is though, it’s actually not as simple as just solving it. Once you have a new product in the world, call it Twitter, you launch Twitter, and you appeal to a group of users that are actually willing to build their timeline, follow all of the accounts. And over a period of time, have a great experience. That is a cohort of new users.
+
+Then, word gets out. People start to use Twitter who kind of come for the news, as an alternative to CNN. And they’re hit over the head with this idea of building your timeline following accounts. And they’re like, “I don’t have the tolerance for that.” And, in this instance, think about it. They could have nailed their first mile and had tremendous growth. And then, suddenly, the newest cohort of new users isn’t even willing to go through it. And they have to completely kind of reinvent the first-mile experience of their product, which is why teams have to continually kind of reinvent that first mile. It’s not like you get it right, and then, it’s like move on, which, actually, most teams do.
+
+And so, that then relates to the newest customer paying attention to the latest cohort. Is that the reference?
+
+Yeah. It’s consistently committing a period of time to understanding who the newest customers are. Think about it. The newest ones are – the first ones you ever have when you launch a product are super forgiving. They’re early adopters. The next round, they’re actually a little bit more about “This better be professional; this better be reliable.” But they’re willing to go along with some bugs or whatever. Eventually, you get to those kind of pragmatists later in the curve. And the other problem that a lot of teams have is that, when they’re launching their product, let’s just talk about the newest of the new users, when you first launch a product, oftentimes, ironically, the last mile of their experience building the product is spent on the first mile of the customer’s experience of the product.
+
+So it’s sort of like you’re done with building a product after two years or whatever, and it’s like, “Oh, shit, we’ve got to make a tour. And oh, what should the default be when customers come in?” Our friend, Dave Marin, who is another great product thinker, always likes to say the devil is in the default. Whatever customers see first, they’re just going to stick with forever. That kind of decision can’t be made right before launch. In fact, that’s the most important decision you’re going to make.
+========,9,title.
+Yeah. Definitely. What advice do you give to entrepreneurs when they have say two or three products that they feel torn between, and they don’t know which direction to go in, and they say, “I really feel like we would be equally happy doing A or B, but once we commit, we know we’re going to be on this path for a good chunk of time, and it’s going to chew up a lot of resources. How do I choose?”
+
+Well, I think that there are two answers to that. One is you print out comps for both designs, and you put them in front of customers, and you’re sort of getting a sense of –
+
+Comps meaning mockups.
+
+Mockups, sorry. And you test and you build some of the marketing copy, like welcoming, you give a design and experience, a fake experience, and you test that. And you gauge what sort of approach to this problem resonates with people. I think that a common mistake, at this phase, is that teams decide to focus on the thing they’re most passionate about solving or the solution that they’re most passionate about rather than seeking more and more empathy with the person suffering the problem. And so, you’ll be like, “Oh, my God, this is the best solution. I’m so passionate about it. Let’s do it.” Which is why we always actually say that empathy is more important than passion, when it comes to figuring out what product you should actually do.
+========,9,title.
+Also on the question of how you determine which product to build, when your team comes together and you’re trying to solve a problem. Listen, there’s a lot of talk about the notion of a lean startup and getting an MVP or a minimum viable product out there and testing. That’s another answer to your question. Not only do you make up mockups and show people and test how the marketing copy and the value proposition of what you’re building, yes, put out a product and see how it performs. But the problem with that that teams I think run into is that whatever you ship ends up having more sticking power for your own team’s approach and becomes a bit of a local maxima of what you’re able to do after. So, there’s notion of, “Hey, we’ll ship a minimum viable version, and then we’ll just iterate to a great place.”
+
+So, what was the word you used? Local maxima because you’re anchored.
+
+You’re anchored, right.
+
+To that version of the product, in some way.
+
+Yeah. And whatever iterations you say you’re going to be able to do to actually get to that elusive product market fit where, suddenly, customers are getting the value out of it enough to tell their friends, it actually may get harder to get there when you’re not willing to do very bold strokes. And so, I think, in an ideal world, you do some testing before you start building of just the idea showing the mock ups, the stuff we discussed earlier. But then, you build something that you truly believe has a shot at delivering that value to customers. And take the extra time to perfect the few differentiating factors that are like most special about it.
+
+Yes, you can cut corners around all of the other edges, but you don’t want to ship the minimum viable version of the thing that you’re going to be known for because that’s not going to test whether or not the conviction you have is the right one.
+
+And the minimum viable product also is, at least in my mind, and I’m sure I’m missing plenty, predicated on a number of different things. It is much more appropriate for software than many other types of products that you might ship because it can be, at least at this point in time, not always the case, but iterated and updated remotely. Second, even within software, it applies most, I would say, to products that are a unique solution to a pressing problem. People will put up with a lot of bullshit and a lot of bugs and a lot of heavy lifting if you are the only option. But if, on the other hand, you are a newsletter of a certain type, or you have, in fact, a very attractive market but also very competent competition, that approach may not always be the best approach.
+
+Yeah. The minimum viable experience of a restaurant may not go so well. And but, at the end of the day, you also don’t need to get everything right to launch or to open your doors. What you do need to get right is the thing you’re going to be known for. 
+========,9,title.
+The last thing I would say, on the product side, is – actually, let’s talk about another mutual friend of ours, Garrett Camp, who is a co-founder of a number of different companies. And, actually, now –
+
+Including some big ones.
+
+Including some big ones like Uber. And one of the things that I’ve learned from him, over the years, and have seen in some other serial successful founders is this notion of building the narrative before the product. So we were just talking about which product do you choose? Sometimes, it actually helps to say, “Hey, what should the splash page be, and what should the brand be?” before we even get the team together let alone start building something or coding something in the digital sense. We talk about the notion of product market fit when customers are getting the value. We talk about the notion of product founder fit when you find the right team to build something. What about product brand fit? What about making sure that you have something that’s piercing?
+
+I remember when Garrett was thinking about Uber, originally, when he was still just CEO of his company StumbleUpon. And he was kind of drafting out the concept of Uber. And I remember him obsessing over the icon like the logo before there was even a team or a CEO on this project. I also remember him agonizing over this notion of, “Hey, is it an aspirational brand like everyone’s private driver? Or is it an accessible brand like taxis on demand?” And if you think about that, it’s like, wow, these are questions that he was asking before this technology was even coming together or even validated.
+
+Garrett is a very exceptional human and founder who really telescopes out very, very far in the earliest stages. And I remember getting one of the very, very early mockups. This was before the app was deployed, even with one car. The screenshots, these comps, as you mentioned, the looks like model in a number of graphics that he sent to me, and the streets were in the Netherlands. And I was like, “What? In the Netherlands?”
+
+He was thinking global already.
+
+He was thinking global.
+
+It’s also, I’ve had conversations with him about brands for other companies that he’s been working on. And he’ll say – he’s really all about buying great domain names, as you know, and coming up with a great, pithy, hopefully four letter brand. And I asked him about that, in the process of putting the book for The Messy Middle together. And he was saying that it’s also about what kind of email address the team that you put together will actually want to have. I was like, “Email address? Why does that matter?” He’s like, “Would you rather have scott@spot.com or would you rather have scott@discoverspot.com?” So he was also thinking about, from the product brand fit perspective, is this something that people can grow into, that people would want to work at and say like, “This is my email address?”
+
+So I just have always been fascinated by the fact that he develops this narrative and that brand development piece even before the product and, in some cases, the team itself. And, again, back to that question you originally asked of “Which product do I build; where do I start,” which I get from founders all of the time. I actually like to say, and I even do this internally in my day job at Adobe now with new products that are being developed around the company, put together the splash page. And it’s like, “Well, I don’t even know what it’s going to be called yet. I don’t know what the brand will be. I don’t know what the slogan will be.” And it’s like, “Yes, exactly. That’s the point.” Put that together as a starting place because it helps get alignment very quickly, which is a magical part of product development when you have alignment versus not — two different ball games.
+========,9,title.
+So you look at that chapter one, and then flash forward. We’re not yet to epilogue, but if we’re looking at the end game, to use chess parlance, in a chess sense, not in the objective sense, I guess they’re kind of the same, in some respects, what is one lesson/story/maxim that you can share?
+
+Right. Well, you’ve endured a very volatile journey. You’ve optimized everything that works along the way with your product, with your team, with yourself. And then, it’s like, “Wow, I’ve seen an insight.” It could be, listen, things end in great ways or bad ways, whether it’s a shutdown of something, whether it’s a launch of something, whether it’s an acquisition, whether it’s going public. And there’s also, of course, like many finishes along the way, in any journey. But I really think that this notion of the final mile of something is very interesting to me because it’s an entirely different sport. The stuff that you were so good at to get to this point of hopefully success is a completely different playbook than what you need to do to manage the decisions at the end.
+
+And, in this context, the end, are we talking primarily about acquisition and IPO?
+
+Let’s talk about that first. Although I think that some of this is relevant across other sorts of finishes as well. But a few things happen. First of all, with the confidence that you’ve built throughout the journey of getting there, you start to make decisions that you actually don’t have the expertise nor experience to make. I remember getting a call from a founder maybe like four or five months ago who was telling me that he was really excited that one of these big Google/Facebook like companies was doing their diligence on his company. I was like, “Oh, wow, that’s really exciting. Where are you in the process?” And he’s like, “Well, they’ve come in and met the team.” I’m like, “Oh, they met the team, so you must have an offer on the table. What’s the value? How is this going to work?”
+
+And he’s like, “Oh, no, no, we haven’t gotten there yet.” I was like, “Wait, so you had them come in and meet your team, and you don’t even know – is this a talent acquisition? Is this something you would do or not do? How could you suddenly expose so much of who the people are and what you’re doing and everything?” And as the conversation unraveled, he realized he had no idea what he was doing. And for him, it was like business as usual. And that’s one example where that final mile is an entirely different sport. 
+========,9,title.
+But I think that the other thing that happens that’s really interesting is that people, psychologically, start to wonder whether they deserve the success they’re about to get. I remember a story in my own experience with Behance, there was a senior member of my team who right towards the acquisition was starting to behave somewhat erratically.
+
+Was doing things at team meetings that were kind of offensive to people and that were kind of on the line. And just starting to act out a lot. And I remember confronting him a couple of times, and he would kind of blow it off like, “Oh, yeah, whatever,” but it kept happening. And I was just fascinated by this. And I remember going home to my wife one evening, who is a psychologist, and talking to her about it. And she was like, “Oh, this is self-sabotage.” And I’m like, “What? He’s been working his whole life for something like this. We’re about to have this big pay day and this big celebration. Why would he –” and she kind of helped me understand when you don’t feel like you deserve something, or when there’s other sorts of parts of you that are not comfortable with what’s happening, you can subconsciously sabotage yourself.
+
+So, I came in to work the next day, and towards the end of the day, when people were going out of the office, it was getting late. And I pulled him into the corner of a conference room where it was kind of not visible. And I sat down with him. And I leaned over, and I was just like, “You deserve this.” He’s like, “What? What are you talking about?” And I’m like, “This is okay. You deserve this. This is going to work out.” And in that conversation, he kind of started tearing. It was one of those moments where I think he was, at first, like, “What the hell is he talking about?” and then there was this connection we had where he sort of looked at his behavior as maybe something else. 
+========,9,title.
+And I think that happens a lot. I think that there is this, things do break down in the final mile, a lot of stuff changes psychologically. Artists, how much churn happens right before they ship?
+
+You’ve published multiple books. How many times right before it’s done, you’re like wait, maybe I should have done something else, maybe I should have cut this piece or whatever? And that’s like classic behavior in every product release. There’s always this period we call kind of last minute churn where it’s like wait a second, not ready to ship yet. This is classic, and you have to be prepared for it.
+
+Yeah. Overwriting, typically, comes in. There’s a point where you lose, as a writer at least, so much perspective on the writing you’ve put down because it’s been through 17 drafts or 374 drafts. You no longer have a tether to objectivity. And yet you know that there are probably things that could be improved. So you start to fuss with, in many cases, no particular direction, or means of assessing your changes. But you know there are things to be fixed or improved upon. I would imagine it happens in a whole lot of contexts.
+
+I think it does.
+
+In last minute jitters before a wedding, who knows? Some of which might be well founded. I’m not saying that you should ignore your spider sense, but come on.
+========,9,title.
+And I think that the question is how do you make sure you have a successful final mile? And I think part of it is starting to be alert to a lot of these tendencies that creep up right before shipping, right before being done, right before being acquired or whatever it is. And part of it is recognizing that the tactics that you employed all along suddenly may either be wrong or even detrimental. It’s really this is a new game, and you have to kind of take a step back. You have to get different types of mentors and help. Literally, when I was going through my acquisition, there was a guy named Chris Dixon, who is a great investor who was an angel in my company. And he was the guy that was up with me, what is it now, one o’clock in the morning. And I remember those nights where he was helping me go through the cap table of our team and making sure that I was thinking about it properly.
+
+And I realized, in that process, I had no idea what I was doing. I needed different types of help for different types of questions. And then, there’s the other kind of more substantial thing that happens at the end of a project, which is, suddenly, essentially if it’s successful, it becomes part of your identity. You become kind of known for something, and you have to decide, “Is that going to be me, or am I going to start to reject that and put it behind me?” And you’ll hear some creatives, especially artists, say that they just like to kill their old work. They like to do something completely different, otherwise they feel like they’re attached. I know authors who won’t speak about their past books because it’s just like they’ve got to move past that inner frame of mind.
+========,9,title.
+But that realization that you are not your work, being able to disconnect and disassociate when it’s appropriate, is another challenge in that final mile.
+
+Yeah. Super challenging. It makes me think of my first and second book. I could have done The 3.5-Hour Workweek or milked The 4-Hour Workweek plus. I could have milked that thing. But I was really afraid of having to give the same talk on email auto responders until my dying day. As much as we would all like email to die, I don’t think it’s going to happen any time soon. And it was not an easy decision for me because I had no evidence that I would be able to write about a different topic. It was my first book. But I ultimately made the decision that I could always go back to the well, if I ended up deserving it, meaning if The 4-Hour Workweek was not going to disappear after a year.
+
+If I deserved it, and it was still here in two years, three years, four years, I could go back to it, but that I had to do something different, so that I didn’t develop a defensiveness around protecting that as my identity and then, correspondingly, develop a risk intolerance to trying something different. That was hard.
+
+It is, and it’s also, if you look at it from a business perspective, there’s every reason to make a sequel and to squeeze the value out of anything that works. When you look at it from an art perspective, that’s the opposite. And I think that that’s – actually, I think the greatest founders out there recognize that while the science of business is scaling everything that you can and automating and whatever, the art of business is the things that don’t scale. And they see their career in that way as well. It’s like I’m not just going to be the Enterprise SAS guy. I’m not going to be the this, I’m not going to be the that. I’m going to actually kind of find another edge, find something different, keep it fresh. And that’s admirable because it’s not the path of least resistance.
+========,9,title.
+Well, I think that life, business, art, you pick it, is very often not the path of least resistance. There are arguments to be made for both, but you will, regardless, end up having to deal with circumstances outside of your control, problems that couldn’t have been predicted, new circumstances that require you to adapt and maybe to grope around like a person in the dark, for a period of time, with great discomfort. And we’ve been talking about some of your lessons learned, some of the stories, based on experiences you’ve had imparted to you from mentors. You’ve taken all of these notes, those that made the final cut, what is it, 120?
+
+Just about.
+
+And I’m looking at this compendium in front of me, kind of a choose your own adventure guide within the book that we spoke about. So, what is this that I’m looking at? It appears to be a book. I think you alluded to it, maybe mentioned it once. This is The Messy Middle, subtitle, this is the final subtitle?
+
+This is the final subtitle.
+
+No, no, no, that’s fine. Before I read it, I wanted to make sure. Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture.  And I was going to say I’ve had a chance to read it. I’ve had a chance to kind of live through you hearing many of these stories. I’m thrilled that you are sharing them. Where can people learn more about the book? I think the need is clear.
+
+I’m excited about it. It’s, as you said, it really was that process of the 800 and something notes down to the 300, down to the 200, down to the 120 organized in these kind of three themes we’ve talked about tonight, endurance, optimization, and the final mile. The Messy Middle really is this passionate side project I’ve had for the last five or so years. I’m excited to get it out there coming out on shelves on October 2, 2018. And then, I’m trying to also continue these as conversations. On Twitter, I’m @justaskscottbelsky. And, frankly, a lot of the stuff we talked about tonight are things that I’ve also shared over the years and tested and gotten feedback on and incorporated into, ultimately, what this book has become. So I think that we’re all in our own messy middles.
+
+And I just hope that this helps people know that they’re not alone, as they’re in the enduring phase and managing volatility. I hope it helps them mine it a little bit more productively. I hope it helps people build better products that all of us can benefit from and optimize anything else that’s working within their team. And when it comes down to that final mile, let’s not screw it up. Let’s ship.
+========,9,title.
+Hear, hear. Well, Scott, thanks for the endurance of this marathon across multiple types of scenery within certain types of scenery.
+
+I’m not going to lie, it was intense.
+
+At different temperatures. Maybe, in some ways, like the messy middle. And to everybody listening, thanks for being a fly on the wall. And also, accepting this experimental format. And you can find links to anything we might have talked about, some of the people we mentioned, the founders and their products and companies and so on, in the show notes as per usual @tim.blog/podcast. And until next time, as always, thank you so very much for listening. I love doing this, and you guys make it possible. So, through the internet to all of you, until next time.
