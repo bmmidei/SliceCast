@@ -3,9 +3,9 @@ import h5py
 from netUtils import getTestSet
 import keras
 import re
-import objectpath
+#import objectpath
 import json
-import pke
+#import pke
 
 class pkHistory(keras.callbacks.Callback):
     def __init__(self, test_file, num_samples, k=10):
