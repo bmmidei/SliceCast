@@ -44,7 +44,7 @@ def batchGen(filenames, batch_size=16, maxlen=None, classification=True):
                 docs, labels = shuffle(docs, labels)
 
                 n = len(docs)
-                assert n == len(labels) # ensure docs and labels are same length
+                assert n == len(labels) # Ensure docs and labels are same length
                 num_batches = np.floor(n/batch_size).astype(np.int16)
 
                 for idx in range(num_batches):
@@ -52,9 +52,10 @@ def batchGen(filenames, batch_size=16, maxlen=None, classification=True):
                     batch_docs = docs[idx*batch_size: (idx+1)*batch_size]
                     batch_labels = labels[idx*batch_size: (idx+1)*batch_size]
 
-                    # pad docs and labels to the length of the longest sample in the batch
+                    # Pad docs and labels to the length of the longest sample in the batch
                     padded_docs = pad_sequences(batch_docs, dtype=object, value=' ')
                     
+                    # 
                     if classification:
                         padded_labels = pad_sequences(batch_labels, dtype=int, value=2)
                         padded_labels = to_categorical(padded_labels, num_classes=3, dtype='int32')
@@ -65,6 +66,16 @@ def batchGen(filenames, batch_size=16, maxlen=None, classification=True):
                     yield(padded_docs, padded_labels)   
 
 def getTestSet(fname, num_samples=16, classification=True):
+    """Generate a test set from a single HDF5 file
+    Args:
+        fname: Path to HDF5 file
+        num_samples: Desired number of samples to return in the datset
+        classification: Boolean indicating whether test set should be prepared
+                        for classification or regression.
+    Returns:
+        padded_docs:
+        padded_labels:
+    """
     with h5py.File(fname, 'r') as hf:
         # Get a list of all examples in the file 
         groups = [item[1] for item in hf.items()]
@@ -105,10 +116,10 @@ def customCatLoss(onehot_labels, logits):
     Args:
         onehot_labels: onehot encoded labels - shape = [batch x doclength x numclasses]
         logits: logits from predictions from network
-    Yields:
+    Returns:
         loss: average loss for the mini-batch
     """
-    class_weights = [1.0, 9.0, 0.2]
+    class_weights = [1.0, 26.0, 0.2]
     # computer weights based on onehot labels
     weights = tf.reduce_sum(class_weights * onehot_labels, axis=-1)
 
