@@ -111,27 +111,32 @@ def getTestSet(fname, num_samples=16, classification=True):
         return padded_docs, padded_labels
     
 # Credit: https://github.com/keras-team/keras/issues/3653
-def customCatLoss(onehot_labels, logits):
-    """Custom categorical loss function incorporating class weights
-    Args:
-        onehot_labels: onehot encoded labels - shape = [batch x doclength x numclasses]
-        logits: logits from predictions from network
-    Returns:
-        loss: average loss for the mini-batch
-    """
-    class_weights = [1.0, 26.0, 0.2]
-    # computer weights based on onehot labels
-    weights = tf.reduce_sum(class_weights * onehot_labels, axis=-1)
+def customCatLoss(class_weights):
+    """Wrapper function to return a custom categorical loss function
+    with class_weights parameter defined externally"""
+    
+    def loss_fn(onehot_labels, logits):
+        """Custom categorical loss function incorporating class weights
+        Args:
+            onehot_labels: onehot encoded labels - shape = [batch x doclength x numclasses]
+            logits: logits from predictions from network
+        Returns:
+            loss: average loss for the mini-batch
+        """
+        # computer weights based on onehot labels
+        weights = tf.reduce_sum(class_weights * onehot_labels, axis=-1)
 
-    # compute (unweighted) softmax cross entropy loss
-    unweighted_losses = tf.nn.softmax_cross_entropy_with_logits_v2(labels=onehot_labels, logits=logits)
+        # compute (unweighted) softmax cross entropy loss
+        unweighted_losses = tf.nn.softmax_cross_entropy_with_logits_v2(labels=onehot_labels, logits=logits)
 
-    # apply the weights, relying on broadcasting of the multiplication
-    weighted_losses = unweighted_losses * weights
+        # apply the weights, relying on broadcasting of the multiplication
+        weighted_losses = unweighted_losses * weights
 
-    # average to get final loss
-    loss = tf.reduce_mean(weighted_losses)
-    return loss
+        # average to get final loss
+        loss = tf.reduce_mean(weighted_losses)
+        return loss
+    
+    return loss_fn
 
 def getSingleExample(fname, is_labeled=True):
     """Retrieve array of sentences and labels (if applicable)
