@@ -45,7 +45,11 @@ on an additional 10 epochs over podcasts using class weights of [1.0, 20.0, 0.2]
 * 04_26_2019_1000_podcast - Used 04_20_2019_2300 as a pretrained model, then trained
 on an additional 10 epochs over podcasts using class weights of [1.0, 30.0, 0.2].
     We actually had pretty good wiki results with this as well.
-    
+
+* 04_27_2019_1800 - 2 Stacked Bidirectional LSTMs with output 256 each. Followed by 
+Dense 256 relu with l2reg, Dense 128 relu with l2reg, Dense 64 relu with l2reg, 
+Dense3 to Softmax and then categorical crossentropy with 3 classes. Class weights of
+[1.0, 10.0, 0.2]. Trained on 20 epochs of 1000 batches of 8 per epoch. Wiki Train set
     
 
 
