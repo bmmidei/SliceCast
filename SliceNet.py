@@ -12,8 +12,11 @@ from netUtils import batchGen, getTestSet, customCatLoss
 from postprocess import pkHistory
 
 from keras.layers import Layer, Dense, Input, Lambda, Dropout,\
-    Bidirectional, LSTM, Activation, TimeDistributed, Concatenate
+    Bidirectional, Activation, TimeDistributed, Concatenate
+from keras.layers import CuDNNLSTM as LSTM
+
 from keras import Model, Sequential
+from keras import regularizers
 from keras.models import model_from_json
 import keras.backend as K
 from keras.callbacks import ModelCheckpoint
@@ -26,9 +29,12 @@ url = "https://tfhub.dev/google/universal-sentence-encoder-large/3"
 embed = hub.Module(url, trainable=True)
 
 class SliceNet():
-    def __init__(self, classification=True, pretrain=False, weights_path=None):
+    def __init__(self, classification, class_weights, pretrain=False, weights_path=None, drop_prob=0.2, reg=1e-2):
         self.pretrain = pretrain # Not implemented
         self.classification = classification
+        self.drop_prob = drop_prob
+        self.reg = regularizers.l2(reg)
+        self.class_weights = class_weights
         if self.pretrain:
             self.weights_path = weights_path
             
@@ -58,22 +64,29 @@ class SliceNet():
         lstm1 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_1')(encoderOut)
         lstm2 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_2')(lstm1)
         
-        output = Dropout(0.2)(lstm2)
-        output = TimeDistributed(Dense(256, activation='relu'))(output)
-        output = Dropout(0.2)(output)
-        output = TimeDistributed(Dense(64, activation='relu'))(output)
+        output = Dropout(self.drop_prob)(lstm2)
+        output = TimeDistributed(Dense(256, activation='relu',
+                                           kernel_regularizer=self.reg))(output)
+        output = Dropout(self.drop_prob)(output)
+        output = TimeDistributed(Dense(128, activation='relu',
+                                           kernel_regularizer=self.reg))(output)
+        output = Dropout(self.drop_prob)(output)
+        output = TimeDistributed(Dense(64, activation='relu', 
+                                           kernel_regularizer=self.reg))(output)
         # Final output is different for classification and regression models
         if self.classification:
             preds = TimeDistributed(Dense(3, activation='softmax'))(output)
             model = Model(inputs=encoderIn, outputs=preds)
-            model.compile(loss=customCatLoss, optimizer='adam', metrics=['categorical_accuracy'])
+            model.compile(loss=customCatLoss(self.class_weights),
+                          optimizer='adam',
+                          metrics=['categorical_accuracy'])
         else:
             preds = TimeDistributed(Dense(1, activation='sigmoid'))(output)
             model = Model(inputs=encoderIn, outputs=preds)
             model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mae'])
         return model
 
-    def train(self, train_files, val_files, test_file, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True):
+    def train(self, train_files, val_files, test_file, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True, k=7):
         
         # Define batch generator
         trainGen = batchGen(train_files, batch_size, maxlen, classification=self.classification)
@@ -93,7 +106,7 @@ class SliceNet():
             save_weights = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
                                          save_weights_only=True, period=2)
             
-            pkscores = pkHistory(test_file=test_file, num_samples=8, k=25)
+            pkscores = pkHistory(test_file=test_file, num_samples=8, k=k)
             
             history = self.model.fit_generator(trainGen,
                                           steps_per_epoch=steps_per_epoch,
