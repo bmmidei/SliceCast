@@ -128,7 +128,7 @@ class SliceNet():
             save_weights = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
                                          save_weights_only=True, period=2)
             
-            pkscores = pkHistory(test_file=test_file, num_samples=8, k=k)
+            pkscores = pkHistory(test_file=test_file, num_samples=100, k=k)
             
             history = self.model.fit_generator(trainGen,
                                           steps_per_epoch=steps_per_epoch,
