@@ -7,12 +7,12 @@ import tensorflow as tf
 print(tf.__version__)
 
 import tensorflow_hub as hub
-import numpy as np 
+import numpy as np
 from netUtils import batchGen, getTestSet, customCatLoss
 from postprocess import pkHistory
 
-from keras.layers import Layer, Dense, Input, Lambda, Dropout, Flatten,\
-    Bidirectional, Activation, TimeDistributed, Concatenate, merge, Reshape
+from keras.layers import Layer, Dense, Input, Lambda, Dropout, Flatten, multiply,\
+    Bidirectional, Activation, TimeDistributed, Concatenate, merge, Reshape 
 from keras.layers import CuDNNLSTM as LSTM
 
 from keras import Model, Sequential
@@ -33,6 +33,7 @@ class SliceNet():
                  class_weights,
                  pretrain=False,
                  weights_path=None,
+                 attention=False,
                  maxlen=None,
                  drop_prob=0.2,
                  reg=1e-2):
@@ -43,6 +44,7 @@ class SliceNet():
         self.reg = regularizers.l2(reg)
         self.class_weights = class_weights
         self.maxlen = maxlen
+        self.attention = attention
         if self.pretrain:
             self.weights_path = weights_path
             
@@ -68,20 +70,28 @@ class SliceNet():
     def _defineModel(self):
         # Define network structure
         encoderIn = Input(shape=(self.maxlen,), dtype='string', name='encoderIn')
-        encoderOut = Lambda(self.UniversalEmbedding, name='encoderOut')(encoderIn)
-        lstm1 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_1')(encoderOut)
-        activations = Bidirectional(LSTM(256, return_sequences=True), name='lstm_2')(lstm1)
+        encoderOut = Lambda(self.UniversalEmbedding, name='encoderOut', 
+                                output_shape=(self.maxlen, 512))(encoderIn)
+        
+        #######################################################
+        # Attention:
+        # Compute importance for each step
+        # credit: https://github.com/keras-team/keras/issues/4962
+        #######################################################
+        if self.attention:
+            attention = TimeDistributed(Dense(1, activation='tanh'))(encoderOut)
+            #attention = Lambda(lambda x: K.squeeze(x, axis=-1))(attention)
+            #attention = Activation('softmax')(attention)
+            #attention = RepeatVector(512)(attention)
+            #attention = Permute([2, 1])(attention)
+            encoderOut = multiply([encoderOut, attention])
+        
+        
+        lstm1 = Bidirectional(LSTM(256, return_sequences=True), name='lstm1')(encoderOut)
+        activations = Bidirectional(LSTM(256, return_sequences=True), name='lstm2')(lstm1)
 
-        # compute importance for each step
-        # https://github.com/keras-team/keras/issues/4962
-        attention = TimeDistributed(Dense(1, activation='tanh'))(activations) 
-        attention = Reshape(target_shape=[-1])(attention)
-        attention = Activation('softmax')(attention)
-        
-        
-        output = Lambda(lambda x: tf.einsum('bs,bsd->bsd',x[0], x[1]))([attention, activations])
         output = TimeDistributed(Dense(256, activation='relu',
-                                           kernel_regularizer=self.reg))(output)
+                                           kernel_regularizer=self.reg))(activations)
         output = Dropout(self.drop_prob)(output)
         output = TimeDistributed(Dense(128, activation='relu',
                                            kernel_regularizer=self.reg))(output)
