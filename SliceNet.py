@@ -7,12 +7,12 @@ import tensorflow as tf
 print(tf.__version__)
 
 import tensorflow_hub as hub
-import numpy as np 
+import numpy as np
 from netUtils import batchGen, getTestSet, customCatLoss
 from postprocess import pkHistory
 
-from keras.layers import Layer, Dense, Input, Lambda, Dropout,\
-    Bidirectional, Activation, TimeDistributed, Concatenate
+from keras.layers import Layer, Dense, Input, Lambda, Dropout, Flatten, multiply,\
+    Bidirectional, Activation, TimeDistributed, Concatenate, merge, Reshape 
 from keras.layers import CuDNNLSTM as LSTM
 
 from keras import Model, Sequential
@@ -29,12 +29,22 @@ url = "https://tfhub.dev/google/universal-sentence-encoder-large/3"
 embed = hub.Module(url, trainable=True)
 
 class SliceNet():
-    def __init__(self, classification, class_weights, pretrain=False, weights_path=None, drop_prob=0.2, reg=1e-2):
+    def __init__(self, classification,
+                 class_weights,
+                 pretrain=False,
+                 weights_path=None,
+                 attention=False,
+                 maxlen=None,
+                 drop_prob=0.2,
+                 reg=1e-2):
+
         self.pretrain = pretrain # Not implemented
         self.classification = classification
         self.drop_prob = drop_prob
         self.reg = regularizers.l2(reg)
         self.class_weights = class_weights
+        self.maxlen = maxlen
+        self.attention = attention
         if self.pretrain:
             self.weights_path = weights_path
             
@@ -59,14 +69,29 @@ class SliceNet():
      
     def _defineModel(self):
         # Define network structure
-        encoderIn = Input(shape=[None,], dtype='string', name='encoderIn')
-        encoderOut = Lambda(self.UniversalEmbedding, name='encoderOut')(encoderIn)
-        lstm1 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_1')(encoderOut)
-        lstm2 = Bidirectional(LSTM(256, return_sequences=True), name='lstm_2')(lstm1)
+        encoderIn = Input(shape=(self.maxlen,), dtype='string', name='encoderIn')
+        encoderOut = Lambda(self.UniversalEmbedding, name='encoderOut', 
+                                output_shape=(self.maxlen, 512))(encoderIn)
         
-        output = Dropout(self.drop_prob)(lstm2)
+        #######################################################
+        # Attention:
+        # Compute importance for each step
+        # credit: https://github.com/keras-team/keras/issues/4962
+        #######################################################
+        if self.attention:
+            attention = TimeDistributed(Dense(1, activation='tanh'))(encoderOut)
+            #attention = Lambda(lambda x: K.squeeze(x, axis=-1))(attention)
+            #attention = Activation('softmax')(attention)
+            #attention = RepeatVector(512)(attention)
+            #attention = Permute([2, 1])(attention)
+            encoderOut = multiply([encoderOut, attention])
+        
+        
+        lstm1 = Bidirectional(LSTM(256, return_sequences=True), name='lstm1')(encoderOut)
+        activations = Bidirectional(LSTM(256, return_sequences=True), name='lstm2')(lstm1)
+
         output = TimeDistributed(Dense(256, activation='relu',
-                                           kernel_regularizer=self.reg))(output)
+                                           kernel_regularizer=self.reg))(activations)
         output = Dropout(self.drop_prob)(output)
         output = TimeDistributed(Dense(128, activation='relu',
                                            kernel_regularizer=self.reg))(output)
@@ -86,11 +111,18 @@ class SliceNet():
             model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mae'])
         return model
 
-    def train(self, train_files, val_files, test_file, batch_size=16, epochs=3, steps_per_epoch=1000, maxlen=None, save=True, k=7):
+    def train(self, train_files,
+                    val_files,
+                    test_file,
+                    batch_size=16,
+                    epochs=3,
+                    steps_per_epoch=1000,
+                    save=True,
+                    k=7):
         
         # Define batch generator
-        trainGen = batchGen(train_files, batch_size, maxlen, classification=self.classification)
-        valGen = batchGen(val_files, 4, maxlen, classification=self.classification)
+        trainGen = batchGen(train_files, batch_size, self.maxlen, classification=self.classification)
+        valGen = batchGen(val_files, 4, self.maxlen, classification=self.classification)
         self.model.summary()
         
         print('Starting Training')
@@ -106,7 +138,7 @@ class SliceNet():
             save_weights = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
                                          save_weights_only=True, period=2)
             
-            pkscores = pkHistory(test_file=test_file, num_samples=8, k=k)
+            pkscores = pkHistory(test_file=test_file, num_samples=100, k=k)
             
             history = self.model.fit_generator(trainGen,
                                           steps_per_epoch=steps_per_epoch,

@@ -53,14 +53,19 @@ def batchGen(filenames, batch_size=16, maxlen=None, classification=True):
                     batch_labels = labels[idx*batch_size: (idx+1)*batch_size]
 
                     # Pad docs and labels to the length of the longest sample in the batch
-                    padded_docs = pad_sequences(batch_docs, dtype=object, value=' ')
+                    padded_docs = pad_sequences(batch_docs, dtype=object, value=' ',
+                                                maxlen=maxlen, padding='pre', truncating='post')
                     
                     # 
                     if classification:
-                        padded_labels = pad_sequences(batch_labels, dtype=int, value=2)
+                        padded_labels = pad_sequences(batch_labels, dtype=int, value=2,
+                                                maxlen=maxlen, padding='pre', truncating='post')
                         padded_labels = to_categorical(padded_labels, num_classes=3, dtype='int32')
                     else:
-                        padded_labels = pad_sequences(batch_labels, dtype=int, value=0)
+                        padded_labels = pad_sequences(batch_labels, dtype=int, value=0,
+                                                maxlen=maxlen, padding='pre', truncating='post')
+
+
                         padded_labels = np.expand_dims(padded_labels, axis=-1)
                         
                     yield(padded_docs, padded_labels)   
