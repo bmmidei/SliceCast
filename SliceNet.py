@@ -93,9 +93,6 @@ class SliceNet():
         output = TimeDistributed(Dense(256, activation='relu',
                                            kernel_regularizer=self.reg))(activations)
         output = Dropout(self.drop_prob)(output)
-        output = TimeDistributed(Dense(128, activation='relu',
-                                           kernel_regularizer=self.reg))(output)
-        output = Dropout(self.drop_prob)(output)
         output = TimeDistributed(Dense(64, activation='relu', 
                                            kernel_regularizer=self.reg))(output)
         # Final output is different for classification and regression models
