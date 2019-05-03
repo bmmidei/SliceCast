@@ -49,7 +49,7 @@ on an additional 10 epochs over podcasts using class weights of [1.0, 30.0, 0.2]
 * 04_27_2019_1800 - 2 Stacked Bidirectional LSTMs with output 256 each. Followed by 
 Dense 256 relu with l2reg, Dense 128 relu with l2reg, Dense 64 relu with l2reg, 
 Dense3 to Softmax and then categorical crossentropy with 3 classes. Class weights of
-[1.0, 10.0, 0.2]. Trained on 40 epochs of 1000 batches of 8 per epoch. Wiki Train set
+[1.0, 10.0, 0.2]. Trained on 40 epochs of 1000 batches of 8 per epoch. Wiki Train set.
 
 * 04_29_2019_2000_attn - 2 Stacked Bidirectional LSTMs with output 256 each. Attention
 mechanism with time distributed dense to 1 (ReLU}) at each time step. Multiplied this 
@@ -58,5 +58,8 @@ Dense 128 relu with l2reg, Dense 64 relu with l2reg, Dense3 to Softmax and then 
 crossentropy with 3 classes. Class weights of [1.0, 10.0, 0.2]. Trained on 40 epochs of
 1000 batches of 8 per epoch. Wiki Train set
     
-
-
+* 05_02_2019_2000_attn - Self attention mechanism on the output of sentence encoder. 2
+stacked bidirectional LSTMs with output 256 each. Followed by Dense 256 relu with l2reg,
+Dense 128 relu with l2reg, Dense 64 relu with l2reg, Dense3 to Softmax and then categorical
+crossentropy with 3 classes. Class weights of [1.0, 9.0, 0.2]. Trained on 25 epochs of 1000
+batches of 8 per epoch. Wiki Train set. (loss flatlined after a few epochs)
