@@ -23,12 +23,12 @@ class pkHistory(keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs={}):
         X_test, y_test = getTestSet(self.test_file, self.num_samples)
         preds = self.model.predict(X_test)
-        score = pkmetric(y_test, preds, k=self.k)
+        score = pkbatch(y_test, preds, k=self.k)
         self.pk.append(score)
         print('PK Score for epoch {} is {:0.4f}'.format(epoch+1, score))
         
 
-def pkmetric(ytrue, ypred, k=10):
+def pkbatch(ytrue, ypred, k=10):
     """Calculate the pk score for a minibatch.
     Args:
         labels: OneHot encoded array of labels for a minibatch of examples
