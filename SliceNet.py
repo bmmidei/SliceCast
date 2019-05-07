@@ -9,7 +9,7 @@ print(tf.__version__)
 import tensorflow_hub as hub
 import numpy as np
 from netUtils import batchGen, getTestSet, customCatLoss
-from postprocess import pkHistory
+from postprocess import pkHistory, pkbatch
 
 from keras.layers import Layer, Dense, Input, Lambda, Dropout, Flatten, multiply,\
     Bidirectional, Activation, TimeDistributed, Concatenate, merge, Reshape 
@@ -114,8 +114,9 @@ class SliceNet():
                     batch_size=16,
                     epochs=3,
                     steps_per_epoch=1000,
+                    test_steps=8,
                     save=True,
-                    k=7):
+                    k=8):
         
         # Define batch generator
         trainGen = batchGen(train_files, batch_size, self.maxlen, classification=self.classification)
@@ -135,7 +136,9 @@ class SliceNet():
             save_weights = ModelCheckpoint('./models/weights_epoch{epoch:03d}.h5', 
                                          save_weights_only=True, period=2)
             
-            pkscores = pkHistory(test_file=test_file, num_samples=100, k=k)
+            
+            
+            pk = pkHistory(test_file=test_file, num_samples=test_steps, k=k)
             
             history = self.model.fit_generator(trainGen,
                                           steps_per_epoch=steps_per_epoch,
@@ -143,16 +146,16 @@ class SliceNet():
                                           verbose=1,
                                           validation_data=valGen,
                                           validation_steps=10,
-                                          callbacks=[save_weights, pkscores])
+                                          callbacks=[save_weights, pk])
                         
             if save:
                 # Serialize weights to HDF5
                 self.model.save_weights('./models/weights_final.h5')
                 print("Saved weights to disk")
                 
-        return history, pkscores
+        return history, pk
 
-    def predict(self, test_file, num_samples, weights_path):
+    def predict(self, test_file, num_samples, weights_path, k):
         # Get test data and test labels
         X_test, y_test = getTestSet(test_file, num_samples=num_samples)
         
@@ -168,8 +171,11 @@ class SliceNet():
             print("Loaded weights from disk")
             
             preds = self.model.predict(X_test)
-            
-        return preds, y_test
+        
+        # Calculate pk score for the minibatch
+        pk = pkbatch(y_test, preds, k)
+        
+        return preds, y_test, pk
     
     def singlePredict(self, X_test, weights_path):
         print('Starting Testing')
