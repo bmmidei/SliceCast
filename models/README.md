@@ -60,6 +60,15 @@ crossentropy with 3 classes. Class weights of [1.0, 10.0, 0.2]. Trained on 40 ep
     
 * 05_02_2019_2000_attn - Self attention mechanism on the output of sentence encoder. 2
 stacked bidirectional LSTMs with output 256 each. Followed by Dense 256 relu with l2reg,
-Dense 128 relu with l2reg, Dense 64 relu with l2reg, Dense3 to Softmax and then categorical
-crossentropy with 3 classes. Class weights of [1.0, 9.0, 0.2]. Trained on 25 epochs of 1000
-batches of 8 per epoch. Wiki Train set. (loss flatlined after a few epochs)
+Dense 64 relu with l2reg, Dense3 to Softmax and then categoricaln crossentropy with 3
+classes. Class weights of [1.0, 9.0, 0.2]. Trained on 25 epochs of 1000 batches of 8
+per epoch. Wiki Train set. (loss flatlined after a few epochs)
+
+* 05_02_2019_2200_attn_podcast - Used 05_02_2019_2000_attn as a pretrained model, then trained
+on an additional 20 epochs over podcasts using class weights of [1.0, 30.0, 0.2]
+
+* 05_03_2019_0800_attn - Self attention mechanism on the output of sentence encoder. 2
+stacked bidirectional LSTMs with output 256 each. Followed by Dense 256 relu with l2reg,
+Dense 64 relu with l2reg, Dense3 to Softmax and then categorical crossentropy with 3
+classes. Class weights of [1.0, 7.0, 0.2]. Trained on 40 epochs of 1000 batches of
+8 per epoch. Wiki Train set.
