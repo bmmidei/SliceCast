@@ -56,7 +56,10 @@ you will find a 'req.txt' file, which includes a comprehensive list of dependenc
 functionality
 of this repository. With your new environment active, use the following command to install these dependencies:
 ```
-pip install -r /path/to/req.txt
+pip3 install -r /path/to/req.txt
+python3 -m spacy download en
+navigate to data directory
+tar -xvf wiki-sample.tar.gz
 ```
 
 # Built With
