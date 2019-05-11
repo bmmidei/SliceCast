@@ -57,6 +57,7 @@ functionality
 of this repository. With your new environment active, use the following command to install these dependencies:
 ```
 pip3 install -r /path/to/req.txt
+pip3 install git+https://github.com/boudinfl/pke.git
 python3 -m spacy download en
 navigate to data directory
 tar -xvf wiki-sample.tar.gz
