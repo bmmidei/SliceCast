@@ -58,6 +58,7 @@ of this repository. With your new environment active, use the following command 
 ```
 pip3 install -r /path/to/req.txt
 pip3 install git+https://github.com/boudinfl/pke.git
+pip3 install objectpath
 python3 -m spacy download en
 navigate to data directory
 tar -xvf wiki-sample.tar.gz
