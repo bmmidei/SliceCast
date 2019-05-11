@@ -5,7 +5,7 @@ MIN_SENT = 5
 
 def createSpacyPipe():
     # Load baseline Spacy pipeline
-    nlp = spacy.load('en')
+    nlp = spacy.load('en_core_web_sm')
 
     # Remove unneeded elements
     nlp.remove_pipe('ner')
@@ -21,7 +21,7 @@ def createSpacyPipe():
 
 def createInferencePipe():
     # Load baseline Spacy pipeline
-    nlp = spacy.load('en')
+    nlp = spacy.load('en_core_web_sm')
 
     # Add sentencizer and custom labeler
     sentencizer = nlp.create_pipe('sentencizer')
