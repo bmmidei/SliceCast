@@ -1,10 +1,10 @@
 # SliceCast
 A recurrent neural architecture for long-document segmentation
 
-# Demo / TLDR
+# Demo/Results
 ![Results](imgs/labeledWiki.png)
 # Table of Contents
-[**Demo**](#Demo-/-TLDR)
+[**Demo**](#Demo-/-Results)
 [**Data**](#Data)
   * [**Wiki-727k Dataset**](#Wiki-727k)
   * [**Small-scale podcast dataset**](#Small-scale-podcast-dataset)
@@ -58,9 +58,10 @@ of this repository. With your new environment active, use the following command 
 ```
 pip3 install -r /path/to/req.txt
 pip3 install git+https://github.com/boudinfl/pke.git
-pip3 install objectpath
-python3 -m spacy download en
+python3 -m spacy download en_core_web_sm
+```
 navigate to data directory
+```
 tar -xvf wiki-sample.tar.gz
 ```
 
