@@ -1,10 +1,20 @@
+# Model History
+This directory stores model weights for previous training runs. In an attempt
+to preserve information from these training runs, in addition to storing the
+model weights, the following documentation is provided for each set of weights:
+
 ## Overview of models in this directory:
 Each time you save new weights to this directory, please rename it using the 
 following format and provide some information about the model structure:
 MM_DD_YYYY_time - example 04_14_2019_2000.h5
 
-## Model History:
+## Latest best models
+* best_base_wiki = 04_20_2019_2300_final.h5
+* best_base_podcast = 04_26_2019_1000_podcast.h5
+* best_attn_wiki = 05_03_2019_0800_attn.h5
+* best_attn_podcast = 05_02_2019_2200_attn_podcast.h5
 
+## Model History:
 * 04_14_2019_1500.h5 - 2 stacked Bidirectional LSTMs with output 256 each.
 Followed by dropout, then dense128 with relu, then dropout, then dense1 with
 sigmoid to binary crossentropy loss.
