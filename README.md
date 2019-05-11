@@ -7,6 +7,8 @@ Podcasts transcripts are long form documents of conversational nature which have
 # Table of Contents
 [**Demo**](#Demo)
 
+[**Repository Structure**](#Repository-Structure)
+
 [**Data**](#Data)
   * [**Wiki-727k Dataset**](#Wiki-727k)
   * [**Small-scale podcast dataset**](#Small-scale-podcast-dataset)
