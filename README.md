@@ -5,7 +5,7 @@ A recurrent neural architecture for long-document segmentation
 
 # Table of Contents
 [**Demo**](#Demo-/-TLDR)
-
+![alt text](/imgs/labeledWiki)
 [**Data**](#Data)
   * [**Wiki-727k Dataset**](#Wiki-727k)
   * [**Small-scale podcast dataset**](#Small-scale-podcast-dataset)
