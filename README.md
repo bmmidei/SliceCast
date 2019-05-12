@@ -1,6 +1,8 @@
 # SliceCast
 Podcasts transcripts are long form documents of conversational nature which have not yet been studied as topical text segmentation problems. This repository explores a neural network approach to segment podcasts based on topic of discussion.  We model the problem as a binary classification task where each sentence is either labeled as the first sentence of a new segment or a continuation of the current segment. We embed sentences using the Universal Sentence Encoder and use an LSTM-based classification network to obtain the cutoff probabilities. Our results indicate that neural network models are indeed suitable for topical segmentation on long, conversational texts, but larger datasets are needed for a truly viable product.
 
+Read the full report for this work here: [Neural Text Segmentation on Podcast Transcripts](Neural_Text_Segmentation_on_Podcast_Transcripts.pdf)
+
 # Demo
 ![Results](imgs/labeledWiki.png)
 
